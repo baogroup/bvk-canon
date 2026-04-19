@@ -2,10 +2,10 @@ BVK CANON
 Журнал правок
 
 Статус: ACTIVE
-Версия: v1.0
+Версия: v1.1
 Дата первого принятия: 2026-04-19
 Текущая редакция: 2026-04-19
-История поправок: нет
+История поправок: продолжается
 
 Назначение:
 Этот файл фиксирует все значимые изменения канона.
@@ -41,5 +41,115 @@ BVK CANON
 Новая версия: v1.0
 Причина: создан главный индекс канона
 Связанные документы: 00_START_HERE.txt, LINK_MAP.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0003]
+Дата: 2026-04-19
+Изменённый файл: CURRENT/00_INDEX/LINK_MAP.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: создана карта связей документов канона
+Связанные документы: MASTER_INDEX.txt, 00_START_HERE.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0004]
+Дата: 2026-04-19
+Изменённый файл: CURRENT/00_INDEX/03_DATING_RULES_AND_PRIORITY.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: закреплены правила датировки документов и приоритет эпох
+Связанные документы: MASTER_INDEX.txt, CHANGELOG.txt, все документы канона
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0005]
+Дата: 2026-04-19
+Изменённый файл: CURRENT/01_FOUNDATION/01_WORLD_CORE.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: создано ядро мира Республики
+Связанные документы: 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 01_TIMELINE_CORE_2026_2086.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0006]
+Дата: 2026-04-19
+Изменённый файл: CURRENT/01_FOUNDATION/02_STATE_IDENTITY.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: создан документ идентичности государства
+Связанные документы: 01_WORLD_CORE.txt, 03_POSTNATIONAL_CIVIC_IDENTITY.txt, 04_SECULAR_ORDER_AND_CIVIC_CALENDAR.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0007]
+Дата: 2026-04-19
+Изменённый файл: CURRENT/01_FOUNDATION/03_POSTNATIONAL_CIVIC_IDENTITY.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: закреплён постнациональный принцип Республики
+Связанные документы: 02_STATE_IDENTITY.txt, 03_LAW_ON_CIVIC_STATUS_AND_EQUAL_PARTICIPATION.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0008]
+Дата: 2026-04-19
+Изменённый файл: CURRENT/01_FOUNDATION/04_SECULAR_ORDER_AND_CIVIC_CALENDAR.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: закреплён светский порядок и гражданский календарь
+Связанные документы: 05_OFFICIAL_CIVIC_HOLIDAYS_AND_STATE_DATES.txt, 04_LAW_ON_STATE_CALENDAR_AND_CIVIC_DATES.txt, 03_LAW_ON_SECULAR_PUBLIC_INSTITUTIONS.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0009]
+Дата: 2026-04-19
+Изменённый файл: CURRENT/01_FOUNDATION/05_OFFICIAL_CIVIC_HOLIDAYS_AND_STATE_DATES.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: создан базовый перечень государственных дат и гражданских праздников
+Связанные документы: 04_SECULAR_ORDER_AND_CIVIC_CALENDAR.txt, 04_LAW_ON_STATE_CALENDAR_AND_CIVIC_DATES.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0010]
+Дата: 2026-04-19
+Изменённый файл: CURRENT/01_FOUNDATION/02_STATE_IDENTITY.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: добавлена уточнённая языковая политика Республики
+Связанные документы: 06_LANGUAGE_POLICY.txt, 01_CONSTITUTIONAL_FRAME.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0011]
+Дата: 2026-04-19
+Изменённый файл: CURRENT/03_SOCIAL_ORDER/01_SOCIAL_MODEL.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: уточнена публичная социальная норма, семейный приоритет и защита детей
+Связанные документы: 08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt, 06_FAMILY_AND_CHILDREN.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0012]
+Дата: 2026-04-19
+Изменённый файл: CURRENT/00_INDEX/MASTER_INDEX.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: добавлены новые файлы языковой политики и семейной нормы
+Связанные документы: LINK_MAP.txt, 06_LANGUAGE_POLICY.txt, 08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0013]
+Дата: 2026-04-19
+Изменённый файл: CURRENT/00_INDEX/LINK_MAP.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: добавлены новые связки для языковой политики и семейной нормы
+Связанные документы: MASTER_INDEX.txt, 06_LANGUAGE_POLICY.txt, 08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
