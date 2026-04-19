@@ -2,10 +2,10 @@ BVK CANON
 Карта связей документов
 
 Статус: ACTIVE
-Версия: v1.0
+Версия: v1.1
 Дата первого принятия: 2026-04-19
 Текущая редакция: 2026-04-19
-История поправок: нет
+История поправок: CHANGE-0013
 
 Назначение:
 Этот файл показывает, какие документы обязательно сверять вместе.
@@ -45,6 +45,13 @@ MASTER_INDEX.txt
 - 05_OFFICIAL_CIVIC_HOLIDAYS_AND_STATE_DATES.txt
 - 01_CONSTITUTIONAL_FRAME.txt
 
+06_LANGUAGE_POLICY.txt
+Связан с:
+- 02_STATE_IDENTITY.txt
+- 03_POSTNATIONAL_CIVIC_IDENTITY.txt
+- 01_CONSTITUTIONAL_FRAME.txt
+- законами о публичном языке и административной коммуникации
+
 03_POSTNATIONAL_CIVIC_IDENTITY.txt
 Связан с:
 - законами о гражданском статусе
@@ -55,6 +62,13 @@ MASTER_INDEX.txt
 04_SECULAR_ORDER_AND_CIVIC_CALENDAR.txt
 Связан с:
 - 05_OFFICIAL_CIVIC_HOLIDAYS_AND_STATE_DATES.txt
+
+08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt
+Связан с:
+- 01_SOCIAL_MODEL.txt
+- 06_FAMILY_AND_CHILDREN.txt
+- 03_LAW_ON_CIVIC_STATUS_AND_EQUAL_PARTICIPATION.txt
+- законом о светском характере публичных учреждений
 - законом о государственном календаре
 - законом о светском характере публичных учреждений
 
