@@ -2,10 +2,10 @@ BVK CANON
 Главный индекс
 
 Статус: ACTIVE
-Версия: v1.0
+Версия: v1.1
 Дата первого принятия: 2026-04-19
 Текущая редакция: 2026-04-19
-История поправок: нет
+История поправок: CHANGE-0012
 
 Назначение:
 Этот файл является главным индексом канона Балтийской Кооперативной Республики.
@@ -26,6 +26,7 @@ BVK CANON
 - 03_POSTNATIONAL_CIVIC_IDENTITY.txt
 - 04_SECULAR_ORDER_AND_CIVIC_CALENDAR.txt
 - 05_OFFICIAL_CIVIC_HOLIDAYS_AND_STATE_DATES.txt
+- 06_LANGUAGE_POLICY.txt
 
 02_GOVERNANCE
 - конституционный каркас
@@ -37,6 +38,7 @@ BVK CANON
 - социальная модель
 - дисциплина, здоровье и право выхода
 - светский характер публичных учреждений
+- 08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt
 
 04_ECONOMY
 - валюта
