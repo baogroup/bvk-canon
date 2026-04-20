@@ -1,11 +1,11 @@
-name: Deploy PUBLIC_READ to GitHub Pages
+name: Deploy site to GitHub Pages
 
 on:
   workflow_run:
     workflows: ["Auto backup and build public read"]
     types: [completed]
   workflow_dispatch:
-  
+
 permissions:
   contents: read
   pages: write
@@ -34,7 +34,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: PUBLIC_READ
+          path: SITE
 
       - name: Deploy to GitHub Pages
         id: deployment
