@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 from pathlib import Path
 import shutil
@@ -8,6 +7,9 @@ import re
 REPO_ROOT = Path(__file__).resolve().parents[1]
 CURRENT_DIR = REPO_ROOT / "CURRENT"
 PUBLIC_DIR = REPO_ROOT / "PUBLIC_READ"
+
+GITHUB_REPO_BASE = "https://github.com/baogroup/bvk-canon"
+GITHUB_BRANCH = "main"
 
 SECTION_TITLES = {
     "00_INDEX": "Индекс",
@@ -124,12 +126,19 @@ def read_document(path: Path):
 def safe_title_from_rel(rel_path: str):
     return rel_path.replace(".txt", "").replace("/", " / ")
 
+def build_github_links(rel_txt: str):
+    repo_path = f"CURRENT/{rel_txt}"
+    view_url = f"{GITHUB_REPO_BASE}/blob/{GITHUB_BRANCH}/{repo_path}"
+    edit_url = f"{GITHUB_REPO_BASE}/edit/{GITHUB_BRANCH}/{repo_path}"
+    history_url = f"{GITHUB_REPO_BASE}/commits/{GITHUB_BRANCH}/{repo_path}"
+    return view_url, edit_url, history_url
+
 def build_doc_html(doc, rel_txt, root_mode="public"):
     # root_mode: public or assistant
     page_title = html.escape(doc["title"])
     brand = html.escape(doc["brand"])
+
     meta_rows = []
-    # show metadata in predictable order, then any extras
     keys = []
     for k in META_KEYS_ORDER:
         if k in doc["meta"]:
@@ -137,11 +146,25 @@ def build_doc_html(doc, rel_txt, root_mode="public"):
     for k in doc["meta"]:
         if k not in keys:
             keys.append(k)
+
     for key in keys:
         val = html.escape(doc["meta"].get(key, ""))
         meta_rows.append(f"<tr><th>{html.escape(key)}</th><td>{val}</td></tr>")
     meta_table = "\n".join(meta_rows)
+
     body_html = html.escape(doc["body"])
+
+    github_tools_html = ""
+    if root_mode == "assistant":
+        view_url, edit_url, history_url = build_github_links(rel_txt)
+        github_tools_html = f"""
+  <div class="doc-tools">
+    <strong>GitHub:</strong>
+    <a href="{html.escape(view_url)}" target="_blank" rel="noopener noreferrer">Открыть исходный txt</a>
+    <a href="{html.escape(edit_url)}" target="_blank" rel="noopener noreferrer">Править в GitHub</a>
+    <a href="{html.escape(history_url)}" target="_blank" rel="noopener noreferrer">История файла</a>
+  </div>"""
+
     return f"""<!doctype html>
 <html lang="ru">
 <head>
@@ -153,6 +176,8 @@ def build_doc_html(doc, rel_txt, root_mode="public"):
     th, td {{ border: 1px solid #ddd; padding: .5rem; text-align: left; vertical-align: top; }}
     pre {{ white-space: pre-wrap; background: #f6f6f6; padding: 1rem; border: 1px solid #ddd; }}
     .links a {{ margin-right: 1rem; }}
+    .doc-tools {{ margin: 0 0 1rem 0; padding: .75rem 1rem; background: #f6f6f6; border: 1px solid #ddd; }}
+    .doc-tools a {{ margin-right: 1rem; }}
     .note {{ color: #666; font-size: .95rem; }}
   </style>
 </head>
@@ -160,6 +185,7 @@ def build_doc_html(doc, rel_txt, root_mode="public"):
   <p class="links"><a href="../../index.html">Полный индекс</a> <a href="../../RECOVERY_SCAN.html">Recovery Scan</a></p>
   <h1>{page_title}</h1>
   <p class="note">{brand} · {html.escape(rel_txt)}</p>
+  {github_tools_html}
   <table>
     {meta_table}
   </table>
