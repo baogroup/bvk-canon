@@ -253,3 +253,13 @@ BVK CANON
 Связанные документы: 00_START_HERE.txt, LINK_MAP.txt, 05_CLOSED_LINKING_RULES.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0024]
+Дата: 2026-04-20
+Изменённый файл: CURRENT/06_ARCHIVE_AND_SITE/06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: обновлена шапка файла, добавлены поля закрытых связей и закреплено обязательное правило их указания для PUBLIC-документов
+Связанные документы: 00_START_HERE.txt, LINK_MAP.txt, 05_CLOSED_LINKING_RULES.txt, CLOSED_REFERENCE_REGISTRY.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
