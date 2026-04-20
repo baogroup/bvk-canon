@@ -24,4 +24,3 @@ BVK CANON
 - CHANGELOG.txt
 - LINK_MAP.txt
 - 03_DATING_RULES_AND_PRIORITY.txt
-Техническая проверка workflow после полной загрузки файлов.
