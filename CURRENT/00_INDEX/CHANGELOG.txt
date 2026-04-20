@@ -283,3 +283,13 @@ BVK CANON
 Связанные документы: 02_STATE_IDENTITY.txt, 01_WORLD_CORE.txt, 06_LANGUAGE_POLICY.txt, 03_POSTNATIONAL_CIVIC_IDENTITY.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0027]
+Дата: 2026-04-20
+Изменённый файл: CURRENT/01_FOUNDATION/01_WORLD_CORE.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: обновлена шапка файла, отделена Республика как государственная форма от BVK как управленческого контура и закреплена исходная ставка на искусственный интеллект в архитектуре перехода
+Связанные документы: 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 06_LANGUAGE_POLICY.txt, 01_TIMELINE_CORE_2026_2086.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
