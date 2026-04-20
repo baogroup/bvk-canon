@@ -18,10 +18,14 @@
   <p class="note">BVK CANON · 00_INDEX/LINK_MAP.txt</p>
   <table>
     <tr><th>Статус</th><td>ACTIVE</td></tr>
-<tr><th>Версия</th><td>v1.1</td></tr>
+<tr><th>Версия</th><td>v1.2</td></tr>
 <tr><th>Дата первого принятия</th><td>2026-04-19</td></tr>
-<tr><th>Текущая редакция</th><td>2026-04-19</td></tr>
-<tr><th>История поправок</th><td>CHANGE-0013</td></tr>
+<tr><th>Текущая редакция</th><td>2026-04-20</td></tr>
+<tr><th>История поправок</th><td>CHANGE-0019</td></tr>
+<tr><th>Уровень доступа</th><td>PUBLIC</td></tr>
+<tr><th>Историческая принадлежность</th><td>ранний идейный слой</td></tr>
+<tr><th>Связанные закрытые документы</th><td>нет</td></tr>
+<tr><th>Коды связанных закрытых документов</th><td>нет</td></tr>
   </table>
   <pre>Назначение:
 Этот файл показывает, какие документы обязательно сверять вместе.
@@ -34,12 +38,25 @@
 - CHANGELOG.txt
 - LINK_MAP.txt
 - 03_DATING_RULES_AND_PRIORITY.txt
+- 05_CLOSED_LINKING_RULES.txt
+- CLOSED_REFERENCE_REGISTRY.txt
+- 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
 
 MASTER_INDEX.txt
 Связан с:
 - всеми действующими файлами CURRENT
 - CHANGELOG.txt
 - LINK_MAP.txt
+- 05_CLOSED_LINKING_RULES.txt
+- CLOSED_REFERENCE_REGISTRY.txt
+- 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+
+CHANGELOG.txt
+Связан с:
+- 00_START_HERE.txt
+- MASTER_INDEX.txt
+- LINK_MAP.txt
+- всеми файлами, у которых меняется версия или логика
 
 03_DATING_RULES_AND_PRIORITY.txt
 Связан с:
@@ -47,6 +64,35 @@ MASTER_INDEX.txt
 - всеми хронологиями
 - архивными документами
 - публичными историческими материалами
+
+04_SIMPLE_EDITING_WORKFLOW.txt
+Связан с:
+- 00_START_HERE.txt
+- CHANGELOG.txt
+- MASTER_INDEX.txt
+- LINK_MAP.txt
+- 05_CLOSED_LINKING_RULES.txt
+
+05_CLOSED_LINKING_RULES.txt
+Связан с:
+- CLOSED_REFERENCE_REGISTRY.txt
+- 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+- всеми PUBLIC-документами, имеющими связи с RESTRICTED или SEALED
+- правилами публикации assistant-слоя
+
+CLOSED_REFERENCE_REGISTRY.txt
+Связан с:
+- 05_CLOSED_LINKING_RULES.txt
+- 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+- всеми PUBLIC-документами, в шапке которых указаны коды R-... или S-...
+
+06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+Связан с:
+- 00_START_HERE.txt
+- MASTER_INDEX.txt
+- 05_CLOSED_LINKING_RULES.txt
+- CLOSED_REFERENCE_REGISTRY.txt
+- всеми документами, где указывается уровень доступа
 
 01_WORLD_CORE.txt
 Связан с:
@@ -60,6 +106,7 @@ MASTER_INDEX.txt
 - 04_SECULAR_ORDER_AND_CIVIC_CALENDAR.txt
 - 05_OFFICIAL_CIVIC_HOLIDAYS_AND_STATE_DATES.txt
 - 01_CONSTITUTIONAL_FRAME.txt
+- 06_LANGUAGE_POLICY.txt
 
 06_LANGUAGE_POLICY.txt
 Связан с:
@@ -78,6 +125,8 @@ MASTER_INDEX.txt
 04_SECULAR_ORDER_AND_CIVIC_CALENDAR.txt
 Связан с:
 - 05_OFFICIAL_CIVIC_HOLIDAYS_AND_STATE_DATES.txt
+- 04_LAW_ON_STATE_CALENDAR_AND_CIVIC_DATES.txt
+- 03_LAW_ON_SECULAR_PUBLIC_INSTITUTIONS.txt
 
 08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt
 Связан с:
@@ -86,10 +135,10 @@ MASTER_INDEX.txt
 - 03_LAW_ON_CIVIC_STATUS_AND_EQUAL_PARTICIPATION.txt
 - законом о светском характере публичных учреждений
 - законом о государственном календаре
-- законом о светском характере публичных учреждений
 
 Правило:
-Если меняется дата основания, статус гражданства, роль BVK, светский порядок, календарь, валюта или хронология,
+Если меняется дата основания, статус гражданства, роль BVK, светский порядок, календарь, валюта, хронология,
+уровень доступа документа или наличие его закрытых связей,
 нужно обязательно проверить все связанные документы.</pre>
 </body>
 </html>
