@@ -30,7 +30,7 @@ jobs:
 
       - name: Build BVK site
         run: |
-          python scripts/build_public_read.py
+          python scripts/backup_and_build.py
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
