@@ -423,3 +423,154 @@ BVK CANON
 Связанные документы: 01_WORLD_CORE.txt, 01_CONSTITUTIONAL_FRAME.txt, 02_BVK_AND_COUNCIL.txt, 04_LABOR_CODE.txt, 01_CURRENCY_AND_SOCIAL_STANDARD.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0041]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/00_NEWS_SYSTEM_START_HERE.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: создан стартовый файл новостного и narrative-слоя канона
+Связанные документы: 01_NEWS_EVOLUTION_MODEL_2026_2086.txt, MASTER_INDEX.txt, LINK_MAP.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: нет
+
+[CHANGE-0042]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/01_NEWS_EVOLUTION_MODEL_2026_2086.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: создана модель эволюции новостного слоя 2026-2086
+Связанные документы: 00_NEWS_SYSTEM_START_HERE.txt, 2026_2035_FOUNDING_LAYER.txt, 2036_2045_PRESTATE_LAYER.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: нет
+
+[CHANGE-0043]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: создан founding-layer для раннего идейного и narrative-периода 2026-2035
+Связанные документы: 01_NEWS_EVOLUTION_MODEL_2026_2086.txt, 01_PERIOD_STYLE_GUIDE.txt, 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: нет
+
+[CHANGE-0044]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: создан стилевой гид по периодам для news-layer
+Связанные документы: 2026_2035_FOUNDING_LAYER.txt, 2036_2045_PRESTATE_LAYER.txt, 02_PUBLICATION_CARD_TEMPLATE.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: нет
+
+[CHANGE-0045]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/02_PUBLICATION_CARD_TEMPLATE.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: создан единый шаблон карточки публикации для связки статей с каноном
+Связанные документы: 01_PERIOD_STYLE_GUIDE.txt, MASTER_INDEX.txt, LINK_MAP.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: нет
+
+[CHANGE-0046]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2036_2045_PRESTATE_LAYER.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: создан предгосударственный слой 2036-2045 как мост к запуску Республики
+Связанные документы: 01_NEWS_EVOLUTION_MODEL_2026_2086.txt, 01_PERIOD_STYLE_GUIDE.txt, 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: нет
+
+[CHANGE-0047]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/04_LINK_REGISTRY/01_CANON_LINK_RULE.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: создано правило связки статьи с каноном и обязательными контурами связи
+Связанные документы: 02_PUBLICATION_CARD_TEMPLATE.txt, MASTER_INDEX.txt, LINK_MAP.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: нет
+
+[CHANGE-0048]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/00_NEWS_SYSTEM_START_HERE.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: новостной стартовый файл переведён в SERVICE и выровнен как внутренний рабочий слой
+Связанные документы: 01_NEWS_EVOLUTION_MODEL_2026_2086.txt, MASTER_INDEX.txt, LINK_MAP.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: нет
+
+[CHANGE-0049]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/01_NEWS_EVOLUTION_MODEL_2026_2086.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: модель эволюции новостного слоя переведена в SERVICE как внутренний системный файл
+Связанные документы: 00_NEWS_SYSTEM_START_HERE.txt, MASTER_INDEX.txt, LINK_MAP.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: нет
+
+[CHANGE-0050]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: founding-layer переведён в SERVICE как внутренний рабочий файл канона
+Связанные документы: 01_NEWS_EVOLUTION_MODEL_2026_2086.txt, 01_PERIOD_STYLE_GUIDE.txt, LINK_MAP.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: нет
+
+[CHANGE-0051]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2036_2045_PRESTATE_LAYER.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: предгосударственный слой переведён в SERVICE как внутренний рабочий файл канона
+Связанные документы: 01_NEWS_EVOLUTION_MODEL_2026_2086.txt, 01_PERIOD_STYLE_GUIDE.txt, LINK_MAP.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: нет
+
+[CHANGE-0052]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: стилевой гид переведён в SERVICE как внутренний редакционный инструмент
+Связанные документы: 2026_2035_FOUNDING_LAYER.txt, 2036_2045_PRESTATE_LAYER.txt, 02_PUBLICATION_CARD_TEMPLATE.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: нет
+
+[CHANGE-0053]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/02_PUBLICATION_CARD_TEMPLATE.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: шаблон карточки публикации переведён в SERVICE как внутренний редакционный инструмент
+Связанные документы: 01_PERIOD_STYLE_GUIDE.txt, 01_CANON_LINK_RULE.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: нет
+
+[CHANGE-0054]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/00_INDEX/MASTER_INDEX.txt
+Старая версия: v1.2
+Новая версия: v1.3
+Причина: в главный индекс добавлен раздел 09_NEWS_AND_NARRATIVE и закреплён его SERVICE-статус
+Связанные документы: LINK_MAP.txt, CHANGELOG.txt, 00_NEWS_SYSTEM_START_HERE.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0055]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/00_INDEX/LINK_MAP.txt
+Старая версия: v1.2
+Новая версия: v1.3
+Причина: в карту связей добавлены документы 09_NEWS_AND_NARRATIVE и их обязательные связки с TIMELINE, ARCHIVE_AND_SITE и NOVEL_LINK
+Связанные документы: MASTER_INDEX.txt, CHANGELOG.txt, 00_NEWS_SYSTEM_START_HERE.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
