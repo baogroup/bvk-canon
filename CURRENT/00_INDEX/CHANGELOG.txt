@@ -293,3 +293,23 @@ BVK CANON
 Связанные документы: 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 06_LANGUAGE_POLICY.txt, 01_TIMELINE_CORE_2026_2086.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0028]
+Дата: 2026-04-20
+Изменённый файл: CURRENT/01_FOUNDATION/06_LANGUAGE_POLICY.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: обновлена шапка файла и выровнена языковая политика с новой логикой идентичности Республики, государственного языка и роли BVK как управленческого контура
+Связанные документы: 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 03_POSTNATIONAL_CIVIC_IDENTITY.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0029]
+Дата: 2026-04-20
+Изменённый файл: CURRENT/03_SOCIAL_ORDER/08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: обновлена шапка файла, добавлены поля закрытых связей и уточнён принцип разграничения между частной жизнью взрослых, публичной нормой и защитой несовершеннолетних
+Связанные документы: 01_SOCIAL_MODEL.txt, 06_FAMILY_AND_CHILDREN.txt, 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
