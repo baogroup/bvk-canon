@@ -2,10 +2,10 @@ BVK CANON
 Карта связей документов
 
 Статус: ACTIVE
-Версия: v1.2
+Версия: v1.3
 Дата первого принятия: 2026-04-19
-Текущая редакция: 2026-04-20
-История поправок: CHANGE-0019
+Текущая редакция: 2026-04-22
+История поправок: CHANGE-0055
 Уровень доступа: PUBLIC
 Историческая принадлежность: ранний идейный слой
 Связанные закрытые документы: нет
@@ -120,7 +120,70 @@ CLOSED_REFERENCE_REGISTRY.txt
 - законом о светском характере публичных учреждений
 - законом о государственном календаре
 
+09_NEWS_AND_NARRATIVE/00_NEWS_SYSTEM_START_HERE.txt
+Связан с:
+- 01_NEWS_EVOLUTION_MODEL_2026_2086.txt
+- 02_PERIODS/2026_2035_FOUNDING_LAYER.txt
+- 02_PERIODS/2036_2045_PRESTATE_LAYER.txt
+- 03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
+- 03_EDITORIAL_RULES/02_PUBLICATION_CARD_TEMPLATE.txt
+- 04_LINK_REGISTRY/01_CANON_LINK_RULE.txt
+- 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
+- 06_ARCHIVE_AND_SITE/*
+- 08_NOVEL_LINK/*
+
+09_NEWS_AND_NARRATIVE/01_NEWS_EVOLUTION_MODEL_2026_2086.txt
+Связан с:
+- 00_NEWS_SYSTEM_START_HERE.txt
+- 02_PERIODS/2026_2035_FOUNDING_LAYER.txt
+- 02_PERIODS/2036_2045_PRESTATE_LAYER.txt
+- 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
+- 02_STATE_IDENTITY.txt
+- 02_BVK_AND_COUNCIL.txt
+
+09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
+Связан с:
+- 00_NEWS_SYSTEM_START_HERE.txt
+- 01_NEWS_EVOLUTION_MODEL_2026_2086.txt
+- 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
+- 06_ARCHIVE_AND_SITE/*
+- 08_NOVEL_LINK/*
+- 03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
+
+09_NEWS_AND_NARRATIVE/02_PERIODS/2036_2045_PRESTATE_LAYER.txt
+Связан с:
+- 00_NEWS_SYSTEM_START_HERE.txt
+- 01_NEWS_EVOLUTION_MODEL_2026_2086.txt
+- 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
+- 02_GOVERNANCE/*
+- 03_SOCIAL_ORDER/*
+- 05_TECH_AND_INFRA/*
+- 03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
+
+09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
+Связан с:
+- 02_PERIODS/2026_2035_FOUNDING_LAYER.txt
+- 02_PERIODS/2036_2045_PRESTATE_LAYER.txt
+- 02_PUBLICATION_CARD_TEMPLATE.txt
+- всеми будущими файлами годовых и периодных публикационных планов
+
+09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/02_PUBLICATION_CARD_TEMPLATE.txt
+Связан с:
+- 03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
+- 04_LINK_REGISTRY/01_CANON_LINK_RULE.txt
+- всеми будущими карточками публикаций
+
+09_NEWS_AND_NARRATIVE/04_LINK_REGISTRY/01_CANON_LINK_RULE.txt
+Связан с:
+- 00_NEWS_SYSTEM_START_HERE.txt
+- 01_NEWS_EVOLUTION_MODEL_2026_2086.txt
+- 03_EDITORIAL_RULES/02_PUBLICATION_CARD_TEMPLATE.txt
+- LINK_MAP.txt
+- MASTER_INDEX.txt
+
 Правило:
 Если меняется дата основания, статус гражданства, роль BVK, светский порядок, календарь, валюта, хронология,
 уровень доступа документа или наличие его закрытых связей,
 нужно обязательно проверить все связанные документы.
+Если меняется эволюция сайта, narrative-слой, периодный стиль публикаций или логика связки статей с каноном,
+нужно обязательно проверить блок 09_NEWS_AND_NARRATIVE вместе с TIMELINE, ARCHIVE_AND_SITE и NOVEL_LINK.
