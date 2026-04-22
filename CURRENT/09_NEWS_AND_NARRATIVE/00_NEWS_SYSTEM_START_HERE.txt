@@ -2,11 +2,11 @@ BVK CANON
 Стартовый файл новостного и narrative-слоя
 
 Статус: ACTIVE
-Версия: v1.0
+Версия: v1.1
 Дата первого принятия: 2026-04-22
 Текущая редакция: 2026-04-22
-История поправок: CHANGE-0041
-Уровень доступа: PUBLIC
+История поправок: CHANGE-0048
+Уровень доступа: SERVICE
 Историческая принадлежность: ранний идейный слой
 Связанные закрытые документы: нет
 Коды связанных закрытых документов: нет
@@ -27,9 +27,10 @@ BVK CANON
 Главные файлы слоя:
 - 01_NEWS_EVOLUTION_MODEL_2026_2086.txt
 - 02_PERIODS/2026_2035_FOUNDING_LAYER.txt
+- 02_PERIODS/2036_2045_PRESTATE_LAYER.txt
 - 03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
 - 03_EDITORIAL_RULES/02_PUBLICATION_CARD_TEMPLATE.txt
-- 04_LINK_REGISTRY/01_ARTICLE_TO_CANON_LINKING_RULE.txt
+- 04_LINK_REGISTRY/01_CANON_LINK_RULE.txt
 
 Вывод:
 Этот файл вводит новостной слой как полноценную часть канона, а не как разрозненный набор будущих статей.
