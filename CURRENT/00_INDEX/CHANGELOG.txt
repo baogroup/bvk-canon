@@ -353,3 +353,33 @@ BVK CANON
 Связанные документы: 01_SOCIAL_MODEL.txt, 04_LABOR_CODE.txt, 05_HOUSING_CODE.txt, 01_CONSTITUTIONAL_FRAME.txt, 01_TECH_MODEL.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0034]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/01_FOUNDATION/06_LANGUAGE_POLICY.txt
+Старая версия: v1.1
+Новая версия: v1.2
+Причина: добавлен территориальный языковой принцип для публичной среды, образования, СМИ, суда первой инстанции, армии, техслужб, университетов, науки и архивных документов
+Связанные документы: 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 03_POSTNATIONAL_CIVIC_IDENTITY.txt, будущие документы о местном самоуправлении, образовании, судах и архивах
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0035]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/02_GOVERNANCE/05_PUBLIC_LANGUAGE_AND_ADMIN_COMMUNICATION.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: обновлена шапка файла и добавлены правила территориальной административной среды, публичной навигации, права на понятную коммуникацию и языковой связки суда первой инстанции с правом на перевод
+Связанные документы: 06_LANGUAGE_POLICY.txt, 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 03_POSTNATIONAL_CIVIC_IDENTITY.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0036]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/03_SOCIAL_ORDER/09_EDUCATION_MODEL.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: обновлена шапка файла и добавлена территориально-многоязычная образовательная модель с обязательным изучением родного языка, литовского и русского, а также правила для высшей школы и науки
+Связанные документы: 06_LANGUAGE_POLICY.txt, 02_STATE_IDENTITY.txt, 01_SOCIAL_MODEL.txt, 08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
