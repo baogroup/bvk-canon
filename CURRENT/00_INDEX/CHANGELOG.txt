@@ -323,3 +323,13 @@ BVK CANON
 Связанные документы: 08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt, 04_LABOR_CODE.txt, 05_HOUSING_CODE.txt, 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0031]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/03_SOCIAL_ORDER/04_LABOR_CODE.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: обновлена шапка файла, добавлены поля закрытых связей и уточнён принцип трудовой меры и технологического освобождения человека от тяжёлого и унизительного труда
+Связанные документы: 01_SOCIAL_MODEL.txt, 05_HOUSING_CODE.txt, 01_CONSTITUTIONAL_FRAME.txt, 01_TECH_MODEL.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
