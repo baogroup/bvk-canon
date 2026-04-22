@@ -413,3 +413,13 @@ BVK CANON
 Связанные документы: 01_WORLD_CORE.txt, 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 02_BVK_AND_COUNCIL.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0040]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/05_TECH_AND_INFRA/01_TECH_MODEL.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: обновлена шапка файла и уточнена связь технической модели с BVK, роль искусственного интеллекта и технологическое направление освобождения человека от тяжёлого и унизительного труда
+Связанные документы: 01_WORLD_CORE.txt, 01_CONSTITUTIONAL_FRAME.txt, 02_BVK_AND_COUNCIL.txt, 04_LABOR_CODE.txt, 01_CURRENCY_AND_SOCIAL_STANDARD.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
