@@ -383,3 +383,33 @@ BVK CANON
 Связанные документы: 06_LANGUAGE_POLICY.txt, 02_STATE_IDENTITY.txt, 01_SOCIAL_MODEL.txt, 08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0037]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/02_GOVERNANCE/02_BVK_AND_COUNCIL.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: обновлена шапка файла, уточнена историческая роль BVK, исходная ставка на искусственный интеллект и разграничение между управленческим контуром BVK и человеческой ролью Совета старейшин
+Связанные документы: 01_CONSTITUTIONAL_FRAME.txt, 02_STATE_IDENTITY.txt, 01_WORLD_CORE.txt, 06_LANGUAGE_POLICY.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0038]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/01_FOUNDATION/03_POSTNATIONAL_CIVIC_IDENTITY.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: обновлена шапка файла и уточнено различие между общим гражданским порядком Республики и сохраняемым культурным, языковым и территориальным многообразием
+Связанные документы: 02_STATE_IDENTITY.txt, 06_LANGUAGE_POLICY.txt, 01_CONSTITUTIONAL_FRAME.txt, 05_PUBLIC_LANGUAGE_AND_ADMIN_COMMUNICATION.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0039]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: обновлена шапка файла и уточнена хронология становления BVK, исходной ставки на искусственный интеллект и перехода от кризисной демократии к зрелой Республике
+Связанные документы: 01_WORLD_CORE.txt, 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 02_BVK_AND_COUNCIL.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
