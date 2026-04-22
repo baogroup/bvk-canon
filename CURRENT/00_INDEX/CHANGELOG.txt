@@ -343,3 +343,13 @@ BVK CANON
 Связанные документы: 01_SOCIAL_MODEL.txt, 04_LABOR_CODE.txt, 01_CONSTITUTIONAL_FRAME.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0033]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: обновлена шапка файла, добавлены поля закрытых связей и уточнены роль внутренней валюты, социального стандарта и принцип экономической меры
+Связанные документы: 01_SOCIAL_MODEL.txt, 04_LABOR_CODE.txt, 05_HOUSING_CODE.txt, 01_CONSTITUTIONAL_FRAME.txt, 01_TECH_MODEL.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
