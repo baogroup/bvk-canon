@@ -584,3 +584,22 @@ BVK CANON
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
 
+[CHANGE-0057]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/00_INDEX/07_ASSISTANT_WORK_PROTOCOL.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: создан обязательный repo-first протокол работы ассистента с полным assistant index, живым changelog и проверкой существующих файлов перед правкой
+Связанные документы: MASTER_INDEX.txt, LINK_MAP.txt, CHANGELOG.txt, 04_SIMPLE_EDITING_WORKFLOW.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0058]
+Дата: 2026-04-22
+Изменённый файл: CURRENT/00_INDEX/08_DOCUMENT_CLASSIFICATION_RULES.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: созданы правила классификации документов по уровням доступа с жёстким разграничением PUBLIC, SERVICE, RESTRICTED и SEALED
+Связанные документы: 07_ASSISTANT_WORK_PROTOCOL.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt, MASTER_INDEX.txt, LINK_MAP.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
