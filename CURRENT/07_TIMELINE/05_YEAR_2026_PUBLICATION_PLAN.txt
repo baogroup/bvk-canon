@@ -1,0 +1,334 @@
+BVK CANON
+Годовой публикационный план 2026
+
+Статус: ACTIVE
+Версия: v1.0
+Дата первого принятия: 2026-04-23
+Текущая редакция: 2026-04-23
+История поправок: CHANGE-0062
+Уровень доступа: SERVICE
+Историческая принадлежность: ранний идейный слой
+Связанные закрытые документы: нет
+Коды связанных закрытых документов: нет
+
+Назначение:
+Этот файл закрепляет годовой публикационный план для 2026 года в рамках внутреннего SERVICE-слоя BVK Canon.
+
+Главный принцип:
+Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
+Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+
+Связь с другими файлами:
+- 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
+- данный файл переводит эту логику в конкретный годовой набор публикаций
+
+BVK METINIS PLANAS 2026
+
+METINIS STILIUS IR TONAS
+- Labai ankstyvas etapas: asmeninės paieškos, eksperimentai, dialogai su AI, jokių tikrų organizacinių struktūrų.
+- Tekstai turi skambėti kaip ankstyvas būsimo projekto archyvas: ramesni, šiltesni, šiek tiek dienoraštiški, bet rimti.
+- Kompozicija gali būti laisvesnė. Svarbu rodyti paiešką, abejonę, perrašymus, pirmus bandymus.
+- Jokio brandžios valstybės tono. Jokios pompastiškos propagandos.
+
+REKOMENDUOJAMAS PARENGĖJAS: Būsimojo projekto užrašų archyvas
+
+========================================================================
+ĮRAŠAS 1
+Data: 2026-01-14
+Rubrika: Savęs tobulinimas
+Pavadinimas: Pirmą kartą suformuluota Baltijos Kooperatinės Respublikos vizija kaip ateities modelis
+
+STRAIPSNIS:
+Pirmą kartą aiškiau užrašyta mintis, kad visuomenė gali būti grindžiama ne varžymusi, o koordinuotu bendru aprūpinimu, atsakomybe ir ilgu planavimu. Kol kas tai dar tik asmeninis mąstymo lūžis, tačiau būtent šią dieną atsirado suvokimas, kad ateities valstybė gali būti modeliuojama kaip tvarkinga, žmogui laisvę grąžinanti sistema.
+
+Pirminiuose užrašuose daug vietos skirta klausimui, kaip atskirti tikrą visuomeninę naudą nuo įprasto ekonominio triukšmo. Greta to pradėta svarstyti, ar tokia sistema galėtų remtis ne vien politiniais sprendimais, bet ir nauja kasdienybės kultūra.
+
+Ši publikacija žymi ne organizacijos pradžią, o momento fiksavimą, kai pavienė idėja pirmą kartą įgijo aiškią kryptį.
+
+SEO:
+SEO title: Pirmoji Baltijos Kooperatinės Respublikos vizija 2026 m.
+Meta description: 2026 m. pirmą kartą aiškiai suformuluota Baltijos Kooperatinės Respublikos vizija kaip ateities visuomenės modelis.
+Slug: pirmoji-baltijos-kooperatines-respublikos-vizija-2026
+
+IMAGE PROMPT:
+Photorealistic horizontal editorial photo, solitary late-winter planning scene in a small Lithuanian town room, one desk with scattered handwritten notes, simple lamp light, no readable text, no people facing camera, atmosphere of first serious idea being born, natural realism, documentary style, no sci-fi visuals.
+
+PABAIGOS BLOKAS:
+Publikuota: 2026-01-14
+Parengė: Būsimojo projekto užrašų archyvas
+
+========================================================================
+ĮRAŠAS 2
+Data: 2026-02-03
+Rubrika: Archyvas
+Pavadinimas: Pradėtas kaupti pirmasis idėjų, sąvokų ir gairių juodraščių archyvas
+
+STRAIPSNIS:
+Po pirmųjų sausio mėnesio užrašų tapo aišku, kad pavienės mintys greitai išsisklaido, jei nėra tvarkingo kaupimo būdo. Todėl vasario pradžioje pradėtas pirmasis juodraščių archyvas, kuriame atskirai fiksuojamos sąvokos, būsimos temos, galimų institucijų užuomazgos ir bendrieji krypties klausimai.
+
+Ankstyvoji archyvo forma dar neturėjo galutinės sistemos. Dalis įrašų dubliavosi, kai kurie terminai vėliau buvo pervadinti, o keli blokai buvo atmesti visai. Tačiau svarbiausia buvo ne tobulumas, o tai, kad idėja pirmą kartą gavo nuolatinę atmintį.
+
+Nuo šio momento Respublikos sumanymas pradėtas saugoti ne vien mintyse, bet ir kaip nuosekliai pildomas būsimo pasaulio sluoksnis.
+
+SEO:
+SEO title: Pradėtas pirmasis BVK juodraščių archyvas
+Meta description: 2026 m. pradėtas kaupti pirmasis sąvokų, idėjų ir gairių juodraščių archyvas būsimos Respublikos projektui.
+Slug: pradetas-pirmasis-bvk-juodrasciu-archyvas-2026
+
+IMAGE PROMPT:
+Photorealistic archival tabletop photo, overhead view of folders, index cards, notebooks and loose papers being sorted into early categories, soft winter daylight, realistic paper textures, no readable text, natural documentary mood, no CGI.
+
+PABAIGOS BLOKAS:
+Publikuota: 2026-02-03
+Parengė: Būsimojo projekto užrašų archyvas
+
+========================================================================
+ĮRAŠAS 3
+Data: 2026-03-18
+Rubrika: Technologijos
+Pavadinimas: AI pokalbiuose pradėti tikslinti būsimos Respublikos veikimo principai
+
+STRAIPSNIS:
+Kovo mėnesį pirmą kartą nuosekliau pradėtas naudoti dirbtinis intelektas kaip mąstymo partneris, padedantis ne priimti sprendimus už žmogų, o išplėsti klausimų lauką. Pokalbiuose aiškinti būsimos sistemos veikimo principai: kaip galėtų būti paskirstomas darbas, kaip būtų užtikrinamas būstas, kokią vietą užimtų švietimas ir kodėl koordinavimas turėtų remtis ilgais horizontais.
+
+Ankstyvieji bandymai nebuvo sklandūs. Dalis formuluočių skambėjo pernelyg abstrakčiai, kai kurie siūlymai buvo atmesti kaip mechaniški ar pernelyg šalti. Tačiau būtent čia išryškėjo būsimojo Bendrojo Valdymo Kontūro užuomazga - idėja, kad pažangi sistema gali padėti matyti visumą.
+
+Šiame etape AI dar nėra atskira struktūra. Jis tėra įrankis, padedantis tikslinti būsimojo pasaulio logiką.
+
+SEO:
+SEO title: 2026 m. AI padėjo tikslinti Respublikos principus
+Meta description: 2026 metais AI pokalbiuose pradėti tikslinti būsimos Baltijos Kooperatinės Respublikos veikimo principai ir valdymo logika.
+Slug: ai-tikslino-respublikos-principus-2026
+
+IMAGE PROMPT:
+Photorealistic evening home-office photo, laptop glow on a modest desk, notebooks full of diagrams, tea cup, window reflection, sense of long AI dialogue session, no readable screen text, realistic documentary photography, no neon.
+
+PABAIGOS BLOKAS:
+Publikuota: 2026-03-18
+Parengė: Būsimojo projekto užrašų archyvas
+
+========================================================================
+ĮRAŠAS 4
+Data: 2026-04-09
+Rubrika: Vystymasis
+Pavadinimas: Nubraižytas pradinis kelias nuo asmeninės idėjos iki viešo skaitmeninio projekto
+
+STRAIPSNIS:
+Balandį pirmą kartą buvo pabandyta atsakyti į klausimą, kaip pavienė idėja galėtų virsti viešu, ilgai veikiančiu projektu. Sudarytas pradinis kelias nuo asmeninių užrašų iki būsimos skaitmeninės erdvės, kurioje būtų galima ne tik publikuoti tekstus, bet ir kurti visą Respublikos ateities sluoksnį.
+
+Šiame plane numatyti keli etapai: sąvokų kaupimas, chronologijos kūrimas, teisinių tekstų juodraščiai, viešųjų publikacijų modelis ir vėlesnis išėjimas į atvirą skaitytojų lauką. Kai kurie punktai dar liko neaiškūs, tačiau pirmą kartą paaiškėjo, kad projektui reikės ne vien minčių, bet ir struktūros.
+
+Būtent čia pradėjo ryškėti supratimas, kad ateities Respublika pirmiausia turės gimti kaip skaitmeninis pasaulis.
+
+SEO:
+SEO title: Parengtas pirmasis BVK skaitmeninio kelio planas
+Meta description: 2026 m. nubraižytas pirmasis kelias nuo asmeninės idėjos iki viešo skaitmeninio Respublikos projekto.
+Slug: pirmasis-bvk-skaitmeninio-kelio-planas-2026
+
+IMAGE PROMPT:
+Photorealistic planning wall photo, printed arrows, timeline cards and hand-drawn flowchart pinned in a modest room, spring daylight, realistic documentary atmosphere, no readable text, no futuristic effects.
+
+PABAIGOS BLOKAS:
+Publikuota: 2026-04-09
+Parengė: Būsimojo projekto užrašų archyvas
+
+========================================================================
+ĮRAŠAS 5
+Data: 2026-05-21
+Rubrika: Duomenys
+Pavadinimas: Parengtas pirmasis būsimos svetainės rubrikų ir teminių krypčių sąrašas
+
+STRAIPSNIS:
+Gegužę pradėtas konkretinti būsimos svetainės turinys. Pirmą kartą sudarytas sąrašas rubrikų, kurios vėliau turėtų leisti skaitytojui skirtingais būdais patekti į Respublikos pasaulį: per naujienas, archyvą, teisę, švietimą, ekonomiką, kultūrą ir kasdienio gyvenimo modelius.
+
+Šis žingsnis atrodė techninis, tačiau jo reikšmė buvo kur kas didesnė. Rubrikos leido suprasti, kad projektas nebebus vien ilgas tekstas ar pavienis manifestas. Jis turės daug įėjimų, o pati svetainė veiks kaip lėtai augantis viešas organizmas.
+
+Kartu paaiškėjo ir pirmasis sunkumas: dalis sričių vis dar persidengė, todėl keli blokai buvo perrašyti iš naujo. Tačiau nuo šio momento būsimas portalas jau turėjo apčiuopiamą turinio karkasą.
+
+SEO:
+SEO title: Parengtos pirmosios BVK svetainės rubrikos
+Meta description: 2026 metais parengtas pirmasis būsimos BVK svetainės rubrikų ir teminių krypčių sąrašas.
+Slug: pirmosios-bvk-svetaines-rubrikos-2026
+
+IMAGE PROMPT:
+Photorealistic top-down editorial photo of many paper cards grouped into content categories on a wooden floor, laptop nearby, soft late-spring daylight, realistic materials, no readable text, documentary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2026-05-21
+Parengė: Būsimojo projekto užrašų archyvas
+
+========================================================================
+ĮRAŠAS 6
+Data: 2026-06-12
+Rubrika: Archyvas
+Pavadinimas: Sukurtas pradinis BVK sąvokynas ir pagrindinių terminų juodraštis
+
+STRAIPSNIS:
+Birželio mėnesį pradėtas sisteminti žodynas, be kurio tolesnis darbas būtų tapęs nevaldomas. Sudarytas pradinis sąvokynas, kuriame fiksuoti pagrindiniai būsimo projekto terminai: bendras valdymas, kooperatyvinis aprūpinimas, viešoji atsakomybė, dalyvavimo kultūra ir ilgojo planavimo principas.
+
+Dalis terminų tuo metu dar buvo laikini. Kai kurie vėliau buvo sušvelninti, kiti - išplėsti, o keli išbraukti kaip pernelyg griežti ar nepakankamai tikslūs. Vis dėlto sąvokynas atliko svarbiausią funkciją: pradėjo vienodinti kalbą.
+
+Nuo šio momento Respublikos projektas ėmė kalbėti vis aiškesnėmis, tarpusavyje derančiomis formuluotėmis, o ne išsibarsčiusių minčių fragmentais.
+
+SEO:
+SEO title: Sukurtas pradinis BVK sąvokynas 2026 m.
+Meta description: 2026 m. sudarytas pradinis BVK sąvokynas ir pagrindinių būsimos Respublikos terminų juodraštis.
+Slug: pradinis-bvk-savokynas-2026
+
+IMAGE PROMPT:
+Photorealistic close-up photo of handwritten terminology notes, simple index tabs, dictionary-like sorting process on desk, summer daylight, natural paper texture, no readable text, realistic editorial photography.
+
+PABAIGOS BLOKAS:
+Publikuota: 2026-06-12
+Parengė: Būsimojo projekto užrašų archyvas
+
+========================================================================
+ĮRAŠAS 7
+Data: 2026-07-24
+Rubrika: Technologijos
+Pavadinimas: Pradėti pirmieji eksperimentai su AI kuriant 2086 metų pasaulio chronologiją
+
+STRAIPSNIS:
+Liepos pabaigoje prasidėjo vienas svarbiausių ankstyvojo laikotarpio bandymų - pirmieji eksperimentai su 2086 metų chronologija. Buvo mėginama ne šiaip įsivaizduoti tolimą ateitį, bet nuosekliai sudėti, kokiais etapais tokia visuomenė galėtų susiformuoti.
+
+Bandymų pradžia nebuvo sklandi. Chronologija kelis kartus subyrėjo, dalis datų skambėjo neįtikinamai, o kai kurios institucijos atsirasdavo per anksti. Tačiau būtent šis darbas atvėrė svarbiausią suvokimą: ateities pasauliui neužtenka idėjinio aprašo, jam reikia laiko ašies.
+
+Ši publikacija žymi momentą, kai būsima Respublika pirmą kartą pradėta mąstyti kaip ilgos raidos rezultatas.
+
+SEO:
+SEO title: Pradėti 2086 metų BVK chronologijos bandymai
+Meta description: 2026 m. pradėti pirmieji eksperimentai su AI kuriant 2086 metų Respublikos pasaulio chronologiją.
+Slug: 2086-bvk-chronologijos-bandymai-2026
+
+IMAGE PROMPT:
+Photorealistic wide planning scene with timeline markers stretching across a long table, laptop and notebooks, midsummer daylight, sense of long-range historical construction, no readable text, natural optics.
+
+PABAIGOS BLOKAS:
+Publikuota: 2026-07-24
+Parengė: Būsimojo projekto užrašų archyvas
+
+========================================================================
+ĮRAŠAS 8
+Data: 2026-08-16
+Rubrika: Kultūra
+Pavadinimas: Iškilo mintis pildyti svetainę ne tik idėjomis, bet ir ateities istorijomis bei dokumentais
+
+STRAIPSNIS:
+Rugpjūtį projektas žengė į naują kryptį. Iki tol daugiausia dėmesio buvo skirta struktūrai ir principams, tačiau vis aiškiau tapo, kad ateities modelis bus įtaigesnis, jei jis bus pasiekiamas ne vien per taisykles, bet ir per gyvą pasakojimo sluoksnį.
+
+Būtent todėl pirmą kartą rimtai iškelta mintis svetainę pildyti ne tik koncepciniais tekstais, bet ir ateities istorijomis, dokumentais, archyvinėmis ištraukomis bei vėliau - literatūriniais kūriniais. Tai suteikė projektui daug daugiau kvėpavimo ir leido matyti Respubliką ne vien kaip schemą, bet kaip pasaulį.
+
+Nuo šios dienos būsimo portalo kryptis tapo platesnė: jis turėjo ne tik aiškinti, bet ir įtraukti.
+
+SEO:
+SEO title: BVK svetainėje numatytas ateities istorijų sluoksnis
+Meta description: 2026 m. iškelta mintis BVK svetainę pildyti ne tik idėjomis, bet ir ateities istorijomis bei dokumentais.
+Slug: ateities-istoriju-sluoksnis-bvk-2026
+
+IMAGE PROMPT:
+Photorealistic editorial photo of mixed materials on a desk: legal-style notes, story fragments, sketchbook pages, soft summer evening light, natural realism, no readable text, no fantasy props.
+
+PABAIGOS BLOKAS:
+Publikuota: 2026-08-16
+Parengė: Būsimojo projekto užrašų archyvas
+
+========================================================================
+ĮRAŠAS 9
+Data: 2026-09-08
+Rubrika: Vystymasis
+Pavadinimas: Sudarytas ankstyvas planas, kaip svetainėje galėtų rastis Respublikos naujienų linija nuo 2026 iki 2086 metų
+
+STRAIPSNIS:
+Rugsėjį gimė viena iš svarbiausių projekto idėjų - svetainė kaip ilga viešoji chronologija, kurioje skaitytojas, to net nepastebėjęs, būtų vedamas per visą Respublikos augimą nuo pačios pradžios iki brandžios ateities. Ši mintis leido sujungti laiką, pasakojimą ir institucijų formavimąsi į vieną skaitymo patirtį.
+
+Ankstyvajame plane numatyta, kad publikacijų tonas turės keistis kartu su laikotarpiu: ankstyvieji metai bus šiltesni ir žmogiškesni, o vėlesni - vis brandesni, oficialesni ir tikslesni. Toks sprendimas padėjo išvengti vienodo balso per visą šešiasdešimties metų liniją.
+
+Nuo šio momento būsima naujienų juosta tapo vienu pagrindinių Respublikos kūrimo instrumentų.
+
+SEO:
+SEO title: Suplanuota BVK naujienų linija nuo 2026 iki 2086
+Meta description: 2026 m. sudarytas ankstyvas planas, kaip svetainėje nuosekliai rastųsi Respublikos naujienų linija nuo 2026 iki 2086 metų.
+Slug: bvk-naujienu-linija-2026-2086-planas
+
+IMAGE PROMPT:
+Photorealistic documentary photo of long paper timeline with year markers from near present to far future, pinned or laid out in order, early autumn daylight, no readable text, realistic materials, natural optics.
+
+PABAIGOS BLOKAS:
+Publikuota: 2026-09-08
+Parengė: Būsimojo projekto užrašų archyvas
+
+========================================================================
+ĮRAŠAS 10
+Data: 2026-10-20
+Rubrika: Archyvas
+Pavadinimas: Pradėtas formuoti ateities Respublikos dokumentų ir viešų tekstų modelis
+
+STRAIPSNIS:
+Spalio mėnesį prasidėjo darbas, kuris vėliau taps viena stipriausių projekto dalių - būsimos Respublikos dokumentų modeliavimas. Buvo mėginama suprasti, kaip turėtų atrodyti įstatymų, konstitucinių principų, viešųjų paaiškinimų ir archyvinių tekstų sluoksnis.
+
+Ankstyvieji bandymai dar buvo netolygūs. Kai kurie tekstai skambėjo pernelyg sausi, kiti - per daug literatūriški. Tačiau būtent šiame etape pradėta ieškoti pusiausvyros tarp gyvos kalbos ir būsimos institucijų disciplinos.
+
+Nuo šiol projektas jau turėjo ne tik idėją ir chronologiją, bet ir pirmąsias dokumentinio pasaulio formas.
+
+SEO:
+SEO title: Pradėtas modeliuoti ateities Respublikos dokumentų sluoksnis
+Meta description: 2026 m. pradėtas formuoti ateities Respublikos dokumentų ir viešų tekstų modelis būsimam BVK archyvui.
+Slug: ateities-respublikos-dokumentu-modelis-2026
+
+IMAGE PROMPT:
+Photorealistic archival desk scene with structured document templates, clipped pages, stamps and folders, autumn light, realistic textures, no readable text, serious documentary tone.
+
+PABAIGOS BLOKAS:
+Publikuota: 2026-10-20
+Parengė: Būsimojo projekto užrašų archyvas
+
+========================================================================
+ĮRAŠAS 11
+Data: 2026-11-11
+Rubrika: Technologijos
+Pavadinimas: AI pagalba pradėti testuoti pirmieji būsimo turinio generavimo metodai svetainei
+
+STRAIPSNIS:
+Lapkričio mėnesį pirmą kartą buvo mėginama iš praktinės pusės patikrinti, kaip AI galėtų padėti pildyti būsimos svetainės turinį. Testuotos skirtingos darbo schemos: trumpų naujienų generavimas, teminių planų kūrimas, straipsnių stiliaus skirtumų paieška ir skirtingų epochų kalbos bandymai.
+
+Ne visi bandymai pasiteisino. Dalis tekstų atrodė pernelyg vienodi, kai kurie - per daug abstraktūs. Tačiau išryškėjo svarbi išvada: AI gali labai pagreitinti konstravimo procesą, jei jis dirba kartu su griežtu žmogaus redagavimu ir kanono kontrole.
+
+Šiame etape pradėta aiškiau suvokti būsimojo projekto darbo metodika: ne automatinė gamyba, o ilgalaikė žmogaus ir AI bendra kūryba.
+
+SEO:
+SEO title: 2026 m. išbandyti pirmieji AI turinio metodai
+Meta description: 2026 metais pradėti testuoti pirmieji AI padedami turinio generavimo metodai būsimai BVK svetainei.
+Slug: pirmieji-ai-turinio-metodai-bvk-2026
+
+IMAGE PROMPT:
+Photorealistic night workflow photo, laptop beside printed article drafts with many corrections, pen marks and discarded pages, realistic home workspace, no readable text, documentary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2026-11-11
+Parengė: Būsimojo projekto užrašų archyvas
+
+========================================================================
+ĮRAŠAS 12
+Data: 2026-12-22
+Rubrika: Archyvas
+Pavadinimas: Metų apžvalga: idėja iš pavienio sumanymo virto nuosekliu skaitmeninio pasaulio projektu
+
+STRAIPSNIS:
+Metų pabaigoje tapo aišku, kad pradinis sumanymas per dvylika mėnesių peržengė atsitiktinės idėjos ribas. Per šį laiką buvo suformuluota pagrindinė vizija, pradėtas archyvas, tikslinti principai su AI pagalba, sudarytas svetainės rubrikų planas, pradėtas sąvokynas, iškelta naujienų linijos nuo 2026 iki 2086 metų idėja ir pradėti pirmieji dokumentinio pasaulio bandymai.
+
+Ne mažiau svarbu tai, kad paaiškėjo ir pagrindiniai sunkumai: pavadinimų kaita, per daug plačios formuluotės, neveikiantys terminai ir būtinybė viską perrašyti po kelis kartus. Tačiau būtent tokie sunkumai padėjo išgryninti kryptį.
+
+2026 metai užbaigiami kaip pradinis, bet jau nuoseklus skaitmeninio pasaulio kūrimo etapas, iš kurio vėliau galės augti visa Respublikos istorija.
+
+SEO:
+SEO title: 2026 m. BVK metų apžvalga
+Meta description: 2026 metų apžvalga: kaip pavienė idėja peraugo į nuoseklų skaitmeninio Respublikos pasaulio projektą.
+Slug: bvk-2026-metu-apzvalga
+
+IMAGE PROMPT:
+Photorealistic year-end review scene, desk with neatly stacked notes, closed folders, calendar page, winter evening light, atmosphere of completed first year of work, no readable text, natural documentary photo.
+
+PABAIGOS BLOKAS:
+Publikuota: 2026-12-22
+Parengė: Būsimojo projekto užrašų archyvas
