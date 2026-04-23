@@ -1,0 +1,334 @@
+BVK CANON
+Годовой публикационный план 2029
+
+Статус: ACTIVE
+Версия: v1.0
+Дата первого принятия: 2026-04-23
+Текущая редакция: 2026-04-23
+История поправок: CHANGE-0065
+Уровень доступа: SERVICE
+Историческая принадлежность: ранний идейный слой
+Связанные закрытые документы: нет
+Коды связанных закрытых документов: нет
+
+Назначение:
+Этот файл закрепляет годовой публикационный план для 2029 года в рамках внутреннего SERVICE-слоя BVK Canon.
+
+Главный принцип:
+Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
+Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+
+Связь с другими файлами:
+- 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
+- данный файл переводит эту логику в конкретный годовой набор публикаций
+
+BVK METINIS PLANAS 2029
+
+METINIS STILIUS IR TONAS
+- Projektas tvirtėja ir įgauna kanoninį stuburą.
+- Tekstai turi būti ramesni, aiškesni, labiau sutelkti nei 2028 m.
+- Daugėja struktūros, vidaus drausmės, žemėlapių, sluoksnių, redakcinės kontrolės.
+- Tonas vis dar ankstyvas, bet jame jau juntama būsimos sistemos rimtis.
+
+REKOMENDUOJAMAS PARENGĖJAS: BVK kanono ir chronologijos redakcija
+
+========================================================================
+ĮRAŠAS 1
+Data: 2029-01-16
+Rubrika: Archyvas
+Pavadinimas: Sutvarkytas pradinis BVK kanonas: datos, vietos, kryptys ir pagrindiniai raidos etapai
+
+STRAIPSNIS:
+Sausio mėnesį pradėtas tvarkyti tai, be ko tolimesnis darbas būtų tapęs nepatikimas - pradinis BVK kanonas. Vienoje sistemoje imtos jungti datos, vietos, kryptys ir pagrindiniai Respublikos raidos etapai, kad skirtingi tekstai remtųsi tuo pačiu pagrindu.
+
+Iki šiol dalis informacijos buvo išmėtyta tarp atskirų failų, užrašų ir darbo versijų. Todėl svarbiausia užduotis buvo ne kurti naują medžiagą, o sustiprinti tai, kas jau sukurta, ir pašalinti prieštaravimus.
+
+Šis žingsnis žymi momentą, kai projektas pradėjo labiau panašėti į saugomą kanoną, o ne į laisvą kūrybinių medžiagų rinkinį.
+
+SEO:
+SEO title: Sutvarkytas pradinis BVK kanonas 2029 m.
+Meta description: 2029 m. sutvarkytas pradinis BVK kanonas: datos, vietos, kryptys ir pagrindiniai Respublikos raidos etapai.
+Slug: sutvarkytas-pradinis-bvk-kanonas-2029
+
+IMAGE PROMPT:
+Photorealistic archival organization photo with neatly grouped timeline sheets, location cards and chronology binders, cold winter light, no readable text, realistic documentary mood.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-01-16
+Parengė: BVK kanono ir chronologijos redakcija
+
+========================================================================
+ĮRAŠAS 2
+Data: 2029-02-06
+Rubrika: Vystymasis
+Pavadinimas: Svetainėje pradėta nuosekliai atskirti viešąją kroniką, archyvą ir aiškinamuosius tekstus
+
+STRAIPSNIS:
+Vasario pradžioje svetainės turinio modelis buvo peržiūrėtas taip, kad skirtingi sluoksniai pagaliau imtų veikti nuosekliai. Viešoji kronika, gilus archyvas ir aiškinamieji tekstai pradėti atskirti ne tik temomis, bet ir paskirtimi, ritmu bei kalba.
+
+Toks redakcinis sprendimas leido skaitytojui lengviau suvokti, kur jis skaito istorijos eigą, kur gilinasi į dokumentinį pagrindą, o kur susiduria su platesniu Respublikos modelio aiškinimu. Kartu tai sumažino stilistinį chaotiškumą.
+
+Nuo šio momento projektas tapo daug aiškesnis tiek vidiniam darbui, tiek išoriniam skaitymui.
+
+SEO:
+SEO title: BVK svetainėje aiškiau atskirti turinio sluoksniai
+Meta description: 2029 m. svetainėje pradėta nuosekliai atskirti viešąją kroniką, archyvą ir aiškinamuosius tekstus.
+Slug: aiskiau-atskirti-bvk-turinio-sluoksniai-2029
+
+IMAGE PROMPT:
+Photorealistic editorial workflow image with three separate content boards or folders, winter daylight, clean layout, no readable text, realistic publishing environment.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-02-06
+Parengė: BVK kanono ir chronologijos redakcija
+
+========================================================================
+ĮRAŠAS 3
+Data: 2029-03-20
+Rubrika: Duomenys
+Pavadinimas: Parengtas pirmasis Lietuvos, Latvijos ir Estijos erdvinės Respublikos raidos žemėlapio juodraštis
+
+STRAIPSNIS:
+Kovą parengtas pirmasis erdvinis žemėlapio juodraštis, apimantis Lietuvą, Latviją ir Estiją kaip bendrą būsimos Respublikos geografinį lauką. Šis sprendimas buvo svarbus, nes leido anksti atsisakyti siauro vienos vietovės mąstymo ir pradėti projektą suvokti kaip platesnės Baltijos erdvės reiškinį.
+
+Žemėlapis dar nebuvo galutinė schema. Jame daug kas liko atvira: vaidmenų paskirstymas miestams, regioninių centrų reikšmė, istorinės ašies stiprinimas. Tačiau jis sukūrė būtiną erdvinį mastelį.
+
+Nuo šiol Respublikos chronologija pradėta tikrinti ne vien laike, bet ir geografijoje.
+
+SEO:
+SEO title: Parengtas pirmasis BVK Baltijos erdvinis žemėlapis
+Meta description: 2029 m. parengtas pirmasis Lietuvos, Latvijos ir Estijos Respublikos raidos žemėlapio juodraštis.
+Slug: pirmasis-bvk-baltijos-erdvinis-zemelapis-2029
+
+IMAGE PROMPT:
+Photorealistic mapping scene with Baltic region map, city markers, colored strings and planning cards, early spring daylight, no readable text, documentary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-03-20
+Parengė: BVK kanono ir chronologijos redakcija
+
+========================================================================
+ĮRAŠAS 4
+Data: 2029-04-09
+Rubrika: Kultūra
+Pavadinimas: Romano pasaulio detalės pradėtos derinti prie bendros Respublikos istorinės linijos
+
+STRAIPSNIS:
+Balandį toliau stiprintas bendras kanonas: romano pasaulio detalės pradėtos nuosekliau derinti prie visos Respublikos istorinės linijos. Tai reiškė, kad net mažiausi kultūriniai elementai turėjo derėti su miestų raida, institucijų atsiradimu ir viešųjų tekstų logika.
+
+Šis žingsnis padėjo atsisakyti kelių gražių, bet bendrai chronologijai netinkančių sprendimų. Toks atsisakymas ne silpnino, o brandino projektą.
+
+Nuo šiol literatūrinis pasaulis tapo ne laisva interpretacija, o gilesniu bendros istorijos atspindžiu.
+
+SEO:
+SEO title: Romano detalės derintos prie bendros BVK linijos
+Meta description: 2029 m. romano pasaulio detalės pradėtos derinti prie bendros Respublikos istorinės linijos.
+Slug: romano-detales-prie-bvk-linijos-2029
+
+IMAGE PROMPT:
+Photorealistic writing-and-archive desk with manuscript notes aligned beside timeline cards and institutional maps, spring light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-04-09
+Parengė: BVK kanono ir chronologijos redakcija
+
+========================================================================
+ĮRAŠAS 5
+Data: 2029-05-21
+Rubrika: Technologijos
+Pavadinimas: Išbandytos pirmosios pusiau automatinės turinio generavimo schemos pagal rubrikas ir laikotarpius
+
+STRAIPSNIS:
+Gegužę išbandytos pirmosios pusiau automatinės schemos, leidžiančios planuoti turinį pagal rubrikas, laikotarpius ir redakcinį toną. Tai buvo ne bandymas kurti automatinį portalą, o būdas pagreitinti didelės apimties planavimą neprarandant kanono kontrolės.
+
+Bandymai parodė, kad vien techninis generavimas negali pakeisti žmogaus sprendimo, tačiau aiškios schemos labai padeda išlaikyti nuoseklumą ir ritmą. Ypač svarbu buvo suprasti, kad skirtingų metų stilius turi būti valdomas sąmoningai.
+
+Šiame etape pradėjo ryškėti būsimo ilgalaikio pildymo metodika.
+
+SEO:
+SEO title: Išbandytos pusiau automatinės BVK turinio schemos
+Meta description: 2029 m. išbandytos pirmosios pusiau automatinės turinio generavimo schemos pagal rubrikas ir laikotarpius.
+Slug: pusiau-automatines-bvk-turinio-schemos-2029
+
+IMAGE PROMPT:
+Photorealistic editorial tech scene with structured templates, checklist sheets and laptop workflow dashboard, late spring daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-05-21
+Parengė: BVK kanono ir chronologijos redakcija
+
+========================================================================
+ĮRAŠAS 6
+Data: 2029-06-12
+Rubrika: Archyvas
+Pavadinimas: Sukurtas pradinis viešų dokumentų, vidinių nuorodų ir susijusių tekstų ryšių modelis
+
+STRAIPSNIS:
+Birželio mėnesį pradėtas formuoti svarbus vidinis ryšių sluoksnis: modelis, jungiantis viešus dokumentus, vidines nuorodas ir susijusius tekstus. Toks sprendimas leido projektą matyti ne kaip atskirų failų rinkinį, o kaip tarpusavyje susietą atminties sistemą.
+
+Šis darbas turėjo ir praktinę, ir pasaulio kūrimo reikšmę. Praktiniu lygmeniu jis padėjo greičiau rasti medžiagą. Kanono lygmeniu - leido aiškiau matyti, kaip viena nuostata ar tema auga per skirtingas epochas.
+
+Nuo šiol Respublikos archyvas pradėtas kurti kaip susieta visuma.
+
+SEO:
+SEO title: Sukurtas BVK dokumentų ryšių modelis
+Meta description: 2029 m. sukurtas pradinis viešų dokumentų, vidinių nuorodų ir susijusių tekstų ryšių modelis.
+Slug: bvk-dokumentu-rysiu-modelis-2029
+
+IMAGE PROMPT:
+Photorealistic document-linking scene with folders, cross-reference cards, tabs and connection strings on a desk, summer daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-06-12
+Parengė: BVK kanono ir chronologijos redakcija
+
+========================================================================
+ĮRAŠAS 7
+Data: 2029-07-24
+Rubrika: Vystymasis
+Pavadinimas: Išryškintas principas, kad Respublika pirmiausia kuriama kaip kultūrinė ir informacinė terpė
+
+STRAIPSNIS:
+Liepos pabaigoje aiškiau suformuluotas principas, kuris vėliau taps vienu svarbiausių visai ankstyvajai fazei: Respublika pirmiausia kuriama kaip kultūrinė ir informacinė terpė. Tai reiškė, kad pradinis jos veikimas turi skleistis per kalbą, vaizduotę, dokumentus, idėjas ir lėtą sąmonės pokytį.
+
+Šis apsisprendimas buvo svarbus todėl, kad apsaugojo projektą nuo skuboto politinio imitavimo. Vietoje ankstyvos deklaratyvios jėgos pasirinktas ilgas, lėtas, bet tvirtesnis visuomeninio vaizduotės lauko kūrimas.
+
+Nuo šios dienos skaitmeninis sluoksnis imtas laikyti ne priedu, o pačia pradine Respublikos forma.
+
+SEO:
+SEO title: Išryškintas kultūrinės ir informacinės Respublikos principas
+Meta description: 2029 m. pabrėžta, kad BVK pirmiausia kuriama kaip kultūrinė ir informacinė terpė.
+Slug: kulturine-ir-informacine-respublikos-terpe-2029
+
+IMAGE PROMPT:
+Photorealistic calm summer photo of archive materials, website mockups and cultural notes on a large table, natural daylight, no readable text, reflective editorial mood.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-07-24
+Parengė: BVK kanono ir chronologijos redakcija
+
+========================================================================
+ĮRAŠAS 8
+Data: 2029-08-15
+Rubrika: Bendruomenė
+Pavadinimas: Pirmieji skaitytojai pradėjo siūlyti temas ir aptarti galimas svetainės kryptis
+
+STRAIPSNIS:
+Rugpjūtį pirmą kartą pastebėta, kad skaitytojai ne tik seka projektą, bet ir pradeda siūlyti temas, klausti apie kryptis bei aptarti galimus svetainės plėtros būdus. Tai buvo ankstyvas, tačiau labai svarbus ženklas, kad auditorija pamažu pereina iš stebėjimo į santykį.
+
+Ši fazė dar nebuvo tikra bendrakūra, tačiau ji parodė, kad projektas pradeda veikti kitų žmonių mąstymą. Kartu tai atnešė ir naują atsakomybę - reikėjo aiškiau saugoti kanoną, kad išorinis susidomėjimas jo neišblaškytų.
+
+Taip ėmė rastis pirmieji lėto dialogo su auditorija pavidalai.
+
+SEO:
+SEO title: Pirmieji skaitytojai pradėjo siūlyti BVK temas
+Meta description: 2029 m. pirmieji skaitytojai pradėjo siūlyti temas ir aptarti galimas BVK svetainės kryptis.
+Slug: skaitytojai-pradejo-siulyti-bvk-temas-2029
+
+IMAGE PROMPT:
+Photorealistic candid discussion scene with printed pages, notes and laptops around a small table, late summer light, natural gestures, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-08-15
+Parengė: BVK kanono ir chronologijos redakcija
+
+========================================================================
+ĮRAŠAS 9
+Data: 2029-09-10
+Rubrika: Kultūra
+Pavadinimas: Pradėtas rengti straipsnių ciklas apie būsimos Respublikos miestus, aplinką ir kasdienybę
+
+STRAIPSNIS:
+Rugsėjį pradėtas rengti naujas straipsnių ciklas, skirtas būsimos Respublikos miestams, aplinkai ir kasdieniam gyvenimui. Šis sprendimas buvo svarbus todėl, kad iki tol daug dėmesio teko principams ir struktūrai, o dabar imta aiškiau rodyti, kaip visa tai atrodytų žmogaus kasdienybėje.
+
+Straipsnių ciklo tikslas - parodyti miestą ne kaip dekoraciją, o kaip tvarkos, saugumo, darbo, poilsio ir kūrybos pusiausvyrą. Tokie tekstai vėliau taps vienu iš stipriausių būdų priartinti Respubliką prie skaitytojo vaizduotės.
+
+Būtent čia projektas dar labiau įžengė į gyvenamo pasaulio aprašymą.
+
+SEO:
+SEO title: Pradėtas BVK miestų ir kasdienybės straipsnių ciklas
+Meta description: 2029 m. pradėtas rengti straipsnių ciklas apie būsimos Respublikos miestus, aplinką ir kasdienybę.
+Slug: bvk-miestu-ir-kasdienybes-ciklas-2029
+
+IMAGE PROMPT:
+Photorealistic urban planning moodboard with street photos, green spaces, housing sketches and civic notes, early autumn light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-09-10
+Parengė: BVK kanono ir chronologijos redakcija
+
+========================================================================
+ĮRAŠAS 10
+Data: 2029-10-22
+Rubrika: Archyvas
+Pavadinimas: Parengta pirmoji nuosekli darbinė 2026-2086 metų chronologijos redakcija
+
+STRAIPSNIS:
+Spalio mėnesį parengta pirmoji nuosekli darbinė Respublikos chronologijos redakcija, apimanti ilgą laikotarpį nuo ankstyvųjų užuomazgų iki brandesnių ateities etapų. Tai buvo vienas svarbiausių projekto struktūrinių laimėjimų per visą ankstyvąją fazę.
+
+Nors ši redakcija dar nebuvo galutinė, ji leido pirmą kartą matyti, kaip per dešimtmečius galėtų kisti tonas, institucijos, socialiniai santykiai ir viešasis gyvenimas. Taip atsirado pagrindas tolimesniam turinio planavimui.
+
+Nuo šiol Respublikos pasaulis jau turėjo savo ilgąją laiko ašį.
+
+SEO:
+SEO title: Parengta pirmoji nuosekli darbinė BVK chronologijos redakcija
+Meta description: 2029 m. parengta pirmoji nuosekli darbinė 2026-2086 metų Respublikos chronologijos redakcija.
+Slug: pirmoji-darbine-bvk-chronologija-2029
+
+IMAGE PROMPT:
+Photorealistic long-table timeline scene with decade markers, stacked revisions and archive materials, autumn daylight, no readable text, documentary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-10-22
+Parengė: BVK kanono ir chronologijos redakcija
+
+========================================================================
+ĮRAŠAS 11
+Data: 2029-11-13
+Rubrika: Vystymasis
+Pavadinimas: Patvirtinta kryptis, kad svetainė turi augti kaip būsimos visuomeninės sistemos simuliacinis modelis
+
+STRAIPSNIS:
+Lapkričio mėnesį galutiniau įsitvirtino kryptis, kad svetainė turi augti ne kaip įprastas informacinis puslapis, o kaip būsimos visuomeninės sistemos simuliacinis modelis. Tai reiškė, kad jos turinys turi būti pakankamai nuoseklus, jog skaitytojas galėtų ne tik gauti informaciją, bet ir patirti kintančią tvarką.
+
+Šis sprendimas stipriai paveikė redakcinį mąstymą. Kiekviena publikacija nuo šiol turėjo būti vertinama pagal tai, ar ji stiprina bendrą pasaulį, o ne tik užpildo teminę spragą.
+
+Taip buvo padėtas pagrindas daug rimtesniam ilgalaikės svetainės projektavimui.
+
+SEO:
+SEO title: Patvirtintas BVK simuliacinio modelio principas
+Meta description: 2029 m. patvirtinta kryptis, kad svetainė turi augti kaip būsimos visuomeninės sistemos simuliacinis modelis.
+Slug: bvk-simuliacinio-modelio-principas-2029
+
+IMAGE PROMPT:
+Photorealistic conceptual website planning scene with layered navigation maps and societal flow diagrams, late autumn light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-11-13
+Parengė: BVK kanono ir chronologijos redakcija
+
+========================================================================
+ĮRAŠAS 12
+Data: 2029-12-18
+Rubrika: Archyvas
+Pavadinimas: Metų apžvalga: idėja įgavo tvirtesnį turinio karkasą ir istorinę ašį
+
+STRAIPSNIS:
+2029 metai tapo laikotarpiu, kai projektas įgijo tvirtesnį vidinį stuburą. Buvo tvarkomas pradinis kanonas, atskirti svetainės turinio sluoksniai, parengtas Baltijos erdvinis žemėlapis, sustiprinta romano ir dokumentinio pasaulio jungtis, išbandytos pusiau automatinės planavimo schemos, pradėtas susietas archyvas, pradėtas miestų ir kasdienybės ciklas, atsirado pirmoji nuosekli chronologijos redakcija.
+
+Svarbiausia metų išvada - Respublikos idėja jau turi ne tik medžiagų masyvą, bet ir aiškią istorinio augimo ašį. Kartu tapo akivaizdu, kad tolimesnė plėtra reikalaus dar didesnės disciplinos.
+
+Metai užbaigiami kaip kanono sutvirtinimo etapas.
+
+SEO:
+SEO title: 2029 m. BVK metų apžvalga
+Meta description: 2029 metų apžvalga: Respublikos idėja įgavo tvirtesnį turinio karkasą ir aiškesnę istorinę ašį.
+Slug: bvk-2029-metu-apzvalga
+
+IMAGE PROMPT:
+Photorealistic end-of-year archive table with chronology volumes, maps and refined folders, winter evening light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-12-18
+Parengė: BVK kanono ir chronologijos redakcija
