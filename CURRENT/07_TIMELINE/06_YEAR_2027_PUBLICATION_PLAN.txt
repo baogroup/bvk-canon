@@ -1,0 +1,334 @@
+BVK CANON
+Годовой публикационный план 2027
+
+Статус: ACTIVE
+Версия: v1.0
+Дата первого принятия: 2026-04-23
+Текущая редакция: 2026-04-23
+История поправок: CHANGE-0063
+Уровень доступа: SERVICE
+Историческая принадлежность: ранний идейный слой
+Связанные закрытые документы: нет
+Коды связанных закрытых документов: нет
+
+Назначение:
+Этот файл закрепляет годовой публикационный план для 2027 года в рамках внутреннего SERVICE-слоя BVK Canon.
+
+Главный принцип:
+Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
+Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+
+Связь с другими файлами:
+- 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
+- данный файл переводит эту логику в конкретный годовой набор публикаций
+
+BVK METINIS PLANAS 2027
+
+METINIS STILIUS IR TONAS
+- Idėja plečiasi į pasaulį, pasakojimą ir pirmus išorinius atgarsius.
+- Tekstai turi būti šiek tiek tvirtesni nei 2026 m., bet dar ne oficialūs.
+- Daugiau kultūrinio sluoksnio: romano užuomazgos, miestų vaizduotė, pirmieji skaitytojai.
+- Leidžiama daugiau vientisos pasakojimo energijos, tačiau be deklaratyvios politikos.
+
+REKOMENDUOJAMAS PARENGĖJAS: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 1
+Data: 2027-01-13
+Rubrika: Kultūra
+Pavadinimas: Pradėta rengti romano apie 2080-uosius koncepcija, susieta su BVK archyvais ir Respublikos idėja
+
+STRAIPSNIS:
+Sausio mėnesį Respublikos projektas įgijo naują kryptį - pradėta formuoti romano apie brandžią ateities epochą koncepcija. Šis sumanymas kilo iš supratimo, kad vien dokumentų ir naujienų nepakanka: skaitytojui reikia ir gyvo žmogaus žvilgsnio į pasaulį, kuriame Respublika jau tapusi kasdienybe.
+
+Ankstyvieji romano užrašai buvo tiesiogiai siejami su kuriamu BVK archyvu. Miestai, institucijos, viešoji tvarka, kasdienybės detalės ir moraliniai konfliktai buvo derinami taip, kad literatūrinis sluoksnis neprieštarautų dokumentiniam pasauliui.
+
+Ši publikacija žymi momentą, kai Respublikos idėja įgijo ne tik teisinių ir struktūrinių, bet ir pasakojimo formų.
+
+SEO:
+SEO title: Pradėta rengti BVK romano koncepcija 2027 m.
+Meta description: 2027 m. pradėta rengti romano apie 2080-uosius koncepcija, tiesiogiai susieta su BVK archyvais ir Respublikos pasauliu.
+Slug: pradeta-rengti-bvk-romano-koncepcija-2027
+
+IMAGE PROMPT:
+Photorealistic horizontal editorial photo, writer’s desk with notebooks, city sketches, timeline notes and a laptop, winter daylight, literary planning atmosphere, no readable text, natural documentary style.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-01-13
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 2
+Data: 2027-02-07
+Rubrika: Archyvas
+Pavadinimas: Sukurtas pirmasis pasakojimo ir dokumentinio Respublikos pasaulio ryšio modelis
+
+STRAIPSNIS:
+Vasario pradžioje pirmą kartą sistemingai sujungti du iki tol greta augę sluoksniai - dokumentinis Respublikos archyvas ir būsimo pasakojimo pasaulis. Buvo kuriamas modelis, leidžiantis tam pačiam istoriniam laikotarpiui turėti ir viešą dokumento balsą, ir gyvesnį kultūrinį atspindį.
+
+Šis sprendimas padėjo išvengti dviejų atskirų projektų. Vietoje to pradėjo ryškėti viena vientisa kanono sistema, kurioje teisė, naujienos, kronika ir literatūra remiasi bendru pagrindu.
+
+Nors pats modelis dar buvo ankstyvas ir ne kartą koreguotas, jo atsiradimas tapo lūžiu visoje Respublikos kūrimo metodikoje.
+
+SEO:
+SEO title: Sujungti BVK dokumentinis ir pasakojimo pasauliai
+Meta description: 2027 m. sukurtas pirmasis modelis, jungiantis dokumentinį Respublikos archyvą ir pasakojimo pasaulį.
+Slug: sujungti-bvk-dokumentinis-ir-pasakojimo-pasauliai-2027
+
+IMAGE PROMPT:
+Photorealistic tabletop scene with document folders beside story pages and map sketches, late-winter daylight, clear separation and connection between materials, no readable text, realistic editorial photography.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-02-07
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 3
+Data: 2027-03-16
+Rubrika: Kultūra
+Pavadinimas: Parengti ankstyvieji būsimo romano miestų, institucijų ir laikmečio užrašai
+
+STRAIPSNIS:
+Kovo mėnesį pradėti rengti detalesni būsimo romano užrašai, skirti miestams, institucijoms ir laikmečio nuotaikai. Svarbiausia užduotis buvo ne kurti dekoraciją, o iš anksto pajusti, kaip gyventų visuomenė, kurioje pagrindiniai Respublikos principai jau yra įsitvirtinę.
+
+Miestų užrašuose daug dėmesio skirta erdvei, ritmui, švarai, archyvams, tylesnei viešajai kultūrai ir kasdieniam žmogaus santykiui su tvarka. Institucijų sluoksnis vystytas taip, kad jos atrodytų ne kaip bausmės aparatas, o kaip ilgalaikį stabilumą palaikanti sistema.
+
+Šiame etape dar nebuvo galutinio formų tikslumo, tačiau ateities pasaulio medžiaga pirmą kartą pradėjo įgauti savitą atmosferą.
+
+SEO:
+SEO title: Parengti pirmieji būsimo Respublikos pasaulio užrašai
+Meta description: 2027 m. parengti ankstyvieji būsimo romano miestų, institucijų ir laikmečio užrašai.
+Slug: pirmieji-respublikos-pasaulio-uzrasai-2027
+
+IMAGE PROMPT:
+Photorealistic creative planning photo with city sketch papers, institutional diagrams and handwritten atmosphere notes spread across desk, early spring light, natural optics, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-03-16
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮРАŠAS 4
+Data: 2027-04-11
+Rubrika: Vystymasis
+Pavadinimas: Svetainės turinio vizija išplėsta į ilgalaikį Respublikos istorijos ir kultūros projektą
+
+STRAIPSNIS:
+Balandį tapo aišku, kad svetainė negalės apsiriboti vien naujienomis ar teoriniais aprašais. Jos vizija buvo išplėsta į ilgą istorijos, kultūros, teisės ir kasdienybės lauką, kuriame ateities Respublika būtų matoma kaip pilnas civilizacinis projektas.
+
+Šis pokytis reiškė, kad svetainė turės tarnauti kelioms funkcijoms iš karto: aiškinti idėją, kaupti archyvą, ugdyti skaitytojo žvilgsnį ir kurti gyvą kultūrinę terpę. Tai pareikalavo peržiūrėti ankstesnį turinio planą ir tiksliau atskirti, kas yra grynoji kronika, kas - dokumentas, o kas - kultūrinis sluoksnis.
+
+Nuo šios dienos projektas pradėtas laikyti ilgalaike Respublikos atminties ir vaizduotės sistema.
+
+SEO:
+SEO title: Išplėsta ilgalaikė BVK svetainės vizija
+Meta description: 2027 m. svetainės turinio vizija išplėsta į ilgalaikį Respublikos istorijos ir kultūros projektą.
+Slug: isplesta-ilgalaike-bvk-svetaines-vizija-2027
+
+IMAGE PROMPT:
+Photorealistic editorial photo of planning board with sections for history, law, culture and daily life, spring daylight, realistic studio-documentary mood, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-04-11
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 5
+Data: 2027-05-19
+Rubrika: Technologijos
+Pavadinimas: AI pradėtas naudoti ne tik idėjoms, bet ir fikcinio ateities pasaulio vientisumui tikrinti
+
+STRAIPSNIS:
+Gegužės mėnesį AI naudojimas tapo tikslesnis. Jei anksčiau jis daugiausia padėdavo plėsti mintį ir ieškoti krypčių, tai dabar pradėtas taikyti ir pasaulio vientisumui tikrinti: ar neprieštarauja miestų raida, ar laiko ašis logiška, ar institucijų atsiradimas dera su visuomenės brandos etapais.
+
+Toks darbas parodė ir naują sunkumą - kuo daugiau sluoksnių projektas turėjo, tuo dažniau išryškėdavo neatitikimai. Dėl to dalis ankstesnių aprašų buvo peržiūrėti ir perrašyti.
+
+Šis etapas sustiprino bendrą darbo metodą: Respublikos pasaulis turi būti ne tik gražiai parašytas, bet ir viduje nuoseklus.
+
+SEO:
+SEO title: AI pradėtas naudoti BVK pasaulio vientisumui tikrinti
+Meta description: 2027 m. AI pradėtas naudoti ne tik idėjoms, bet ir Respublikos ateities pasaulio vientisumui tikrinti.
+Slug: ai-tikrino-bvk-pasaulio-vientisuma-2027
+
+IMAGE PROMPT:
+Photorealistic workstation photo with multiple timeline sheets, maps and consistency notes beside laptop, late spring daylight, serious analytical mood, no readable text, realistic photography.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-05-19
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 6
+Data: 2027-06-14
+Rubrika: Kultūra
+Pavadinimas: Išgrynintos pirmosios romano temos: atsakomybė, archyvai, miestas ir sistemos trapumas
+
+STRAIPSNIS:
+Birželį aiškiau išryškėjo pirmosios pagrindinės būsimo romano temos. Paaiškėjo, kad pasakojimo centre turės būti ne vien ateities tvarka, bet ir jos kaina: atsakomybė, atmintis, miestas kaip gyvas darinys, institucijų trapumas ir žmogaus santykis su sistema, kuri turi išlikti teisinga.
+
+Šių temų atradimas buvo svarbus ir pačiam projektui. Jis leido tiksliau suprasti, kokia moralinė įtampa turi slypėti ir viešuosiuose Respublikos tekstuose. Net tobulesnės tvarkos vizija negali būti negyva - ji turi turėti žmogaus mastelį.
+
+Nuo šio momento kultūrinis sluoksnis pradėtas naudoti kaip būdas gilinti pačią projekto šerdį.
+
+SEO:
+SEO title: Išgrynintos pirmosios BVK romano temos
+Meta description: 2027 m. aiškiau išgrynintos pirmosios būsimo Respublikos romano temos: atsakomybė, archyvai ir sistemos trapumas.
+Slug: isgrynintos-pirmosios-bvk-romano-temos-2027
+
+IMAGE PROMPT:
+Photorealistic contemplative desk scene with thematic notes, city photos, notebooks and highlighted motifs, warm early summer light, literary-documentary feel, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-06-14
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 7
+Data: 2027-07-26
+Rubrika: Archyvas
+Pavadinimas: Pradėtas rinkti atskiras BVK pasaulio datų, vietų ir veikėjų kanonas
+
+STRAIPSNIS:
+Liepos pabaigoje pradėtas atskiras datų, vietų ir veikėjų kanonas. Iki tol daugelis šių elementų egzistavo skirtinguose užrašuose, tačiau tapo aišku, kad be vieningos atminties projektas ims pats sau prieštarauti.
+
+Pradinis kanonas buvo dar labai ankstyvas: dalis vietovardžių buvo laikini, veikėjų funkcijos kito, o keli istoriniai įvykiai dar neturėjo tikslių datų. Vis dėlto būtent šis žingsnis leido pereiti nuo padriko kūrimo prie ilgalaikio pasaulio saugojimo.
+
+Nuo šio momento kiekviena nauja detalė turėjo būti vertinama ne pavieniui, o visos Respublikos istorijos kontekste.
+
+SEO:
+SEO title: Pradėtas rinkti BVK datų ir vietų kanonas
+Meta description: 2027 m. pradėtas sistemingai rinkti atskiras BVK pasaulio datų, vietų ir veikėjų kanonas.
+Slug: pradetas-rinkti-bvk-datu-vietu-kanonas-2027
+
+IMAGE PROMPT:
+Photorealistic archival classification scene with labeled map pins, character cards, date strips and folders, midsummer light, no readable text, natural materials, documentary style.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-07-26
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 8
+Data: 2027-08-18
+Rubrika: Bendruomenė
+Pavadinimas: Socialiniuose tinkluose pirmą kartą pasidalinta mintimis apie būsimą svetainę ir jos pasaulį
+
+STRAIPSNIS:
+Rugpjūtį projektas pirmą kartą atsargiai paliestas viešesnėje erdvėje. Socialiniuose tinkluose pasidalinta mintimis apie būsimą svetainę, jos neįprastą koncepciją ir galimybę skaitytojui patekti į lėtai kuriamą ateities pasaulį.
+
+Reakcija buvo kukli, tačiau svarbi. Keli žmonės iš karto suprato idėjos mastą, kiti matė tai kaip keistą eksperimentą. Vis dėlto šis išėjimas leido pamatyti, kad projektas gali įdomiai skambėti ir už uždaro kūrimo lauko ribų.
+
+Būtent čia prasidėjo pirmieji būsimos bendruomenės atgarsiai, nors jų dar negalima vadinti nei ratu, nei sąjūdžiu.
+
+SEO:
+SEO title: Apie būsimą BVK svetainę pirmą kartą prabilta viešiau
+Meta description: 2027 m. socialiniuose tinkluose pirmą kartą pasidalyta mintimis apie būsimą BVK svetainę ir jos pasaulį.
+Slug: pirmasis-viesesnis-bvk-pristatymas-2027
+
+IMAGE PROMPT:
+Photorealistic casual modern photo of a hand near laptop and phone showing social posting workflow, late summer daylight, realistic domestic setting, no readable screen text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-08-18
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 9
+Data: 2027-09-09
+Rubrika: Kultūra
+Pavadinimas: Pasirodė pirmieji atsiliepimai apie romano ir Respublikos idėjos jungtį
+
+STRAIPSNIS:
+Rugsėjį gauti pirmieji išoriniai atgarsiai apie romano ir Respublikos idėjos jungtį. Būtent ši sąsaja sulaukė daugiausia smalsumo, nes leido pažvelgti į projektą ne kaip į sausą teoriją, o kaip į pasaulį, kurį galima skaityti, įsivaizduoti ir pamažu suprasti.
+
+Dalis atsiliepimų buvo padrąsinantys, dalis - atsargūs. Kilo ir klausimų, ar tokia forma nesusilpnins pačios visuomeninės minties. Tačiau ilgainiui paaiškėjo, kad kultūrinis sluoksnis veikiau stiprina projekto įtaigą.
+
+Ši publikacija žymi momentą, kai pasaulio kūrimas pradėjo veikti ne tik viduje, bet ir skaitytojo sąmonėje.
+
+SEO:
+SEO title: Pasirodė pirmieji atsiliepimai apie BVK ir romaną
+Meta description: 2027 m. pasirodė pirmieji atsiliepimai apie būsimo romano ir Respublikos idėjos jungtį.
+Slug: pirmieji-atsiliepimai-apie-bvk-ir-romana-2027
+
+IMAGE PROMPT:
+Photorealistic editorial photo of printed feedback notes beside manuscript pages and concept folders, early autumn light, natural realism, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-09-09
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 10
+Data: 2027-10-21
+Rubrika: Bendruomenė
+Pavadinimas: Aplink svetainės idėją ėmė rastis pirmasis nedidelis susidomėjusių skaitytojų ratas
+
+STRAIPSNIS:
+Spalį pirmą kartą tapo matoma, kad projektą pradeda sekti ne vien atsitiktiniai smalsuoliai. Aplink svetainės idėją ėmė rastis nedidelis, bet jau atpažįstamas skaitytojų ratas, kuriam rūpėjo ne vien neįprasta forma, bet ir pati Respublikos vizija.
+
+Kol kas šis ratas dar buvo trapus. Žmonės daugiausia stebėjo, klausinėjo, lygino, bandė suprasti, ar kalbama apie meną, idėjinį projektą, ar būsimą visuomeninį modelį. Tačiau vien tai, kad atsirado sugrįžtančių skaitytojų, tapo svarbiu ženklu.
+
+Nuo šio momento projektas pradėjo turėti ne tik archyvą, bet ir pirmąją tikrą auditorijos atmintį.
+
+SEO:
+SEO title: Aplink BVK idėją ėmė rastis pirmieji skaitytojai
+Meta description: 2027 m. aplink svetainės idėją susiformavo pirmasis nedidelis susidomėjusių skaitytojų ratas.
+Slug: aplink-bvk-ideja-pirmieji-skaitytojai-2027
+
+IMAGE PROMPT:
+Photorealistic candid small-group scene in a café or quiet room, people discussing printed concept pages, natural gestures, autumn daylight, no readable text, documentary mood.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-10-21
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 11
+Data: 2027-11-12
+Rubrika: Archyvas
+Pavadinimas: Parengtas pirmasis BVK pasaulio ir romano medžiagos sujungtas darbinių užrašų rinkinys
+
+STRAIPSNIS:
+Lapkričio mėnesį parengtas pirmasis stambesnis darbinių užrašų rinkinys, kuriame vienoje vietoje sukaupta pagrindinė Respublikos pasaulio, laiko ašies ir romano medžiaga. Tai leido pirmą kartą matyti visą projektą ne atskiromis dalimis, o kaip vieną augančią struktūrą.
+
+Rinkinys dar nebuvo galutinis. Jame liko pasikartojimų, skirtingo tono įrašų ir kelių prieštaringų sprendimų. Tačiau jis atliko svarbiausią darbą - tapo pereinamuoju tiltu tarp išsibarsčiusių metų užrašų ir būsimo nuoseklaus kanono.
+
+Šis etapas sustiprino suvokimą, kad projektui reikės ne tik kūrybinės, bet ir griežtos redakcinės drausmės.
+
+SEO:
+SEO title: Parengtas jungtinis BVK ir romano užrašų rinkinys
+Meta description: 2027 m. parengtas pirmasis jungtinis BVK pasaulio ir romano darbinių užrašų rinkinys.
+Slug: jungtinis-bvk-ir-romano-uzrasu-rinkinys-2027
+
+IMAGE PROMPT:
+Photorealistic desk photo with thick clipped manuscript bundle, folders and reference notes, late autumn daylight, realistic paper textures, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-11-12
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 12
+Data: 2027-12-20
+Rubrika: Kultūra
+Pavadinimas: Metų apžvalga: Respublikos idėja įgavo ne tik principus, bet ir savo pasakojimo pasaulį
+
+STRAIPSNIS:
+2027 metai užbaigiami kaip laikotarpis, kai Respublikos projektas iš grynai struktūrinės idėjos virto pilnesniu pasauliu. Per šiuos mėnesius pradėta romano koncepcija, sujungtas dokumentinis ir pasakojimo sluoksnis, parengti miestų ir institucijų užrašai, išgrynintos pagrindinės temos, pradėtas atskiras datų ir vietų kanonas bei atsirado pirmieji išoriniai skaitytojų atgarsiai.
+
+Metai parodė ir naujus reikalavimus. Kuo pasaulis tapo turtingesnis, tuo didesnės tapo vidinės drausmės, vientisumo ir peržiūros užduotys. Tačiau būtent šis sudėtingumas liudijo, kad projektas ima gyventi.
+
+Svarbiausia metų išvada - Respublikos idėja jau turi ne tik principus ir kryptį, bet ir savąją vaizduotės terpę.
+
+SEO:
+SEO title: 2027 m. BVK metų kultūrinė apžvalga
+Meta description: 2027 metų apžvalga: Respublikos idėja įgavo ne tik principus, bet ir savą pasakojimo pasaulį.
+Slug: bvk-2027-metu-kulturine-apzvalga
+
+IMAGE PROMPT:
+Photorealistic winter evening review scene with archive folders, manuscript stack and warm desk lamp, calm end-of-year mood, no readable text, documentary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-12-20
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
