@@ -2,10 +2,10 @@ BVK CANON
 Карта связей документов
 
 Статус: ACTIVE
-Версия: v1.3
+Версия: v1.4
 Дата первого принятия: 2026-04-19
-Текущая редакция: 2026-04-22
-История поправок: CHANGE-0055
+Текущая редакция: 2026-04-23
+История поправок: CHANGE-0061
 Уровень доступа: PUBLIC
 Историческая принадлежность: ранний идейный слой
 Связанные закрытые документы: нет
@@ -56,6 +56,8 @@ CHANGELOG.txt
 - MASTER_INDEX.txt
 - LINK_MAP.txt
 - 05_CLOSED_LINKING_RULES.txt
+- 07_ASSISTANT_WORK_PROTOCOL.txt
+- 08_DOCUMENT_CLASSIFICATION_RULES.txt
 
 05_CLOSED_LINKING_RULES.txt
 Связан с:
@@ -64,12 +66,6 @@ CHANGELOG.txt
 - всеми PUBLIC-документами, имеющими связи с RESTRICTED или SEALED
 - правилами публикации assistant-слоя
 
-CLOSED_REFERENCE_REGISTRY.txt
-Связан с:
-- 05_CLOSED_LINKING_RULES.txt
-- 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-- всеми PUBLIC-документами, в шапке которых указаны коды R-... или S-...
-
 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
 Связан с:
 - 00_START_HERE.txt
@@ -77,6 +73,25 @@ CLOSED_REFERENCE_REGISTRY.txt
 - 05_CLOSED_LINKING_RULES.txt
 - CLOSED_REFERENCE_REGISTRY.txt
 - всеми документами, где указывается уровень доступа
+- 07_ASSISTANT_WORK_PROTOCOL.txt
+- 08_DOCUMENT_CLASSIFICATION_RULES.txt
+
+07_ASSISTANT_WORK_PROTOCOL.txt
+Связан с:
+- MASTER_INDEX.txt
+- CHANGELOG.txt
+- LINK_MAP.txt
+- 04_SIMPLE_EDITING_WORKFLOW.txt
+- 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+- всеми SERVICE-документами, создаваемыми для внутренней рабочей среды
+
+08_DOCUMENT_CLASSIFICATION_RULES.txt
+Связан с:
+- 07_ASSISTANT_WORK_PROTOCOL.txt
+- 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+- MASTER_INDEX.txt
+- LINK_MAP.txt
+- всеми SERVICE-документами планирования, narrative-слоя и редакционной сборки
 
 01_WORLD_CORE.txt
 Связан с:
@@ -120,6 +135,43 @@ CLOSED_REFERENCE_REGISTRY.txt
 - законом о светском характере публичных учреждений
 - законом о государственном календаре
 
+07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
+Связан с:
+- 01_WORLD_CORE.txt
+- 02_STATE_IDENTITY.txt
+- 01_CONSTITUTIONAL_FRAME.txt
+- 02_BVK_AND_COUNCIL.txt
+- 03_PHASE_2026_2045_FOUNDING_LAYER.txt
+- 02_CONTENT_PLAN_2026_2046.txt
+- 04_ARTICLE_MATRIX_2026_2046.txt
+
+07_TIMELINE/02_CONTENT_PLAN_2026_2046.txt
+Связан с:
+- 01_TIMELINE_CORE_2026_2086.txt
+- 03_PHASE_2026_2045_FOUNDING_LAYER.txt
+- 04_ARTICLE_MATRIX_2026_2046.txt
+- 07_ASSISTANT_WORK_PROTOCOL.txt
+- 08_DOCUMENT_CLASSIFICATION_RULES.txt
+- 09_NEWS_AND_NARRATIVE/*
+
+07_TIMELINE/03_PHASE_2026_2045_FOUNDING_LAYER.txt
+Связан с:
+- 01_TIMELINE_CORE_2026_2086.txt
+- 02_CONTENT_PLAN_2026_2046.txt
+- 04_ARTICLE_MATRIX_2026_2046.txt
+- 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
+- 09_NEWS_AND_NARRATIVE/02_PERIODS/2036_2045_PRESTATE_LAYER.txt
+
+07_TIMELINE/04_ARTICLE_MATRIX_2026_2046.txt
+Связан с:
+- 02_CONTENT_PLAN_2026_2046.txt
+- 03_PHASE_2026_2045_FOUNDING_LAYER.txt
+- 07_ASSISTANT_WORK_PROTOCOL.txt
+- 08_DOCUMENT_CLASSIFICATION_RULES.txt
+- 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
+- 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/02_PUBLICATION_CARD_TEMPLATE.txt
+- всеми будущими годовыми публикационными планами
+
 09_NEWS_AND_NARRATIVE/00_NEWS_SYSTEM_START_HERE.txt
 Связан с:
 - 01_NEWS_EVOLUTION_MODEL_2026_2086.txt
@@ -129,6 +181,8 @@ CLOSED_REFERENCE_REGISTRY.txt
 - 03_EDITORIAL_RULES/02_PUBLICATION_CARD_TEMPLATE.txt
 - 04_LINK_REGISTRY/01_CANON_LINK_RULE.txt
 - 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
+- 07_TIMELINE/02_CONTENT_PLAN_2026_2046.txt
+- 07_TIMELINE/04_ARTICLE_MATRIX_2026_2046.txt
 - 06_ARCHIVE_AND_SITE/*
 - 08_NOVEL_LINK/*
 
@@ -146,6 +200,7 @@ CLOSED_REFERENCE_REGISTRY.txt
 - 00_NEWS_SYSTEM_START_HERE.txt
 - 01_NEWS_EVOLUTION_MODEL_2026_2086.txt
 - 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
+- 07_TIMELINE/03_PHASE_2026_2045_FOUNDING_LAYER.txt
 - 06_ARCHIVE_AND_SITE/*
 - 08_NOVEL_LINK/*
 - 03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
@@ -155,6 +210,7 @@ CLOSED_REFERENCE_REGISTRY.txt
 - 00_NEWS_SYSTEM_START_HERE.txt
 - 01_NEWS_EVOLUTION_MODEL_2026_2086.txt
 - 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
+- 07_TIMELINE/03_PHASE_2026_2045_FOUNDING_LAYER.txt
 - 02_GOVERNANCE/*
 - 03_SOCIAL_ORDER/*
 - 05_TECH_AND_INFRA/*
@@ -165,12 +221,14 @@ CLOSED_REFERENCE_REGISTRY.txt
 - 02_PERIODS/2026_2035_FOUNDING_LAYER.txt
 - 02_PERIODS/2036_2045_PRESTATE_LAYER.txt
 - 02_PUBLICATION_CARD_TEMPLATE.txt
+- 07_TIMELINE/04_ARTICLE_MATRIX_2026_2046.txt
 - всеми будущими файлами годовых и периодных публикационных планов
 
 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/02_PUBLICATION_CARD_TEMPLATE.txt
 Связан с:
 - 03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
 - 04_LINK_REGISTRY/01_CANON_LINK_RULE.txt
+- 07_TIMELINE/04_ARTICLE_MATRIX_2026_2046.txt
 - всеми будущими карточками публикаций
 
 09_NEWS_AND_NARRATIVE/04_LINK_REGISTRY/01_CANON_LINK_RULE.txt
@@ -185,5 +243,6 @@ CLOSED_REFERENCE_REGISTRY.txt
 Если меняется дата основания, статус гражданства, роль BVK, светский порядок, календарь, валюта, хронология,
 уровень доступа документа или наличие его закрытых связей,
 нужно обязательно проверить все связанные документы.
-Если меняется эволюция сайта, narrative-слой, периодный стиль публикаций или логика связки статей с каноном,
-нужно обязательно проверить блок 09_NEWS_AND_NARRATIVE вместе с TIMELINE, ARCHIVE_AND_SITE и NOVEL_LINK.
+Если меняется эволюция сайта, narrative-слой, периодный стиль публикаций, логика связки статей с каноном,
+контент-план или матрица публикаций,
+нужно обязательно проверить блок 07_TIMELINE и 09_NEWS_AND_NARRATIVE вместе с ARCHIVE_AND_SITE и NOVEL_LINK.
