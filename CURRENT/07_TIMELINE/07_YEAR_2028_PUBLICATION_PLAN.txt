@@ -1,0 +1,334 @@
+BVK CANON
+Годовой публикационный план 2028
+
+Статус: ACTIVE
+Версия: v1.0
+Дата первого принятия: 2026-04-23
+Текущая редакция: 2026-04-23
+История поправок: CHANGE-0064
+Уровень доступа: SERVICE
+Историческая принадлежность: ранний идейный слой
+Связанные закрытые документы: нет
+Коды связанных закрытых документов: нет
+
+Назначение:
+Этот файл закрепляет годовой публикационный план для 2028 года в рамках внутреннего SERVICE-слоя BVK Canon.
+
+Главный принцип:
+Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
+Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+
+Связь с другими файлами:
+- 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
+- данный файл переводит эту логику в конкретный годовой набор публикаций
+
+BVK METINIS PLANAS 2028
+
+METINIS STILIUS IR TONAS
+- Projektas iš archyvinės idėjos pereina į aktyviai pildomą skaitmeninę erdvę.
+- Tekstai turi būti kryptingesni, aiškesni, mažiau dienoraštiški.
+- Jaučiamas ankstyvas sistemos konstravimas: svetainė, straipsnių ciklai, teisinių juodraščių užuomazgos, pirmi nuolatiniai skaitytojai.
+- Vis dar jokio sunkios institucijos tono, bet daugiau organizuoto ritmo.
+
+REKOMENDUOJAMAS PARENGĖJAS: BVK skaitmeninio projekto redakcinė grupė
+
+========================================================================
+ĮRAŠAS 1
+Data: 2028-01-15
+Rubrika: Vystymasis
+Pavadinimas: Pradėta kryptingai pildyti BVK svetainę straipsniais apie Respublikos ateitį ir jos raidą
+
+STRAIPSNIS:
+Sausį prasidėjo kryptingesnis svetainės pildymas. Iki tol daug medžiagos buvo kaupiama fragmentiškai, tačiau nuo šio momento pradėta aiškiau planuoti straipsnių eigą, temų pasikartojimą ir bendrą skaitytojo kelią per Respublikos raidą.
+
+Svarbiausia užduotis buvo ne publikacijų gausa, o jų tarpusavio ryšys. Straipsniai turėjo ne tik pristatyti temas, bet ir pamažu vesti link didesnės sistemos suvokimo.
+
+Ši publikacija žymi momentą, kai svetainė pirmą kartą pradėta traktuoti kaip nuosekliai augantis viešasis projektas.
+
+SEO:
+SEO title: Pradėtas kryptingas BVK svetainės pildymas 2028 m.
+Meta description: 2028 m. pradėta kryptingai pildyti BVK svetainę straipsniais apie Respublikos ateitį ir raidą.
+Slug: kryptingas-bvk-svetaines-pildymas-2028
+
+IMAGE PROMPT:
+Photorealistic editorial photo of content calendar, article drafts and laptop on bright winter desk, realistic workflow, no readable text, clean documentary style.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-01-15
+Parengė: BVK skaitmeninio projekto redakcinė grupė
+
+========================================================================
+ĮRAŠAS 2
+Data: 2028-02-28
+Rubrika: Technologijos
+Pavadinimas: Išbandytos pirmosios skaitmeninės sąveikos formos kuriant gyvesnį svetainės turinį
+
+STRAIPSNIS:
+Vasario pabaigoje pradėti pirmieji bandymai, kaip svetainės turinį padaryti gyvesnį ir labiau įtraukiantį. Testuotos paprastos skaitmeninės sąveikos formos, leidžiančios skaitytojui ne tik perskaityti medžiagą, bet ir pajusti temų tarpusavio ryšį.
+
+Šie bandymai dar buvo ankstyvi ir ne visi pasiteisino. Kai kurios formos pasirodė pernelyg dekoratyvios, kitos - per sunkiai prižiūrimos. Tačiau išryškėjo svarbi kryptis: ateityje Respublikos pasaulis turės būti ne tik skaitomas, bet ir tyrinėjamas.
+
+Taip svetainė po truputį ėmė tolti nuo statinio archyvo modelio.
+
+SEO:
+SEO title: Išbandytos pirmosios BVK skaitmeninės sąveikos formos
+Meta description: 2028 m. išbandytos pirmosios skaitmeninės sąveikos formos, skirtos gyvesniam BVK svetainės turiniui.
+Slug: pirmosios-bvk-skaitmenines-saveikos-formos-2028
+
+IMAGE PROMPT:
+Photorealistic modern desk photo with simple interactive mockups on tablet and laptop, notebooks nearby, late winter daylight, no readable text, natural realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-02-28
+Parengė: BVK skaitmeninio projekto redakcinė grupė
+
+========================================================================
+ĮRAŠAS 3
+Data: 2028-03-17
+Rubrika: Archyvas
+Pavadinimas: Sukurtas pradinis Respublikos viešųjų tekstų, kronikų ir aiškinamųjų straipsnių karkasas
+
+STRAIPSNIS:
+Kovo mėnesį suformuotas ankstyvas karkasas, skiriantis tris pagrindinius būsimos svetainės sluoksnius: viešuosius tekstus, kroniką ir aiškinamuosius straipsnius. Šis atskyrimas padėjo sumažinti ankstesnį temų persidengimą ir aiškiau nustatyti kiekvienos publikacijos funkciją.
+
+Nuo šio momento projektas pradėjo kalbėti tikslesne redakcine kalba. Vieni tekstai buvo skirti istorinei eigai, kiti - pačios sistemos aiškinimui, treti - dokumentiniam pasaulio gilinimui.
+
+Taip buvo sukurta struktūra, kuri vėliau leis daug plačiau išplėsti svetainės turinį neprarandant krypties.
+
+SEO:
+SEO title: Sukurtas BVK tekstų ir kronikų karkasas
+Meta description: 2028 m. sukurtas pradinis Respublikos viešųjų tekstų, kronikų ir aiškinamųjų straipsnių karkasas.
+Slug: bvk-tekstu-ir-kroniku-karkasas-2028
+
+IMAGE PROMPT:
+Photorealistic overhead photo of three clearly grouped paper stacks labeled by function but unreadable, spring daylight, editorial organization scene, natural optics.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-03-17
+Parengė: BVK skaitmeninio projekto redakcinė grupė
+
+========================================================================
+ĮRAŠAS 4
+Data: 2028-04-10
+Rubrika: Technologijos
+Pavadinimas: Pradėti testuoti AI parengti straipsnių ciklai, skirti užpildyti svetainės istorinius laikotarpius
+
+STRAIPSNIS:
+Balandį pradėti testuoti AI padedami straipsnių ciklai, skirti skirtingiems Respublikos istoriniams laikotarpiams. Buvo tikrinama, ar įmanoma išlaikyti skirtingų epochų toną, žodyną ir publikacijos ritmą taip, kad ankstyvieji metai neskambėtų kaip vėlyvoji institucijų kalba.
+
+Bandymai atskleidė nemažai problemų: dalis tekstų buvo pernelyg vienodi, o kai kuriems laikotarpiams trūko savito balso. Vis dėlto paaiškėjo, kad su griežta redakcine kontrole toks metodas gali tapti labai stipriu kanono plėtros įrankiu.
+
+Ši publikacija pažymi pirmą rimtesnį žingsnį į didelio masto Respublikos chronologijos pildymą.
+
+SEO:
+SEO title: Pradėti testuoti AI straipsnių ciklai BVK istorijai
+Meta description: 2028 m. pradėti testuoti AI padedami straipsnių ciklai Respublikos istoriniams laikotarpiams pildyti.
+Slug: ai-straipsniu-ciklai-bvk-istorijai-2028
+
+IMAGE PROMPT:
+Photorealistic workflow image with timeline drafts, printed article variations and laptop, spring daylight, serious editorial testing mood, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-04-10
+Parengė: BVK skaitmeninio projekto redakcinė grupė
+
+========================================================================
+ĮRAŠAS 5
+Data: 2028-05-22
+Rubrika: Vystymasis
+Pavadinimas: Pirmą kartą iškelta mintis apie projekto vidinę socialinio tinklo ir žaidimo erdvę
+
+STRAIPSNIS:
+Gegužės pabaigoje pirmą kartą rimčiau svarstyta, kad BVK projektas ateityje galėtų turėti ne tik svetainę, bet ir vidinę socialinio tinklo ar net žaidybinės erdvės formą. Toks svarstymas kilo iš supratimo, kad vien tekstais ne visada galima parodyti, kaip veikia dalyvavimas, atsakomybė ir miesto gyvenimo ritmas.
+
+Ankstyvieji svarstymai dar nebuvo techninis planas. Jie veikiau žymėjo kryptį: ateityje Respublikos pasaulis turėtų būti patiriamas ne tik skaitant, bet ir veikiant.
+
+Ši idėja taps vienu iš svarbiausių ilgojo laikotarpio sluoksnių, nors šiame etape ji dar tebebuvo tik drąsus bandymas peržengti įprasto portalo ribas.
+
+SEO:
+SEO title: Iškelta idėja apie BVK socialinę ir žaidybinę erdvę
+Meta description: 2028 m. pirmą kartą iškelta mintis apie vidinę BVK socialinio tinklo ir žaidimo erdvę.
+Slug: bvk-socialine-ir-zaidybine-erdve-2028
+
+IMAGE PROMPT:
+Photorealistic concept-planning photo with notebook sketches of interfaces, map nodes and community features, late spring daylight, no readable text, natural desk scene.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-05-22
+Parengė: BVK skaitmeninio projekto redakcinė grupė
+
+========================================================================
+ĮRAŠAS 6
+Data: 2028-06-13
+Rubrika: Duomenys
+Pavadinimas: Sudarytas ankstyvas Respublikos miestų, datų ir institucijų vystymo žemėlapis
+
+STRAIPSNIS:
+Birželį pradėtas sudarinėti išsamesnis Respublikos miestų, datų ir institucijų vystymo žemėlapis. Šis darbas buvo būtinas tam, kad vėlesnės publikacijos neatsirastų atsitiktinai, o remtųsi iš anksto numatyta bendra logika. Būtent šiame etape pirmą kartą aiškiau pradėta matyti, kad būsima sistema turi būti mąstoma ne vien per vieną vietovę, bet per bendrą Lietuvos, Latvijos ir Estijos erdvę.
+
+Žemėlapis leido pirmą kartą viename lauke matyti skirtingų miestų vaidmenis, pagrindinių institucijų atsiradimo seką ir tai, kaip viena sritis remia kitą. Nors modelis dar buvo ankstyvas, jis tapo svarbiu kanono inžinerijos įrankiu.
+
+Nuo šio momento Respublikos pasaulis pradėtas valdyti ne vien idėjiškai, bet ir struktūriškai.
+
+SEO:
+SEO title: Sudarytas ankstyvas BVK miestų ir institucijų žemėlapis
+Meta description: 2028 m. sudarytas ankstyvas Respublikos miestų, datų ir institucijų vystymo žemėlapis.
+Slug: ankstyvas-bvk-miestu-ir-instituciju-zemelapis-2028
+
+IMAGE PROMPT:
+Photorealistic mapping table scene with regional map of Baltic area, pins, arrows and institutional cards, summer daylight, no readable text, documentary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-06-13
+Parengė: BVK skaitmeninio projekto redakcinė grupė
+
+========================================================================
+ĮRAŠAS 7
+Data: 2028-07-25
+Rubrika: Archyvas
+Pavadinimas: Pradėti rengti pirmieji būsimos Respublikos įstatymų, nuostatų ir taisymų juodraščiai kaip idėjiniai tekstai
+
+STRAIPSNIS:
+Liepos mėnesį pradėti rengti pirmieji teisinių tekstų juodraščiai. Tai dar nebuvo tikrieji įstatymai, o veikiau idėjiniai tekstai, skirti suprasti, kaip galėtų būti formuluojami būsimos Respublikos principai, nuostatos ir taisymų logika.
+
+Didžiausias sunkumas buvo rasti tinkamą kalbos pusiausvyrą. Tekstai negalėjo būti pernelyg teisiniai, nes pati sistema dar neegzistavo, tačiau jie taip pat negalėjo skambėti kaip laisvos esė. Todėl pradėta ieškoti savito tarpinio formato.
+
+Šis etapas svarbus tuo, kad pirmą kartą Respublikos idėja pradėta versti į būsimos teisės kalbą.
+
+SEO:
+SEO title: Pradėti ankstyvieji BVK teisinių tekstų juodraščiai
+Meta description: 2028 m. pradėti rengti pirmieji būsimos Respublikos įstatymų ir nuostatų juodraščiai kaip idėjiniai tekstai.
+Slug: ankstyvieji-bvk-teisiniu-tekstu-juodrasciai-2028
+
+IMAGE PROMPT:
+Photorealistic legal-drafting photo with clipped pages, margin notes, ruler and folders on desk, midsummer daylight, no readable text, calm documentary style.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-07-25
+Parengė: BVK skaitmeninio projekto redakcinė grupė
+
+========================================================================
+ĮRAŠAS 8
+Data: 2028-08-16
+Rubrika: Bendruomenė
+Pavadinimas: Aplink svetainę ėmė telktis pirmieji nuolatiniai skaitytojai ir idėjos sekėjai
+
+STRAIPSNIS:
+Rugpjūtį tapo matoma, kad projektas turi jau ne vien pavienius lankytojus, o sugrįžtančių žmonių sluoksnį. Pirmieji nuolatiniai skaitytojai pradėjo sekti atskiras temas, lyginti laikotarpius ir laukti naujų medžiagų.
+
+Nors šis ratas dar buvo nedidelis, jo reikšmė buvo didelė. Pirmą kartą atsirado auditorija, kuri ne tik stebėjo projektą, bet ir pamažu ėmė gyventi jo ritmu. Tai keitė ir redakcinę atsakomybę: nuo šio momento reikėjo galvoti ne tik apie medžiagos kūrimą, bet ir apie ilgalaikį skaitytojo pasitikėjimą.
+
+Taip prasidėjo lėtas perėjimas nuo vieno žmogaus kūrimo prie būsimos bendruomenės lauko.
+
+SEO:
+SEO title: Aplink BVK ėmė telktis pirmieji nuolatiniai skaitytojai
+Meta description: 2028 m. aplink svetainę ėmė telktis pirmieji nuolatiniai Respublikos idėjos skaitytojai ir sekėjai.
+Slug: pirmieji-nuolatiniai-bvk-skaitytojai-2028
+
+IMAGE PROMPT:
+Photorealistic candid scene of several people reading on laptops and printed pages in different quiet locations, late summer natural light, no readable text, authentic documentary tone.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-08-16
+Parengė: BVK skaitmeninio projekto redakcinė grupė
+
+========================================================================
+ĮРАŠAS 9
+Data: 2028-09-11
+Rubrika: Technologijos
+Pavadinimas: Aptartos galimybės ateityje sujungti svetainę, archyvą ir žaidybinę socialinę erdvę
+
+STRAIPSNIS:
+Rugsėjį pradėta svarstyti, kaip ateityje vienoje sistemoje galėtų veikti trys skirtingi sluoksniai: viešoji svetainė, gilus archyvas ir dalyvavimu grįsta žaidybinė socialinė erdvė. Šis klausimas buvo reikšmingas ne vien techniniu požiūriu, bet ir idėjiniu - reikėjo apsispręsti, ar visi šie sluoksniai iš tiesų gali remtis tuo pačiu kanonu.
+
+Diskusijos parodė, kad toks sujungimas įmanomas tik tuo atveju, jei kiekviena erdvė turės savą funkciją, bet visos paklus bendrai istorinei logikai. Todėl pradėta aiškiau skirti, kas skirta skaitymui, kas - tyrinėjimui, o kas - dalyvavimo patirčiai.
+
+Šiuo etapu gimė viena iš ilgiausiai bręsiančių projekto krypčių.
+
+SEO:
+SEO title: Svarstytas BVK svetainės, archyvo ir žaidimo sujungimas
+Meta description: 2028 m. aptartos galimybės ateityje sujungti BVK svetainę, archyvą ir žaidybinę socialinę erdvę.
+Slug: bvk-svetaines-archyvo-ir-zaidimo-sujungimas-2028
+
+IMAGE PROMPT:
+Photorealistic planning scene with website map, archive folders and gameplay wireframes side by side, early autumn daylight, realistic textures, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-09-11
+Parengė: BVK skaitmeninio projekto redakcinė grupė
+
+========================================================================
+ĮРАŠAS 10
+Data: 2028-10-23
+Rubrika: Kultūra
+Pavadinimas: Romano ir svetainės pasaulis pradėtas vystyti kaip viena bendro kanono visuma
+
+STRAIPSNIS:
+Spalį aiškiai priimtas sprendimas romaną ir svetainės pasaulį plėtoti ne kaip du atskirus darbus, o kaip vieną bendro kanono visumą. Tai reiškė, kad literatūrinės detalės nebegalėjo gyventi savarankiškai, o dokumentiniai tekstai turėjo išlaikyti kultūrinį kvėpavimą.
+
+Šis sujungimas pareikalavo griežtesnės kontrolės, tačiau kartu suteikė projektui didesnį svorį. Respublikos pasaulis tapo vientisesnis, o skaitytojas ateityje galės judėti tarp skirtingų formų neprarasdamas istorinio pagrindo.
+
+Būtent čia projektas dar labiau nutolo nuo paprasto internetinio eksperimento ir priartėjo prie ilgojo pasaulio kūrimo.
+
+SEO:
+SEO title: Romano ir svetainės pasaulis sujungtas į bendrą kanoną
+Meta description: 2028 m. romano ir svetainės pasaulis pradėtas vystyti kaip viena bendro Respublikos kanono visuma.
+Slug: romano-ir-svetaines-pasaulis-bendras-kanonas-2028
+
+IMAGE PROMPT:
+Photorealistic desk image showing manuscript pages flowing into document folders and site maps, autumn light, no readable text, unified-worldbuilding mood.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-10-23
+Parengė: BVK skaitmeninio projekto redakcinė grupė
+
+========================================================================
+ĮРАŠAS 11
+Data: 2028-11-14
+Rubrika: Vystymasis
+Pavadinimas: Patikslinta ilgalaikė linija, kaip idėja galėtų augti nuo skaitmeninio projekto iki visuomeninio modelio
+
+STRAIPSNIS:
+Lapkričio mėnesį buvo patikslinta ilgalaikė projekto linija. Pirmą kartą nuosekliau suformuluota, kaip skaitmeninis pasaulis, archyvas, kultūrinis sluoksnis ir bendruomenė galėtų po daugelio metų peraugti į realesnį visuomeninį modelį.
+
+Šiame etape dar nebuvo kalbama apie tiesioginę politiką. Daugiau dėmesio skirta tam, kaip idėja gali lėtai persikelti į žmonių vaizduotę, diskusijas, bendrą žodyną ir galiausiai - į pasitikėjimą alternatyvia socialine tvarka.
+
+Šis planas tapo svarbia pereinamąja ašimi tarp ankstyvojo skaitmeninio kūrimo ir vėlesnio platesnio idėjos veikimo.
+
+SEO:
+SEO title: Patikslinta BVK ilgalaikė augimo linija
+Meta description: 2028 m. patikslinta ilgalaikė linija, kaip BVK galėtų augti nuo skaitmeninio projekto iki visuomeninio modelio.
+Slug: patikslinta-bvk-ilgalaike-augimo-linija-2028
+
+IMAGE PROMPT:
+Photorealistic strategic planning photo with layered roadmap charts, community notes and long-range milestones on a table, late autumn light, realistic documentary feel.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-11-14
+Parengė: BVK skaitmeninio projekto redakcinė grupė
+
+========================================================================
+ĮРАŠAS 12
+Data: 2028-12-19
+Rubrika: Archyvas
+Pavadinimas: Metų apžvalga: svetainė tapo pagrindine Respublikos idėjos, istorijos ir ateities bandymų erdve
+
+STRAIPSNIS:
+2028 metai parodė, kad BVK svetainė jau tapo daugiau nei koncepcijos saugykla. Per šiuos mėnesius pradėtas kryptingas pildymas, testuotos skaitmeninės sąveikos formos, sukurtas tekstų karkasas, pradėti AI straipsnių ciklai, iškelta žaidybinės erdvės idėja, plėtotas miestų ir institucijų žemėlapis, pradėti pirmieji teisinių tekstų juodraščiai ir išryškėjo pirmasis nuolatinių skaitytojų sluoksnis.
+
+Kartu paaiškėjo ir nauji iššūkiai: projekto apimtis sparčiai augo, todėl vis svarbesnis tapo kanono vientisumas ir aiškus redakcinis darbas. Tačiau būtent ši įtampa liudijo, kad projektas įžengė į naują brandos pakopą.
+
+Metai užbaigiami kaip etapas, kai svetainė tapo pagrindine Respublikos idėjos, istorijos ir ateities bandymų erdve.
+
+SEO:
+SEO title: 2028 m. BVK metų apžvalga
+Meta description: 2028 metų apžvalga: kaip BVK svetainė tapo pagrindine Respublikos idėjos ir ateities bandymų erdve.
+Slug: bvk-2028-metu-apzvalga
+
+IMAGE PROMPT:
+Photorealistic end-of-year archive scene with sorted folders, mapped notes and neatly arranged planning materials, winter dusk light, no readable text, documentary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-12-19
+Parengė: BVK skaitmeninio projekto redakcinė grupė
