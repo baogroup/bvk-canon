@@ -1,0 +1,334 @@
+BVK CANON
+Годовой публикационный план 2035
+
+Статус: ACTIVE
+Версия: v1.0
+Дата первого принятия: 2026-04-24
+Текущая редакция: 2026-04-24
+История поправок: CHANGE-0073
+Уровень доступа: SERVICE
+Историческая принадлежность: ранний идейный слой
+Связанные закрытые документы: нет
+Коды связанных закрытых документов: нет
+
+Назначение:
+Этот файл закрепляет годовой публикационный план для 2035 года в рамках внутреннего SERVICE-слоя BVK Canon.
+
+Главный принцип:
+Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
+Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+
+Связь с другими файлами:
+- 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
+- данный файл переводит эту логику в конкретный годовой набор публикаций
+
+BVK METINIS PLANAS 2035
+
+METINIS STILIUS IR TONAS
+- Tai ribinis metas tarp idėjinio projekto ir protoinstitucinio modelio.
+- Tekstuose daugiau manifestinio aiškumo, struktūrinės kalbos ir ilgojo perėjimo logikos.
+- Balsas brandžiausias iš pirmojo dešimtmečio: ramus, tvirtas, jau beveik programinis, bet dar ne valstybės portalas.
+- Straipsniai turi jaustis kaip pagrindo klojimas tam, kas po 2035 m. pereis į sisteminę fazę.
+
+REKOMENDUOJAMAS PARENGĖJAS: BVK pereinamojo modelio, tezų ir struktūros redakcija
+
+========================================================================
+ĮРАШАС 1
+Data: 2035-01-15
+Rubrika: Vystymasis
+Pavadinimas: Paskelbta, kad BVK projektas pereina iš pasaulio kūrimo etapo į ilgalaikio visuomeninio modelio rengimą
+
+STRAIPSNIS:
+Sausio mėnesį aiškiai paskelbta, kad BVK projektas pereina iš pasaulio kūrimo etapo į ilgalaikio visuomeninio modelio rengimą. Tai nereiškia, kad kultūrinė, archyvinė ar vaizduotės pusė tampa mažiau svarbi. Priešingai, būtent jos per ankstesnį dešimtmetį sukūrė pagrindą, ant kurio dabar galima tvirčiau dėlioti sisteminę ateities architektūrą.
+
+Šis poslinkis svarbus todėl, kad jis keičia paties projekto laikyseną. Nuo šiol didesnis dėmesys skiriamas ne vien vidinės logikos plėtrai, bet ir keliui, kuriuo ta logika galėtų tapti bendresne socialine forma. Atsiranda daugiau struktūrinio aiškumo, mažiau vien tik pasaulio konstravimo.
+
+Publikacija žymi pirmojo dešimtmečio slenkstį. Respublikos idėja jau pakankamai subrendusi, kad būtų galima pradėti sistemingiau ruoštis kitai jos augimo fazei.
+
+SEO:
+SEO title: Paskelbta, kad BVK projektas pereina iš pasaulio kūrimo...
+Meta description: 2035 m. paskelbta, kad BVK projektas pereina iš pasaulio kūrimo etapo į ilgalaikio visuomeninio modelio rengimą.
+Slug: paskelbta-kad-bvk-projektas-pereina-is-pasaulio-kurimo-etapo-i-ilgalaikio-visuomeninio-modelio-rengima-2035
+
+IMAGE PROMPT:
+Photorealistic threshold planning scene with one closed notebook and a new structured folder system opening beside it, winter daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2035-01-15
+Parengė: BVK pereinamojo modelio, tezų ir struktūros redakcija
+
+========================================================================
+ĮРАШАС 2
+Data: 2035-02-05
+Rubrika: Archyvas
+Pavadinimas: Sutvarkyta ir suvienodinta visa 2026-2034 laikotarpio ankstyvoji Respublikos medžiaga
+
+STRAIPSNIS:
+Vasario pradžioje sutvarkyta ir suvienodinta visa ankstyvoji 2026-2034 laikotarpio Respublikos medžiaga. Daug darbo skirta terminų derinimui, skirtingų redakcijų suderinimui ir vidinės chronologijos išgryninimui. Tai leido pirmąjį projekto dešimtmetį matyti kaip nuoseklią, o ne padriką istoriją.
+
+Tokios peržiūros vertė ypatinga. Tik turint tvarkingą pradžios sluoksnį galima atsakingai statyti vėlesnius modelius, neprarandant esminių projekto atramų. Be to, suvienodinta medžiaga leidžia aiškiau parodyti, kaip keitėsi ne tik formuluotės, bet ir pati projekto laikysena.
+
+Ši publikacija fiksuoja vidinę brandą. Respublikos pradžia jau nebėra miglotas prisiminimas ar padriki juodraščiai - ji tampa sutvarkytu pamatiniu sluoksniu, į kurį bus remiamasi toliau.
+
+SEO:
+SEO title: Sutvarkyta ir suvienodinta visa 2026-2034 laikotarpio a...
+Meta description: 2035 m. sutvarkyta ir suvienodinta visa 2026-2034 laikotarpio ankstyvoji Respublikos medžiaga.
+Slug: sutvarkyta-ir-suvienodinta-visa-2026-2034-laikotarpio-ankstyvoji-respublikos-medziaga-2035
+
+IMAGE PROMPT:
+Photorealistic archive harmonization scene with early-year folders, standardized labels and carefully aligned binders under cold daylight, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2035-02-05
+Parengė: BVK pereinamojo modelio, tezų ir struktūros redakcija
+
+========================================================================
+ĮРАШАС 3
+Data: 2035-03-19
+Rubrika: Bendruomenė
+Pavadinimas: Pradėti viešesni pokalbiai apie tai, kokių žmonių ir kokios kultūros reikėtų būsimai Respublikai
+
+STRAIPSNIS:
+Kovo mėnesį viešesniuose pokalbiuose daugiau dėmesio skirta ne vien sistemos struktūrai, bet ir žmogui, kuris galėtų joje gyventi. Aptarta, kokių įpročių, kokios kultūros, kokio santykio su drausme, laisve ir bendru gyvenimu reikėtų būsimai Respublikai, jei ji nenorėtų išsigimti jau pačioje pradžioje.
+
+Šios diskusijos svarbios tuo, kad jos perkelia akcentą nuo abstraktaus modelio prie civilizacinio pasirengimo. Vis aiškiau sakoma, kad jokios bendros garantijos nepadės, jei visuomenė nebus pasirengusi gyventi be kasdienės savinaudos refleksų, nuolatinės tarpusavio įtampos ir atsitiktinio elgesio.
+
+Tai vienas svarbiausių metų klausimų. Respublika pradedama ruošti ne vien dokumentuose, bet ir per viešą svarstymą apie žmogaus kultūrą, kuri galėtų tokią tvarką išlaikyti.
+
+SEO:
+SEO title: Pradėti viešesni pokalbiai apie tai, kokių žmonių ir ko...
+Meta description: 2035 m. pradėti viešesni pokalbiai apie tai, kokių žmonių ir kokios kultūros reikėtų būsimai Respublikai.
+Slug: pradeti-viesesni-pokalbiai-apie-tai-kokiu-zmoniu-ir-kokios-kulturos-reiketu-busimai-respublikai-2035
+
+IMAGE PROMPT:
+Photorealistic public discussion atmosphere with thoughtful participants, notebooks and coffee cups in a small hall, early spring light, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2035-03-19
+Parengė: BVK pereinamojo modelio, tezų ir struktūros redakcija
+
+========================================================================
+ĮРАШАС 4
+Data: 2035-04-09
+Rubrika: Švietimas
+Pavadinimas: Paskelbtos išplėstos pilietinės brandos, atsakomybės ir saviugdos nuostatos
+
+STRAIPSNIS:
+Balandį paskelbtos išplėstos nuostatos, apimančios pilietinę brandą, atsakomybę ir saviugdą kaip būtiną būsimos visuomenės pagrindą. Šiuose tekstuose aiškiau nei anksčiau parodyta, kad Respublika negali būti statoma vien ant išorinių taisyklių. Jai reikia žmonių, kurie gebėtų ne tik naudotis suteiktu saugumu, bet ir patys jį saugoti.
+
+Nuostatos apima kasdienio elgesio, darbo kultūros, santykio su bendru turtu, informacine drausme ir tarpusavio pagarba temas. Tai nėra moralinių lozungų rinkinys. Veikiau tai bandymas aiškiai įvardyti, kokia vidinė atrama būtina, kad didesnė socialinė laisvė netaptų išsiskaidymu.
+
+Ši publikacija sutvirtina ugdomąjį projekto stuburą ir kartu ruošia dirvą kitam etapui, kuriame vis daugiau vietos teks sisteminei struktūrai ir viešiesiems blokams.
+
+SEO:
+SEO title: Paskelbtos išplėstos pilietinės brandos, atsakomybės ir...
+Meta description: 2035 m. paskelbtos išplėstos pilietinės brandos, atsakomybės ir saviugdos nuostatos.
+Slug: paskelbtos-isplestos-pilietines-brandos-atsakomybes-ir-saviugdos-nuostatos-2035
+
+IMAGE PROMPT:
+Photorealistic civic principles study scene with formal notes, highlighted pages, pens and clean desk arrangement in spring daylight, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2035-04-09
+Parengė: BVK pereinamojo modelio, tezų ir struktūros redakcija
+
+========================================================================
+ĮРАШАС 5
+Data: 2035-05-21
+Rubrika: Ekonomika
+Pavadinimas: Detaliau aprašyti būsimi darbo, naudos, bendro aprūpinimo ir gyvenimo saugumo principai
+
+STRAIPSNIS:
+Gegužės mėnesį ekonomikos sluoksnyje detaliau aprašyti būsimi darbo, naudos, bendro aprūpinimo ir gyvenimo saugumo principai. Akcentuota, kad Respublikos modelyje ekonomika turi tarnauti gyvenimo stabilumui, o ne nuolatinei nervingai konkurencijai. Tai keičia ir pačią darbo sampratą.
+
+Daug dėmesio skirta klausimui, kaip suderinti bendras garantijas su aiškiu asmeninio indėlio matomumu. Projekte siūloma logika, kurioje žmogui nereikia nuolat bijoti prarasti būtino pagrindo, tačiau jis ir toliau lieka atsakingas už savo vaidmenį bendrame gyvenime. Tokia pusiausvyra yra viena svarbiausių būsimos sistemos sąlygų.
+
+Šie tekstai svarbūs todėl, kad jie pirmą kartą ekonominį Respublikos pamatą pateikia gana vientisai. Jis pradedamas matyti ne kaip atskirų priemonių rinkinys, o kaip visa gyvenimo logika.
+
+SEO:
+SEO title: Detaliau aprašyti būsimi darbo, naudos, bendro aprūpini...
+Meta description: 2035 m. detaliau aprašyti būsimi darbo, naudos, bendro aprūpinimo ir gyvenimo saugumo principai.
+Slug: detaliau-aprasyti-busimi-darbo-naudos-bendro-aprupinimo-ir-gyvenimo-saugumo-principai-2035
+
+IMAGE PROMPT:
+Photorealistic socio-economic planning scene with housing, food, work and family security diagrams on a large desk, May daylight, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2035-05-21
+Parengė: BVK pereinamojo modelio, tezų ir struktūros redakcija
+
+========================================================================
+ĮРАШАС 6
+Data: 2035-06-12
+Rubrika: Technologijos
+Pavadinimas: Atnaujintas skaitmeninės Respublikos modelis, apimantis svetainę, archyvą, duomenis ir dalyvavimo erdves
+
+STRAIPSNIS:
+Birželį atnaujintas skaitmeninės Respublikos modelis, jungiantis svetainę, archyvą, duomenų sluoksnį ir būsimas dalyvavimo erdves į vieningesnę schemą. Iki tol šie elementai jau buvo plėtojami, tačiau dabar jie pirmą kartą aiškiau pavaizduoti kaip tos pačios ilgalaikės infrastruktūros dalys.
+
+Šis atnaujinimas svarbus ne vien technologine prasme. Jis leidžia matyti, kad Respublikos modelis remiasi ne vien tekstais ar pavienėmis priemonėmis, bet visa informacine terpės architektūra. Tokia architektūra ateityje turėtų padėti saugoti atmintį, koordinuoti sprendimus ir ugdyti dalyvavimo kultūrą.
+
+Nuo šio momento BVK logika dar aiškiau krypsta į sisteminę formą. Skaitmeninė terpė pradedama suvokti kaip būsimos tvarkos atrama, o ne vien pagalbinis kanalas turiniui skleisti.
+
+SEO:
+SEO title: Atnaujintas skaitmeninės Respublikos modelis, apimantis...
+Meta description: 2035 m. atnaujintas skaitmeninės Respublikos modelis, apimantis svetainę, archyvą, duomenis ir dalyvavimo erdves.
+Slug: atnaujintas-skaitmenines-respublikos-modelis-apimantis-svetaine-archyva-duomenis-ir-dalyvavimo-erdves-2035
+
+IMAGE PROMPT:
+Photorealistic integrated digital-system planning photo with archive maps, data diagrams, interface layers and participation flows combined on one workspace, June daylight.
+
+PABAIGOS BLOКАС:
+Publikuota: 2035-06-12
+Parengė: BVK pereinamojo modelio, tezų ir struktūros redakcija
+
+========================================================================
+ĮРАШАС 7
+Data: 2035-07-24
+Rubrika: Kultūra
+Pavadinimas: Romano ir svetainės pasaulis galutinai įtvirtintas kaip viena Respublikos vaizduotės ir atminties sistema
+
+STRAIPSNIS:
+Liepos mėnesį galutinai įtvirtinta nuostata, kad romano pasaulis ir svetainės dokumentinis sluoksnis sudaro vieną bendrą Respublikos vaizduotės ir atminties sistemą. Tai reiškia, kad kultūrinė ir struktūrinė projekto pusė nebėra laikomos lygiagrečiomis, bet atskiromis kryptimis.
+
+Tokio įtvirtinimo reikšmė didelė. Kultūrinis pasaulis leidžia žmogui pajusti gyvenimo toną ir moralinę įtampą, o dokumentinė sistema padeda suprasti pačios tvarkos sandarą. Kartu jie sukuria vientisesnį Respublikos pamatą, kuriame nei jausmas, nei struktūra nelieka vieniši.
+
+Ši publikacija užbaigia ilgą tarpinį etapą. Nuo šiol projekto pasaulis gali būti tvirčiau skaitomas kaip viena didelė ateities civilizacijos atmintis.
+
+SEO:
+SEO title: Romano ir svetainės pasaulis galutinai įtvirtintas kaip...
+Meta description: 2035 m. romano ir svetainės pasaulis galutinai įtvirtintas kaip viena Respublikos vaizduotės ir atminties sistema.
+Slug: romano-ir-svetaines-pasaulis-galutinai-itvirtintas-kaip-viena-respublikos-vaizduotes-ir-atminties-sistema-2035
+
+IMAGE PROMPT:
+Photorealistic unified creative-archive scene with manuscript folders, civic documents and city references organized into one coherent workspace, summer light, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2035-07-24
+Parengė: BVK pereinamojo modelio, tezų ir struktūros redakcija
+
+========================================================================
+ĮРАШАС 8
+Data: 2035-08-16
+Rubrika: Archyvas
+Pavadinimas: Pradėta rengti ankstyvojo Respublikos manifesto ir pagrindinių viešųjų tezių redakcija
+
+STRAIPSНIS:
+Rugpjūčio mėnesį pradėta rengti ankstyvojo Respublikos manifesto ir pagrindinių viešųjų tezių redakcija. Šis darbas reiškia ne galutinės programos paskelbimą, o pirmą rimtesnį bandymą glaustai, aiškiai ir viešai suvesti tai, kas iki šiol buvo išplėtota per daugelį metų ir daugelį skirtingų sluoksnių.
+
+Manifesto rengimas svarbus todėl, kad kiekvienas ilgai augantis projektas anksčiau ar vėliau turi išmokti kalbėti koncentruotai. Kai esminės tezės išryškinamos, tampa lengviau suprasti ne tik ką projektas siūlo, bet ir ko jis aiškiai atsisako - atsitiktinumo, plėšraus kaupimo, žmogaus stūmimo į nuolatinę baimę.
+
+Šis archyvinis darbas žymi naują brandos etapą. Respublikos idėja pamažu ruošiasi kalbėti jau ne vien platesniais sluoksniais, bet ir aiškesnėmis pamatinėmis tezėmis.
+
+SEO:
+SEO title: Pradėta rengti ankstyvojo Respublikos manifesto ir pagr...
+Meta description: 2035 m. pradėta rengti ankstyvojo Respublikos manifesto ir pagrindinių viešųjų tezių redakcija.
+Slug: pradeta-rengti-ankstyvojo-respublikos-manifesto-ir-pagrindiniu-viesuju-teziu-redakcija-2035
+
+IMAGE PROMPT:
+Photorealistic manifesto drafting scene with condensed principle sheets, summary cards and careful red-marked edits under warm summer light, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2035-08-16
+Parengė: BVK pereinamojo modelio, tezų ir struktūros redakcija
+
+========================================================================
+ĮРАШАС 9
+Data: 2035-09-11
+Rubrika: Vystymasis
+Pavadinimas: Paskelbtas nuoseklus perėjimo kelias nuo skaitmeninės idėjos prie veikiančio visuomeninio darinio iki 2046 metų
+
+STRAIPSNIS:
+Rugsėjį paskelbtas nuoseklus perėjimo kelias nuo skaitmeninės idėjos prie veikiančio visuomeninio darinio iki 2046 metų. Jame aiškiau parodyta, kad tarp kultūrinio projekto ir realios sistemos turi egzistuoti ilga tarpinė fazė - su bendruomenės brendimu, struktūriniais modeliais, ankstyvomis praktinėmis formomis ir viešųjų tezių įsitvirtinimu.
+
+Šis kelias svarbus todėl, kad jis saugo projektą nuo pernelyg staigaus radikalumo. Respublikos logikoje nėra vietos greitam, neparengtam lūžiui. Priešingai, pabrėžiama, kad tik lėtas ir nuoseklus perėjimas gali sukurti tokią tvarką, kuri ne tik atsirastų, bet ir išliktų.
+
+Publikacija tampa vienu svarbiausių metų orientyrų. Ji leidžia pirmą kartą matyti ne vien bendrą kryptį, bet ir aiškesnį istorinį tiltą iki būsimo materialaus įgyvendinimo.
+
+SEO:
+SEO title: Paskelbtas nuoseklus perėjimo kelias nuo skaitmeninės i...
+Meta description: 2035 m. paskelbtas nuoseklus perėjimo kelias nuo skaitmeninės idėjos prie veikiančio visuomeninio darinio iki 2046 metų.
+Slug: paskelbtas-nuoseklus-perejimo-kelias-nuo-skaitmenines-idejos-prie-veikiancio-visuomeninio-darinio-iki-2046-metu-2035
+
+IMAGE PROMPT:
+Photorealistic long-range transition timeline scene with decade markers, milestone cards and pathway notes stretching across a studio wall, early autumn daylight, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2035-09-11
+Parengė: BVK pereinamojo modelio, tezų ir struktūros redakcija
+
+========================================================================
+ĮРАШАС 10
+Data: 2035-10-23
+Rubrika: Duomenys
+Pavadinimas: Sudarytas išplėstas būsimos Respublikos sričių, tarnybų ir valdymo blokų struktūrinis žemėlapis
+
+STRAIPSНIS:
+Spalio mėnesį sudarytas išplėstas būsimos Respublikos sričių, tarnybų ir valdymo blokų žemėlapis. Ši struktūra padeda matyti, kaip būstas, sveikata, švietimas, maitinimas, viešoji tvarka, ekologija, miesto priežiūra, kultūra ir duomenų koordinavimas galėtų veikti kaip susieti vienos sistemos sluoksniai.
+
+Tokio žemėlapio vertė ypač didelė ruošiantis kitam etapui. Jis leidžia apsisaugoti nuo projekto išsiskaidymo į pavienes temas ir stiprina supratimą, kad veikiančiai visuomenei reikia ne atskirų gerų idėjų, o tvarkingos bendros architektūros.
+
+Ši publikacija žymi perėjimą prie brandesnio sisteminio mąstymo. Respublika čia jau aiškiai rodoma kaip organizuotas civilizacinis karkasas, o ne vien kultūrinė įžvalga.
+
+SEO:
+SEO title: Sudarytas išplėstas būsimos Respublikos sričių, tarnybų...
+Meta description: 2035 m. sudarytas išplėstas būsimos Respublikos sričių, tarnybų ir valdymo blokų struktūrinis žemėlapis.
+Slug: sudarytas-isplestas-busimos-respublikos-sriciu-tarnybu-ir-valdymo-bloku-strukturinis-zemelapis-2035
+
+IMAGE PROMPT:
+Photorealistic structural systems map scene with service clusters, governance blocks and layered civic architecture diagrams on a large worktable, autumn daylight, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2035-10-23
+Parengė: BVK pereinamojo modelio, tezų ir struktūros redakcija
+
+========================================================================
+ĮРАШАС 11
+Data: 2035-11-14
+Rubrika: Bendruomenė
+Pavadinimas: Projekto aplinkoje susiformavo tvirtesnis sekėjų ir ankstyvųjų rėmėjų branduolys
+
+STRAIPSНIS:
+Lapkričio mėnesį jau galima kalbėti apie tvirtesnį projekto sekėjų ir ankstyvųjų rėmėjų branduolį. Tai vis dar nėra formali organizacija ar viešas judėjimas, tačiau aiškiai matyti, kad dalis žmonių projektą laiko ilgalaike kryptimi, o ne vien įdomia intelektine patirtimi.
+
+Toks branduolys svarbus dėl kelių priežasčių. Jis leidžia idėjai išlaikyti gyvybę tarp didesnių lūžių, skatina gilesnį dialogą ir padeda formuotis žmonių ratui, kuris vėliau galėtų pernešti projektą į praktines fazes. Kartu tai reiškia ir didesnę atsakomybę už kalbos aiškumą bei vidinę drausmę.
+
+Ši publikacija fiksuoja tylų, bet esminį poslinkį. Respublikos idėja jau turi ne tik skaitytojų ir aiškintojų, bet ir pirmą tvirtesnį ištikimų rėmėjų sluoksnį.
+
+SEO:
+SEO title: Projekto aplinkoje susiformavo tvirtesnis sekėjų ir ank...
+Meta description: 2035 m. projekto aplinkoje susiformavo tvirtesnis sekėjų ir ankstyvųjų rėmėjų branduolys.
+Slug: projekto-aplinkoje-susiformavo-tvirtesnis-sekeju-ir-ankstyvuju-remeju-branduolys-2035
+
+IMAGE PROMPT:
+Photorealistic committed core group scene with a few people reviewing materials in a quiet room, autumn evening light, natural gestures, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2035-11-14
+Parengė: BVK pereinamojo modelio, tezų ir struktūros redakcija
+
+========================================================================
+ĮРАШАС 12
+Data: 2035-12-19
+Rubrika: Archyvas
+Pavadinimas: Metų apžvalga: pirmasis dešimtmetis užbaigtas - idėja tapo pilnu būsimos Respublikos pamatu
+
+STRAIPSНIS:
+Metų pabaigoje užbaigiamas pirmasis Respublikos projekto dešimtmetis. Per šį laiką iš asmeninės idėjos, ankstyvų AI pokalbių, vardų paieškų, archyvinių juodraščių ir pasaulio kūrimo išaugo daug tvirtesnė sistema - su atmintimi, principais, kultūriniu pasauliu, skaitmenine logika, bendruomeniniu sluoksniu ir aiškesniu perėjimo horizontu.
+
+Svarbiausia šio dešimtmečio išvada yra ne ta, kad projektas jau pasiekė savo tikslą. Svarbiausia tai, kad jis sukūrė pilną pamatą, be kurio jokia tolimesnė plėtra nebūtų patikima. Respublika tapo nebe vien ateities vaizdiniu, o nuosekliai suformuota civilizacine kryptimi.
+
+Ši metų apžvalga žymi ribą tarp dviejų epochų. Pirmasis dešimtmetis baigtas, o toliau projektas gali pereiti į brandesnę protoinstitucinę fazę, kurioje daugės sisteminių modelių ir pereinamosios architektūros.
+
+SEO:
+SEO title: Metų apžvalga: pirmasis dešimtmetis užbaigtas - idėja t...
+Meta description: 2035 m. metų apžvalga: pirmasis dešimtmetis užbaigtas - idėja tapo pilnu būsimos Respublikos pamatu.
+Slug: metu-apzvalga-pirmasis-desimtmetis-uzbaigtas-ideja-tapo-pilnu-busimos-respublikos-pamatu-2035
+
+IMAGE PROMPT:
+Photorealistic decade-closing archive scene with ten yearly binders, carefully arranged notes and winter evening atmosphere, no readable text, realistic editorial photography.
+
+PABAIGOS BLOКАС:
+Publikuota: 2035-12-19
+Parengė: BVK pereinamojo modelio, tezų ir struktūros redakcija
