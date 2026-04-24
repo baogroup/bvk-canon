@@ -1,0 +1,334 @@
+BVK CANON
+Годовой публикационный план 2032
+
+Статус: ACTIVE
+Версия: v1.0
+Дата первого принятия: 2026-04-24
+Текущая редакция: 2026-04-24
+История поправок: CHANGE-0070
+Уровень доступа: SERVICE
+Историческая принадлежность: ранний идейный слой
+Связанные закрытые документы: нет
+Коды связанных закрытых документов: нет
+
+Назначение:
+Этот файл закрепляет годовой публикационный план для 2032 года в рамках внутреннего SERVICE-слоя BVK Canon.
+
+Главный принцип:
+Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
+Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+
+Связь с другими файлами:
+- 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
+- данный файл переводит эту логику в конкретный годовой набор публикаций
+
+BVK METINIS PLANAS 2032
+
+METINIS STILIUS IR TONAS
+- Šie metai turi skambėti kaip mokomosios fazės gilinimas.
+- Tekstuose daugiau aiškinimo, vidinės drausmės, normų paieškos ir žmogaus brandumo temos.
+- Balsas santūrus, jau labiau autoritetingas, tačiau dar ne administracinis.
+- Straipsniai turi jaustis kaip būsimos visuomenės saviugdos ir pilietinės mokyklos sluoksnis.
+
+REKOMENDUOJAMAS PARENGĖJAS: BVK ugdymo, principų ir viešosios minties redakcija
+
+========================================================================
+ĮRAŠAS 1
+Data: 2032-01-13
+Rubrika: Švietimas
+Pavadinimas: Pradėta nuosekliai aiškinti, kokio žmogaus brandumo reikalautų Respublika
+
+STRAIPSNIS:
+Sausio mėnesį pradėtas nuoseklus tekstų ciklas apie žmogaus brandumą, be kurio Respublika negalėtų veikti kaip tvarkinga ir laisva sistema. Straipsniuose pabrėžta, kad bendras aprūpinimas, ilgalaikis planavimas ir mažesnė kasdienio išlikimo įtampa savaime nesukuria atsakingo žmogaus - tam reikalingas vidinis tvirtumas, gebėjimas laikytis susitarimų ir pagarba bendram ritmui.
+
+Iki šiol ši tema projekte buvo minima atskirais fragmentais, tačiau dabar ji pirmą kartą tapo viena iš centrinių. Skaitytojui siūloma matyti, kad Respublika negali būti grįsta vien technologiškai gerai sustyguotomis tarnybomis. Jei žmogus neturi įpročio atsakingai elgtis su laisve, net ir gera sistema bus nuolat stumiama į irimą.
+
+Ši publikacijų pradžia žymi svarbų posūkį: būsimos visuomenės modelis pradedamas aiškinti ne tik per institucijas, bet ir per žmogų, kuris toje visuomenėje gyvens.
+
+SEO:
+SEO title: Pradėta aiškinti, kokio žmogaus brandumo reikalautų Respublika
+Meta description: 2032 m. pradėta nuosekliai aiškinti, kokio žmogaus brandumo reikalautų Respublika.
+Slug: pradeta-nuosekliai-aiskinti-kokio-zmogaus-brandumo-reikalautu-respublika-2032
+
+IMAGE PROMPT:
+Photorealistic reflective study scene with chair by window, open notebooks, underlined pages, pencil and morning winter light, no readable text, realistic quiet editorial photo.
+
+PABAIGOS BLOKAS:
+Publikuota: 2032-01-13
+Parengė: BVK ugdymo, principų ir viešosios minties redakcija
+
+========================================================================
+ĮРАŠАС 2
+Data: 2032-02-03
+Rubrika: Švietimas
+Pavadinimas: Paskelbtos išplėstos asmeninės drausmės ir atsakomybės gairės būsimos sistemos kontekste
+
+STRAIPSNIS:
+Vasario pradžioje paskelbtos išplėstos gairės, kuriose asmeninė drausmė ir atsakomybė aptariamos jau ne kaip bendras moralinis pageidavimas, bet kaip būtina būsimos sistemos atrama. Jose kalbama apie kasdienį nuoseklumą, gebėjimą baigti pradėtus darbus, pagarbą laikui, aplinkai ir bendriems susitarimams.
+
+Tokios gairės svarbios tuo, kad jos apsaugo Respublikos idėją nuo naivaus supratimo. Viešasis aprūpinimas ir socialinis saugumas nereiškia teisės gyventi bet kaip. Priešingai, kuo daugiau bendrų garantijų turi visuomenė, tuo labiau ji priklauso nuo žmonių vidaus tvarkos ir sąmoningo dalyvavimo.
+
+Ši publikacija sustiprina saviugdos sluoksnį ir rodo, kad laisvesnė visuomenė negali būti statoma ant atsainumo. Ji reikalauja didesnio, o ne mažesnio vidinio susikaupimo.
+
+SEO:
+SEO title: Paskelbtos išplėstos asmeninės drausmės ir atsakomybės...
+Meta description: 2032 m. paskelbtos išplėstos asmeninės drausmės ir atsakomybės gairės būsimos sistemos kontekste.
+Slug: paskelbtos-isplestos-asmenines-drausmes-ir-atsakomybes-gaires-busimos-sistemos-kontekste-2032
+
+IMAGE PROMPT:
+Photorealistic disciplined routine scene with neatly arranged daily planner, folded clothes, simple breakfast and orderly desk in soft winter light, no readable text, documentary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2032-02-03
+Parengė: BVK ugdymo, principų ir viešosios minties redakcija
+
+========================================================================
+ĮРАŠАС 3
+Data: 2032-03-17
+Rubrika: Vystymasis
+Pavadinimas: Svetainė vis labiau naudojama ne tik pasauliui vaizduoti, bet ir visuomeninei minčiai ugdyti
+
+STRAIPSNIS:
+Kovo mėnesį dar aiškiau išryškėjo, kad BVK svetainė nebėra vien vieta, kur vaizduojamas įdomus ateities pasaulis. Ji vis dažniau naudojama kaip terpė visuomeninei minčiai ugdyti - ne primygtine propaganda, o nuosekliu klausimų kėlimu, argumentų dėliojimu ir alternatyvios kasdienybės vaizdavimu.
+
+Toks pokytis svarbus todėl, kad svetainė pradeda veikti kaip savita lėto mąstymo erdvė. Joje skaitytojas ne tik seka įvykius ar skaito dokumentus, bet ir pamažu susiduria su kitu požiūriu į darbą, miestą, saugumą, švietimą ir bendrą atsakomybę. Būtent šis lėtas darbas ilgainiui keičia horizontą.
+
+Šis etapas rodo, kad projektas stiprėja ne triukšmu, o vidine trauka. Jis veikia per nuosekliai kuriamą pasaulį, kuris tampa visuomeninio mąstymo mokykla.
+
+SEO:
+SEO title: Svetainė vis labiau naudojama ne tik pasauliui vaizduot...
+Meta description: 2032 m. svetainė vis labiau naudojama ne tik pasauliui vaizduoti, bet ir visuomeninei minčiai ugdyti.
+Slug: svetaine-vis-labiau-naudojama-ne-tik-pasauliui-vaizduoti-bet-ir-visuomeninei-minciai-ugdyti-2032
+
+IMAGE PROMPT:
+Photorealistic computer-and-library scene with article drafts, books, reference materials and layered planning notes, early spring light, no readable text, natural documentary style.
+
+PABAIGOS BLOKAS:
+Publikuota: 2032-03-17
+Parengė: BVK ugdymo, principų ir viešosios minties redakcija
+
+========================================================================
+ĮРАŠАС 4
+Data: 2032-04-08
+Rubrika: Archyvas
+Pavadinimas: Sutvarkytas ankstyvųjų principų ir vėlesnių pataisų tarpusavio ryšių archyvas
+
+STRAIPSNIS:
+Balandį sutvarkytas archyvas, rodantis, kaip ankstyvieji Respublikos principai buvo taisomi, tikslinami ir siejami su vėlesnėmis redakcijomis. Iki tol daugelis šių ryšių buvo matomi tik vidinėje darbo logikoje, tačiau dabar jie tapo aiškiau suvokiami ir kaip bendros projekto atminties dalis.
+
+Tai leido geriau matyti, jog projektas neatsirado kaip gatava doktrina. Dalis teiginių keitėsi, kai kurie ankstyvi akcentai buvo susiaurinti, kiti išplėsti, atsirado daugiau tikslumo kalbant apie žmogaus laisvę, technologijų vietą ir bendrą aprūpinimą. Tokia pataisų istorija projektą ne silpnina, o priešingai - daro jį brandesnį.
+
+Sutvarkytas principų archyvas tampa svarbia apsauga nuo paviršutiniško skaitymo. Jis leidžia matyti ne tik galutinę formuluotę, bet ir pačią minties brendimo eigą.
+
+SEO:
+SEO title: Sutvarkytas ankstyvųjų principų ir vėlesnių pataisų tar...
+Meta description: 2032 m. sutvarkytas ankstyvųjų principų ir vėlesnių pataisų tarpusavio ryšių archyvas.
+Slug: sutvarkytas-ankstyvuju-principu-ir-velesniu-pataisu-tarpusavio-rysiu-archyvas-2032
+
+IMAGE PROMPT:
+Photorealistic archival revision scene with versioned folders, correction notes and linked paper trails across a large desk, crisp spring daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2032-04-08
+Parengė: BVK ugdymo, principų ir viešosios minties redakcija
+
+========================================================================
+ĮРАŠАС 5
+Data: 2032-05-20
+Rubrika: Kultūra
+Pavadinimas: Romano ir Respublikos dokumentinio pasaulio sandūra pradėta pateikti kaip vientisa didžioji istorija
+
+STRAIPSNIS:
+Gegužę kultūros sluoksnyje aiškiau sujungtas romano pasaulis ir dokumentinė Respublikos medžiaga. Iki tol jie jau buvo susiję, tačiau dabar pradėti pateikti kaip viena didesnė istorija, kurioje kultūrinė vaizduotė ir archyvinė logika ne konkuruoja, o papildo viena kitą.
+
+Šis suartėjimas labai svarbus skaitytojui. Romanas leidžia pajusti aplinką, įtampą ir žmogaus būseną, o dokumentinis sluoksnis padeda suprasti, kaip ta aplinka laikosi. Kartu jie kuria ne paviršinę dekoraciją, o įtikinamą civilizacinį audinį.
+
+Nuo šio momento projektas dar tvirčiau remiasi dviem atramomis - jausmine ir struktūrine. Būtent jų sąveika leidžia Respublikos idėjai veikti ilgiau ir giliau nei vien sausų teiginių rinkinys.
+
+SEO:
+SEO title: Romano ir Respublikos dokumentinio pasaulio sandūra pra...
+Meta description: 2032 m. romano ir Respublikos dokumentinio pasaulio sandūra pradėta pateikti kaip vientisa didžioji istorija.
+Slug: romano-ir-respublikos-dokumentinio-pasaulio-sandura-pradeta-pateikti-kaip-vientisa-didzioji-istorija-2032
+
+IMAGE PROMPT:
+Photorealistic creative-doc archival scene with manuscript pages, institutional sketches and historical notes sharing one workspace, warm May daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2032-05-20
+Parengė: BVK ugdymo, principų ir viešosios minties redakcija
+
+========================================================================
+ĮРАŠАС 6
+Data: 2032-06-11
+Rubrika: Ekonomika
+Pavadinimas: Toliau tikslinami pasidalytos atsakomybės, išteklių paskirstymo ir oraus gyvenimo principai
+
+STRAIPSNIS:
+Birželio mėnesį toliau tikslinti ekonominiai principai, susiję su pasidalytos atsakomybės, išteklių paskirstymo ir oraus gyvenimo logika. Tekstuose aiškinta, kad kooperatyvinė ekonomika negali būti suprasta tik kaip kitoks nuosavybės režimas. Ji pirmiausia yra kitoks santykis su būtinaisiais gyvenimo pagrindais.
+
+Ypatingas dėmesys skirtas klausimui, kaip užtikrinti stabilų gyvenimą nesukuriant paralyžiuojančio aparato ir neprarandant žmogaus motyvacijos. Projekto medžiagoje vis aiškiau rodoma, kad bendras aprūpinimas turi eiti kartu su aiškiu indėlio, drausmės ir dalyvavimo suvokimu.
+
+Šis darbas stiprina ekonominį sluoksnį ir leidžia BVK vis rimčiau kalbėti apie gyvenimo saugumą kaip civilizacinę normą, o ne kaip laikinas išmokas ar rinkiminį pažadą.
+
+SEO:
+SEO title: Toliau tikslinami pasidalytos atsakomybės, išteklių pas...
+Meta description: 2032 m. toliau tikslinami pasidalytos atsakomybės, išteklių paskirstymo ir oraus gyvenimo principai.
+Slug: toliau-tikslinami-pasidalytos-atsakomybes-istekliu-paskirstymo-ir-oraus-gyvenimo-principai-2032
+
+IMAGE PROMPT:
+Photorealistic household-economy planning photo with food basket sketches, utility notes, simple financial diagrams and family-life references, June daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2032-06-11
+Parengė: BVK ugdymo, principų ir viešosios minties redakcija
+
+========================================================================
+ĮРАŠАС 7
+Data: 2032-07-23
+Rubrika: Technologijos
+Pavadinimas: Aptarta, kaip AI ir skaitmeniniai įrankiai galėtų ateityje padėti ne valdyti žmogų, o atlaisvinti jo laiką
+
+STRAIPSNIS:
+Liepos mėnesį technologijų temoje aiškiau aptarta, kokią vietą ateities Respublikoje galėtų užimti AI ir kiti skaitmeniniai įrankiai. Pabrėžta, kad jų tikslas neturi būti žmogaus pavertimas nuolat stebimu objektu. Priešingai, technologijos turi mažinti nereikalingą administracinę naštą, padėti geriau koordinuoti paslaugas ir grąžinti žmogui laiką gyvenimui, kūrybai ir bendruomenei.
+
+Tai svarbi korekcija viešajame vaizduotės lauke, kuriame pažangios sistemos dažnai tapatinamos su kontrole. BVK logikoje technologinis sluoksnis siejamas ne su baime, bet su galimybe tvarkingiau matyti visumą ir mažinti triukšmą. Vis dėlto kartu pabrėžiama, kad be aiškių ribų ir žmogiškų atsvarų jokia sistema negali būti laikoma sveika.
+
+Šis tekstų blokas sustiprina būsimo Bendrojo Valdymo Kontūro supratimą. Jis pradeda ryškėti kaip pagalbinė koordinavimo terpė, o ne kaip žmogų pakeičiantis centras.
+
+SEO:
+SEO title: Aptarta, kaip AI ir skaitmeniniai įrankiai galėtų ateit...
+Meta description: 2032 m. aptarta, kaip AI ir skaitmeniniai įrankiai galėtų ateityje padėti ne valdyti žmogų, o atlaisvinti jo laiką.
+Slug: aptarta-kaip-ai-ir-skaitmeniniai-irankiai-galetu-ateityje-padeti-ne-valdyti-zmogu-o-atlaisvinti-jo-laika-2032
+
+IMAGE PROMPT:
+Photorealistic humane-technology concept scene with calm interface mockups, handwritten ethics notes, simple devices and plants on a desk, midsummer daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2032-07-23
+Parengė: BVK ugdymo, principų ir viešosios minties redakcija
+
+========================================================================
+ĮРАŠАС 8
+Data: 2032-08-14
+Rubrika: Bendruomenė
+Pavadinimas: Aplink projektą atsiranda pirmieji nuolatiniai diskusijų dalyviai, grįžtantys prie tų pačių temų
+
+STRAIPSNIS:
+Rugpjūtį tapo pastebima, kad aplink projektą susiformuoja ne tik skaitytojai, bet ir pirmieji nuolatiniai diskusijų dalyviai. Jie grįžta prie tų pačių klausimų, lygina skirtingus tekstus, kelia prieštaras ir bando suprasti ne vien atskirą publikaciją, bet ir bendrą Respublikos logiką.
+
+Tai labai ankstyvas, tačiau svarbus poslinkis. Kol idėja skaitoma tik paviršiumi, ji lieka vien kultūrinis reiškinys. Kai atsiranda žmonių, kurie nori ginčytis iš esmės, jau galima kalbėti apie besiformuojantį gilesnio susidomėjimo sluoksnį. Tokie pokalbiai ilgainiui tampa pagrindu brandesnei bendruomenei.
+
+Ši publikacija fiksuoja tylų, bet svarbų augimą. Projektas dar neturi tikrų organizacinių formų, tačiau jo aplinkoje jau pradeda rastis žmonės, kuriems ši ateities vizija tampa nuolatiniu mąstymo lauku.
+
+SEO:
+SEO title: Aplink projektą atsiranda pirmieji nuolatiniai diskusij...
+Meta description: 2032 m. aplink projektą atsiranda pirmieji nuolatiniai diskusijų dalyviai, grįžtantys prie tų pačių temų.
+Slug: aplink-projekta-atsiranda-pirmieji-nuolatiniai-diskusiju-dalyviai-griztantys-prie-tu-paciu-temu-2032
+
+IMAGE PROMPT:
+Photorealistic late-summer café or library discussion scene with a few people leaning over notebooks and printed pages, natural gestures, no posed faces, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2032-08-14
+Parengė: BVK ugdymo, principų ir viešosios minties redakcija
+
+========================================================================
+ĮРАŠАС 9
+Data: 2032-09-09
+Rubrika: Duomenys
+Pavadinimas: Paskelbtas pirmasis išsamesnis būsimos Respublikos funkcinių sričių ir jų sąveikų sąrašas
+
+STRAIPSNIS:
+Rugsėjį paskelbtas pirmasis išsamesnis sąrašas, apimantis pagrindines būsimos Respublikos funkcines sritis ir jų sąveikas. Jame kartu nagrinėjami būstas, maitinimas, švietimas, sveikata, transportas, kultūra, viešoji tvarka, ekologija ir duomenų koordinavimas kaip viena tarpusavyje susijusi sistema.
+
+Toks sąrašas reikalingas tam, kad projektas neįstrigtų abstrakčiuose lozunguose. Kai sritys išskiriamos aiškiai, tampa matoma ir jų tarpusavio priklausomybė. Tai leidžia ateities modelį svarstyti rimčiau, be iliuzijos, kad vienas sprendimas galėtų pataisyti visą visuomenę.
+
+Šis žingsnis svarbus ir tuo, kad jis artina projektą prie labiau sisteminio mąstymo. Respublika vis aiškiau rodoma kaip gyvenimo architektūra, o ne vien patrauklių idėjų rinkinys.
+
+SEO:
+SEO title: Paskelbtas pirmasis išsamesnis būsimos Respublikos funk...
+Meta description: 2032 m. paskelbtas pirmasis išsamesnis būsimos Respublikos funkcinių sričių ir jų sąveikų sąrašas.
+Slug: paskelbtas-pirmasis-issamesnis-busimos-respublikos-funkciniu-sriciu-ir-ju-saveiku-sarasas-2032
+
+IMAGE PROMPT:
+Photorealistic systems-mapping photo with layered functional charts, service icons sketched on paper and interconnection diagrams, early autumn daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2032-09-09
+Parengė: BVK ugdymo, principų ir viešosios minties redakcija
+
+========================================================================
+ĮРАШАС 10
+Data: 2032-10-21
+Rubrika: Archyvas
+Pavadinimas: Pradėtas ilgasis Respublikos dokumentų peržiūrų ir redakcijų žurnalas
+
+STRAIPSNIS:
+Spalio mėnesį pradėtas ilgasis dokumentų peržiūrų ir redakcijų žurnalas. Jame fiksuojama, kaip, kada ir dėl kokių priežasčių keitėsi pagrindiniai projekto tekstai, sąvokos ir tarpusavio nuorodos. Šis žurnalas tampa svarbia vidinės drausmės dalimi.
+
+Iki tol dalis pokyčių buvo jaučiami, bet ne visada aiškiai dokumentuojami. Dabar atsiranda ilgalaikė galimybė matyti, kaip brendo konkrečios formuluotės, kokie sprendimai buvo atmesti ir kokie argumentai pasirodė stipresni. Tai itin svarbu, jei projektas nori išlaikyti nuoseklumą per daugelį metų.
+
+Žurnalas nėra vien techninis instrumentas. Jis stiprina projekto atmintį ir padeda būsimiems sluoksniams atsiremti į aiškią vidinę istoriją, o ne vien į paskutinę tekstų redakciją.
+
+SEO:
+SEO title: Pradėtas ilgasis Respublikos dokumentų peržiūrų ir reda...
+Meta description: 2032 m. pradėtas ilgasis Respublikos dokumentų peržiūrų ir redakcijų žurnalas.
+Slug: pradetas-ilgasis-respublikos-dokumentu-perziuru-ir-redakciju-zurnalas-2032
+
+IMAGE PROMPT:
+Photorealistic editorial logbook scene with revision notebook, dated tabs, pens and stacked folders under warm autumn lamp light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2032-10-21
+Parengė: BVK ugdymo, principų ir viešosios minties redakcija
+
+========================================================================
+ĮРАШАС 11
+Data: 2032-11-12
+Rubrika: Vystymasis
+Pavadinimas: Pirmą kartą rimčiau svarstyta, kaip teorinis modelis galėtų išaugti į tikrą socialinį kontūrą
+
+STRAIPSNIS:
+Lapkričio mėnesį projektas pirmą kartą rimčiau svarstė, kaip teorinis modelis ilgainiui galėtų išaugti į tikrą socialinį kontūrą. Šiame etape dar nekalbama apie artimą politinį veiksmą ar institucijų kūrimą. Daugiau dėmesio skiriama pačiai perėjimo logikai - kaip gimsta pasitikėjimas, kaip formuojasi dalyvavimo kultūra ir kokie tarpiniai sluoksniai būtini prieš bet kokį praktinį žingsnį.
+
+Šios diskusijos rodo, kad projektas nebesitenkina vien idealių schemų piešimu. Jam tampa svarbu mąstyti apie lėtą augimą, socialinę terpę ir žmogaus pasirengimą. Tai saugo nuo paviršutinio radikalumo ir leidžia ateitį modeliuoti blaiviau.
+
+Šis tekstų blokas žymi svarbią brandos ribą. Respublika pradedama suprasti ne tik kaip galutinė būsena, bet ir kaip ilgas procesas, kuriam reikia tarpinės kultūros ir struktūrų.
+
+SEO:
+SEO title: Pirmą kartą rimčiau svarstyta, kaip teorinis modelis ga...
+Meta description: 2032 m. pirmą kartą rimčiau svarstyta, kaip teorinis modelis galėtų išaugti į tikrą socialinį kontūrą.
+Slug: pirma-karta-rimciau-svarstyta-kaip-teorinis-modelis-galetu-isaugti-i-tikra-socialini-kontura-2032
+
+IMAGE PROMPT:
+Photorealistic transition-planning scene with layered notes, community diagrams and pathway sketches on a large table, late autumn daylight, realistic thoughtful atmosphere.
+
+PABAIGOS BLOKAS:
+Publikuota: 2032-11-12
+Parengė: BVK ugdymo, principų ir viešosios minties redakcija
+
+========================================================================
+ĮРАШАС 12
+Data: 2032-12-17
+Rubrika: Archyvas
+Pavadinimas: Metų apžvalga: projektas vis aiškiau tampa būsimos visuomenės mokomuoju modeliu
+
+STRAIPSNIS:
+Metų pabaigoje galima aiškiai matyti, kad BVK projektas vis labiau veikia kaip būsimos visuomenės mokomasis modelis. Per 2032 metus stiprėjo saviugdos, drausmės, ekonominės logikos, technologijų ribų ir funkcinių sričių aiškinimas. Visa tai kartu sukūrė solidesnį ugdomąjį sluoksnį.
+
+Svarbu tai, kad projektas augo ne vien į plotį, bet ir į gylį. Jis ne tik papildė pasaulį naujomis detalėmis, bet ir geriau paaiškino, kokio žmogaus, kokios kasdienybės ir kokios kultūros reikalautų tokia sistema. Dėl to Respublikos idėja tapo mažiau panaši į miglotą svajonę ir labiau - į rimtą civilizacinį klausimą.
+
+Ši metų apžvalga fiksuoja etapą, kai svetainė jau nebėra vien pasakojimo erdvė. Ji tampa vieta, kurioje ugdoma būsimos tvarkos vaizduotė.
+
+SEO:
+SEO title: Metų apžvalga: projektas vis aiškiau tampa būsimos visu...
+Meta description: 2032 m. metų apžvalga: projektas vis aiškiau tampa būsimos visuomenės mokomuoju modeliu.
+Slug: metu-apzvalga-projektas-vis-aiskiau-tampa-busimos-visuomenes-mokomuoju-modeliu-2032
+
+IMAGE PROMPT:
+Photorealistic year-end educational archive scene with grouped yearly themes, binders, concept cards and neat worktable, winter dusk, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2032-12-17
+Parengė: BVK ugdymo, principų ir viešosios minties redakcija
