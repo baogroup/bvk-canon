@@ -1,0 +1,334 @@
+BVK CANON
+Годовой публикационный план 2031
+
+Статус: ACTIVE
+Версия: v1.0
+Дата первого принятия: 2026-04-24
+Текущая редакция: 2026-04-24
+История поправок: CHANGE-0069
+Уровень доступа: SERVICE
+Историческая принадлежность: ранний идейный слой
+Связанные закрытые документы: нет
+Коды связанных закрытых документов: нет
+
+Назначение:
+Этот файл закрепляет годовой публикационный план для 2031 года в рамках внутреннего SERVICE-слоя BVK Canon.
+
+Главный принцип:
+Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
+Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+
+Связь с другими файлами:
+- 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
+- данный файл переводит эту логику в конкретный годовой набор публикаций
+
+BVK METINIS PLANAS 2031
+
+METINIS STILIUS IR TONAS
+- Nuo pasaulio konstravimo pereinama prie ankstyvos visuomeninės kalbos.
+- Tekstai labiau surinkti, aiškesni, juose daugiau viešųjų principų ir pilietinės brandos temos.
+- Dar nėra brandžios valstybės tono, tačiau jaučiamas didesnis rimtumas ir platesnis skaitytojų ratas.
+- Kompozicija tvarkingesnė, mažiau dienoraštiško laisvumo, daugiau aiškaus redakcinio balso.
+
+REKOMENDUOJAMAS PARENGĖJAS: BVK viešosios krypties ir principų redakcija
+
+========================================================================
+ĮRAŠAS 1
+Data: 2031-01-14
+Rubrika: Archyvas
+Pavadinimas: Peržiūrėtas ir išplėstas pirmojo penkmečio Respublikos raidos archyvas
+
+STRAIPSNIS:
+Sausio mėnesį atlikta platesnė pirmųjų penkerių metų medžiagos peržiūra parodė, kad ankstyvajame etape sukaupti užrašai jau gali būti vertinami ne kaip padriki juodraščiai, o kaip nuoseklus Respublikos raidos sluoksnis. Dalis tekstų buvo patikslinti, kai kurie terminai suvienodinti, o ankstyvieji posūkiai pažymėti taip, kad vėliau būtų aiškiau matomas visos sistemos augimas.
+
+Svarbiausia šio darbo vertė buvo ne archyvinis tvarkingumas vien dėl tvarkingumo. Išryškėjo, kaip nuo asmeninių svarstymų, AI pokalbių ir pirmųjų svetainės planų projektas pamažu virto vis aiškesniu ateities visuomenės modeliu. Pataisius senesnius įrašus, pasidarė lengviau matyti vidinę logiką, o ne vien atskiras idėjas.
+
+Atnaujintas archyvas sustiprino ir pačią projekto atmintį. Nuo šiol pirmasis penkmetis gali būti skaitomas kaip pradinė Respublikos formavimosi kronika, į kurią remsis visi tolesni sluoksniai.
+
+SEO:
+SEO title: Peržiūrėtas ir išplėstas pirmojo penkmečio Respublikos...
+Meta description: 2031 m. peržiūrėtas ir išplėstas pirmojo penkmečio Respublikos raidos archyvas.
+Slug: perziuretas-ir-isplestas-pirmojo-penkmecio-respublikos-raidos-archyvas-2031
+
+IMAGE PROMPT:
+Photorealistic archive review scene, long table with early folders, dated folders, sticky tabs, notebooks and printed draft timelines being compared, calm winter daylight, no readable text, realistic documentary editorial photography.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-01-14
+Parengė: BVK viešosios krypties ir principų redakcija
+
+========================================================================
+ĮRAŠAS 2
+Data: 2031-02-04
+Rubrika: Vystymasis
+Pavadinimas: Svetainėje pradėta aiškiau atskirti idėjiniai tekstai, kronika ir būsimos sistemos aprašai
+
+STRAIPSNIS:
+Vasario pradžioje svetainės struktūroje pirmą kartą nuosekliau atskirti trys svarbūs turinio sluoksniai: idėjiniai tekstai, istorinė kronika ir būsimos sistemos aprašai. Iki tol jie dažnai persidengdavo, todėl skaitytojui ne visada būdavo lengva suprasti, kur baigiasi bendrieji principai ir kur prasideda konkretesnės būsimos Respublikos formos.
+
+Toks atskyrimas padėjo sustiprinti ir pačią skaitymo patirtį. Idėjiniai tekstai galėjo kalbėti apie kryptį ir vertybes, kronika - fiksuoti raidą, o sisteminiai aprašai - rodyti, kaip vieną dieną visa tai galėtų veikti praktikoje. Dėl to projektas tapo aiškesnis ne tik naujiems skaitytojams, bet ir patiems jo kūrėjams.
+
+Šis žingsnis žymi momentą, kai BVK svetainė dar labiau nutolo nuo paprasto teminio archyvo ir pradėjo formuotis kaip sąmoningai sluoksniuotas viešosios ateities modelis.
+
+SEO:
+SEO title: Svetainėje pradėta aiškiau atskirti idėjiniai tekstai...
+Meta description: 2031 m. svetainėje pradėta aiškiau atskirti idėjiniai tekstai, kronika ir būsimos sistemos aprašai.
+Slug: svetaineje-pradeta-aiskiau-atskirti-idejiniai-tekstai-kronika-ir-busimos-sistemos-aprasai-2031
+
+IMAGE PROMPT:
+Photorealistic editorial workspace with website structure maps, section cards and content hierarchy diagrams laid out on a desk, cool daylight, no readable text, natural realistic optics.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-02-04
+Parengė: BVK viešosios krypties ir principų redakcija
+
+========================================================================
+ĮРАŠАС 3
+Data: 2031-03-18
+Rubrika: Bendruomenė
+Pavadinimas: Pirmą kartą viešiau aptarta, kad Respublikos idėja gali būti ne tik pasakojimas, bet ir visuomeninis orientyras
+
+STRAIPSNIS:
+Kovo mėnesį platesniame viešajame aptarime pirmą kartą aiškiau iškelta mintis, kad Respublikos idėja gali būti svarbi ne vien kaip kultūrinis pasakojimas ar įdomus ateities scenarijus. Vis dažniau ji imta matyti kaip visuomeninis orientyras, leidžiantis kalbėti apie orų gyvenimą, atsakomybę, bendrą aprūpinimą ir ilgą planavimą už įprastų politinių šūkių ribų.
+
+Toks poslinkis neįvyko staiga. Prireikė kelerių metų, kol skaitytojai pradėjo matyti, kad svetainėje aprašoma ateitis turi vidinį nuoseklumą ir gali būti vertinama rimtai. Diskusijose vis dažniau buvo klausiama ne tik „kas tai per pasaulis“, bet ir „ką iš jo galima suprasti jau dabar“.
+
+Ši publikacija svarbi tuo, kad joje Respublika pirmą kartą viešiau apibrėžiama kaip mąstymo kryptis, galinti turėti įtakos realiam visuomeniniam vaizduotės laukui.
+
+SEO:
+SEO title: Pirmą kartą viešiau aptarta, kad Respublikos idėja gali...
+Meta description: 2031 m. pirmą kartą viešiau aptarta, kad Respublikos idėja gali būti ne tik pasakojimas, bet ir visuomeninis orientyras.
+Slug: pirma-karta-viesiau-aptarta-kad-respublikos-ideja-gali-buti-ne-tik-pasakojimas-bet-ir-visuomeninis-orientyras-2031
+
+IMAGE PROMPT:
+Photorealistic small discussion circle in a modest community room, chairs, notebooks, tea cups, people seen from side or back in natural conversation, no posing, no readable text, realistic documentary photo.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-03-18
+Parengė: BVK viešosios krypties ir principų redakcija
+
+========================================================================
+ĮРАŠАС 4
+Data: 2031-04-09
+Rubrika: Švietimas
+Pavadinimas: Parengta straipsnių serija apie saviugdą kaip pilietinės brandos pagrindą
+
+STRAIPSNIS:
+Balandį pradėta nuoseklesnė straipsnių serija apie saviugdą, kuri Respublikos kontekste suprantama ne kaip individualistinis savęs tobulinimo ritualas, o kaip pilietinės brandos pamatas. Tekstuose aiškinta, kad visuomenė negali remtis vien išorine kontrole, jei žmogus pats nėra išmokęs drausmės, nuoseklumo ir atsakomybės už savo veiksmus.
+
+Ši kryptis tapo svarbi dėl to, kad projektas vis aiškiau kalba apie naują gyvenimo modelį, kuriam reikia ne vien techninių sprendimų, bet ir kitokios kasdienio elgesio kultūros. Saviugda čia pradėta sieti su gebėjimu laikytis bendrų principų, saugoti tvarką ir suprasti, kad laisvė be vidinės atramos lengvai virsta chaosu.
+
+Nuo šiol švietimo ir saviugdos tema svetainėje įgauna sisteminį vaidmenį. Ji tampa ne papildomu moraliniu komentaru, o būtina būsimos visuomenės sąlyga.
+
+SEO:
+SEO title: Parengta straipsnių serija apie saviugdą kaip pilietinė...
+Meta description: 2031 m. parengta straipsnių serija apie saviugdą kaip pilietinės brandos pagrindą.
+Slug: parengta-straipsniu-serija-apie-saviugda-kaip-pilietines-brandos-pagrinda-2031
+
+IMAGE PROMPT:
+Photorealistic educational planning scene with books, civic notes, pencils, calm desk by a window, early spring light, scholarly but simple atmosphere, no readable text, documentary style.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-04-09
+Parengė: BVK viešosios krypties ir principų redakcija
+
+========================================================================
+ĮРАŠАС 5
+Data: 2031-05-21
+Rubrika: Ekonomika
+Pavadinimas: Toliau plėtojama mintis apie orų darbą, bendrą atsakomybę ir mažesnę priklausomybę nuo vartojimo spaudimo
+
+STRAIPSNIS:
+Gegužę ekonomikos rubrikoje toliau plėtota mintis, kad orus gyvenimas negali būti nuolat statomas ant baimės prarasti darbą, būstą ar pagrindines gyvenimo sąlygas. Publikacijose aiškinta, kad darbo vertė ateities Respublikoje turi būti siejama ne su nuolatine konkurencine įtampa, o su aiškiu indėliu į bendrą gyvenimo palaikymą.
+
+Kartu vis ryškiau iškeltas ir vartojimo spaudimo klausimas. Jei visa sistema orientuojama į begalinį įsigijimą ir individualią kovą dėl padėties, visuomenė praranda ramų ilgą horizontą. Respublikos modelyje siūloma kita kryptis - mažesnė priklausomybė nuo pertekliaus ir didesnė priklausomybė nuo bendros atsakomybės.
+
+Šiame etape kalbama dar ne apie gatavą ekonominę programą, bet apie platesnį lūžį mąstyme. Tai vienas pirmųjų bandymų viešai išversti kooperatyvinę logiką į paprastą kasdienybės kalbą.
+
+SEO:
+SEO title: Toliau plėtojama mintis apie orų darbą, bendrą atsakomy...
+Meta description: 2031 m. toliau plėtojama mintis apie orų darbą, bendrą atsakomybę ir mažesnę priklausomybę nuo vartojimo spaudimo.
+Slug: toliau-pletojama-mintis-apie-oru-darba-bendra-atsakomybe-ir-mazesne-priklausomybe-nuo-vartojimo-spaudimo-2031
+
+IMAGE PROMPT:
+Photorealistic economic concept photo with work gloves, simple tools, household ledger, bread and everyday objects on a wooden table, soft May daylight, natural realism, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-05-21
+Parengė: BVK viešosios krypties ir principų redakcija
+
+========================================================================
+ĮРАŠАС 6
+Data: 2031-06-12
+Rubrika: Kultūra
+Pavadinimas: Romano pasaulyje pradėta aiškiau rodyti kasdienio gyvenimo ir visuomeninės tvarkos sąsaja
+
+STRAIPSNIS:
+Birželį kultūriniame sluoksnyje pradėta aiškiau rodyti, kaip kasdienis gyvenimas ir visuomeninė tvarka yra neatskiriami. Romano medžiagoje daugiau dėmesio skirta ne tik atmosferai, bet ir tam, kaip tvarką laiko paprasti dalykai: viešųjų vietų ritmas, institucijų patikimumas, žmonių tarpusavio laikysena ir gebėjimas gyventi be nuolatinio triukšmo.
+
+Šis pokytis buvo svarbus todėl, kad Respublikos pasaulis vis mažiau priklausė nuo vien bendrų deklaracijų. Jis tapo tikresnis tada, kai pradėta rodyti, kaip didesnės idėjos nusėda į kasdienę aplinką, miestų kvėpavimą ir žmonių elgesį. Tokia kultūrinė medžiaga sustiprina ir visą dokumentinį sluoksnį.
+
+Nuo šio momento romano pasaulis dar labiau veikia kaip emocinė ir vaizdinė atrama pačiai Respublikos logikai suprasti.
+
+SEO:
+SEO title: Romano pasaulyje pradėta aiškiau rodyti kasdienio gyven...
+Meta description: 2031 m. romano pasaulyje pradėta aiškiau rodyti kasdienio gyvenimo ir visuomeninės tvarkos sąsaja.
+Slug: romano-pasaulyje-pradeta-aiskiau-rodyti-kasdienio-gyvenimo-ir-visuomenines-tvarkos-sasaja-2031
+
+IMAGE PROMPT:
+Photorealistic literary-worldbuilding desk with town sketches, street mood references, institutional notes and manuscript pages, warm June daylight, no readable text, realistic editorial atmosphere.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-06-12
+Parengė: BVK viešosios krypties ir principų redakcija
+
+========================================================================
+ĮРАŠАС 7
+Data: 2031-07-24
+Rubrika: Technologijos
+Pavadinimas: Toliau aiškinta, kad pažangios sistemos turi mažinti triukšmą, o ne žmogaus laisvę
+
+STRAIPSNIS:
+Liepos mėnesį technologijų temoje toliau aiškinta, kad pažangios sistemos neturi būti kuriamos tam, kad pakeistų žmogaus apsisprendimą ar paverstų jį stebimu objektu. Priešingai, jos turi mažinti bereikalingą triukšmą, perteklinį administracinį apkrovimą ir leisti žmonėms daugiau laiko skirti gyvenimui, mokymuisi ir bendruomenei.
+
+Šis klausimas svarbus todėl, kad ateities modeliuose technologijos dažnai įsivaizduojamos kaip kontrolės instrumentas. BVK projekte vis aiškiau rodoma kita kryptis: technologijos turi būti tarnaujančios, koordinuojančios ir padedančios išlaikyti bendrą matomumą, tačiau jos negali tapti nauja prievartos forma.
+
+Toks aiškinimas stiprina ir būsimo Bendrojo Valdymo Kontūro supratimą. Jis pradeda ryškėti kaip žmogiškam gyvenimui tarnaujanti koordinavimo terpė, o ne savitikslė galia.
+
+SEO:
+SEO title: Toliau aiškinta, kad pažangios sistemos turi mažinti tr...
+Meta description: 2031 m. toliau aiškinta, kad pažangios sistemos turi mažinti triukšmą, o ne žmogaus laisvę.
+Slug: toliau-aiskinta-kad-pazangios-sistemos-turi-mazinti-triuksma-o-ne-zmogaus-laisve-2031
+
+IMAGE PROMPT:
+Photorealistic humane technology workspace with simple interface mockups, handwritten notes, minimal devices and calm summer light, no readable text, natural optics.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-07-24
+Parengė: BVK viešosios krypties ir principų redakcija
+
+========================================================================
+ĮРАŠАС 8
+Data: 2031-08-15
+Rubrika: Bendruomenė
+Pavadinimas: Aplink projektą sustiprėjo skaitytojų ratas, gebantis lyginti atskirus tekstų sluoksnius
+
+STRAIPSNIS:
+Rugpjūtį tapo aišku, kad dalis skaitytojų projektą jau seka ne atsitiktinai, o nuosekliai. Jie pradėjo lyginti atskirus tekstų sluoksnius: kroniką, idėjinius straipsnius, archyvines publikacijas ir kultūrinę medžiagą. Tai rodo, kad BVK pasaulis skaitytojo akyse pradeda veikti kaip vientisas darinys.
+
+Toks skaitymo būdas labai svarbus projekto brandai. Kol tekstai priimami tik paviršiuje, jie išlieka atskirais įrašais. Kai atsiranda skaitytojų, kurie ieško ryšių, vidinės logikos ir stiliaus kaitos, projektas pereina į gilesnį suvokimo lygmenį. Tai sustiprina ir atsakomybę išlaikyti nuoseklumą.
+
+Ši publikacija žymi lėtą, bet svarbų poslinkį. Respublikos idėja vis aiškiau pradeda būti skaitoma kaip ilgalaikis pasaulis, o ne vien atskirų tekstų serija.
+
+SEO:
+SEO title: Aplink projektą sustiprėjo skaitytojų ratas, gebantis l...
+Meta description: 2031 m. aplink projektą sustiprėjo skaitytojų ratas, gebantis lyginti atskirus tekstų sluoksnius.
+Slug: aplink-projekta-sustiprejo-skaitytoju-ratas-gebantis-lyginti-atskirus-tekstu-sluoksnius-2031
+
+IMAGE PROMPT:
+Photorealistic readers in a quiet room with printed pages, laptops and notes, natural summer daylight, candid documentary atmosphere, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-08-15
+Parengė: BVK viešosios krypties ir principų redakcija
+
+========================================================================
+ĮРАŠАС 9
+Data: 2031-09-10
+Rubrika: Duomenys
+Pavadinimas: Sudarytas pirmasis aiškesnis būsimos sistemos sričių ir jų tarpusavio ryšių sąrašas
+
+STRAIPSNIS:
+Rugsėjo mėnesį sudarytas pirmasis aiškesnis sąrašas, apimantis pagrindines būsimos sistemos sritis ir jų tarpusavio ryšius. Ši schema padėjo geriau matyti, kad Respublika negali būti statoma vien iš atskirų gerų idėjų. Ji turi remtis susietomis gyvenimo atramomis - darbu, būstu, maitinimu, sveikata, švietimu, viešąja tvarka, ekologija ir duomenų koordinavimu.
+
+Tokio sąrašo svarba buvo ne tik techninė. Jis leido pirmą kartą aiškiau matyti visą modelį kaip funkcinę architektūrą, kurioje vienos srities silpnumas neišvengiamai veikia kitas. Tai sustiprino projekto rimtumą ir priartino jį prie sisteminio mąstymo.
+
+Šis žingsnis žymi svarbią brandos ribą. Nuo šiol Respublika vis aiškiau rodoma ne kaip gražių principų rinkinys, o kaip tarpusavyje susieta gyvenimo sistema.
+
+SEO:
+SEO title: Sudarytas pirmasis aiškesnis būsimos sistemos sričių ir...
+Meta description: 2031 m. sudarytas pirmasis aiškesnis būsimos sistemos sričių ir jų tarpusavio ryšių sąrašas.
+Slug: sudarytas-pirmasis-aiskesnis-busimos-sistemos-sriciu-ir-ju-tarpusavio-rysiu-sarasas-2031
+
+IMAGE PROMPT:
+Photorealistic systems map scene with layered service diagrams, handwritten lists, colored connectors and a large worktable, early autumn daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-09-10
+Parengė: BVK viešosios krypties ir principų redakcija
+
+========================================================================
+ĮРАŠАС 10
+Data: 2031-10-22
+Rubrika: Archyvas
+Pavadinimas: Parengtas ankstyvųjų Respublikos redakcijų ir pataisų sekimo principas
+
+STRAIPSNIS:
+Spalį parengtas ankstyvas redakcijų ir pataisų sekimo principas, leidžiantis aiškiau matyti, kaip laikui bėgant buvo koreguojami pagrindiniai tekstai, sąvokos ir tarpusavio nuorodos. Iki tol dalis taisymų buvo fiksuojami netolygiai, tačiau tapo aišku, kad ilgesniam projektui būtina drausminga atmintis.
+
+Tokio sekimo vertė didelė. Jis leidžia išvengti situacijos, kai galutinė formuluotė matoma atskirai nuo jos atsiradimo kelio. Būtent pataisų istorija padeda suprasti, kodėl viena ar kita tezė tapo stipresnė, tikslesnė ar tinkamesnė bendram kanonui.
+
+Ši publikacija rodo, kad Respublikos projektas vis rimčiau žiūri į savo pačios atminties kultūrą. Tai vienas iš ženklų, kad ankstyvoji fazė tampa brandesnė ir atsparesnė chaosui.
+
+SEO:
+SEO title: Parengtas ankstyvųjų Respublikos redakcijų ir pataisų s...
+Meta description: 2031 m. parengtas ankstyvųjų Respublikos redakcijų ir pataisų sekimo principas.
+Slug: parengtas-ankstyvuju-respublikos-redakciju-ir-pataisu-sekimo-principas-2031
+
+IMAGE PROMPT:
+Photorealistic archival revision log scene with notebooks, dated tabs, marked edits and organized folders under warm autumn light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-10-22
+Parengė: BVK viešosios krypties ir principų redakcija
+
+========================================================================
+ĮРАŠАС 11
+Data: 2031-11-11
+Rubrika: Vystymasis
+Pavadinimas: Paskelbti pirmieji tekstai apie ilgą perėjimą nuo idėjinės terpės prie veikiančios sistemos
+
+STRAIPSNIS:
+Lapkričio mėnesį paskelbti pirmieji tekstai, kuriuose atviriau kalbama apie ilgą perėjimą nuo idėjinės terpės prie vieną dieną veikiančios sistemos. Iki tol daug publikacijų daugiausia aiškino patį modelį, tačiau dabar imta kalbėti ir apie kelią - kaip kultūrinis, archyvinis ir technologinis projektas galėtų augti į realesnę visuomeninę formą.
+
+Šiuose tekstuose ypatingai pabrėžta lėto brendimo logika. Respublika nevaizduojama kaip staigus lūžis ar deklaratyvus pažadas. Priešingai, rodomas ilgas etapas, kuriame turi susiformuoti kalba, atmintis, bendruomenės sluoksnis, praktinės schemos ir pasitikėjimas.
+
+Tai svarbi publikacijų grupė, nes ji pirmą kartą leidžia skaitytojui matyti ne tik pasaulio būseną, bet ir jo atsiradimo procesą. Nuo šiol pats kelias tampa viešai svarstoma tema.
+
+SEO:
+SEO title: Paskelbti pirmieji tekstai apie ilgą perėjimą nuo idėji...
+Meta description: 2031 m. paskelbti pirmieji tekstai apie ilgą perėjimą nuo idėjinės terpės prie veikiančios sistemos.
+Slug: paskelbti-pirmieji-tekstai-apie-ilga-perejima-nuo-idejines-terpes-prie-veikiancios-sistemos-2031
+
+IMAGE PROMPT:
+Photorealistic long-horizon planning scene with milestone cards, timeline strips and transition sketches across a wall or long table, November daylight, no readable text, realistic planning documentary photo.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-11-11
+Parengė: BVK viešosios krypties ir principų redakcija
+
+========================================================================
+ĮРАŠАС 12
+Data: 2031-12-22
+Rubrika: Archyvas
+Pavadinimas: Metų apžvalga: projektas pradėjo kalbėti ne tik apie ateitį, bet ir apie jos įgyvendinimo kelią
+
+STRAIPSNIS:
+Baigiantis metams tapo aišku, kad projektas žengė dar vieną svarbų žingsnį: jis kalba ne vien apie tai, kokia galėtų būti ateities Respublika, bet ir apie tai, kaip prie jos būtų einama. Šis poslinkis sustiprino visų metų turinį - nuo archyvo peržiūros ir principų aiškinimo iki pirmųjų viešų svarstymų apie ilgą perėjimą.
+
+Per 2031 metus sustiprėjo ir paties projekto viešasis balsas. Tekstai tapo aiškesni, skaitytojui lengviau atskiriami, o svetainė vis nuosekliau rodė ne padriką idėjų rinkinį, bet bręstančią kryptį. Tapo matoma, kad šis pasaulis turi ne tik viziją, bet ir savą vidinę discipliną.
+
+Ši metų apžvalga fiksuoja tarpinę būseną: Respublika vis dar yra kuriama mintyje, kalboje ir kultūroje, tačiau jos kontūrai jau leidžia kalbėti apie būsimą įgyvendinimo logiką.
+
+SEO:
+SEO title: Metų apžvalga: projektas pradėjo kalbėti ne tik apie at...
+Meta description: 2031 m. metų apžvalga: projektas pradėjo kalbėti ne tik apie ateitį, bet ir apie jos įgyvendinimo kelią.
+Slug: metu-apzvalga-projektas-pradejo-kalbeti-ne-tik-apie-ateiti-bet-ir-apie-jos-igyvendinimo-kelia-2031
+
+IMAGE PROMPT:
+Photorealistic year-end archive desk with sorted first-decade folders, annotated plans and winter evening light, no readable text, calm documentary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-12-22
+Parengė: BVK viešosios krypties ir principų redakcija
