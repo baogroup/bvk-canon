@@ -1,0 +1,334 @@
+BVK CANON
+Годовой публикационный план 2033
+
+Статус: ACTIVE
+Версия: v1.0
+Дата первого принятия: 2026-04-24
+Текущая редакция: 2026-04-24
+История поправок: CHANGE-0071
+Уровень доступа: SERVICE
+Историческая принадлежность: ранний идейный слой
+Связанные закрытые документы: нет
+Коды связанных закрытых документов: нет
+
+Назначение:
+Этот файл закрепляет годовой публикационный план для 2033 года в рамках внутреннего SERVICE-слоя BVK Canon.
+
+Главный принцип:
+Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
+Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+
+Связь с другими файлами:
+- 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
+- данный файл переводит эту логику в конкретный годовой набор публикаций
+
+BVK METINIS PLANAS 2033
+
+METINIS STILIUS IR TONAS
+- Atsiranda daugiau interaktyvumo, praktinio pritaikomumo ir dalyvavimo logikos.
+- Tekstai turi būti tankesni, probleminiai, juose daugiau klausimo „kaip tai veiktų praktiškai“.
+- Balsas santūriai analitinis, bet dar ne šaltai institucinis.
+- Projektas jau ima atrodyti kaip prototipas, o ne vien mokomoji vaizduotės sistema.
+
+REKOMENDUOJAMAS PARENGĖJAS: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+
+========================================================================
+ĮРАŠАС 1
+Data: 2033-01-15
+Rubrika: Technologijos
+Pavadinimas: Pradėti kurti pirmieji vartotojo dalyvavimo scenarijai būsimoje Respublikos skaitmeninėje erdvėje
+
+STRAIPSNIS:
+Sausio mėnesį pradėti kurti pirmieji vartotojo dalyvavimo scenarijai, skirti būsimos Respublikos skaitmeninei erdvei. Iki tol projektas daugiausia buvo skaitomas, stebimas ir analizuojamas, tačiau dabar vis aiškiau iškilo klausimas, kaip žmogus tokioje sistemoje ne tik matytų, bet ir veiktų.
+
+Scenarijuose svarstyta, kaip būtų galima aiškiai parodyti pareigas, pasirinkimus, atsakomybės sritis ir bendro gyvenimo ritmą nepaverčiant dalyvavimo dirbtiniu žaidimu. Buvo ieškoma formų, kurios leistų žmogui suvokti, kaip jo veiksmai siejasi su platesniu miesto ar bendruomenės balansu.
+
+Šis etapas žymi svarbų poslinkį. Respublika pradedama modeliuoti ne tik kaip stebimas pasaulis, bet ir kaip aplinka, kurioje dalyvavimas turi savo aiškią struktūrą.
+
+SEO:
+SEO title: Pradėti kurti pirmieji vartotojo dalyvavimo scenarijai...
+Meta description: 2033 m. pradėti kurti pirmieji vartotojo dalyvavimo scenarijai būsimoje Respublikos skaitmeninėje erdvėje.
+Slug: pradeti-kurti-pirmieji-vartotojo-dalyvavimo-scenarijai-busimoje-respublikos-skaitmenineje-erdveje-2033
+
+IMAGE PROMPT:
+Photorealistic UX scenario workshop scene with interface sketches, user journey cards and participation flow diagrams on a desk, winter daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-01-15
+Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+
+========================================================================
+ĮРАŠАС 2
+Data: 2033-02-05
+Rubrika: Vystymasis
+Pavadinimas: Svetainėje iškelta mintis, kad ateities valstybė turi būti ne stebima, o patiriama per veiksmą ir pasirinkimą
+
+STRAIPSNIS:
+Vasario pradžioje svetainėje aiškiau suformuluota mintis, kad ateities valstybė negali būti suvokiama vien kaip gražiai aprašytas modelis. Jei ji turi tapti įtikinama, žmogus privalo suprasti ją per veiksmą, pasirinkimą ir asmeninę atsakomybę, o ne tik per iš šalies stebimas deklaracijas.
+
+Ši idėja svarbi visam projekto tolesniam augimui. Ji perkelia dėmesį nuo pasyvaus skaitymo prie aktyvesnio įsivaizdavimo: kas nutiktų, jei žmogus turėtų pasirūpinti bendru ritmu, priimti ribas, laikytis drausmės ir kartu naudotis didesniu socialiniu saugumu. Tokia perspektyva stiprina projekto tikrumą.
+
+Ši publikacija žymi momentą, kai BVK pasaulis pradeda būti mąstomas kaip patiriama terpė. Būtent tai ateityje atvers kelią žaidybinei, socialinei ir bendruomeninei formai.
+
+SEO:
+SEO title: Svetainėje iškelta mintis, kad ateities valstybė turi b...
+Meta description: 2033 m. svetainėje iškelta mintis, kad ateities valstybė turi būti ne stebima, o patiriama per veiksmą ir pasirinkimą.
+Slug: svetaineje-iskelta-mintis-kad-ateities-valstybe-turi-buti-ne-stebima-o-patiriama-per-veiksma-ir-pasirinkima-2033
+
+IMAGE PROMPT:
+Photorealistic conceptual participation scene with hand moving tokens or cards across a civic board setup, natural desk environment, soft winter light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-02-05
+Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+
+========================================================================
+ĮРАŠАС 3
+Data: 2033-03-19
+Rubrika: Duomenys
+Pavadinimas: Sukurtas ankstyvas modelis, kaip Respublikos sistemoje galėtų būti matomi poreikiai, darbai ir atsakomybės sritys
+
+STRAIPSNIS:
+Kovą sukurtas ankstyvas modelis, leidžiantis svarstyti, kaip Respublikos sistemoje būtų matomi poreikiai, darbai ir atsakomybės sritys. Šioje schemoje siekiama ne viską supaprastinti iki mechaninio skaičiavimo, bet surasti būdą, kaip bendras gyvenimas galėtų būti koordinuojamas aiškiau ir teisingiau.
+
+Ypatingas dėmesys skirtas tam, kad duomenų logika netaptų žmogų spaudžiančiu aparatu. Projekte akcentuojama, kad poreikių ir darbų matomumas reikalingas tam, jog būtų mažiau triukšmo, bereikalingo dubliavimosi ir nesąžiningos naštos pasiskirstymo. Tai koordinavimo, o ne nuasmeninimo įrankis.
+
+Šis modelis yra ankstyvas, bet svarbus. Jis priartina projektą prie praktinio klausimo, kaip galėtų veikti didesnė tarpusavyje susieta bendro gyvenimo sistema.
+
+SEO:
+SEO title: Sukurtas ankstyvas modelis, kaip Respublikos sistemoje...
+Meta description: 2033 m. sukurtas ankstyvas modelis, kaip Respublikos sistemoje galėtų būti matomi poreikiai, darbai ir atsakomybės sritys.
+Slug: sukurtas-ankstyvas-modelis-kaip-respublikos-sistemoje-galetu-buti-matomi-poreikiai-darbai-ir-atsakomybes-sritys-2033
+
+IMAGE PROMPT:
+Photorealistic data-mapping scene with task clusters, need charts and responsibility matrix sketches spread over a worktable, spring daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-03-19
+Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+
+========================================================================
+ĮРАŠАС 4
+Data: 2033-04-09
+Rubrika: Bendruomenė
+Pavadinimas: Pirmieji aktyvesni projekto sekėjai pradėjo siūlyti savo būsimos skaitmeninės erdvės matymus
+
+STRAIPSNIS:
+Balandžio mėnesį pirmieji aktyvesni projekto sekėjai ėmė siūlyti savo įžvalgas apie tai, kaip galėtų atrodyti būsima Respublikos skaitmeninė erdvė. Šie siūlymai apėmė ne tik techninius sprendimus, bet ir patį dalyvavimo toną - kiek sistemoje turėtų būti aiškumo, kiek laisvo pasirinkimo, kaip išvengti perteklinio mechaninio jausmo.
+
+Tai svarbus ženklas, rodantis, kad dalis auditorijos jau pradeda mąstyti ne vien kaip skaitytoja, bet ir kaip būsimo pasaulio bendraautorė. Kol tokie svarstymai dar pavieniai, tačiau jie rodo, kad projektas pasiekė naują įsitraukimo gylį.
+
+Ši publikacija fiksuoja pirmuosius bandymus išplėsti Respublikos skaitmeninę vaizduotę už pirminio kūrėjų rato ribų. Ilgainiui tai gali tapti vienu iš bendruomeninės plėtros pamatų.
+
+SEO:
+SEO title: Pirmieji aktyvesni projekto sekėjai pradėjo siūlyti sav...
+Meta description: 2033 m. pirmieji aktyvesni projekto sekėjai pradėjo siūlyti savo būsimos skaitmeninės erdvės matymus.
+Slug: pirmieji-aktyvesni-projekto-sekejai-pradejo-siulyti-savo-busimos-skaitmenines-erdves-matymus-2033
+
+IMAGE PROMPT:
+Photorealistic collaborative planning scene with a few participants sharing sketches around a table, pointing at layouts and notes, spring indoor light, no readable text.
+
+PABAIGOS BLOКAS:
+Publikuota: 2033-04-09
+Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+
+========================================================================
+ĮРАШАС 5
+Data: 2033-05-21
+Rubrika: Kultūra
+Pavadinimas: Romano medžiaga papildyta naujais socialinio gyvenimo ir miesto valdymo sluoksniais
+
+STRAIPSNIS:
+Gegužę toliau plėtota romano medžiaga, tačiau šį kartą daugiau dėmesio skirta socialinio gyvenimo ir miesto valdymo sluoksniams. Į pasakojimo audinį įtraukti ne tik žmonių santykiai, bet ir viešosios erdvės ritmas, tarnybų darbas, bendri aprūpinimo principai bei kasdienė disciplinos kultūra.
+
+Šie papildymai sustiprino vieną svarbią projekto savybę: Respublika vis labiau rodoma ne per dideles deklaracijas, o per smulkų miesto gyvenimo tikrumą. Tai leidžia skaitytojui geriau jausti, kaip tokia sistema veikia ne ant popieriaus, bet gatvėje, mokykloje, namuose ir bendrose erdvėse.
+
+Romano pasaulio tankinimas vėl sustiprino kultūrinę projekto atramą. Būtent per ją dalis skaitytojų į BVK įžengia pirmiausia, o tik vėliau pasiekia dokumentinį sluoksnį.
+
+SEO:
+SEO title: Romano medžiaga papildyta naujais socialinio gyvenimo i...
+Meta description: 2033 m. romano medžiaga papildyta naujais socialinio gyvenimo ir miesto valdymo sluoksniais.
+Slug: romano-medziaga-papildyta-naujais-socialinio-gyvenimo-ir-miesto-valdymo-sluoksniais-2033
+
+IMAGE PROMPT:
+Photorealistic literary-worldbuilding desk with city-life notes, institution sketches and atmospheric references, warm spring light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-05-21
+Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+
+========================================================================
+ĮРАШАС 6
+Data: 2033-06-12
+Rubrika: Archyvas
+Pavadinimas: Išplėstas archyvinių publikacijų modelis, leidžiantis vienu metu matyti skirtingas Respublikos epochas
+
+STRAIPSNIS:
+Birželio mėnesį išplėstas archyvinių publikacijų modelis taip, kad būtų lengviau vienu metu matyti skirtingas Respublikos epochas. Ši schema padeda skaitytojui suvokti, jog 2026, 2030 ar 2086 metų tekstai nėra atsitiktinės atplaišos, o vienos didesnės istorijos sluoksniai.
+
+Toks išplėtimas svarbus ir pačiam projektui. Kuo geriau matomos skirtingų laikotarpių jungtys, tuo aiškiau galima tvarkyti pasaulio logiką, stilių kaitą ir institucijų raidą. Tai ypač svarbu, kai svetainėje daugėja turinio ir kyla rizika prarasti vidinį nuoseklumą.
+
+Nuo šio momento archyvas tampa ne tik saugojimo vieta, bet ir aktyvia skaitymo bei pasaulio orientacijos priemone. Jis padeda judėti laiku pirmyn ir atgal nepasimetant bendrame vaizde.
+
+SEO:
+SEO title: Išplėstas archyvinių publikacijų modelis, leidžiantis v...
+Meta description: 2033 m. išplėstas archyvinių publikacijų modelis, leidžiantis vienu metu matyti skirtingas Respublikos epochas.
+Slug: isplestas-archyviniu-publikaciju-modelis-leidziantis-vienu-metu-matyti-skirtingas-respublikos-epochas-2033
+
+IMAGE PROMPT:
+Photorealistic archive wall scene with multiple year markers, pinned publication cards and layered chronology strands, summer daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-06-12
+Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+
+========================================================================
+ĮРАШАС 7
+Data: 2033-07-24
+Rubrika: Technologijos
+Pavadinimas: Aptartos pirmosios vidinės socialinio tinklo ir žaidybinės sąveikos architektūros kryptys
+
+STRAIPSNIS:
+Liepos mėnesį technologijų ir vystymosi sankirtoje aptartos pirmosios vidinės socialinio tinklo bei žaidybinės sąveikos architektūros kryptys. Svarstyta, kaip sukurti erdvę, kuri nebūtų nei tuščias pramoginis apvalkalas, nei šaltas administracinis įrankis, o padėtų žmogui išmokti dalyvavimo logikos.
+
+Pagrindinis klausimas buvo ne dekoratyvus. Ieškota būdų, kaip per skaitmeninę aplinką perteikti pasirinkimo pasekmes, bendro gyvenimo ritmą ir atsakomybės svorį. Tokia erdvė turėtų stiprinti ne priklausomybę nuo ekrano, o supratimą apie sistemos veikimą.
+
+Šiame etape dar nėra galutinio techninio sprendimo, tačiau kryptis jau aiški. Respublika pradeda mąstyti apie terpę, kurioje dalyvavimo kultūra galėtų būti ne tik aiškinama, bet ir treniruojama.
+
+SEO:
+SEO title: Aptartos pirmosios vidinės socialinio tinklo ir žaidybi...
+Meta description: 2033 m. aptartos pirmosios vidinės socialinio tinklo ir žaidybinės sąveikos architektūros kryptys.
+Slug: aptartos-pirmosios-vidines-socialinio-tinklo-ir-zaidybines-saveikos-architekturos-kryptys-2033
+
+IMAGE PROMPT:
+Photorealistic game-social architecture planning scene with wireframes, interaction maps and tabletop prototypes, midsummer light, no readable text, realistic design studio mood.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-07-24
+Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+
+========================================================================
+ĮРАШАС 8
+Data: 2033-08-16
+Rubrika: Ekonomika
+Pavadinimas: Pradėti tikslinti praktiniai kooperacijos, paskirstymo ir pasitikėjimo mechanizmų scenarijai
+
+STRAIPSNIS:
+Rugpjūtį ekonomikos temoje pereita prie praktiškesnių scenarijų. Pradėta tikslinti, kaip kooperacija, paskirstymas ir tarpusavio pasitikėjimas galėtų veikti ne vien kaip vertybiniai principai, bet kaip kasdienės sistemos mechanizmai. Daug dėmesio skirta tam, kaip būtų išvengiama tiek savanaudiško kaupimo, tiek neveiksnaus neapibrėžtumo.
+
+Šie scenarijai svarbūs todėl, kad jie pirmą kartą aiškiau susieja ekonominį klausimą su pasitikėjimo kultūra. Jei žmonės turi bendras garantijas, jie taip pat turi matyti, kad sistema remiasi aiškia atsakomybe ir neleidžia tyliai slėpti naštos kitiems. Tik tokiu atveju kooperatyvinė logika išlieka tvari.
+
+Šis žingsnis priartina projektą prie rimtesnio praktinio svarstymo. Ekonominė Respublikos pusė vis mažiau primena abstraktų idealą ir vis labiau - tikrą gyvenimo organizavimo modelį.
+
+SEO:
+SEO title: Pradėti tikslinti praktiniai kooperacijos, paskirstymo...
+Meta description: 2033 m. pradėti tikslinti praktiniai kooperacijos, paskirstymo ir pasitikėjimo mechanizmų scenarijai.
+Slug: pradeti-tikslinti-praktiniai-kooperacijos-paskirstymo-ir-pasitikejimo-mechanizmu-scenarijai-2033
+
+IMAGE PROMPT:
+Photorealistic cooperative-economy concept scene with shared resources, household goods, planning charts and trust-based allocation notes on a summer table, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-08-16
+Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+
+========================================================================
+ĮРАШАС 9
+Data: 2033-09-11
+Rubrika: Švietimas
+Pavadinimas: Paskelbti tekstai apie tai, kaip dalyvavimo kultūra turi būti ugdoma dar iki pačios sistemos paleidimo
+
+STRAIPSNIS:
+Rugsėjį paskelbti tekstai, kuriuose pabrėžta, kad dalyvavimo kultūra negali atsirasti tą pačią dieną, kai pradedama veikti nauja sistema. Ji turi būti ugdoma gerokai anksčiau - per kalbą, įpročius, mokymąsi, bendravimo toną ir gebėjimą matyti save kaip platesnio gyvenimo dalį.
+
+Šis akcentas ypač svarbus, nes jis saugo projektą nuo naivaus techninio mąstymo. Net pati geriausia struktūra neveiks, jei žmonės prie jos ateis su senais įpročiais: abejingumu, atsainumu, trumpu horizontu ir nenoru dalytis atsakomybe. Todėl švietimo sluoksnis ima vaidinti vis svarbesnį vaidmenį.
+
+Nuo šio momento dalyvavimo kultūra BVK pasaulyje traktuojama kaip iš anksto ugdoma civilizacinė kompetencija. Ji tampa būtina būsimos sistemos paleidimo sąlyga.
+
+SEO:
+SEO title: Paskelbti tekstai apie tai, kaip dalyvavimo kultūra tur...
+Meta description: 2033 m. paskelbti tekstai apie tai, kaip dalyvavimo kultūra turi būti ugdoma dar iki pačios sistemos paleidimo.
+Slug: paskelbti-tekstai-apie-tai-kaip-dalyvavimo-kultura-turi-buti-ugdoma-dar-iki-pacios-sistemos-paleidimo-2033
+
+IMAGE PROMPT:
+Photorealistic civic-learning scene with workshop materials, simple educational tools and group study atmosphere, early autumn daylight, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2033-09-11
+Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+
+========================================================================
+ĮРАШАС 10
+Data: 2033-10-23
+Rubrika: Vystymasis
+Pavadinimas: Projektas vis dažniau apibūdinamas kaip būsimos visuomenės prototipas, o ne vien informacinė svetainė
+
+STRAIPSNIS:
+Spalio mėnesį viešajame projekto apibūdinime vis dažniau imta vartoti formuluotę, kad BVK yra būsimos visuomenės prototipas, o ne vien informacinė svetainė. Toks poslinkis atsirado ne dėl išorinio įvaizdžio, bet todėl, kad pats projektas jau turi pakankamai daug tarpusavyje susijusių sluoksnių - archyvą, principus, scenarijus, kultūrinį pasaulį ir ankstyvą dalyvavimo logiką.
+
+Svarbu, kad žodis „prototipas“ čia suprantamas ne technine siaurąja prasme. Jis reiškia, kad projekte bandoma ne tik pasakoti apie kitokį gyvenimą, bet ir po truputį tikrinti, kokių atramų jam reikėtų. Būtent tai skiria brandesnę viziją nuo paprastos utopinės fantazijos.
+
+Ši publikacija fiksuoja reikšmingą savivokos pokytį. Respublika pradedama matyti kaip lėtai bandoma ateities forma, kurios kontūrai jau pakankamai aiškūs rimtesniam svarstymui.
+
+SEO:
+SEO title: Projektas vis dažniau apibūdinamas kaip būsimos visuome...
+Meta description: 2033 m. projektas vis dažniau apibūdinamas kaip būsimos visuomenės prototipas, o ne vien informacinė svetainė.
+Slug: projektas-vis-dazniau-apibudinamas-kaip-busimos-visuomenes-prototipas-o-ne-vien-informacine-svetaine-2033
+
+IMAGE PROMPT:
+Photorealistic prototype-lab style scene with mixed archival, civic and interface materials on one workspace, autumn daylight, no readable text, realistic editorial feel.
+
+PABAIGOS BLOКАС:
+Publikuota: 2033-10-23
+Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+
+========================================================================
+ĮРАШАС 11
+Data: 2033-11-14
+Rubrika: Archyvas
+Pavadinimas: Parengta nauja chronologijos redakcija, aiškiau rodanti perėjimą nuo idėjos prie būsimos tvarkos
+
+STRAIPSNIS:
+Lapkričio mėnesį parengta nauja chronologijos redakcija, kurioje aiškiau parodytas perėjimas nuo pradinės idėjos prie būsimos visuomeninės tvarkos. Joje daugiau dėmesio skirta ne tik pavieniams įvykiams, bet ir etapų logikai - kaip iš asmeninių paieškų auga kultūrinė terpė, iš jos - bendruomeninis sluoksnis, o iš jo ilgainiui gali rastis realesnės formos.
+
+Ši peržiūra buvo reikalinga tam, kad projektas išlaikytų ilgą vidinį ritmą. Kuo daugiau kaupiasi publikacijų ir idėjinių blokų, tuo svarbiau tiksliai matyti, kas atsiranda kada ir kodėl. Naujoji chronologija padeda ateitį modeliuoti atsakingiau.
+
+Tai svarbus archyvinis žingsnis, nes jis stiprina paties projekto savidrausmę. Respublikos istorija tampa vis mažiau miglota ir vis aiškiau suvaldoma kaip nuoseklus laiko audinys.
+
+SEO:
+SEO title: Parengta nauja chronologijos redakcija, aiškiau rodanti...
+Meta description: 2033 m. parengta nauja chronologijos redakcija, aiškiau rodanti perėjimą nuo idėjos prie būsimos tvarkos.
+Slug: parengta-nauja-chronologijos-redakcija-aiskiau-rodanti-perejima-nuo-idejos-prie-busimos-tvarkos-2033
+
+IMAGE PROMPT:
+Photorealistic chronology revision scene with dated cards, layered phase charts and corrected timeline pages spread across a large table, late autumn light.
+
+PABAIGOS BLOКАС:
+Publikuota: 2033-11-14
+Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+
+========================================================================
+ĮРАШАС 12
+Data: 2033-12-19
+Rubrika: Archyvas
+Pavadinimas: Metų apžvalga: skaitmeniniai eksperimentai pradėjo tikrinti, kaip Respublikos idėja veiktų praktiškai
+
+STRAIPSNIS:
+Metų pabaigoje galima sakyti, kad 2033-ieji buvo lūžio metai skaitmeninių ir dalyvavimo eksperimentų požiūriu. Per šiuos metus daugiau dėmesio skirta ne vien principų aiškinimui, bet ir klausimui, kaip žmogus galėtų patirti sistemą per pasirinkimą, atsakomybę ir bendrą ritmą.
+
+Dėl to projektas priartėjo prie svarbios ribos. Jis nebėra vien dokumentų, vaizdinių ir pasakojimų laukas. Jame vis ryškiau ieškoma formų, kurios leistų praktiškai pajusti kooperatyvinės logikos veikimą. Tai dar ankstyva, tačiau kryptis jau aiški.
+
+Ši metų apžvalga fiksuoja etapą, kai Respublikos idėja pradėta tikrinti kaip gyvenimo prototipas. Būtent tai suteikia projektui vis daugiau svorio ateities kontūre.
+
+SEO:
+SEO title: Metų apžvalga: skaitmeniniai eksperimentai pradėjo tikr...
+Meta description: 2033 m. metų apžvalga: skaitmeniniai eksperimentai pradėjo tikrinti, kaip Respublikos idėja veiktų praktiškai.
+Slug: metu-apzvalga-skaitmeniniai-eksperimentai-pradejo-tikrinti-kaip-respublikos-ideja-veiktu-praktiskai-2033
+
+IMAGE PROMPT:
+Photorealistic year-end prototype review scene with screens off, printouts, notes, prototypes and quiet winter office atmosphere, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2033-12-19
+Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
