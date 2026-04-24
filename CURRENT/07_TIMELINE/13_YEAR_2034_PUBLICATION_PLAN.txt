@@ -1,0 +1,334 @@
+BVK CANON
+Годовой публикационный план 2034
+
+Статус: ACTIVE
+Версия: v1.0
+Дата первого принятия: 2026-04-24
+Текущая редакция: 2026-04-24
+История поправок: CHANGE-0072
+Уровень доступа: SERVICE
+Историческая принадлежность: ранний идейный слой
+Связанные закрытые документы: нет
+Коды связанных закрытых документов: нет
+
+Назначение:
+Этот файл закрепляет годовой публикационный план для 2034 года в рамках внутреннего SERVICE-слоя BVK Canon.
+
+Главный принцип:
+Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
+Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+
+Связь с другими файлами:
+- 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
+- данный файл переводит эту логику в конкретный годовой набор публикаций
+
+BVK METINIS PLANAS 2034
+
+METINIS STILIUS IR TONAS
+- Projektas išeina į platesnę viešąją diskusiją, todėl tekstai tampa atviresni išoriniam žvilgsniui.
+- Daugėja regioninio mastelio, viešųjų sistemų ir praktinio taikymo temų.
+- Balsas solidesnis, labiau visuomeninis, tačiau dar nėra pilno institucinio šaltumo.
+- Straipsniai turi rodyti, kad idėja jau matoma platesniuose ratuose ir nebėra vien nišinis reiškinys.
+
+REKOMENDUOJAMAS PARENGĖJAS: BVK viešosios plėtros, regionų ir sisteminių modelių redakcija
+
+========================================================================
+ĮРАŠАС 1
+Data: 2034-01-16
+Rubrika: Bendruomenė
+Pavadinimas: Respublikos idėja pradėta aptarinėti platesniuose socialinių tinklų ir teminių grupių ratuose
+
+STRAIPSNIS:
+Sausio mėnesį Respublikos idėja pradėta aptarinėti platesniuose socialinių tinklų ir teminių grupių ratuose. Iki tol ją daugiausia sekė artimesnis nuolatinių skaitytojų sluoksnis, tačiau dabar diskusijos vis dažniau pasiekia platesnę auditoriją, kuri su projektu susiduria pirmą kartą.
+
+Toks išėjimas į platesnį lauką iš karto atnešė ir daugiau skirtingų reakcijų. Greta susidomėjimo pasigirdo atsargesni klausimai, abejonės ir pirmieji bandymai visą modelį supaprastinti iki pernelyg patogių etikečių. Tai natūralus ženklas, kad projektas tampa matomesnis.
+
+Ši publikacija žymi svarbią ribą: Respublikos idėja pirmą kartą pradeda gyventi ne tik vidiniame gilinimosi rate, bet ir platesniame viešame pokalbyje, kuriame jai teks atlaikyti skirtingus žvilgsnius.
+
+SEO:
+SEO title: Respublikos idėja pradėta aptarinėti platesniuose socia...
+Meta description: 2034 m. respublikos idėja pradėta aptarinėti platesniuose socialinių tinklų ir teminių grupių ratuose.
+Slug: respublikos-ideja-pradeta-aptarineti-platesniuose-socialiniu-tinklu-ir-teminiu-grupiu-ratuose-2034
+
+IMAGE PROMPT:
+Photorealistic social feed discussion atmosphere with phones, laptop, comment printouts and informal shared workspace, winter daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2034-01-16
+Parengė: BVK viešosios plėtros, regionų ir sisteminių modelių redakcija
+
+========================================================================
+ĮРАШАС 2
+Data: 2034-02-06
+Rubrika: Vystymasis
+Pavadinimas: Svetainėje sustiprintas dėmesys tam, kaip būsima sistema galėtų veikti realiuose Baltijos regiono miestuose
+
+STRAIPSNIS:
+Vasario pradžioje svetainėje sustiprintas dėmesys realiai Baltijos regiono geografijai ir miestams. Respublikos idėja vis dažniau pradėta aiškinti ne abstrakčių ateities zonų kalba, bet remiantis konkretesne Lietuvos, Latvijos ir Estijos miestų logika, jų masteliu, viešosiomis erdvėmis ir kasdieniais poreikiais.
+
+Šis poslinkis buvo reikalingas tam, kad projektas taptų labiau įtikinamas. Kuo aiškiau matoma, kaip idėja sietųsi su tikra geografija, tuo lengviau ją vertinti rimtai. Taip pat tai padeda apsaugoti modelį nuo pernelyg migloto universalumo, kai viskas galioja bet kur ir todėl nebeatrodo tikra.
+
+Nuo šio momento Baltijos matmuo projekte stiprėja ne tik pavadinime, bet ir turinio sandaroje. Būsima sistema vis labiau mąstoma kaip konkrečios erdvės, o ne bevietės fantazijos tvarka.
+
+SEO:
+SEO title: Svetainėje sustiprintas dėmesys tam, kaip būsima sistem...
+Meta description: 2034 m. svetainėje sustiprintas dėmesys tam, kaip būsima sistema galėtų veikti realiuose Baltijos regiono miestuose.
+Slug: svetaineje-sustiprintas-demesys-tam-kaip-busima-sistema-galetu-veikti-realiuose-baltijos-regiono-miestuose-2034
+
+IMAGE PROMPT:
+Photorealistic Baltic regional planning scene with real city maps, transport lines, notebooks and urban comparison materials on a desk, cold February light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2034-02-06
+Parengė: BVK viešosios plėtros, regionų ir sisteminių modelių redakcija
+
+========================================================================
+ĮРАШАС 3
+Data: 2034-03-20
+Rubrika: Duomenys
+Pavadinimas: Išplėstas Lietuvos, Latvijos ir Estijos miestų vaidmenų žemėlapis Respublikos ateities chronologijoje
+
+STRAIPSNIS:
+Kovą išplėstas Lietuvos, Latvijos ir Estijos miestų vaidmenų žemėlapis, rodantis, kaip skirtingos vietovės galėtų būti matomos ilgoje Respublikos raidos chronologijoje. Ši schema nesiekia mechaniškai priskirti miestams vienos funkcijos, tačiau padeda matyti, kaip jų istorinės, kultūrinės ir infrastruktūrinės savybės galėtų įsilieti į bendrą ateities modelį.
+
+Tokio žemėlapio svarba slypi ne tik regioninėje reprezentacijoje. Jis leidžia projektui kalbėti apie erdvę realiau ir atsakingiau, suvokiant, kad skirtingi miestai turi skirtingą ritmą, potencialą ir atsparumą. Tai brandesnė mąstymo forma nei abstraktus vienodas planavimas viskam.
+
+Ši publikacija sustiprina Baltijos projekto stuburą. Respublika vis aiškiau rodoma kaip susijusių vietovių tinklas, o ne vien centrinė koncepcija be konkretaus reljefo.
+
+SEO:
+SEO title: Išplėstas Lietuvos, Latvijos ir Estijos miestų vaidmenų...
+Meta description: 2034 m. išplėstas Lietuvos, Latvijos ir Estijos miestų vaidmenų žemėlapis Respublikos ateities chronologijoje.
+Slug: isplestas-lietuvos-latvijos-ir-estijos-miestu-vaidmenu-zemelapis-respublikos-ateities-chronologijoje-2034
+
+IMAGE PROMPT:
+Photorealistic large map table with Baltic city markers, role diagrams and timeline overlays, spring daylight, no readable text, documentary planning realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2034-03-20
+Parengė: BVK viešosios plėtros, regionų ir sisteminių modelių redakcija
+
+========================================================================
+ĮРАШАС 4
+Data: 2034-04-10
+Rubrika: Sveikata
+Pavadinimas: Pirmą kartą detaliau modeliuota, kaip Respublikos sąlygomis galėtų atrodyti viešoji sveikatos sistema
+
+STRAIPSNIS:
+Balandžio mėnesį pirmą kartą detaliau modeliuota viešoji sveikatos sistema Respublikos sąlygomis. Tekstuose svarstyta ne vien gydymo prieinamumo tema, bet ir platesnė logika: profilaktika, šeimos stabilumas, bendruomeninis rūpestis, regioninis paslaugų paskirstymas ir ryšys su bendra gyvenimo kokybe.
+
+Svarbus akcentas buvo tas, kad sveikata čia traktuojama ne kaip atskiras aptarnavimo sektorius, o kaip viena iš visuomenės tvarkos atramų. Jei žmogus gyvena saugiau, ramiau ir turi mažesnę kasdienio išlikimo įtampą, keičiasi ir pačios sveikatos sistemos pobūdis - daugiau vietos atsiranda prevencijai, tęstinumui ir priežiūrai.
+
+Ši publikacijų kryptis išplečia projekto praktinį patikimumą. Ji rodo, kad Respublika svarstoma jau ne tik idėjų, bet ir bazinių gyvenimo sistemų lygmeniu.
+
+SEO:
+SEO title: Pirmą kartą detaliau modeliuota Respublikos viešoji sveikatos sistema
+Meta description: 2034 m. pirmą kartą detaliau modeliuota, kaip Respublikos sąlygomis galėtų atrodyti viešoji sveikatos sistema.
+Slug: pirma-karta-detaliau-modeliuota-kaip-respublikos-salygomis-galetu-atrodyti-viesoji-sveikatos-sistema-2034
+
+IMAGE PROMPT:
+Photorealistic public health concept photo with clinic planning notes, family care references and calm medical workspace, spring daylight, no readable text.
+
+PABAIGOS BLOKАС:
+Publikuota: 2034-04-10
+Parengė: BVK viešosios plėtros, regionų ir sisteminių modelių redakcija
+
+========================================================================
+ĮРАШАС 5
+Data: 2034-05-22
+Rubrika: Švietimas
+Pavadinimas: Toliau plėtota ankstyvosios ugdymo, suaugusiųjų mokymosi ir visuomeninės brandos schema
+
+STRAIPSNIS:
+Gegužę švietimo temoje toliau plėtota schema, jungianti ankstyvąjį ugdymą, suaugusiųjų mokymąsi ir visuomeninę brandą. Tekstuose akcentuota, kad švietimas negali baigtis mokyklos slenksčiu, jei visuomenė nori išlaikyti gyvą atsakomybės ir dalyvavimo kultūrą.
+
+Ši kryptis svarbi todėl, kad ji saugo projektą nuo pernelyg siauro institucinio mąstymo. Respublikos modelyje mokymasis suvokiamas kaip nuolatinė gyvenimo atrama, padedanti žmogui persiorientuoti, brandžiau veikti ir išlaikyti ryšį su bendra tvarka. Tokia logika ypač svarbi pasaulyje, kuriame technologijos ir viešosios sistemos keičiasi greitai.
+
+Nuo šio momento švietimo sluoksnis vis aiškiau susiejamas su pačios visuomenės stabilumu. Jis tampa ne foniniu sektoriu, o viena pagrindinių ilgojo Respublikos horizonto atramų.
+
+SEO:
+SEO title: Toliau plėtota ankstyvosios ugdymo, suaugusiųjų mokymos...
+Meta description: 2034 m. toliau plėtota ankstyvosios ugdymo, suaugusiųjų mokymosi ir visuomeninės brandos schema.
+Slug: toliau-pletota-ankstyvosios-ugdymo-suaugusiuju-mokymosi-ir-visuomenines-brandos-schema-2034
+
+IMAGE PROMPT:
+Photorealistic lifelong-learning scene with child materials, adult study folders and civic education notes sharing one bright table, May daylight, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2034-05-22
+Parengė: BVK viešosios plėtros, regionų ir sisteminių modelių redakcija
+
+========================================================================
+ĮРАШАС 6
+Data: 2034-06-13
+Rubrika: Ekonomika
+Pavadinimas: Paskelbti nauji tekstai apie kasdienio gyvenimo stabilumą, išteklių cirkuliaciją ir kooperacinį ūkį
+
+STRAIPSNIS:
+Birželio mėnesį paskelbti nauji ekonominiai tekstai, skirti kasdienio gyvenimo stabilumui, išteklių cirkuliacijai ir kooperacinio ūkio logikai. Juose aiškinta, kad kooperatyvinė sistema negali remtis vien bendrais pažadais. Jai būtina tvarkinga medžiagų, maisto, paslaugų ir gyvenimo pagrindų apytaka, kuri mažina švaistymą ir nelygią naštą.
+
+Ypač išryškintas kasdienio stabilumo klausimas. Respublikos idėja patikima tik tada, jei ji gali užtikrinti ne vien didelius principus, bet ir ramų buitinių sąlygų pagrindą. Tokia ekonominė kultūra siekia mažinti bereikalingą chaosą, neproduktyvų perteklių ir nuolatinį žmonių stūmimą į nesaugumą.
+
+Šie tekstai stiprina praktinį projekto veidą. Ekonomika vis aiškiau aprašoma kaip gyvenimo architektūra, o ne kaip atskira teorinė schema.
+
+SEO:
+SEO title: Paskelbti nauji tekstai apie kasdienio gyvenimo stabilu...
+Meta description: 2034 m. paskelbti nauji tekstai apie kasdienio gyvenimo stabilumą, išteklių cirkuliaciją ir kooperacinį ūkį.
+Slug: paskelbti-nauji-tekstai-apie-kasdienio-gyvenimo-stabiluma-istekliu-cirkuliacija-ir-kooperacini-uki-2034
+
+IMAGE PROMPT:
+Photorealistic cooperative household economy scene with storage planning, food logistics notes and workshop materials in natural summer light, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2034-06-13
+Parengė: BVK viešosios plėtros, regionų ir sisteminių modelių redakcija
+
+========================================================================
+ĮРАШАС 7
+Data: 2034-07-25
+Rubrika: Technologijos
+Pavadinimas: Aptarta, kaip socialinio tinklo, žaidimo ir archyvo sandūra galėtų tapti dalyvavimo mokykla
+
+STRAIPSNIS:
+Liepos mėnesį toliau gilinta mintis, kad socialinio tinklo, žaidybinės erdvės ir archyvo sandūra ateityje galėtų tapti savita dalyvavimo mokykla. Šiame etape svarbu ne technologinis efektingumas, o klausimas, kaip žmogus išmoktų matyti sistemos tarpusavio ryšius, sprendimų pasekmes ir bendro gyvenimo trapumą.
+
+Toks modelis galėtų atlikti dvi funkcijas vienu metu. Viena vertus, jis leistų įsitraukti lengviau nei per sausą dokumentų skaitymą. Kita vertus, jis turėtų ugdyti rimtesnį požiūrį į atsakomybę ir pasirinkimą, o ne tik trumpalaikį smalsumą. Tai itin svarbi pusiausvyra.
+
+Ši publikacija rodo, kad projektas vis rimčiau ieško formų, kaip parengti žmogų sudėtingesnei ateities tvarkai. Dalyvavimo kultūra čia pradedama suvokti kaip mokoma ir treniruojama, o ne savaime atsirandanti.
+
+SEO:
+SEO title: Aptarta, kaip socialinio tinklo, žaidimo ir archyvo san...
+Meta description: 2034 m. aptarta, kaip socialinio tinklo, žaidimo ir archyvo sandūra galėtų tapti dalyvavimo mokykla.
+Slug: aptarta-kaip-socialinio-tinklo-zaidimo-ir-archyvo-sandura-galetu-tapti-dalyvavimo-mokykla-2034
+
+IMAGE PROMPT:
+Photorealistic mixed-media planning scene with archive cards, interface concepts and game logic sketches on one shared table, summer daylight, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2034-07-25
+Parengė: BVK viešosios plėtros, regionų ir sisteminių modelių redakcija
+
+========================================================================
+ĮРАШАС 8
+Data: 2034-08-16
+Rubrika: Kultūra
+Pavadinimas: Romano pasaulis vis labiau pradėtas naudoti kaip emocinis įėjimas į Respublikos idėją
+
+STRAIPSNIS:
+Rugpjūtį kultūros sluoksnyje vis aiškiau įsitvirtino mintis, kad romano pasaulis gali būti emociniai vartai į pačią Respublikos idėją. Daugelis skaitytojų pirmiausia įeina ne per teisines ar sistemines formuluotes, o per atmosferą, miestų vaizdus, žmonių tarpusavio santykius ir bendrą gyvenimo toną.
+
+Toks vaidmuo romanui suteikia didesnę reikšmę visame projekte. Jis tampa ne atskiru meno kūriniu šalia dokumentų, bet tiltu, per kurį žmogus lengviau priartėja prie sudėtingesnių klausimų apie tvarką, atsakomybę ir bendrą ateitį. Tai leidžia išlaikyti gyvą žmogišką sluoksnį.
+
+Šiame etape kultūrinė projekto pusė stiprėja kaip nepaprastai svarbi įėjimo forma. Ji padeda Respublikai plėstis ne vien per argumentą, bet ir per vidinį atpažinimą.
+
+SEO:
+SEO title: Romano pasaulis vis labiau tampa emociniu įėjimu į Respublikos idėją
+Meta description: 2034 m. romano pasaulis vis labiau pradėtas naudoti kaip emocinis įėjimas į Respublikos idėją.
+Slug: romano-pasaulis-vis-labiau-pradetas-naudoti-kaip-emocinis-iejimas-i-respublikos-ideja-2034
+
+IMAGE PROMPT:
+Photorealistic literary atmosphere photo with manuscript pages, city mood references, coffee cup and evening light, emotional but realistic editorial style, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2034-08-16
+Parengė: BVK viešosios plėtros, regionų ir sisteminių modelių redakcija
+
+========================================================================
+ĮРАШАС 9
+Data: 2034-09-11
+Rubrika: Archyvas
+Pavadinimas: Sukurtas pirmasis darbo žurnalas, kuriame nuosekliai fiksuojamos svarbiausios projekto redakcijos ir pataisos
+
+STRAIPSNIS:
+Rugsėjo mėnesį sukurtas pirmasis darbo žurnalas, skirtas nuosekliai fiksuoti svarbiausioms projekto redakcijoms, pataisoms ir struktūriniams sprendimams. Iki tol dalis šios istorijos buvo išbarstyta po atskirus failus, pastabas ir vidinius aptarimus, tačiau dabar atsirado aiškesnis centrinis sekimo taškas.
+
+Tokio žurnalo reikšmė didelė. Kuo ilgiau auga projektas, tuo lengviau prarasti ne tik ankstyvąsias formuluotes, bet ir supratimą, kodėl jos buvo keičiamos. Nuoseklus darbo fiksavimas padeda išlaikyti vidinį skaidrumą ir leidžia ateityje tiksliau remtis pačiu kūrimo procesu.
+
+Ši publikacija svarbi ne viešumo prasme, o projekto ištvermei. Ji rodo, kad Respublikos kūrimas vis aiškiau remiasi ne įspūdžiu, o drausminga atminties kultūra.
+
+SEO:
+SEO title: Sukurtas pirmasis darbo žurnalas, kuriame nuosekliai fi...
+Meta description: 2034 m. sukurtas pirmasis darbo žurnalas, kuriame nuosekliai fiksuojamos svarbiausios projekto redakcijos ir pataisos.
+Slug: sukurtas-pirmasis-darbo-zurnalas-kuriame-nuosekliai-fiksuojamos-svarbiausios-projekto-redakcijos-ir-pataisos-2034
+
+IMAGE PROMPT:
+Photorealistic project logbook scene with dated revision pages, colored tabs and archival boxes on a working desk, early autumn daylight, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2034-09-11
+Parengė: BVK viešosios plėtros, regionų ir sisteminių modelių redakcija
+
+========================================================================
+ĮРАШАС 10
+Data: 2034-10-23
+Rubrika: Vystymasis
+Pavadinimas: Aprašyti pirmieji būsimos Respublikos tarnybų, miestų priežiūros ir kasdienio koordinavimo kontūrai
+
+STRAIPSNIS:
+Spalį paskelbti pirmieji nuoseklesni aprašai apie būsimos Respublikos tarnybas, miestų priežiūrą ir kasdienio koordinavimo kontūrus. Jie apėmė ne vien dideles administracines funkcijas, bet ir kasdienę tvarką: aplinkos priežiūrą, remonto ritmą, bendrą švarą, paslaugų tęstinumą ir gyventojo santykį su viešąja sistema.
+
+Šie aprašai padeda skaitytojui geriau suprasti, kad gyvenama tvarka remiasi ne vien aukštais principais. Ją laiko nuoseklus kasdienis darbas, kurio žmonės dažnai nepastebi tol, kol jis nenutrūksta. Respublikos modelyje būtent šio sluoksnio stabilumas laikomas viena svarbiausių kokybės sąlygų.
+
+Tai reikšmingas žingsnis praktinio tikrumo link. Būsima sistema vis aiškiau aprašoma kaip gyvenamas organizmas, o ne vien politinė ar filosofinė idėja.
+
+SEO:
+SEO title: Aprašyti pirmieji būsimos Respublikos tarnybų, miestų p...
+Meta description: 2034 m. aprašyti pirmieji būsimos Respublikos tarnybų, miestų priežiūros ir kasdienio koordinavimo kontūrai.
+Slug: aprasyti-pirmieji-busimos-respublikos-tarnybu-miestu-prieziuros-ir-kasdienio-koordinavimo-konturai-2034
+
+IMAGE PROMPT:
+Photorealistic municipal maintenance planning photo with service maps, utility notes, urban care diagrams and infrastructure folders, autumn daylight, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2034-10-23
+Parengė: BVK viešosios plėtros, regionų ir sisteminių modelių redakcija
+
+========================================================================
+ĮРАШАС 11
+Data: 2034-11-14
+Rubrika: Bendruomenė
+Pavadinimas: Aplink projektą pradėjo ryškėti ne tik skaitytojų, bet ir aktyvių idėjos aiškintojų sluoksnis
+
+STRAIPSNIS:
+Lapkričio mėnesį aplink projektą pradėjo ryškėti ne tik nuolatiniai skaitytojai, bet ir aktyvesni idėjos aiškintojai - žmonės, kurie jau neapsiriboja asmeniniu domėjimusi, o mėgina perteikti projekto logiką kitiems. Tai dar nėra organizuota struktūra, tačiau tai svarbus brandos ženklas.
+
+Aktyvių aiškintojų sluoksnis padeda projektui išeiti iš siauresnio vidinio rato. Kartu jis atneša ir naują atsakomybę, nes kiekvienas viešas aiškinimas gali tiek sustiprinti, tiek iškreipti pačią idėją. Dėl to vis svarbesnė tampa aiški kalba ir vidinė projekto disciplina.
+
+Ši publikacija fiksuoja momentą, kai Respublikos idėja ima gyventi ne vien per pirminius tekstus. Ji pradeda sklisti ir per žmones, kurie savo žodžiais bando išlaikyti jos kryptį.
+
+SEO:
+SEO title: Aplink projektą pradėjo ryškėti ne tik skaitytojų, bet...
+Meta description: 2034 m. aplink projektą pradėjo ryškėti ne tik skaitytojų, bet ir aktyvių idėjos aiškintojų sluoksnis.
+Slug: aplink-projekta-pradejo-rysketi-ne-tik-skaitytoju-bet-ir-aktyviu-idejos-aiskintoju-sluoksnis-2034
+
+IMAGE PROMPT:
+Photorealistic informal explainer scene with a few people around printed concepts in a community setting, natural gestures, late autumn light, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2034-11-14
+Parengė: BVK viešosios plėtros, regionų ir sisteminių modelių redakcija
+
+========================================================================
+ĮРАШАС 12
+Data: 2034-12-19
+Rubrika: Archyvas
+Pavadinimas: Metų apžvalga: projektas iš uždaro sumanymo virto atpažįstamu viešos ateities vizijos lauku
+
+STRAIPSNIS:
+Metų pabaigoje aiškiai matyti, kad 2034-ieji išplėtė projekto viešąjį matomumą. Respublikos idėja vis dažniau buvo aptariama platesniuose ratuose, sustiprėjo Baltijos geografinis matmuo, giliau modeliuotos sveikatos, švietimo, ekonomikos ir miestų priežiūros temos. Visa tai pakeitė paties projekto padėtį.
+
+Jei ankstesniais metais BVK dar galėjo būti laikomas gana uždaru idėjiniu lauku, tai dabar jis tapo labiau atpažįstamu viešos ateities vizijos vardu. Kartu su tuo atėjo ir didesnė atsakomybė už kalbos aiškumą, nuoseklumą ir atvirumą išoriniam vertinimui.
+
+Ši metų apžvalga fiksuoja etapą, kai Respublika nustoja būti tik vidine kūrėjų ir ištikimų skaitytojų erdve. Ji tampa labiau matomu visuomeninės vaizduotės reiškiniu.
+
+SEO:
+SEO title: Metų apžvalga: projektas iš uždaro sumanymo virto atpaž...
+Meta description: 2034 m. metų apžvalga: projektas iš uždaro sumanymo virto atpažįstamu viešos ateities vizijos lauku.
+Slug: metu-apzvalga-projektas-is-uzdaro-sumanymo-virto-atpazistamu-viesos-ateities-vizijos-lauku-2034
+
+IMAGE PROMPT:
+Photorealistic year-end public-facing archive scene with annual reports, regional maps and concept folders neatly arranged, winter light, no readable text.
+
+PABAIGOS BLOКАС:
+Publikuota: 2034-12-19
+Parengė: BVK viešosios plėtros, regionų ir sisteminių modelių redakcija
