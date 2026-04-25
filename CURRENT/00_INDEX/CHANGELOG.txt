@@ -853,3 +853,13 @@ BVK CANON
 Связанные документы: 09_YEAR_2030_PUBLICATION_PLAN.txt, 10_YEAR_2031_PUBLICATION_PLAN.txt, 11_YEAR_2032_PUBLICATION_PLAN.txt, 12_YEAR_2033_PUBLICATION_PLAN.txt, 13_YEAR_2034_PUBLICATION_PLAN.txt, 15_YEAR_2036_PUBLICATION_PLAN.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt, 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0084]
+Дата: 2026-04-25
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
+Старая версия: v1.2
+Новая версия: v1.3
+Причина: стилевой гид переработан после уточнения, что публикации сайта с 2026 года должны звучать как живые новости своего времени, а не как позднее восстановление архива и не как внутренние служебные записки. Добавлено главное правило: каждая публикация должна иметь конкретный новостной повод, действие, деталь, значение для текущего этапа и взгляд вперёд. Запрещены сухие заголовки и формулы вроде "metai pradedami nuo klausimo", "įtvirtinama riba", "publikacija žymi", если они заменяют живую новость. Для периодов 2026-2086 уточнён тон: от живой стартовой ленты и практических малых побед до зрелой государственно-новостной речи.
+Связанные документы: CURRENT/07_TIMELINE/05_YEAR_2026_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/06_YEAR_2027_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/07_YEAR_2028_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/08_YEAR_2029_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/09_YEAR_2030_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/10_YEAR_2031_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/11_YEAR_2032_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/12_YEAR_2033_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/13_YEAR_2034_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/14_YEAR_2035_PUBLICATION_PLAN.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
