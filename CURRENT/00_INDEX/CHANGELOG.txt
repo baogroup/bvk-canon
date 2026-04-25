@@ -1,745 +1,357 @@
 BVK CANON
-Журнал правок
+Стилевой гид по периодам
 
 Статус: ACTIVE
-Версия: v1.1
-Дата первого принятия: 2026-04-19
-Текущая редакция: 2026-04-19
-История поправок: продолжается
+Версия: v1.2
+Дата первого принятия: 2026-04-22
+Текущая редакция: 2026-04-25
+История поправок: CHANGE-0052; CHANGE-0073
+Уровень доступа: SERVICE
+Историческая принадлежность: служебный редакционный слой
+Связанные закрытые документы: нет
+Коды связанных закрытых документов: нет
 
 Назначение:
-Этот файл фиксирует все значимые изменения канона.
-
-Формат записи:
-
-[CHANGE-0001]
-Дата:
-Изменённый файл:
-Старая версия:
-Новая версия:
-Причина:
-Связанные документы:
-Нужно ли обновить VERSIONS:
-Нужно ли обновить PUBLIC_READ:
-
-Первые записи:
-
-[CHANGE-0001]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/00_INDEX/00_START_HERE.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан стартовый файл канона
-Связанные документы: MASTER_INDEX.txt, CHANGELOG.txt, LINK_MAP.txt, 03_DATING_RULES_AND_PRIORITY.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0002]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/00_INDEX/MASTER_INDEX.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан главный индекс канона
-Связанные документы: 00_START_HERE.txt, LINK_MAP.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0003]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/00_INDEX/LINK_MAP.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создана карта связей документов канона
-Связанные документы: MASTER_INDEX.txt, 00_START_HERE.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0004]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/00_INDEX/03_DATING_RULES_AND_PRIORITY.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: закреплены правила датировки документов и приоритет эпох
-Связанные документы: MASTER_INDEX.txt, CHANGELOG.txt, все документы канона
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0005]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/01_FOUNDATION/01_WORLD_CORE.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создано ядро мира Республики
-Связанные документы: 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 01_TIMELINE_CORE_2026_2086.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0006]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/01_FOUNDATION/02_STATE_IDENTITY.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан документ идентичности государства
-Связанные документы: 01_WORLD_CORE.txt, 03_POSTNATIONAL_CIVIC_IDENTITY.txt, 04_SECULAR_ORDER_AND_CIVIC_CALENDAR.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0007]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/01_FOUNDATION/03_POSTNATIONAL_CIVIC_IDENTITY.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: закреплён постнациональный принцип Республики
-Связанные документы: 02_STATE_IDENTITY.txt, 03_LAW_ON_CIVIC_STATUS_AND_EQUAL_PARTICIPATION.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0008]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/01_FOUNDATION/04_SECULAR_ORDER_AND_CIVIC_CALENDAR.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: закреплён светский порядок и гражданский календарь
-Связанные документы: 05_OFFICIAL_CIVIC_HOLIDAYS_AND_STATE_DATES.txt, 04_LAW_ON_STATE_CALENDAR_AND_CIVIC_DATES.txt, 03_LAW_ON_SECULAR_PUBLIC_INSTITUTIONS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0009]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/01_FOUNDATION/05_OFFICIAL_CIVIC_HOLIDAYS_AND_STATE_DATES.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан базовый перечень государственных дат и гражданских праздников
-Связанные документы: 04_SECULAR_ORDER_AND_CIVIC_CALENDAR.txt, 04_LAW_ON_STATE_CALENDAR_AND_CIVIC_DATES.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0010]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/01_FOUNDATION/02_STATE_IDENTITY.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: добавлена уточнённая языковая политика Республики
-Связанные документы: 06_LANGUAGE_POLICY.txt, 01_CONSTITUTIONAL_FRAME.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0011]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/03_SOCIAL_ORDER/01_SOCIAL_MODEL.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: уточнена публичная социальная норма, семейный приоритет и защита детей
-Связанные документы: 08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt, 06_FAMILY_AND_CHILDREN.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0012]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/00_INDEX/MASTER_INDEX.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: добавлены новые файлы языковой политики и семейной нормы
-Связанные документы: LINK_MAP.txt, 06_LANGUAGE_POLICY.txt, 08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0013]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/00_INDEX/LINK_MAP.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: добавлены новые связки для языковой политики и семейной нормы
-Связанные документы: MASTER_INDEX.txt, 06_LANGUAGE_POLICY.txt, 08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0014]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/00_INDEX/00_START_HERE.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: добавлены поля уровня доступа и исторической принадлежности
-Связанные документы: 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt, MASTER_INDEX.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0015]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/00_INDEX/03_DATING_RULES_AND_PRIORITY.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: добавлены поля уровня доступа и исторической принадлежности
-Связанные документы: 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt, 00_START_HERE.txt, MASTER_INDEX.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0016]
-Дата: 2026-04-19
-Изменённый файл: CURRENT/00_INDEX/04_SIMPLE_EDITING_WORKFLOW.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: добавлены поля уровня доступа и исторической принадлежности
-Связанные документы: 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt, 00_START_HERE.txt, 03_DATING_RULES_AND_PRIORITY.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0017]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/00_INDEX/00_START_HERE.txt
-Старая версия: v1.1
-Новая версия: v1.2
-Причина: удалена техническая приписка, добавлены поля закрытых связей и обновлена стартовая логика публикации
-Связанные документы: MASTER_INDEX.txt, 05_CLOSED_LINKING_RULES.txt, CLOSED_REFERENCE_REGISTRY.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0018]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/00_INDEX/MASTER_INDEX.txt
-Старая версия: v1.1
-Новая версия: v1.2
-Причина: обновлён главный индекс, добавлены новые индексные файлы и закреплено правило обязательного указания закрытых связей для PUBLIC-документов
-Связанные документы: 00_START_HERE.txt, LINK_MAP.txt, 05_CLOSED_LINKING_RULES.txt, CLOSED_REFERENCE_REGISTRY.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0019]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/00_INDEX/LINK_MAP.txt
-Старая версия: v1.1
-Новая версия: v1.2
-Причина: обновлена карта связей, добавлены индексные файлы по доступам и закрытым связям, усилено правило обязательной проверки PUBLIC-документов при наличии закрытого слоя
-Связанные документы: 00_START_HERE.txt, MASTER_INDEX.txt, 05_CLOSED_LINKING_RULES.txt, CLOSED_REFERENCE_REGISTRY.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0020]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/00_INDEX/03_DATING_RULES_AND_PRIORITY.txt
-Старая версия: v1.1
-Новая версия: v1.2
-Причина: добавлены поля закрытых связей и приведена шапка файла к обновлённому индексному стандарту
-Связанные документы: 00_START_HERE.txt, MASTER_INDEX.txt, LINK_MAP.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0021]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/00_INDEX/04_SIMPLE_EDITING_WORKFLOW.txt
-Старая версия: v1.1
-Новая версия: v1.2
-Причина: обновлён рабочий порядок редактирования, добавлены шаги проверки assistant-слоя, обязательной записи в CHANGELOG, запуска сборки сайта и отметки закрытых связей
-Связанные документы: 00_START_HERE.txt, MASTER_INDEX.txt, LINK_MAP.txt, 05_CLOSED_LINKING_RULES.txt, CLOSED_REFERENCE_REGISTRY.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0022]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/00_INDEX/05_CLOSED_LINKING_RULES.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла, добавлены поля закрытых связей и усилено правило обязательной фиксации закрытых связей в шапке документа, реестре и карте связей
-Связанные документы: 00_START_HERE.txt, LINK_MAP.txt, CLOSED_REFERENCE_REGISTRY.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0023]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/00_INDEX/CLOSED_REFERENCE_REGISTRY.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла, добавлены поля закрытых связей и уточнены правила ведения единого реестра кодов для RESTRICTED и SEALED документов
-Связанные документы: 00_START_HERE.txt, LINK_MAP.txt, 05_CLOSED_LINKING_RULES.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0024]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/06_ARCHIVE_AND_SITE/06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла, добавлены поля закрытых связей и закреплено обязательное правило их указания для PUBLIC-документов
-Связанные документы: 00_START_HERE.txt, LINK_MAP.txt, 05_CLOSED_LINKING_RULES.txt, CLOSED_REFERENCE_REGISTRY.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0025]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/01_FOUNDATION/02_STATE_IDENTITY.txt
-Старая версия: v1.1
-Новая версия: v1.2
-Причина: отделено официальное название Республики от BVK, уточнена роль Bendrasis Valdymo Kontūras как управленческого контура и закреплена исходная ставка на искусственный интеллект в период перехода
-Связанные документы: 01_WORLD_CORE.txt, 01_CONSTITUTIONAL_FRAME.txt, 06_LANGUAGE_POLICY.txt, 03_POSTNATIONAL_CIVIC_IDENTITY.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0026]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/02_GOVERNANCE/01_CONSTITUTIONAL_FRAME.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: добавлена обновлённая шапка, отделена Республика как государственная форма от BVK как управленческого контура и закреплена исходная роль искусственного интеллекта в переходе к кооперативному строю
-Связанные документы: 02_STATE_IDENTITY.txt, 01_WORLD_CORE.txt, 06_LANGUAGE_POLICY.txt, 03_POSTNATIONAL_CIVIC_IDENTITY.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0027]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/01_FOUNDATION/01_WORLD_CORE.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла, отделена Республика как государственная форма от BVK как управленческого контура и закреплена исходная ставка на искусственный интеллект в архитектуре перехода
-Связанные документы: 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 06_LANGUAGE_POLICY.txt, 01_TIMELINE_CORE_2026_2086.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0028]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/01_FOUNDATION/06_LANGUAGE_POLICY.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла и выровнена языковая политика с новой логикой идентичности Республики, государственного языка и роли BVK как управленческого контура
-Связанные документы: 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 03_POSTNATIONAL_CIVIC_IDENTITY.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0029]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/03_SOCIAL_ORDER/08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла, добавлены поля закрытых связей и уточнён принцип разграничения между частной жизнью взрослых, публичной нормой и защитой несовершеннолетних
-Связанные документы: 01_SOCIAL_MODEL.txt, 06_FAMILY_AND_CHILDREN.txt, 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0030]
-Дата: 2026-04-20
-Изменённый файл: CURRENT/03_SOCIAL_ORDER/01_SOCIAL_MODEL.txt
-Старая версия: v1.1
-Новая версия: v1.2
-Причина: обновлена шапка файла, добавлены поля закрытых связей и уточнён принцип социальной меры как равновесия между обеспечением, участием и ответственностью
-Связанные документы: 08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt, 04_LABOR_CODE.txt, 05_HOUSING_CODE.txt, 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0031]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/03_SOCIAL_ORDER/04_LABOR_CODE.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла, добавлены поля закрытых связей и уточнён принцип трудовой меры и технологического освобождения человека от тяжёлого и унизительного труда
-Связанные документы: 01_SOCIAL_MODEL.txt, 05_HOUSING_CODE.txt, 01_CONSTITUTIONAL_FRAME.txt, 01_TECH_MODEL.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0032]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/03_SOCIAL_ORDER/05_HOUSING_CODE.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла, добавлены поля закрытых связей и уточнён принцип жилищной меры как защиты достоинства, семейной устойчивости и справедливого распределения жилья
-Связанные документы: 01_SOCIAL_MODEL.txt, 04_LABOR_CODE.txt, 01_CONSTITUTIONAL_FRAME.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0033]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла, добавлены поля закрытых связей и уточнены роль внутренней валюты, социального стандарта и принцип экономической меры
-Связанные документы: 01_SOCIAL_MODEL.txt, 04_LABOR_CODE.txt, 05_HOUSING_CODE.txt, 01_CONSTITUTIONAL_FRAME.txt, 01_TECH_MODEL.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0034]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/01_FOUNDATION/06_LANGUAGE_POLICY.txt
-Старая версия: v1.1
-Новая версия: v1.2
-Причина: добавлен территориальный языковой принцип для публичной среды, образования, СМИ, суда первой инстанции, армии, техслужб, университетов, науки и архивных документов
-Связанные документы: 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 03_POSTNATIONAL_CIVIC_IDENTITY.txt, будущие документы о местном самоуправлении, образовании, судах и архивах
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0035]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/02_GOVERNANCE/05_PUBLIC_LANGUAGE_AND_ADMIN_COMMUNICATION.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла и добавлены правила территориальной административной среды, публичной навигации, права на понятную коммуникацию и языковой связки суда первой инстанции с правом на перевод
-Связанные документы: 06_LANGUAGE_POLICY.txt, 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 03_POSTNATIONAL_CIVIC_IDENTITY.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0036]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/03_SOCIAL_ORDER/09_EDUCATION_MODEL.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла и добавлена территориально-многоязычная образовательная модель с обязательным изучением родного языка, литовского и русского, а также правила для высшей школы и науки
-Связанные документы: 06_LANGUAGE_POLICY.txt, 02_STATE_IDENTITY.txt, 01_SOCIAL_MODEL.txt, 08_FAMILY_NORM_CHILD_PROTECTION_AND_PRIVATE_LIFE.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0037]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/02_GOVERNANCE/02_BVK_AND_COUNCIL.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла, уточнена историческая роль BVK, исходная ставка на искусственный интеллект и разграничение между управленческим контуром BVK и человеческой ролью Совета старейшин
-Связанные документы: 01_CONSTITUTIONAL_FRAME.txt, 02_STATE_IDENTITY.txt, 01_WORLD_CORE.txt, 06_LANGUAGE_POLICY.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0038]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/01_FOUNDATION/03_POSTNATIONAL_CIVIC_IDENTITY.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла и уточнено различие между общим гражданским порядком Республики и сохраняемым культурным, языковым и территориальным многообразием
-Связанные документы: 02_STATE_IDENTITY.txt, 06_LANGUAGE_POLICY.txt, 01_CONSTITUTIONAL_FRAME.txt, 05_PUBLIC_LANGUAGE_AND_ADMIN_COMMUNICATION.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0039]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла и уточнена хронология становления BVK, исходной ставки на искусственный интеллект и перехода от кризисной демократии к зрелой Республике
-Связанные документы: 01_WORLD_CORE.txt, 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 02_BVK_AND_COUNCIL.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0040]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/05_TECH_AND_INFRA/01_TECH_MODEL.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: обновлена шапка файла и уточнена связь технической модели с BVK, роль искусственного интеллекта и технологическое направление освобождения человека от тяжёлого и унизительного труда
-Связанные документы: 01_WORLD_CORE.txt, 01_CONSTITUTIONAL_FRAME.txt, 02_BVK_AND_COUNCIL.txt, 04_LABOR_CODE.txt, 01_CURRENCY_AND_SOCIAL_STANDARD.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0041]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/00_NEWS_SYSTEM_START_HERE.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан стартовый файл новостного и narrative-слоя канона
-Связанные документы: 01_NEWS_EVOLUTION_MODEL_2026_2086.txt, MASTER_INDEX.txt, LINK_MAP.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0042]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/01_NEWS_EVOLUTION_MODEL_2026_2086.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создана модель эволюции новостного слоя 2026-2086
-Связанные документы: 00_NEWS_SYSTEM_START_HERE.txt, 2026_2035_FOUNDING_LAYER.txt, 2036_2045_PRESTATE_LAYER.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0043]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан founding-layer для раннего идейного и narrative-периода 2026-2035
-Связанные документы: 01_NEWS_EVOLUTION_MODEL_2026_2086.txt, 01_PERIOD_STYLE_GUIDE.txt, 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0044]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан стилевой гид по периодам для news-layer
-Связанные документы: 2026_2035_FOUNDING_LAYER.txt, 2036_2045_PRESTATE_LAYER.txt, 02_PUBLICATION_CARD_TEMPLATE.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0045]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/02_PUBLICATION_CARD_TEMPLATE.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан единый шаблон карточки публикации для связки статей с каноном
-Связанные документы: 01_PERIOD_STYLE_GUIDE.txt, MASTER_INDEX.txt, LINK_MAP.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0046]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2036_2045_PRESTATE_LAYER.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан предгосударственный слой 2036-2045 как мост к запуску Республики
-Связанные документы: 01_NEWS_EVOLUTION_MODEL_2026_2086.txt, 01_PERIOD_STYLE_GUIDE.txt, 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0047]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/04_LINK_REGISTRY/01_CANON_LINK_RULE.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создано правило связки статьи с каноном и обязательными контурами связи
-Связанные документы: 02_PUBLICATION_CARD_TEMPLATE.txt, MASTER_INDEX.txt, LINK_MAP.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0048]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/00_NEWS_SYSTEM_START_HERE.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: новостной стартовый файл переведён в SERVICE и выровнен как внутренний рабочий слой
-Связанные документы: 01_NEWS_EVOLUTION_MODEL_2026_2086.txt, MASTER_INDEX.txt, LINK_MAP.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0049]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/01_NEWS_EVOLUTION_MODEL_2026_2086.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: модель эволюции новостного слоя переведена в SERVICE как внутренний системный файл
-Связанные документы: 00_NEWS_SYSTEM_START_HERE.txt, MASTER_INDEX.txt, LINK_MAP.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0050]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: founding-layer переведён в SERVICE как внутренний рабочий файл канона
-Связанные документы: 01_NEWS_EVOLUTION_MODEL_2026_2086.txt, 01_PERIOD_STYLE_GUIDE.txt, LINK_MAP.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0051]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2036_2045_PRESTATE_LAYER.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: предгосударственный слой переведён в SERVICE как внутренний рабочий файл канона
-Связанные документы: 01_NEWS_EVOLUTION_MODEL_2026_2086.txt, 01_PERIOD_STYLE_GUIDE.txt, LINK_MAP.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0052]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: стилевой гид переведён в SERVICE как внутренний редакционный инструмент
-Связанные документы: 2026_2035_FOUNDING_LAYER.txt, 2036_2045_PRESTATE_LAYER.txt, 02_PUBLICATION_CARD_TEMPLATE.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0053]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/02_PUBLICATION_CARD_TEMPLATE.txt
-Старая версия: v1.0
-Новая версия: v1.1
-Причина: шаблон карточки публикации переведён в SERVICE как внутренний редакционный инструмент
-Связанные документы: 01_PERIOD_STYLE_GUIDE.txt, 01_CANON_LINK_RULE.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0054]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/00_INDEX/MASTER_INDEX.txt
-Старая версия: v1.2
-Новая версия: v1.3
-Причина: в главный индекс добавлен раздел 09_NEWS_AND_NARRATIVE и закреплён его SERVICE-статус
-Связанные документы: LINK_MAP.txt, CHANGELOG.txt, 00_NEWS_SYSTEM_START_HERE.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0055]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/00_INDEX/LINK_MAP.txt
-Старая версия: v1.2
-Новая версия: v1.3
-Причина: в карту связей добавлены документы 09_NEWS_AND_NARRATIVE и их обязательные связки с TIMELINE, ARCHIVE_AND_SITE и NOVEL_LINK
-Связанные документы: MASTER_INDEX.txt, CHANGELOG.txt, 00_NEWS_SYSTEM_START_HERE.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0056]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/07_TIMELINE/02_CONTENT_PLAN_2026_2046.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан утверждаемый годовой контент-план перехода от 2026 года к реализации первого кооперативного города Рудишкес в 2046 году
-Связанные документы: 01_TIMELINE_CORE_2026_2086.txt, 03_PHASE_2026_2045_FOUNDING_LAYER.txt, 01_WORLD_CORE.txt, 02_STATE_IDENTITY.txt, 01_CONSTITUTIONAL_FRAME.txt, 02_BVK_AND_COUNCIL.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0057]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/00_INDEX/07_ASSISTANT_WORK_PROTOCOL.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан обязательный repo-first протокол работы ассистента с полным assistant index, живым changelog и проверкой существующих файлов перед правкой
-Связанные документы: MASTER_INDEX.txt, LINK_MAP.txt, CHANGELOG.txt, 04_SIMPLE_EDITING_WORKFLOW.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0058]
-Дата: 2026-04-22
-Изменённый файл: CURRENT/00_INDEX/08_DOCUMENT_CLASSIFICATION_RULES.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: созданы правила классификации документов по уровням доступа с жёстким разграничением PUBLIC, SERVICE, RESTRICTED и SEALED
-Связанные документы: 07_ASSISTANT_WORK_PROTOCOL.txt, 06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt, MASTER_INDEX.txt, LINK_MAP.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0059]
-Дата: 2026-04-23
-Изменённый файл: CURRENT/07_TIMELINE/04_ARTICLE_MATRIX_2026_2046.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создана внутренняя матрица публикаций 2026-2046 для связки фаз, рубрик, типов материалов и допустимого редакционного тона
-Связанные документы: 02_CONTENT_PLAN_2026_2046.txt, 03_PHASE_2026_2045_FOUNDING_LAYER.txt, 07_ASSISTANT_WORK_PROTOCOL.txt, 08_DOCUMENT_CLASSIFICATION_RULES.txt, 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/02_PUBLICATION_CARD_TEMPLATE.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0060]
-Дата: 2026-04-23
-Изменённый файл: CURRENT/00_INDEX/MASTER_INDEX.txt
-Старая версия: v1.3
-Новая версия: v1.4
-Причина: в главный индекс добавлены новые SERVICE-документы 07_ASSISTANT_WORK_PROTOCOL.txt, 08_DOCUMENT_CLASSIFICATION_RULES.txt, контент-план 2026-2046 и матрица публикаций 2026-2046
-Связанные документы: LINK_MAP.txt, CHANGELOG.txt, 07_ASSISTANT_WORK_PROTOCOL.txt, 08_DOCUMENT_CLASSIFICATION_RULES.txt, 02_CONTENT_PLAN_2026_2046.txt, 04_ARTICLE_MATRIX_2026_2046.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0061]
-Дата: 2026-04-23
-Изменённый файл: CURRENT/00_INDEX/LINK_MAP.txt
-Старая версия: v1.3
-Новая версия: v1.4
-Причина: в карту связей добавлены assistant-протокол, правила классификации и связки timeline-планирования с news-layer и будущими публикационными планами
-Связанные документы: MASTER_INDEX.txt, CHANGELOG.txt, 07_ASSISTANT_WORK_PROTOCOL.txt, 08_DOCUMENT_CLASSIFICATION_RULES.txt, 02_CONTENT_PLAN_2026_2046.txt, 03_PHASE_2026_2045_FOUNDING_LAYER.txt, 04_ARTICLE_MATRIX_2026_2046.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0062]
-Дата: 2026-04-23
-Изменённый файл: CURRENT/07_TIMELINE/05_YEAR_2026_PUBLICATION_PLAN.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан годовой publication plan 2026 как SERVICE-файл с ранним тоном проекта, первыми AI-экспериментами, архивным слоем и начальной логикой новостной линии 2026-2086
-Связанные документы: 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt, 04_ARTICLE_MATRIX_2026_2046.txt, 02_BVK_AND_COUNCIL.txt, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0063]
-Дата: 2026-04-23
-Изменённый файл: CURRENT/07_TIMELINE/06_YEAR_2027_PUBLICATION_PLAN.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан годовой publication plan 2027 как SERVICE-файл с усилением культурного слоя, романной связки, первых внешних откликов и ранней аудитории проекта
-Связанные документы: 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt, 04_ARTICLE_MATRIX_2026_2046.txt, 08_NOVEL_LINK/*, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0064]
-Дата: 2026-04-23
-Изменённый файл: CURRENT/07_TIMELINE/07_YEAR_2028_PUBLICATION_PLAN.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан годовой publication plan 2028 как SERVICE-файл; выровнены рубрики, добавлен ранний балтийский географический мостик и усилена логика цифровой, игровой и архивной среды проекта
-Связанные документы: 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt, 04_ARTICLE_MATRIX_2026_2046.txt, 06_LANGUAGE_POLICY.txt, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0065]
-Дата: 2026-04-23
-Изменённый файл: CURRENT/07_TIMELINE/08_YEAR_2029_PUBLICATION_PLAN.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан годовой publication plan 2029 как SERVICE-файл; укреплён канонический позвоночник проекта, балтийская география, связность архива и смягчена формула первой цельной хронологии до рабочей редакции
-Связанные документы: 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt, 04_ARTICLE_MATRIX_2026_2046.txt, 06_LANGUAGE_POLICY.txt, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0066]
-Дата: 2026-04-23
-Изменённый файл: CURRENT/07_TIMELINE/09_YEAR_2030_PUBLICATION_PLAN.txt
-Старая версия: нет
-Новая версия: v1.0
-Причина: создан годовой publication plan 2030 как SERVICE-файл; нормализовано официальное название Baltijos Kooperatinė Respublika и добавлено раннее разграничение между Respublika ir Bendrasis Valdymo Kontūras
-Связанные документы: 02_STATE_IDENTITY.txt, 02_BVK_AND_COUNCIL.txt, 06_LANGUAGE_POLICY.txt, 02_CONTENT_PLAN_2026_2046.txt, 04_ARTICLE_MATRIX_2026_2046.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: нет
-
-[CHANGE-0067]
-Дата: 2026-04-23
-Изменённый файл: CURRENT/00_INDEX/MASTER_INDEX.txt
-Старая версия: v1.4
-Новая версия: v1.5
-Причина: в главный индекс добавлены SERVICE-документы годовых publication plan 2026-2030
-Связанные документы: CHANGELOG.txt, LINK_MAP.txt, 05_YEAR_2026_PUBLICATION_PLAN.txt, 06_YEAR_2027_PUBLICATION_PLAN.txt, 07_YEAR_2028_PUBLICATION_PLAN.txt, 08_YEAR_2029_PUBLICATION_PLAN.txt, 09_YEAR_2030_PUBLICATION_PLAN.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0068]
-Дата: 2026-04-23
-Изменённый файл: CURRENT/00_INDEX/LINK_MAP.txt
-Старая версия: v1.4
-Новая версия: v1.5
-Причина: в карту связей добавлены обязательные связки для годовых publication plan 2026-2030 и их синхронизация с timeline-, news-, archive- и novel-слоями
-Связанные документы: CHANGELOG.txt, MASTER_INDEX.txt, 05_YEAR_2026_PUBLICATION_PLAN.txt, 06_YEAR_2027_PUBLICATION_PLAN.txt, 07_YEAR_2028_PUBLICATION_PLAN.txt, 08_YEAR_2029_PUBLICATION_PLAN.txt, 09_YEAR_2030_PUBLICATION_PLAN.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0069]
-Дата: 2026-04-25
-Изменённый файл: CURRENT/07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
-Старая версия: v1.2
-Новая версия: v1.3
-Причина: хронологическое ядро синхронизировано с уточнённой логикой происхождения Республики; 2026 год закреплён как личный вопрос о кооперативе рядом с Рудишкес, 2030-2032 как расчётный и юридически осторожный период, 2033 как первое малое кооперативное производство, 2034-2040 как стабилизация производства и первых льгот, 2041-2045 как формирование производственно-жилого узла, а 2046 как результат двадцатилетнего перехода, а не внезапное появление готового государства.
-Связанные документы: 02_CONTENT_PLAN_2026_2046.txt, 03_PHASE_2026_2045_FOUNDING_LAYER.txt, 04_ARTICLE_MATRIX_2026_2046.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt, 09_NEWS_AND_NARRATIVE/01_NEWS_EVOLUTION_MODEL_2026_2086.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0070]
-Дата: 2026-04-25
-Изменённый файл: CURRENT/07_TIMELINE/03_PHASE_2026_2045_FOUNDING_LAYER.txt
-Старая версия: v1.1
-Новая версия: v1.2
-Причина: фаза 2026-2045 синхронизирована с уточнённой логикой происхождения Республики; закреплено, что 2026 год является личным вопросом о кооперативе рядом с Рудишкес, 2030-2032 годами расчётной и юридически осторожной подготовки, 2033 годом первого малого кооперативного производства, 2034-2040 годами стабилизации производства и первых социальных результатов, а 2041-2045 годами формирования производственно-жилого узла рядом с Рудишкес.
-Связанные документы: 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt, 04_ARTICLE_MATRIX_2026_2046.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt, 03_SOCIAL_ORDER/05_HOUSING_CODE.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0071]
-Дата: 2026-04-25
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
-Старая версия: v1.1
-Новая версия: v1.2
-Причина: ранний новостной слой 2026-2035 синхронизирован с уточнённой логикой происхождения Республики; 2026 год закреплён как личный вопрос о кооперативе рядом с Рудишкес, 2027-2029 как цифровой, культурный и публично-поисковый период, 2030-2032 как расчётная и юридически осторожная подготовка, 2033 как год первого малого кооперативного производства, 2034 как год стабилизации производства, а 2035 как год первых социальных результатов и подготовки к более плотному переходному периоду 2036-2045.
-Связанные документы: 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt, 07_TIMELINE/02_CONTENT_PLAN_2026_2046.txt, 07_TIMELINE/03_PHASE_2026_2045_FOUNDING_LAYER.txt, 07_TIMELINE/04_ARTICLE_MATRIX_2026_2046.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
-
-[CHANGE-0072]
-Дата: 2026-04-25
-Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2036_2045_PRESTATE_LAYER.txt
-Старая версия: v1.1
-Новая версия: v1.2
-Причина: предгосударственный слой 2036-2045 синхронизирован с уточнённой производственно-жилой логикой перехода; закреплено, что этот период показывает не абстрактное приближение государства, а конкретный путь от устойчивого малого производства к фонду развития, первым льготам, служебному проживанию, жилым модулям, кооперативному магазину, транспортной поддержке, медицинскому пункту, детскому центру, ремонтной службе, связи со старым Рудишкес и добровольному формированию первой кооперативной городской модели.
-Связанные документы: 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt, 07_TIMELINE/02_CONTENT_PLAN_2026_2046.txt, 07_TIMELINE/03_PHASE_2026_2045_FOUNDING_LAYER.txt, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt, 03_SOCIAL_ORDER/05_HOUSING_CODE.txt
-Нужно ли обновить VERSIONS: нет
-Нужно ли обновить PUBLIC_READ: да
+Этот файл удерживает различие между эпохами сайта, чтобы 2026 год не звучал как 2086, а зрелая Республика не теряла институционального тона.
+
+Стилевой гид нужен для всех новостей, публичных публикаций, архивных заметок и объясняющих материалов BVK Canon. Он помогает не смешивать личный ранний слой, цифровой проект, хозяйственный переход, производственно-жилую фазу и зрелую государственную речь.
+
+Главный принцип:
+Стиль публикаций должен меняться вместе с развитием проекта.
+
+Нельзя писать все годы одним голосом.
+Нельзя переносить поздний официальный язык в ранний идейный слой.
+Нельзя описывать 2026-2045 годы так, будто уже существует зрелая Балтийская Кооперативная Республика.
+Нельзя превращать ранние тексты в искусственный архив, якобы написанный задним числом из 2086 года.
+
+Сайт начинается в 2026 году как живой цифровой проект своего времени и постепенно растёт вместе с идеей, производством, людьми, юридическими формами, социальными механизмами и будущей городской моделью.
+
+2026
+
+Тон:
+- личный
+- поисковый
+- осторожный
+- почти дневниковый
+- бытовой
+- неофициальный
+- с вопросами и сомнениями
+
+Что показывать:
+- личный вопрос о том, возможно ли рядом с Рудишкес создать небольшой кооператив или предприятие;
+- первые размышления о производстве, труде, жилье, семье и бытовой безопасности;
+- отсутствие готовой структуры;
+- первые записи, ошибки, сомнения, наброски и попытки;
+- работу с ИИ как с инструментом мышления;
+- идею сайта и будущей хронологии;
+- идею книги как художественного моста к зрелому миру 2085 года.
+
+Чего избегать:
+- голоса готового государства;
+- формул вроде "Respublikos institucijos praneša";
+- утверждений, что уже существует BVK как государственный контур;
+- описания правительства, бюджета, города, кооперативного жилья или социальных льгот как действующей реальности;
+- слишком гладкой официальной легенды.
+
+Техника:
+- короткие, но не обрывочные абзацы;
+- простые человеческие формулировки;
+- допустимы вопросы, осторожные выводы и признание неопределённости;
+- важно сохранять ощущение начала, а не готового мифа.
+
+Пример правильной интонации:
+"Šis klausimas dar nebuvo programa. Tai buvo tik bandymas suprasti, ar nedidelėje vietoje gali atsirasti kitokia darbo ir gyvenimo tvarka."
+
+2027-2029
+
+Тон:
+- цифровой
+- культурный
+- объясняющий
+- проектный
+- открытый к читателю
+- всё ещё осторожный
+- без бюрократической тяжести
+
+Что показывать:
+- развитие сайта как живого цифрового проекта;
+- правила чтения сайта;
+- связь новостей, архива, будущего и художественного слоя;
+- начало работы над романом, действие которого происходит в 2085 году;
+- первых читателей, первые обсуждения и язык участия;
+- формирование малого круга интереса;
+- постепенное понимание, что красивая идея должна будет перейти к практике.
+
+Чего избегать:
+- изображения массового движения;
+- языка готовой организации;
+- утверждений, что уже есть официальный общественный контур;
+- слишком зрелой государственности;
+- подачи романа как закона, документа или прямой пропаганды.
+
+Техника:
+- объяснять, зачем существует сайт и почему он устроен необычно;
+- говорить с читателем спокойно, без давления;
+- связывать цифровой проект с будущей хронологией;
+- допускать культурную и художественную интонацию;
+- сохранять ясное различие между проектом настоящего и миром будущего.
+
+Пример правильной интонации:
+"Svetainė dar nėra institucija. Ji labiau primena vietą, kurioje po truputį kaupiami klausimai, tekstai ir galimos ateities pavidalai."
+
+2030-2032
+
+Тон:
+- практический
+- расчётный
+- юридически осторожный
+- трезвый
+- менее художественный
+- более предметный
+
+Что показывать:
+- переход от фантазии к проверке;
+- выбор продукции;
+- себестоимость;
+- тестовые партии;
+- помещение;
+- оборудование;
+- закупки;
+- простую логистику;
+- команду;
+- юридические формы;
+- границы ответственности;
+- VšĮ как публичный, образовательный, исследовательский и медийный контур;
+- asociacija как круг участников и сторонников;
+- kooperatinė bendrovė или kooperatyvas как хозяйственное ядро;
+- пищевое направление как наиболее естественную первую производственную линию.
+
+Чего избегать:
+- объявлений о запуске готовой экономики;
+- обещаний жилья, полного социального пакета или общего обеспечения;
+- идеологических лозунгов вместо расчётов;
+- смешения сайта, общественной деятельности и производства в одну неясную структуру;
+- утверждений без проверки.
+
+Техника:
+- больше конкретики, меньше мечтательности;
+- уместны слова "bandoma", "svarstoma", "vertinama", "skaičiuojama", "ieškoma";
+- можно говорить о вариантах, но нужно подчёркивать, что они ещё проверяются;
+- тексты должны выглядеть как подготовка к реальной работе, а не как политическая декларация.
+
+Пример правильной интонации:
+"Šiuo etapu svarbiausia tampa ne graži ateities formuluotė, o klausimas, ar konkretus produktas gali būti pagamintas, parduotas ir išlaikyti skaidrų bendrą fondą."
+
+2033-2040
+
+Тон:
+- хозяйственный
+- производственный
+- отчётный
+- рабочий
+- сдержанный
+- социально-практический
+- без триумфализма
+
+Что показывать:
+- первое малое кооперативное производство;
+- кооперативную пищевую мастерскую как практическое направление;
+- формовой хлеб, простую выпечку, готовые обеды, супы, тушёные блюда, полуфабрикаты, сезонные овощные заготовки, продуктовые наборы, доставку и поставки наружу;
+- качество, санитарную дисциплину, расписание, закупки, упаковку, продажи и учёт;
+- первых работников;
+- фонд развития;
+- питание на смене;
+- скидки на продукцию;
+- обучение;
+- транспортную поддержку;
+- небольшой фонд помощи;
+- первые осторожные формы поддержки аренды или временного проживания ближе к концу периода.
+
+Чего избегать:
+- победной речи;
+- утверждений, что модель уже доказала всё;
+- обещаний жилья всем;
+- полного содержания семей;
+- крупного продуктового пакета до устойчивой экономики;
+- языка государственной фабрики или предприятия готовой Республики.
+
+Техника:
+- показывать трудности, ошибки, ограничения и исправления;
+- связывать льготы только с реальной устойчивостью производства;
+- объяснять, что социальные элементы появляются постепенно;
+- писать о производстве как о проверке, а не как о декорации будущего;
+- допускать отчётные формулировки, но без холодной бюрократии.
+
+Пример правильной интонации:
+"Pirmoji gamyba dar nėra miesto modelis. Ji tik parodo, ar bendras darbas gali sukurti produktą, pajamas ir pirmą labai atsargų socialinės paramos pagrindą."
+
+2041-2045
+
+Тон:
+- социально-бытовой
+- строительный
+- переходный
+- прединституциональный
+- более собранный
+- осторожно официальный
+
+Что показывать:
+- производственно-жилой узел рядом с Рудишкес;
+- первые жилые модули для части работников;
+- служебное или временное проживание;
+- кооперативный магазин;
+- продуктовую поддержку;
+- транспорт;
+- медицинский пункт;
+- детский центр;
+- ремонтную службу;
+- семейные сервисы;
+- связь со старым Рудишкес;
+- добровольный выкуп, обмен, договоры и участие;
+- постепенное сближение старого города и нового узла;
+- подготовку к первой кооперативной городской модели 2046 года.
+
+Чего избегать:
+- впечатления насильственного переделывания Рудишкес;
+- отмены частных домов, магазинов, улиц и обычной жизни старого города;
+- принудительной коллективизации;
+- резкого скачка к государственности;
+- утверждения, что 2046 год возникнет из одного решения или указа.
+
+Техника:
+- писать о быте конкретно: еда, дорога, дети, здоровье, ремонт, жильё, работа;
+- подчёркивать добровольность и экономическую понятность перехода;
+- показывать, что новая модель должна доказать выгоду рядом со старой средой;
+- стиль может становиться более официальным, но не должен звучать как зрелая Республика.
+
+Пример правильной интонации:
+"Naujas mazgas neturi sunaikinti seno miestelio. Jis turi šalia jo įrodyti, kad kitokia darbo, būsto ir kasdienės pagalbos tvarka gali būti patikimesnė."
+
+2046-2060
+
+Тон:
+- официальный
+- уверенный
+- спокойный
+- государственно-строительный
+- практический
+- без агрессивной пропаганды
+
+Что показывать:
+- первую кооперативную городскую модель как итог двадцатилетнего перехода;
+- первые официальные нормы;
+- городской фонд;
+- трудовые и жилищные решения;
+- расширение модели за пределы одного узла;
+- первые сервисы, города, регистры и правила;
+- сохранение памяти о раннем переходе;
+- осторожное формирование более широкой республиканской системы.
+
+Чего избегать:
+- пафоса внезапного рождения государства;
+- стирания 2026-2045 годов;
+- ощущения, что всё было создано сверху;
+- лозунговой риторики;
+- изображения зрелой безупречной системы.
+
+Техника:
+- писать как о реально функционирующей среде;
+- связывать каждое решение с предшествующей практикой;
+- показывать институциональность через порядок, а не через громкие фразы;
+- держать тон спокойного строительства.
+
+Пример правильной интонации:
+"2046 metai žymi ne staigų pradžios tašką, o pirmą aiškiai matomą rezultatą to proceso, kuris prasidėjo nuo mažo klausimo ir ilgai tikrintos praktikos."
+
+2061-2076
+
+Тон:
+- зрелый
+- институциональный
+- аналитический
+- исторически связный
+- спокойный
+- государственно-общественный
+
+Что показывать:
+- расширение Республики;
+- развитие инфраструктуры;
+- социальные стандарты;
+- образование, здоровье, транспорт, жильё, производство и управление как связанные системы;
+- региональные различия Литвы, Латвии и Эстонии;
+- накопленную память о переходе;
+- анализ предыдущих решений и поправок.
+
+Чего избегать:
+- полного забвения ранней истории;
+- чрезмерной торжественности;
+- однообразного канцелярского языка;
+- представления системы как неподвижной и безошибочной.
+
+Техника:
+- можно использовать более длинные аналитические материалы;
+- допустимы отчёты, обзоры, годовщины, ретроспективы;
+- стиль должен быть уверенным, но живым;
+- важно показывать, что система развивается, а не застывает.
+
+Пример правильной интонации:
+"Brandesnėje Respublikos stadijoje svarbiausia tampa ne vien naujų sprendimų priėmimas, bet ir gebėjimas matyti, kaip ankstesni sprendimai pakeitė kasdienį žmonių gyvenimą."
+
+2077-2086
+
+Тон:
+- зрелый
+- спокойный
+- государственно-новостной
+- культурный
+- уверенный
+- архивно связный
+
+Что показывать:
+- давно действующую систему;
+- зрелые институты;
+- повседневную нормальность ИИ как инфраструктуры;
+- новости 2086 года как новости настоящего времени зрелой Республики;
+- архивные ссылки на ранние годы;
+- юбилейные и аналитические материалы;
+- связь текущих решений с длинной историей проекта;
+- скрытый глубокий слой ИИ только там, где это уместно для narrative или закрытого канона.
+
+Чего избегать:
+- сенсационности вокруг ИИ в обычных новостях;
+- объяснения каждого элемента как нового и удивительного;
+- стирания того, что для жителей 2086 года многие системы уже обычны;
+- чрезмерно фантастического или неонового тона.
+
+Техника:
+- писать как о давно действующей реальности;
+- новости должны быть спокойными, официальными и культурными;
+- архивные отсылки использовать для глубины, а не для перегруза;
+- 2086 год должен ощущаться зрелым настоящим, а не рекламной витриной будущего.
+
+Пример правильной интонации:
+"Šiandien priimtas sprendimas siejamas su ankstesnėmis regionų koordinavimo reformomis ir laikomas nuosekliu ilgalaikės sistemos tęsiniu."
+
+Общие запреты для всех периодов:
+- не писать все эпохи одинаково;
+- не переносить поздний официальный язык в 2026-2035 годы;
+- не изображать готовую Республику до 2046 года;
+- не делать BVK государственным контуром в ранние годы;
+- не превращать ИИ 2026 года во власть;
+- не подавать роман как официальный документ;
+- не обещать социальный пакет раньше хозяйственной устойчивости;
+- не изображать Рудишкес как город, который насильно переделали;
+- не забывать, что сайт сам является частью истории Республики.
+
+Общие требования к стилю:
+- ранние годы должны быть честнее, проще и человечески ближе;
+- практические годы должны быть расчётнее и конкретнее;
+- производственные годы должны показывать труд, ошибки и устойчивость;
+- переходные годы должны показывать быт, жильё, сервисы и добровольность;
+- зрелые годы должны звучать спокойно, официально и культурно;
+- каждый период должен иметь собственное дыхание.
+
+Вывод:
+Стиль по периодам - это не косметика, а основной инструмент удержания правдоподобной эволюции Республики на длинной дистанции.
+
+Если статья 2026 года звучит как 2086 год, рушится ощущение реального времени. Если статья 2033 года не говорит о производстве, рушится экономический переход. Если статья 2043 года забывает старый Рудишкес, рушится правдоподобие добровольного сближения. Поэтому стиль должен не украшать канон, а удерживать его историю.
