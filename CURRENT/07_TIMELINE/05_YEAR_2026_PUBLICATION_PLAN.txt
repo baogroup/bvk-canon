@@ -2,10 +2,10 @@ BVK CANON
 Годовой публикационный план 2026
 
 Статус: ACTIVE
-Версия: v2.2
+Версия: v2.3
 Дата первого принятия: 2026-04-23
 Текущая редакция: 2026-04-25
-История поправок: CHANGE-0062; CHANGE-0063; CHANGE-0074; CHANGE-0085
+История поправок: CHANGE-0062; CHANGE-0063; CHANGE-0074; CHANGE-0085; CHANGE-0087
 Уровень доступа: SERVICE
 Историческая принадлежность: ранний идейный слой
 Связанные закрытые документы: нет
@@ -15,688 +15,666 @@ BVK CANON
 Этот файл закрепляет годовой публикационный план для 2026 года в рамках внутреннего SERVICE-слоя BVK Canon.
 
 Главный принцип:
-2026 год нельзя описывать как год готовой Балтийской Кооперативной Республики. В 2026 году ещё нет Республики, BVK как действующего контура, государства, города, юридической структуры, предприятия или готового сайта будущего.
+2026 год нельзя описывать как год готовой Балтийской Кооперативной Республики. В 2026 году ещё нет Республики, действующего BVK, государства, города, юридической структуры, предприятия, фонда, социальной системы или готовой производственной модели.
 
-2026 год начинается с живого цифрового и идейного старта: маленькая мысль о кооперативном хозяйстве рядом с Rūdiškės постепенно переходит в первые новости, первые записи, работу с ИИ, первые названия, первые визуальные решения, структуру сайта, хронологию, будущий роман и долгий путь к 2046 году.
+Эти ограничения являются служебными правилами канона и не должны превращаться в публичные оправдания внутри статей. В самих новостях не нужно писать "это ещё не город", "это ещё не государство", "это ещё не производство". Публикации должны говорить о живом содержании события: какая мысль появилась, какой список составлен, какой продукт начали обсуждать, какой текст написан, какая хронология начата.
+
+2026 год начинается как живой цифровой и идейный старт: маленькая мысль о кооперативном хозяйстве рядом с Rūdiškės постепенно переходит в первые новости, продуктовые идеи, работу с ИИ, поиск названия и знака, структуру сайта, хронологию, будущий роман и долгий путь к 2046/2086 годам.
 
 Задача публикационного плана:
-Показать 2026 год как живую новостную ленту своего времени, а не как позднее восстановление архива и не как внутреннюю служебную записку. Каждая публикация должна иметь конкретный повод: užrašyta idėja, pradėtas sąrašas, parengtas eskizas, sukurtas principas, pradėta chronologija, sudarytas planas.
+Показать 2026 год как живую новостную ленту своего времени, а не как позднее восстановление архива и не как внутреннюю служебную записку. Каждая публикация должна иметь конкретный повод и читательский смысл: užrašyta idėja, pradėtas sąrašas, parengtas eskizas, parašyti sakiniai, pasirinkta kryptis, pradėta chronologija.
 
 Редакционное правило 2026 года:
-- никакого голоса зрелого государства;
-- никакой действующей Республики;
-- никакого официального правительства;
-- никакого реального кооперативного города;
-- никакого действующего предприятия BVK;
-- никакого служебного тона "metai pradedami nuo klausimo";
-- каждая статья должна звучать как настоящая маленькая новость сайта;
-- осторожность сохраняется, но подаётся через живое событие, а не через сухое объяснение.
+- статьи пишутся как новости, а не как технические заметки сайта;
+- не писать новости о служебных страницах, меню, FAQ, кнопках, ссылках или внутренних настройках сайта;
+- не превращать ограничения канона в текст статьи;
+- не оправдываться перед читателем, чего проект ещё не делает;
+- писать о том, что реально появилось как мысль, материал, список, текст, направление или публикационный повод;
+- тон: живой, спокойный, тёплый, оптимистичный, конкретный;
+- каждая статья должна иметь понятную тему и ощущение маленького движения вперёд.
 
 Связь с другими файлами:
 - 01_TIMELINE_CORE_2026_2086.txt задаёт общую хронологическую ось
 - 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
 - 03_PHASE_2026_2045_FOUNDING_LAYER.txt задаёт смысл фазы основания
 - 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
+- 06_YEAR_2027_PUBLICATION_PLAN.txt должен быть синхронизирован с новым принципом живых новостей
 - 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt задаёт ранний новостной слой
-- 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt задаёт новый новостной стиль с 2026 года
+- 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt задаёт новый живой новостной стиль с 2026 года
 
 BVK METINIS PLANAS 2026
 
 METINIS STILIUS IR TONAS
 - 2026 metai turi skambėti kaip gyva ankstyvo projekto naujienų juosta.
 - Straipsniai turi būti šilti, konkretūs, optimistiški ir lengvai skaitomi.
-- Kiekvienas įrašas turi aiškų įvykį arba atliktą darbą.
+- Kiekvienas įrašas turi aiškų įvykį, mintį arba atliktą darbą.
 - Naujiena turi rodyti mažą žingsnį į priekį, o ne aiškinti vidinį kanoną.
-- Respublikos pavadinimas ir BVK sąvokos turi atsirasti palaipsniui.
-- Rūdiškės laikomos pradžios vieta, ne jau veikiančiu centru.
-- Pagrindinis metų klausimas: kaip iš mažos kooperatyvinės minties gimsta svetainės, archyvo, ekonomikos, dokumentų ir ateities pasakojimo kryptis?
+- Ribojimai, kad dar nėra miesto, valstybės ar gamybos, lieka vidiniame kanono sluoksnyje, bet ne straipsnio tekste.
+- Rūdiškės laikomos pradžios vieta.
+- Pagrindinis metų klausimas: kaip iš mažos kooperatyvinės minties gimsta svetainės, archyvo, ekonomikos, dokumentų, kultūros ir ateities pasakojimo kryptis?
 
 REKOMENDUOJAMAS PARENGĖJAS: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 1
-Data: 2026-01-12
+Data: 2026 m. sausio 12 d.
 Rubrika: Savęs tobulinimas
 Pavadinimas: Rūdiškių apylinkėse užrašyta pirmoji bendruomeninio ūkio idėja
 
-STRAIPSNIS:
-Rūdiškių apylinkėse užrašyta pirmoji bendruomeninio ūkio idėja. Ji dar labai nedidelė: kalbama ne apie valstybę, ne apie miestą ir ne apie organizaciją, o apie paprastą klausimą, ar mažoje vietoje būtų galima sukurti kitokią darbo ir gyvenimo tvarką.
+Rūdiškių apylinkėse pirmą kartą užrašyta bendruomeninio ūkio idėja. Ji gimė iš paprasto klausimo: ar nedidelėje vietoje būtų įmanoma sukurti tokį darbą, kuris žmogui duotų ne tik atlyginimą, bet ir daugiau kasdienio saugumo.
 
-Pirmuose užrašuose daugiausia dėmesio skirta realiam darbui. Svarstyta, kad būsimas modelis turėtų gaminti naudingą produktą, gauti pajamas ir po truputį mažinti žmogaus priklausomybę nuo įprastos samdomo darbo schemos.
+Pirmuose užrašuose kalbama apie mažą ūkį arba gamybos vietą, kuri galėtų ruošti reikalingus produktus vietos žmonėms. Svarstyta, kad tokia veikla turėtų būti paremta ne vien pelno siekimu, bet ir aiškiu tikslu - mažinti žmogaus priklausomybę nuo nuolat augančių kainų, kelionių į darbą ir neužtikrintos kasdienybės.
 
-Rūdiškės šiame etape matomos ne kaip būsimas centras, o kaip artima, konkreti vieta, nuo kurios patogu pradėti mąstyti apie mažą ūkį, žmones, kelią į darbą, šeimas ir kasdienes išlaidas.
+Idėjos pradžioje daug dėmesio skirta paprastiems dalykams: maistui, darbui, būstui, šeimos išlaidoms ir galimybei dalį vertės palikti ne privačiam pelnui, o bendram stiprėjimui. Tokia kryptis iš karto nukreipė mintį nuo teorijos prie praktikos.
 
-Pirmasis įrašas suteikė projektui kryptį: jeigu ateityje bus kuriama platesnė sistema, ji turės prasidėti ne nuo didelių pareiškimų, o nuo mažo klausimo, kaip realus darbas gali padėti žmogui gyventi saugiau.
+Šis sausio įrašas tapo pirmu žingsniu į platesnį klausimą: kaip galėtų atrodyti gyvenimas, kuriame darbas, gamyba ir kasdienis žmogaus saugumas būtų svarstomi kartu.
 
 SEO:
 SEO title: Pirmoji bendruomeninio ūkio idėja Rūdiškėse
-Meta description: 2026 m. Rūdiškių apylinkėse užrašyta pirmoji bendruomeninio ūkio idėja, pradėjusi ankstyvą BVK kelią.
+Meta description: 2026 m. Rūdiškių apylinkėse užrašyta pirmoji bendruomeninio ūkio idėja, pradėjusi ankstyvą projekto kelią.
 Slug: pirmoji-bendruomeninio-ukio-ideja-rudiskese-2026
 
 IMAGE PROMPT:
-Photorealistic horizontal editorial photo, quiet January evening in a private Lithuanian home office, desk with blank notebook, calculator, cup of tea, window with winter thuja silhouettes, no readable text, clean documentary realism.
+Photorealistic horizontal editorial photo, quiet January evening in a Lithuanian private home office, desk with blank notebook, pencil, calculator, cup of tea, window with winter thuja silhouettes, clean natural realism, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-01-12
+Publikuota: 2026 m. sausio 12 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 2
-Data: 2026-01-27
+Data: 2026 m. sausio 27 d.
 Rubrika: Ekonomika
-Pavadinimas: Pradėta lyginti, ką galėtų gaminti mažas būsimas kooperatyvas
+Pavadinimas: Pradėta ieškoti pirmųjų produktų būsimam bendram ūkiui
 
-STRAIPSNIS:
-Sausio pabaigoje pradėta lyginti, ką galėtų gaminti mažas būsimas kooperatyvas. Vietoje abstrakčių kalbų apie naują modelį pasirinktas paprastesnis kelias: pirmiausia reikia suprasti, koks produktas galėtų būti reikalingas žmonėms kasdien.
+Sausio pabaigoje pradėta ieškoti pirmųjų produktų, kuriuos galėtų gaminti mažas bendras ūkis. Vietoje bendrų kalbų apie naują tvarką pasirinktas labai konkretus klausimas: ką žmonės perka kasdien ir ką būtų galima ruošti vietoje.
 
-Pirmuose sąrašuose atsirado duona, paprasti kepiniai, daržovės, paruošti maisto rinkiniai ir smulkūs vietiniai produktai. Kiekviena kryptis buvo vertinama labai paprastai: ar žmonėms to reikia, ar galima gaminti nedideliu mastu, ar būtų įmanoma parduoti netoliese.
+Pirmame sąraše atsirado formine duona, paprasti kepiniai, rauginti arba marinuoti agurkai, konservuotos daržovės, sriubos stiklainiuose, paruošti pietūs, uogienės, žolelių arbatos ir paprasti sezoniniai produktai. Kiekvienas variantas vertintas pagal kelis dalykus: ar jo reikia žmonėms, ar jis gali būti gaminamas nedideliu mastu, ar jo savikaina būtų suprantama ir ar produktas galėtų būti kartojamas.
 
-Maisto kryptis pasirodė artima todėl, kad ji susijusi su kasdieniu gyvenimu. Jeigu projektas kada nors kalbės apie pagalbą žmogui, maistas gali tapti viena iš pirmųjų tikrinamų sričių.
+Daugiausia dėmesio sulaukė maisto kryptis, nes ji arčiausiai kasdienio gyvenimo. Duona, sriuba ar konservuoti agurkai nėra įspūdingi žodžiai, bet būtent tokie produktai parodo, ar idėja gali stovėti ant žemės.
 
-Šis palyginimas dar neparinko produkto, bet davė pirmą praktinį orientyrą. Idėja pradėjo judėti nuo klausimo "kaip turėtų būti" prie klausimo "ką būtų galima padaryti pirmiausia".
+Pirmasis produktų sąrašas dar nieko nepasirinko galutinai, tačiau jis suteikė projektui sveiką pradžią. Ateities modelis pradėtas tikrinti ne nuo didelių schemų, o nuo klausimo, ar galima sąžiningai pagaminti tai, ko žmogui reikia rytoj.
 
 SEO:
-SEO title: Pirmieji būsimo kooperatyvo produktų palyginimai
-Meta description: 2026 m. pradėta lyginti, ką galėtų gaminti mažas būsimas kooperatyvas prie Rūdiškių.
-Slug: pirmieji-busimo-kooperatyvo-produktu-palyginimai-2026
+SEO title: Pirmieji produktai būsimam bendram ūkiui
+Meta description: 2026 m. pradėta ieškoti pirmųjų produktų būsimam bendram ūkiui: duonos, agurkų, sriubų ir daržovių ruošinių.
+Slug: pirmieji-produktai-busimam-bendram-ukiui-2026
 
 IMAGE PROMPT:
-Photorealistic editorial still life, simple kitchen table with bread tin, vegetables, seed packets, blank comparison cards, cold winter daylight, no readable text.
+Photorealistic editorial photo, simple kitchen table with bread loaf, cucumbers, jars, vegetables, blank comparison cards, cold winter daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-01-27
+Publikuota: 2026 m. sausio 27 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 3
-Data: 2026-02-09
+Data: 2026 m. vasario 9 d.
 Rubrika: Darbas
-Pavadinimas: Užrašuose atsirado mintis apie platesnę darbuotojo kasdienę paramą
+Pavadinimas: Pirmą kartą užrašyta mintis apie darbą, kuris žmogui suteiktų daugiau saugumo
 
-STRAIPSNIS:
-Vasario pradžioje ankstyvuose projekto užrašuose atsirado mintis, kad darbuotojo santykis su būsima gamyba neturėtų baigtis vien atlyginimu. Pradėta svarstyti, ar mažas bendras ūkis galėtų po truputį mažinti kasdienes žmogaus išlaidas.
+Vasario pradžioje projekto užrašuose pirmą kartą aiškiau suformuluota mintis apie darbą, kuris žmogui suteiktų daugiau kasdienio saugumo. Darbas čia pradėtas matyti ne tik kaip valandos ir atlyginimas, bet kaip aplinka, galinti padėti žmogui gyventi ramiau.
 
-Pirmiausia kalbėta apie labai kuklius dalykus: pietus darbo metu, nuolaidą savo gaminamai produkcijai, pagalbą kelionei į darbą arba mažą paramą nenumatytai situacijai. Šios mintys dar nebuvo pažadai, bet jos suteikė ekonominei idėjai žmogišką kryptį.
+Pirmuose užrašuose svarstyta, kad būsima gamybos vieta galėtų palaipsniui rūpintis ne vien užmokesčiu, bet ir tuo, kas kasdien žmogui brangu: pietumis darbo metu, kelione į darbą, paprastesniu produktų įsigijimu, pagalba šeimai ar nedideliu saugumo rezervu sunkesnei dienai.
 
-Svarbiausia naujiena buvo pats požiūrio pasikeitimas. Darbas pradėtas matyti ne tik kaip vieta uždirbti, bet ir kaip aplinka, kuri gali padėti žmogui jaustis saugiau, jeigu ji kuriama atsakingai.
+Ši mintis kilo iš paprasto pastebėjimo: žmogus dažnai gauna atlyginimą, bet po to vienas susiduria su visomis išlaidomis. Maistas, transportas, nuoma, vaikų poreikiai ir sveikata lieka atskirti nuo darbo vietos, nors būtent darbas turėtų padėti jas nešti lengviau.
 
-Vasario užrašai atvėrė naują kryptį: būsimas modelis turės būti vertinamas ne vien pagal tai, kiek jis pagamina, bet ir pagal tai, kiek jis palengvina paprastą žmogaus dieną.
+Vasario įrašas tapo svarbiu posūkiu. Būsimas ūkis pradėtas matyti kaip vieta, kur vertė galėtų grįžti ne tik savininkui ar rinkai, bet ir pačiam žmogui, kuris tą vertę kuria.
 
 SEO:
-SEO title: Darbuotojo kasdienės paramos idėja 2026 m.
-Meta description: 2026 m. projekto užrašuose atsirado mintis apie platesnę darbuotojo kasdienę paramą būsimoje gamyboje.
-Slug: darbuotojo-kasdiene-parama-2026
+SEO title: Darbas, suteikiantis daugiau saugumo
+Meta description: 2026 m. pirmą kartą užrašyta mintis apie darbą, kuris žmogui suteiktų daugiau kasdienio saugumo.
+Slug: darbas-suteikiantis-daugiau-saugumo-2026
 
 IMAGE PROMPT:
-Photorealistic desk photo, blank monthly budget sheet, lunch container, work gloves, house key, soft February light, no readable text.
+Photorealistic editorial photo, modest worktable, lunch container, travel card, blank household budget sheet, soft February light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-02-09
+Publikuota: 2026 m. vasario 9 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 4
-Data: 2026-02-23
+Data: 2026 m. vasario 23 d.
 Rubrika: Būstas
-Pavadinimas: Pirmuosiuose eskizuose pasirodė darbuotojų būsto prie darbo vietos idėja
+Pavadinimas: Pirmuosiuose užrašuose susieta darbo, būsto ir kasdienio saugumo idėja
 
-STRAIPSNIS:
-Vasario pabaigoje pirmuosiuose eskizuose pasirodė darbuotojų būsto prie darbo vietos idėja. Ji dar nebuvo miesto planas ar statybų projektas. Tai buvo mažas klausimas: ar žmogui būtų lengviau, jeigu darbas ir gyvenimas būtų arčiau vienas kito.
+Vasario pabaigoje pirmuosiuose projekto užrašuose susieta darbo, būsto ir kasdienio saugumo idėja. Šalia minčių apie gamybą atsirado klausimas, kodėl žmogaus darbas, kelionė iki jo ir būsto išlaidos dažnai sprendžiami kaip visiškai atskiros problemos.
 
-Pirmieji eskizai kalbėjo apie labai paprastą galimybę - kelias gyvenamąsias vietas ar laikinus būstus šalia būsimos gamybos. Tokia mintis galėtų padėti mažinti kelionės laiką, nuomos spaudimą ir kasdienį nesaugumą.
+Užrašuose svarstyta, kad ateityje būtų verta ieškoti tokio modelio, kuriame darbas ir gyvenamoji aplinka būtų artimesni. Ne kaip prievarta ar uždara sistema, o kaip galimybė žmogui turėti mažiau kasdienės įtampos: trumpesnę kelionę, aiškesnes išlaidas ir daugiau laiko šeimai.
 
-Kartu užrašuose iškart atsirado atsargumas. Būstas negali tapti priemone laikyti žmogų sistemoje. Jei toks sprendimas kada nors atsirastų, jis turėtų būti savanoriškas, aiškus ir saugus.
+Mintis buvo labai paprasta: jeigu bendras ūkis gamina vertę, dalis tos vertės galėtų ilgainiui padėti spręsti ne tik darbo vietos, bet ir gyvenimo sąlygų klausimą. Būstas čia atsirado ne kaip atskiras nekilnojamojo turto projektas, o kaip žmogaus saugumo dalis.
 
-Šis mažas eskizas parodė, kad projektas pradeda matyti ne vien darbo vietą, bet ir visą žmogaus dieną: nuo namų iki darbo, nuo išlaidų iki saugumo.
+Šis vasario įrašas išplėtė projekto lauką. Pradėta kalbėti ne vien apie produktą ar atlyginimą, bet apie visą žmogaus dieną - nuo namų iki darbo ir atgal.
 
 SEO:
-SEO title: Pirmoji darbuotojų būsto idėja prie darbo vietos
-Meta description: 2026 m. pirmuosiuose projekto eskizuose pasirodė darbuotojų būsto prie būsimos darbo vietos idėja.
-Slug: pirmoji-darbuotoju-busto-ideja-prie-darbo-2026
+SEO title: Darbo, būsto ir saugumo idėjos susiejimas
+Meta description: 2026 m. pirmuosiuose užrašuose susieta darbo, būsto ir kasdienio žmogaus saugumo idėja.
+Slug: darbo-busto-ir-saugumo-idejos-susiejimas-2026
 
 IMAGE PROMPT:
-Photorealistic tabletop planning photo, small paper house models beside a simple production sketch, Lithuanian rural map blurred, late winter daylight, no readable text.
+Photorealistic editorial photo, small paper house model near work schedule and road map, winter afternoon light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-02-23
+Publikuota: 2026 m. vasario 23 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 5
-Data: 2026-03-10
+Data: 2026 m. kovo 10 d.
 Rubrika: Technologijos
-Pavadinimas: Dirbtinis intelektas pradėtas naudoti pirmiems projekto užrašams tvarkyti
+Pavadinimas: Dirbtinis intelektas pradėtas naudoti projekto užrašams tvarkyti
 
-STRAIPSNIS:
-Kovo pradžioje dirbtinis intelektas pradėtas naudoti pirmiems projekto užrašams tvarkyti. Iki tol mintys buvo padrikos: gamyba, darbas, būstas, taisyklės, ateities svetainė ir knyga judėjo vienu metu, todėl reikėjo įrankio, kuris padėtų matyti ryšius.
+Kovo pradžioje dirbtinis intelektas pradėtas naudoti projekto užrašams tvarkyti. Idėjų jau buvo daug: bendras ūkis, maisto produktai, darbo saugumas, būstas, svetainė, ateities naujienos, dokumentai ir galimas romanas. Viską reikėjo sudėti į aiškesnes lentynas.
 
-DI panaudotas ne kaip sprendimų priėmėjas, o kaip darbo pagalbininkas. Jis padėjo perrašyti klausimus aiškiau, grupuoti temas, ieškoti pavadinimų, dėlioti pirmą chronologiją ir pamatyti, kur idėja dar per miglota.
+DI panaudotas kaip darbo pagalbininkas: jis padėjo grupuoti temas, perrašyti neaiškias mintis, sudaryti pirmus sąrašus ir ieškoti ryšių tarp ekonomikos, kultūros ir būsimos svetainės. Tai leido greičiau pamatyti, kurios idėjos kartojasi, o kurios dar neturi tvirto pagrindo.
 
-Šis žingsnis suteikė projektui naują tempą. Mintys, kurios anksčiau likdavo atskiruose užrašuose, pradėjo jungtis į pirmas struktūras: ekonomikos, svetainės, ateities pasaulio ir galimų dokumentų kryptis.
+Svarbiausia, kad technologija neperėmė sprendimų. Ji tapo priemone tvarkyti žmogaus sukauptas mintis ir padėti joms įgyti struktūrą. Dėl to projektas pradėjo judėti greičiau, bet išliko asmeniškas ir kryptingas.
 
-Kovo naujiena parodė, kad technologija gali būti naudinga ne tada, kai pakeičia žmogų, o tada, kai padeda žmogui tiksliau pamatyti savo paties sumanymą.
+Kovo įrašas žymi pirmą aiškesnį technologinį posūkį. Nuo šiol idėja turėjo ne tik užrašų sąsiuvinį, bet ir įrankį, kuris padėjo iš chaoso kurti tvarką.
 
 SEO:
-SEO title: DI pradėtas naudoti projekto užrašams tvarkyti
-Meta description: 2026 m. dirbtinis intelektas pradėtas naudoti pirmiems projekto užrašams, temoms ir chronologijai tvarkyti.
+SEO title: DI pradėtas naudoti projekto užrašams
+Meta description: 2026 m. dirbtinis intelektas pradėtas naudoti projekto užrašams, temoms ir chronologijai tvarkyti.
 Slug: di-pradetas-naudoti-projekto-uzrasams-2026
 
 IMAGE PROMPT:
-Photorealistic editorial photo, laptop with blurred interface, handwritten notes with no readable text, warm lamp light, early spring evening, clean realism.
+Photorealistic editorial photo, laptop with blurred interface, handwritten blank notes, warm lamp light, early spring evening, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-03-10
+Publikuota: 2026 m. kovo 10 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 6
-Data: 2026-03-25
+Data: 2026 m. kovo 25 d.
 Rubrika: Savęs tobulinimas
-Pavadinimas: Pradėtas blaivios ir saugios darbo aplinkos principų sąrašas
+Pavadinimas: Pradėtas saugios ir blaivios darbo aplinkos principų sąrašas
 
-STRAIPSNIS:
-Kovo pabaigoje pradėtas blaivios ir saugios darbo aplinkos principų sąrašas. Jis atsirado iš labai praktiško klausimo: jeigu žmonės kada nors dirbtų ir galbūt gyventų arčiau bendros gamybos, kokios taisyklės saugotų ramų darbą ir pasitikėjimą?
+Kovo pabaigoje pradėtas saugios ir blaivios darbo aplinkos principų sąrašas. Jis atsirado šalia ekonominių užrašų, kai tapo aišku, kad bendras darbas negali būti kuriamas vien iš produktų ir skaičių.
 
-Pirmuose punktuose kalbėta apie alkoholio ir priklausomybių riziką, agresijos netoleravimą, higieną, pagarbų elgesį ir aiškų konfliktų sprendimą. Sąrašas nebuvo moralinis plakatas. Jis buvo bandymas suprasti, kokia aplinka leidžia žmonėms jaustis saugiau.
+Pirmuose punktuose užrašyta pagarba žmogui, ramus bendravimas, blaivi aplinka, atsakomybė už savo veiksmus, aiškus konfliktų sprendimas ir saugus elgesys darbo vietoje. Šie principai turėjo padėti įsivaizduoti ne tik ką žmonės gamintų, bet ir kaip jie dirbtų kartu.
 
-Kartu palikta svarbi pastaba: taisyklės neturi virsti kontrole dėl kontrolės. Jos turi saugoti žmones, o ne kurti baimę. Todėl nuo pat pradžių šalia drausmės atsirado žodžiai apie pagalbą, aiškumą ir žmogaus teisę pasitraukti.
+Didelis dėmesys skirtas kasdieniam paprastumui. Saugumas čia suprastas ne kaip plakatas ant sienos, o kaip realus jausmas, kad žmogus gali dirbti be agresijos, baimės, chaoso ir nuolatinės įtampos.
 
-Šis principų sąrašas tapo pirmu ženklu, kad ateities modelis turės spręsti ne tik pinigų, bet ir elgesio kultūros klausimą.
+Šis sąrašas suteikė projektui svarbią vidinę atramą. Būsimas bendras ūkis turėtų prasidėti nuo kultūros, kurioje žmogus jaučiasi gerbiamas dar prieš kalbant apie didesnius tikslus.
 
 SEO:
-SEO title: Blaivios ir saugios darbo aplinkos principai
-Meta description: 2026 m. pradėtas blaivios ir saugios darbo aplinkos principų sąrašas būsimam bendram modeliui.
-Slug: blaivios-ir-saugios-darbo-aplinkos-principai-2026
+SEO title: Saugios ir blaivios darbo aplinkos principai
+Meta description: 2026 m. pradėtas saugios ir blaivios darbo aplinkos principų sąrašas būsimam bendram modeliui.
+Slug: saugios-ir-blaivios-darbo-aplinkos-principai-2026
 
 IMAGE PROMPT:
-Photorealistic editorial photo, clean workshop table, safety checklist with no readable text, coffee mug, spring daylight, natural realism.
+Photorealistic editorial photo, clean workshop desk, safety checklist with no readable text, coffee mug, spring daylight, natural realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-03-25
+Publikuota: 2026 m. kovo 25 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 7
-Data: 2026-04-07
+Data: 2026 m. balandžio 7 d.
 Rubrika: Kultūra
 Pavadinimas: Atsirado knygos apie ateities visuomenę idėja
 
-STRAIPSNIS:
-Balandžio pradžioje atsirado knygos apie ateities visuomenę idėja. Ekonominiai užrašai ir praktiniai klausimai jau rodė kryptį, tačiau buvo aišku, kad vien lentelėmis neįmanoma parodyti, kaip žmogus jaustųsi kitokiame pasaulyje.
+Balandžio pradžioje atsirado knygos apie ateities visuomenę idėja. Ekonominiai ir praktiniai užrašai jau rodė kryptį, tačiau buvo aišku, kad vien taisyklėmis ir lentelėmis neįmanoma parodyti, kaip žmogus jaustųsi kitokiame pasaulyje.
 
-Knyga pradėta matyti kaip atskiras, laisvesnis sluoksnis. Joje būtų galima kalbėti apie ateities šalį per žmones, pasirinkimus, paslaptis, abejones ir nematomus valdymo sluoksnius. Tai nebūtų įstatymas ar instrukcija, o pasakojimas, leidžiantis skaitytojui pajusti pasaulį.
+Knygos idėja leido į būsimą modelį pažvelgti per žmogaus patirtį. Joje būtų galima kalbėti apie pasirinkimus, pasitikėjimą, laisvę, bendrą atsakomybę ir nematomus sprendimus, kurie veikia visuomenės gyvenimą.
 
-Ši idėja suteikė projektui platesnį kultūrinį kelią. Praktika turėtų rodyti, kaip galima dirbti ir gyventi kitaip, o literatūra - kokių klausimų toks pasaulis sukeltų žmogaus viduje.
+Šis kultūrinis sluoksnis tapo svarbus todėl, kad ateities pasaulis neturi atrodyti kaip schema. Jeigu jame gyvens žmonės, jame bus ne tik tvarka, bet ir abejonės, santykiai, klaidos, viltis, baimė ir vidinės ribos.
 
-Balandžio naujiena parodė, kad projektui reikės ne tik ekonomikos ir dokumentų. Jam reikės istorijos, kuri galėtų atvesti skaitytoją į ateitį ne per spaudimą, o per smalsumą.
+Balandžio įrašas atvėrė naują projekto pusę. Idėja pradėjo augti ne tik kaip ūkio ar svetainės planas, bet ir kaip pasakojimas, kurį žmogus galėtų perskaityti ir pajusti.
 
 SEO:
 SEO title: Knygos apie ateities visuomenę idėja
-Meta description: 2026 m. atsirado knygos apie ateities visuomenę idėja kaip kultūrinis BVK projekto sluoksnis.
+Meta description: 2026 m. atsirado knygos apie ateities visuomenę idėja kaip kultūrinis projekto sluoksnis.
 Slug: knygos-apie-ateities-visuomene-ideja-2026
 
 IMAGE PROMPT:
-Photorealistic writing desk, blank manuscript pages, soft April daylight, notebook, pen, no readable text, realistic editorial mood.
+Photorealistic writing desk, blank manuscript pages, notebook, pen, soft April daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-04-07
+Publikuota: 2026 m. balandžio 7 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 8
-Data: 2026-04-24
+Data: 2026 m. balandžio 24 d.
 Rubrika: Vystymasis
-Pavadinimas: Pirmą kartą aprašytas būsimos svetainės kaip naujienų iš ateities principas
+Pavadinimas: Sugalvota svetainę kurti kaip naujienų iš ateities projektą
 
-STRAIPSNIS:
-Balandžio pabaigoje pirmą kartą aprašytas būsimos svetainės kaip naujienų iš ateities principas. Idėja buvo neįprasta: lankytojas atsidurtų svetainėje, kurioje skelbiamos skirtingų metų publikacijos, o dalis jų ateitų iš brandesnio 2086 metų pasaulio.
+Balandžio pabaigoje sugalvota svetainę kurti kaip naujienų iš ateities projektą. Tai tapo vienu svarbiausių ankstyvų sprendimų: vietoje paprasto tinklaraščio turėtų atsirasti erdvė, kurioje skaitytojas po truputį atranda būsimą pasaulį per jo naujienas.
 
-Toks formatas leistų skaitytojui ne iš karto gauti visus paaiškinimus, o po truputį atrasti, kur jis pateko. Naujienos, archyvas, dokumentai ir pasakojimai galėtų veikti kartu, sukurdami jausmą, kad ateities Respublika turi savo istoriją.
+Pirmoji mintis buvo drąsi ir žaisminga. Lankytojas galėtų pamatyti publikacijas iš 2086 metų, perskaityti apie brandesnę Baltijos Kooperatinę Respubliką, o tada grįžti į ankstyvus 2026 metų įrašus ir suprasti, nuo ko viskas prasidėjo.
 
-Balandžio planuose dar nebuvo nei galutinės struktūros, nei dizaino, nei aiškaus pavadinimo. Tačiau pati svetainės idėja suteikė projektui naują formą: nuo asmeninių užrašų pereinama prie viešos erdvės, kuri kada nors galėtų sudominti skaitytoją.
+Toks formatas leistų nekalbėti vien sausais paaiškinimais. Ateities naujienos galėtų parodyti, kaip atrodytų kasdienis gyvenimas, darbas, regionai, socialinės paslaugos ir dokumentai, jeigu idėja per kelis dešimtmečius išaugtų.
 
-Šis žingsnis atvėrė labai svarbią kryptį. Projektas galėtų augti ne per šūkius, o per smalsumą: žmogus skaito naujieną, tada randa archyvą, tada supranta chronologiją ir tik po truputį pamato visą ateities modelį.
+Balandžio 24 dienos užrašas suteikė svetainei tikrą veidą. Projektas pradėjo kalbėti ne tik apie ateitį, bet ir iš ateities.
 
 SEO:
-SEO title: Svetainės kaip naujienų iš ateities principas
-Meta description: 2026 m. pirmą kartą aprašytas būsimos svetainės kaip naujienų iš ateities principas.
-Slug: svetaines-kaip-naujienu-is-ateities-principas-2026
+SEO title: Svetainė kaip naujienos iš ateities
+Meta description: 2026 m. sugalvota svetainę kurti kaip naujienų iš ateities projektą apie būsimą Respublikos pasaulį.
+Slug: svetaine-kaip-naujienos-is-ateities-2026
 
 IMAGE PROMPT:
-Photorealistic editorial photo, laptop on desk with blurred website wireframe, scattered blank news cards, soft April evening light, no readable text.
+Photorealistic editorial photo, laptop with blurred future-news layout, blank news cards, warm April evening light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-04-24
+Publikuota: 2026 m. balandžio 24 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 9
-Data: 2026-05-08
+Data: 2026 m. gegužės 8 d.
 Rubrika: Dizainas
-Pavadinimas: Pradėti pirmieji būsimo projekto pavadinimo ir logotipo bandymai
+Pavadinimas: Pradėti pirmieji būsimos Respublikos pavadinimo ir ženklo bandymai
 
-STRAIPSNIS:
-Gegužės pradžioje pradėti pirmieji būsimo projekto pavadinimo ir logotipo bandymai. Iki tol idėja judėjo daugiausia per užrašus, tačiau tapo aišku, kad ilgainiui jai reikės atpažįstamo ženklo.
+Gegužės pradžioje pradėti pirmieji būsimos Respublikos pavadinimo ir ženklo bandymai. Idėja jau turėjo kelias kryptis - bendrą ūkį, ateities naujienas, Baltijos erdvę ir socialiai atsakingesnį darbą, todėl jai prireikė atpažįstamo vardo.
 
-Pirmuose bandymuose ieškota ne puošnumo, o krypties. Pavadinimas turėjo sietis su Baltijos erdve, kooperacija, bendru valdymu ir ateities Respublikos galimybe. Logotipas turėjo atrodyti ramiai, solidžiai ir nepriminti nei reklaminio startuolio, nei partinės simbolikos.
+Pirmuose bandymuose ieškota žodžių, kurie jungtų Baltiją, kooperaciją, bendrumą ir Respublikos idėją. Kartu buvo kuriami pirmi ženklo eskizai: ramūs, solidūs, be agresyvios politinės simbolikos ir be reklaminio triukšmo.
 
-Šie bandymai dar nebuvo galutiniai. Buvo daug atmetimų, netikslių variantų ir formų, kurios atrodė per šaltos arba per dekoratyvios. Tačiau pats ieškojimas padėjo projektui pradėti matyti savo veidą.
+Dalis variantų iškart atmesta. Vieni skambėjo per sunkiai, kiti per tuščiai, treti pernelyg priminė įprastą organizaciją. Tačiau pats ieškojimas padėjo geriau suprasti, ko projektas nenori ir kokio balso jam reikia.
 
-Gegužės naujiena svarbi tuo, kad idėja pirmą kartą išėjo iš vien teksto į ženklą. Net jeigu ženklas dar keisis, atsirado poreikis, kad projektą būtų galima atpažinti iš pirmo žvilgsnio.
+Gegužės naujiena parodė, kad idėja pradeda įgyti viešą formą. Pavadinimas ir ženklas dar galėjo keistis, bet projektas jau ieškojo savo atpažįstamo veido.
 
 SEO:
-SEO title: Pirmieji projekto pavadinimo ir logotipo bandymai
-Meta description: 2026 m. pradėti pirmieji būsimo BVK projekto pavadinimo ir logotipo bandymai.
-Slug: pirmieji-projekto-pavadinimo-ir-logotipo-bandymai-2026
+SEO title: Pirmieji pavadinimo ir ženklo bandymai
+Meta description: 2026 m. pradėti pirmieji būsimos Respublikos pavadinimo ir ženklo bandymai, jungiant Baltiją ir kooperaciją.
+Slug: pirmieji-pavadinimo-ir-zenklo-bandymai-2026
 
 IMAGE PROMPT:
-Photorealistic editorial photo, design desk with abstract logo sketches, pencil, laptop, neutral daylight, no readable text, no finished branding.
+Photorealistic editorial photo, design desk with abstract logo sketches, pencil, neutral daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-05-08
+Publikuota: 2026 m. gegužės 8 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 10
-Data: 2026-05-21
+Data: 2026 m. gegužės 21 d.
 Rubrika: Vystymasis
-Pavadinimas: Parengtas pirmasis būsimos svetainės skyrių sąrašas
+Pavadinimas: Parengtas pirmasis būsimos svetainės temų sąrašas
 
-STRAIPSNIS:
-Gegužės pabaigoje parengtas pirmasis būsimos svetainės skyrių sąrašas. Jame atsirado vieta naujienoms, archyvui, ateities dokumentams, įstatymų juodraščiams, chronologijai, projekto paaiškinimams ir kultūriniam pasakojimo sluoksniui.
+Gegužės pabaigoje parengtas pirmasis būsimos svetainės temų sąrašas. Jame atsirado naujienos, archyvas, ateities dokumentai, ekonomikos užrašai, kultūrinis pasakojimas, chronologija ir pirmieji paaiškinimai apie projekto kilmę.
 
-Šis sąrašas padėjo suprasti, kad svetainei reikės daugiau nei paprasto tinklaraščio. Ji turėtų veikti kaip kelias per laiką: nuo pirmųjų 2026 metų užrašų iki brandesnių publikacijų apie būsimą Respublikos pasaulį.
+Šis sąrašas padėjo suprasti, kad svetainė neturėtų būti vien vieta straipsniams. Ji galėtų veikti kaip ilgas pasakojimas, kuriame skaitytojas mato ir pradžią, ir tolimą ateitį, ir dokumentus, kurie paaiškina, kaip tas pasaulis galėtų būti kuriamas.
 
-Dar nebuvo aišku, kiek skyrių iš tikrųjų reikės ir kokia tvarka jie atsiras. Tačiau pirmas sąrašas suteikė struktūrą, kurios labai trūko. Dabar buvo galima ne tik rašyti pavienius tekstus, bet ir dėlioti juos į skaitymo maršrutą.
+Temų sąraše ypač svarbi vieta skirta chronologijai. Jau tada tapo aišku, kad skirtingos datos turi būti ne painiava, o projekto stiprybė: skaitytojas turi matyti, kaip vienas mažas žingsnis veda prie kito.
 
-Ši naujiena tapo vienu pirmųjų svetainės gimimo ženklų. Projektas pradėjo turėti ne tik idėją, bet ir vietą, kurioje ta idėja galėtų pamažu atsiverti lankytojui.
+Gegužės 21 dienos darbas suteikė svetainei pirmą turinio karkasą. Nuo šiol buvo galima galvoti ne tik apie atskirus tekstus, bet ir apie visą skaitymo kelią.
 
 SEO:
-SEO title: Pirmasis būsimos BVK svetainės skyrių sąrašas
-Meta description: 2026 m. parengtas pirmasis būsimos BVK svetainės skyrių ir teminių sričių sąrašas.
-Slug: pirmasis-busimos-bvk-svetaines-skyriu-sarasas-2026
+SEO title: Pirmasis būsimos svetainės temų sąrašas
+Meta description: 2026 m. parengtas pirmasis būsimos svetainės temų sąrašas: naujienos, archyvas, dokumentai ir chronologija.
+Slug: pirmasis-busimos-svetaines-temu-sarasas-2026
 
 IMAGE PROMPT:
-Photorealistic overhead editorial photo, many blank paper cards grouped into website sections on a low table, laptop nearby, May daylight, no readable text.
+Photorealistic overhead editorial photo, many blank paper cards grouped into themes, laptop nearby, May daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-05-21
+Publikuota: 2026 m. gegužės 21 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 11
-Data: 2026-06-07
+Data: 2026 m. birželio 7 d.
 Rubrika: Teisė
-Pavadinimas: Sukurti pirmieji būsimos Konstitucijos užrašų fragmentai
+Pavadinimas: Parašyti pirmieji būsimos Konstitucijos sakiniai
 
-STRAIPSNIS:
-Birželio pradžioje sukurti pirmieji būsimos Konstitucijos užrašų fragmentai. Tai dar nebuvo teisės dokumentas ir nebuvo oficialus tekstas. Tai buvo bandymas suprasti, kokiais žodžiais ateities visuomenė galėtų apibūdinti darbą, žmogaus orumą, bendrą turtą ir atsakomybę.
+Birželio pradžioje parašyti pirmieji būsimos Konstitucijos sakiniai. Jie gimė ne kaip galutinis teisės dokumentas, o kaip bandymas surasti kalbą, kuria ateities visuomenė galėtų kalbėti apie žmogų, darbą ir bendrą atsakomybę.
 
-Pirmuose fragmentuose daug dėmesio skirta ne valdžiai, o pamatinėms riboms: žmogus negali būti priemonė, bendras turtas turi tarnauti gyvenimui, o ekonomika turi būti vertinama pagal tai, ar ji mažina kasdienį nesaugumą.
+Pirmuose sakiniuose daugiausia dėmesio skirta žmogaus orumui, darbo prasmei, bendrai sukurtai vertei ir visuomenės pareigai nepalikti žmogaus vieno prieš kasdienes išlaidas. Tai buvo dar labai ankstyvi tekstai, bet jie suteikė projektui rimtesnį moralinį pagrindą.
 
-Šie tekstai buvo dar labai ankstyvi ir netolygūs. Kai kurie sakiniai skambėjo per plačiai, kiti - per sausai. Tačiau jie padėjo pradėti kurti kalbą, kuri ateityje galėtų jungti praktinį modelį su viešais principais.
+Šie sakiniai padėjo atskirti vien ekonominę idėją nuo platesnio pasaulėvaizdžio. Jei ateityje bus kalbama apie bendrą turtą, gamybą ar socialinę paramą, pirmiausia reikės aiškiai suprasti, kokį žmogų tokia sistema turi saugoti.
 
-Birželio naujiena parodė, kad projektas pradeda kelti ne tik klausimą "ką gaminti", bet ir klausimą "kokios vertybės turi saugoti tai, kas bus sukurta".
+Birželio naujiena parodė, kad projektas pradeda ieškoti ne tik produktų ir svetainės formos, bet ir savo pamatinių žodžių.
 
 SEO:
-SEO title: Pirmieji būsimos Konstitucijos fragmentai
-Meta description: 2026 m. sukurti pirmieji būsimos Konstitucijos užrašų fragmentai apie darbą, orumą ir bendrą atsakomybę.
-Slug: pirmieji-busimos-konstitucijos-fragmentai-2026
+SEO title: Pirmieji būsimos Konstitucijos sakiniai
+Meta description: 2026 m. parašyti pirmieji būsimos Konstitucijos sakiniai apie žmogų, darbą, orumą ir bendrą atsakomybę.
+Slug: pirmieji-busimos-konstitucijos-sakiniai-2026
 
 IMAGE PROMPT:
 Photorealistic legal writing desk, blank formal pages, pencil corrections, simple lamp, June daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-06-07
+Publikuota: 2026 m. birželio 7 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 12
-Data: 2026-06-24
+Data: 2026 m. birželio 24 d.
 Rubrika: Archyvas
 Pavadinimas: Pradėtas pirmasis projekto chronologijos lapas
 
-STRAIPSNIS:
-Birželio pabaigoje pradėtas pirmasis projekto chronologijos lapas. Iki tol užrašai kaupėsi pagal temas, tačiau tapo aišku, kad skaitytojui reikės matyti ne tik idėjas, bet ir jų atsiradimo laiką.
+Birželio pabaigoje pradėtas pirmasis projekto chronologijos lapas. Į vieną vietą pradėti rinkti svarbiausi 2026 metų įvykiai: pirmoji bendruomeninio ūkio idėja, produktų paieška, darbo saugumo mintys, būsto ir darbo ryšys, DI naudojimas, svetainės sumanymas ir pirmi dokumentų sakiniai.
 
-Pirmajame lape pažymėti svarbiausi ankstyvi žingsniai: bendruomeninio ūkio klausimas, produktų palyginimai, darbuotojų paramos mintis, būsto idėja, DI naudojimas, svetainės principas ir pirmieji dokumentų fragmentai.
+Chronologijos lapas padėjo projektui įgauti laiko pojūtį. Iki tol daug minčių gyveno šalia viena kitos, bet nebuvo aišku, kuri atsirado pirmiau ir kaip viena mintis pagimdė kitą.
 
-Chronologija padėjo projektui tapti aiškesniam. Kai įvykiai sudėti į laiką, geriau matyti, kaip vienas klausimas išaugina kitą. Mažas kooperatyvas pradeda vesti prie svetainės, svetainė - prie ateities pasakojimo, o pasakojimas - prie dokumentų.
+Pirmas chronologijos variantas buvo paprastas, tačiau jo reikšmė didelė. Jis leido matyti, kad projektas nėra vien staigi fantazija, o po truputį augantis kelias.
 
-Ši naujiena svarbi todėl, kad projektas pirmą kartą pradėjo saugoti savo kelią ne tik tekstais, bet ir laiko seka. Tai tapo būsimo archyvo pradžia.
+Birželio 24 dienos įrašas tapo pirmu būsimo archyvo pagrindu. Nuo šiol projektas pradėjo ne tik kurti tekstus, bet ir saugoti savo pačios pradžios istoriją.
 
 SEO:
-SEO title: Pirmasis BVK projekto chronologijos lapas
-Meta description: 2026 m. pradėtas pirmasis BVK projekto chronologijos lapas, jungiantis ankstyvus įvykius į laiko seką.
-Slug: pirmasis-bvk-projekto-chronologijos-lapas-2026
+SEO title: Pirmasis projekto chronologijos lapas
+Meta description: 2026 m. pradėtas pirmasis projekto chronologijos lapas, jungiantis ankstyvus įvykius į aiškią laiko seką.
+Slug: pirmasis-projekto-chronologijos-lapas-2026
 
 IMAGE PROMPT:
-Photorealistic editorial photo, long blank timeline sheet on desk, small date cards without readable text, June evening light, realistic.
+Photorealistic editorial photo, long blank timeline sheet on desk, small date cards, June evening light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-06-24
+Publikuota: 2026 m. birželio 24 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 13
-Data: 2026-07-08
+Data: 2026 m. liepos 8 d.
 Rubrika: Vystymasis
-Pavadinimas: Baltijos erdvė pasirinkta kaip būsimos Respublikos geografinė kryptis
+Pavadinimas: Baltijos erdvė pasirinkta kaip pagrindinė ateities projekto kryptis
 
-STRAIPSNIS:
-Liepos pradžioje Baltijos erdvė pasirinkta kaip būsimos Respublikos geografinė kryptis. Idėja pamažu išėjo už vien Rūdiškių apylinkių ribų ir pradėjo sietis su platesniu Lietuvos, Latvijos ir Estijos regionu.
+Liepos pradžioje Baltijos erdvė pasirinkta kaip pagrindinė ateities projekto kryptis. Idėja pradėjo plėstis nuo Rūdiškių apylinkių į platesnį Lietuvos, Latvijos ir Estijos regiono vaizdą.
 
-Šis pasirinkimas nebuvo politinis pareiškimas. Tai buvo kultūrinis ir geografinis orientyras: Baltijos šalys turi artimą mastelį, bendrą regioninį jautrumą, panašias istorines patirtis ir pakankamai mažą erdvę, kad ateities modelį būtų galima įsivaizduoti ne kaip imperiją, o kaip glaudų kooperatyvinį tinklą.
+Toks pasirinkimas gimė natūraliai. Baltijos šalys yra pakankamai artimos savo masteliu, istorine patirtimi, miestų struktūra ir kasdieniu gyvenimu. Dėl to ateities kooperatyvinį modelį galima įsivaizduoti ne kaip tolimą milžinišką sistemą, o kaip regioninį tinklą, augantį iš konkrečių vietų.
 
-Rūdiškės šiame vaizde liko svarbios kaip pradžios vieta. Tačiau vis dažniau buvo žymimi ir kiti miestai bei regionai, kad ateities pasaulis neatrodytų sukurtas tik aplink vieną tašką.
+Rūdiškės šiame vaizde išliko pradžios tašku. Jos leidžia projektui turėti realią kilmės vietą, tačiau platesnė Baltijos kryptis suteikia ateities pasauliui daugiau erdvės, miestų, kalbų ir regioninių skirtumų.
 
-Liepos naujiena suteikė projektui platesnį horizontą. Maža idėja iš Rūdiškių apylinkių pradėjo matyti Baltiją kaip galimą būsimą bendros tvarkos erdvę.
+Liepos naujiena atvėrė didesnį horizontą. Maža idėja pradėjo matyti save Baltijos mastu, bet neprarado savo vietinės pradžios.
 
 SEO:
-SEO title: Baltijos erdvė pasirinkta būsimos Respublikos krypčiai
-Meta description: 2026 m. Baltijos erdvė pasirinkta kaip būsimos kooperatyvinės Respublikos geografinė ir kultūrinė kryptis.
-Slug: baltijos-erdve-busimos-respublikos-kryptis-2026
+SEO title: Baltijos erdvė kaip ateities projekto kryptis
+Meta description: 2026 m. Baltijos erdvė pasirinkta kaip pagrindinė ateities projekto kryptis, jungianti Lietuvą, Latviją ir Estiją.
+Slug: baltijos-erdve-ateities-projekto-kryptis-2026
 
 IMAGE PROMPT:
-Photorealistic editorial photo, Baltic region map blurred and unreadable, pins over Lithuania Latvia Estonia, clean summer daylight, no readable text.
+Photorealistic editorial photo, Baltic region map blurred with pins over Lithuania Latvia Estonia, clean summer daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-07-08
+Publikuota: 2026 m. liepos 8 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 14
-Data: 2026-07-24
+Data: 2026 m. liepos 24 d.
 Rubrika: Archyvas
 Pavadinimas: Pradėta dėlioti ilga projekto chronologija iki 2086 metų
 
-STRAIPSNIS:
-Liepos pabaigoje pradėta dėlioti ilga projekto chronologija iki 2086 metų. Tai buvo vienas pirmųjų bandymų sujungti ankstyvą 2026 metų pradžią su tolimu brandžios ateities vaizdu.
+Liepos pabaigoje pradėta dėlioti ilga projekto chronologija iki 2086 metų. Šis darbas sujungė ankstyvą 2026 metų pradžią su tolimu ateities pasauliu, kuriame kooperatyvinė Respublika jau galėtų būti subrendusi.
 
-Chronologijoje atsirado keli dideli laiko slenksčiai: ankstyvas skaitmeninis projektas, praktiniai bandymai, mažas ūkinis branduolys, gamybos ir gyvenimo mazgas, pirmoji kooperatyvinė miesto forma ir vėlesnė brandi Respublika.
+Chronologijoje atsirado keli dideli slenksčiai: skaitmeninis projektas, pirmos praktinės patikros, mažas ūkinis branduolys, gamybos ir gyvenimo mazgas, pirmoji kooperatyvinė miesto forma ir vėlesnė brandi Respublikos sistema.
 
-Šis darbas padėjo suprasti, kad ateities pasaulis negali gimti vienu šuoliu. Jei 2086 metais skaitytojas matys brandžią sistemą, jam turi būti aišku, kaip ji augo kelis dešimtmečius.
+Tokia ilga laiko linija padėjo išvengti per greito šuolio. Jei skaitytojas kada nors matys 2086 metų naujienas, jam turi būti aišku, kad toks pasaulis neatsirado iš vieno sprendimo. Jis turi ilgą kelią, klaidas, bandymus ir lėtą brendimą.
 
-Liepos 24 dienos naujiena tapo svarbiu archyvo žingsniu. Projektas pradėjo kurti ne tik atskiras idėjas, bet ir ilgą kelią, kuriuo tos idėjos galėtų tapti istorija.
+Liepos 24 dienos darbas suteikė projektui istorinį kvėpavimą. Ateitis pradėjo atrodyti ne kaip atskiras paveikslas, o kaip kelias, kurį galima sekti nuo pirmos dienos.
 
 SEO:
-SEO title: Pradėta chronologija iki 2086 metų
-Meta description: 2026 m. pradėta dėlioti ilga BVK projekto chronologija nuo ankstyvos idėjos iki 2086 metų.
-Slug: pradeta-chronologija-iki-2086-metu-2026
+SEO title: Ilga projekto chronologija iki 2086 metų
+Meta description: 2026 m. pradėta dėlioti ilga projekto chronologija nuo pirmųjų užrašų iki 2086 metų pasaulio.
+Slug: ilga-projekto-chronologija-iki-2086-metu
 
 IMAGE PROMPT:
-Photorealistic horizontal editorial photo, long timeline planning scene across a wall or table, laptop, ordered blank cards, summer daylight, no readable text.
+Photorealistic horizontal editorial photo, long timeline planning scene across a table, laptop, ordered blank cards, summer daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-07-24
+Publikuota: 2026 m. liepos 24 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 15
-Data: 2026-08-06
+Data: 2026 m. rugpjūčio 6 d.
 Rubrika: Kultūra
 Pavadinimas: Ateities romano idėja susieta su 2085 metų pasauliu
 
-STRAIPSNIS:
-Rugpjūčio pradžioje ateities romano idėja susieta su 2085 metų pasauliu. Šis laikas pasirinktas kaip riba prieš brandų 2086 metų naujienų sluoksnį, kad literatūrinis pasakojimas galėtų parodyti įtampą prieš jau nusistovėjusią ateities tvarką.
+Rugpjūčio pradžioje ateities romano idėja susieta su 2085 metų pasauliu. Šis laikotarpis pasirinktas kaip riba prieš brandesnį 2086 metų naujienų sluoksnį, kad pasakojime būtų galima parodyti pasaulį prieš pat jo viešą stabilumą.
 
-Romano pasaulyje turėtų atsirasti ne tik tvarkinga sistema, bet ir klausimai, kurių nematyti paprastose naujienose: kas valdo, kaip žmonės pasirenka, kur baigiasi saugumas ir prasideda nematoma kontrolė. Tokia kryptis leido projektui išvengti per daug paprasto utopinio vaizdo.
+Romane galėtų atsirasti žmogus, kuris gyvena jau tvarkingoje ateities sistemoje, bet jaučia, kad po ramia kasdienybe slypi gilesni klausimai. Tokia istorija leistų kalbėti apie saugumą, laisvę, nematomą valdymą ir žmogaus vietą gerai sutvarkytame pasaulyje.
 
-Šis sprendimas buvo naudingas ir svetainei. Naujienos galėtų rodyti viešą ateities gyvenimą, o romanas - gilesnį, žmogiškesnį ir paslaptingesnį sluoksnį. Taip skaitytojas turėtų kelis įėjimus į tą patį pasaulį.
+Šis sprendimas suteikė literatūriniam sluoksniui aiškesnę datą ir įtampą. Naujienos galėtų rodyti viešą gyvenimą, o romanas - tai, ko vieša kalba ne visada pasako.
 
-Rugpjūčio naujiena suteikė kultūriniam sluoksniui aiškesnę vietą. Ateities Respublika pradėjo rastis ne tik dokumentuose, bet ir pasakojime, kuriame žmogus lieka svarbiausias klausimas.
+Rugpjūčio naujiena parodė, kad projektas pradeda kurti ne tik ateities dokumentus, bet ir žmogaus istoriją tame pasaulyje.
 
 SEO:
-SEO title: Ateities romanas susietas su 2085 metų pasauliu
-Meta description: 2026 m. ateities romano idėja susieta su 2085 metų pasauliu ir gilesniu BVK pasakojimo sluoksniu.
-Slug: ateities-romanas-susietas-su-2085-metu-pasauliu
+SEO title: Ateities romanas susietas su 2085 metais
+Meta description: 2026 m. ateities romano idėja susieta su 2085 metų pasauliu ir gilesniu pasakojimo sluoksniu.
+Slug: ateities-romanas-susietas-su-2085-metais
 
 IMAGE PROMPT:
 Photorealistic editorial photo, manuscript pages, future timeline cards without readable text, warm August evening light, natural realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-08-06
+Publikuota: 2026 m. rugpjūčio 6 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 16
-Data: 2026-08-22
+Data: 2026 m. rugpjūčio 22 d.
 Rubrika: Vystymasis
-Pavadinimas: Būsimos Respublikos pavadinimuose pradėta ieškoti Baltijos ir kooperacijos jungties
+Pavadinimas: Būsimos Respublikos pavadinime pradėta jungti Baltijos ir kooperacijos idėja
 
-STRAIPSNIS:
-Rugpjūčio pabaigoje būsimos Respublikos pavadinimuose pradėta ieškoti Baltijos ir kooperacijos jungties. Po kelių mėnesių užrašų tapo aiškiau, kad projektui reikės pavadinimo, kuris kalbėtų ne apie valdžią, o apie bendrą kūrimą.
+Rugpjūčio pabaigoje būsimos Respublikos pavadinime pradėta jungti Baltijos ir kooperacijos idėja. Ieškota formos, kuri vienu metu kalbėtų apie regioną, bendrą kūrimą ir ateities visuomenės kryptį.
 
-Pavadinimų bandymuose vis dažniau kartojosi žodžiai "Baltijos", "kooperacija", "respublika", "bendras" ir "valdymas". Ieškota tokios formos, kuri skambėtų rimtai, bet nebūtų agresyvi, politinė ar per daug dekoratyvi.
+Pavadinimų bandymuose kartojosi žodžiai Baltija, bendrumas, kooperacija, respublika ir valdymas. Kiekvienas variantas buvo tikrinamas ne tik pagal skambesį, bet ir pagal tai, ar jis neatrodo per sunkus, per politinis ar per nutolęs nuo žmogaus kasdienybės.
 
-Ši paieška dar nebuvo baigta. Kai kurie variantai atrodė per sunkūs, kiti - per bendri. Tačiau pati kryptis tapo aiškesnė: būsimas pavadinimas turės jungti regioną, bendrą atsakomybę ir kitokią ekonominę logiką.
+Vis aiškiau matėsi, kad projektui reikia ramaus, solidaus ir ilgalaikio vardo. Jis turėtų tikti ir naujienų svetainei, ir dokumentų archyvui, ir ateities pasaulio istorijai.
 
-Rugpjūčio pabaigos naujiena parodė, kad projektas pradeda kurti savo viešą vardą. Be tokio vardo net geriausia idėja lieka sunkiai atpažįstama.
+Rugpjūčio 22 dienos paieškos padėjo pamatyti būsimos tapatybės kryptį. Pavadinimas dar galėjo keistis, bet Baltijos ir kooperacijos jungtis tapo vienu stipriausių atramos taškų.
 
 SEO:
-SEO title: Ieškota Baltijos ir kooperacijos pavadinimo jungties
-Meta description: 2026 m. būsimos Respublikos pavadinimuose pradėta ieškoti Baltijos erdvės ir kooperacijos jungties.
-Slug: baltijos-ir-kooperacijos-pavadinimo-jungtis-2026
+SEO title: Baltijos ir kooperacijos idėja pavadinime
+Meta description: 2026 m. būsimos Respublikos pavadinime pradėta jungti Baltijos erdvės ir kooperacijos idėja.
+Slug: baltijos-ir-kooperacijos-ideja-pavadinime-2026
 
 IMAGE PROMPT:
 Photorealistic editorial photo, naming brainstorm cards, Baltic-inspired neutral design sketches, pencil, August daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-08-22
+Publikuota: 2026 m. rugpjūčio 22 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 17
-Data: 2026-09-07
-Rubrika: Technologijos
-Pavadinimas: Sukurtas pirmasis skaitmeninio archyvo aplankų principas
+Data: 2026 m. rugsėjo 7 d.
+Rubrika: Archyvas
+Pavadinimas: Sukurtas pirmasis skaitmeninio projekto archyvo principas
 
-STRAIPSNIS:
-Rugsėjo pradžioje sukurtas pirmasis skaitmeninio archyvo aplankų principas. Projekto užrašų jau buvo per daug, kad jie liktų vien padrikuose failuose, todėl atsirado poreikis atskirti naujienas, dokumentus, chronologiją, ekonomikos mintis ir pasakojimo sluoksnį.
+Rugsėjo pradžioje sukurtas pirmasis skaitmeninio projekto archyvo principas. Tekstų, užrašų, pavadinimų, dokumentų fragmentų ir chronologijos jau buvo pakankamai daug, kad reikėtų aiškesnės tvarkos.
 
-Pirmasis principas buvo paprastas: kiekvienas tekstas turi turėti vietą, datą ir ryšį su kitais tekstais. Tai dar nebuvo sudėtinga sistema, bet ji padėjo išvengti situacijos, kai svarbios mintys dingsta tarp versijų ir pataisų.
+Pirmasis principas buvo paprastas: kiekvienas tekstas turi turėti vietą, datą, versiją ir ryšį su kitais tekstais. Taip pat pradėta atskirti naujienų, dokumentų, ekonomikos, kultūros ir chronologijos sluoksnius.
 
-Skaitmeninio archyvo idėja suteikė projektui daugiau tvarkos. Jeigu ateityje svetainėje atsiras daug metų ir daug dokumentų, nuo pat pradžių reikės žinoti, kur kas saugoma.
+Ši tvarka padėjo apsaugoti projektą nuo pasimetimo. Kai idėja auga greitai, labai lengva prarasti seną formuluotę, ankstyvą datą ar svarbų ryšį tarp dviejų tekstų. Archyvas pradėjo saugoti ne tik medžiagą, bet ir kelią.
 
-Rugsėjo naujiena tapo mažu, bet svarbiu techniniu žingsniu. Projekto atmintis pradėjo virsti ne tik tekstų krūva, bet ir tvarkomu sluoksniu.
+Rugsėjo naujiena tapo pirmu rimtesniu žingsniu į ilgalaikę projekto atmintį. Ateities pasauliui reikės ne tik naujų tekstų, bet ir gebėjimo prisiminti, kaip jie atsirado.
 
 SEO:
-SEO title: Pirmasis skaitmeninio BVK archyvo principas
-Meta description: 2026 m. sukurtas pirmasis skaitmeninio BVK archyvo aplankų principas tekstams, dokumentams ir chronologijai.
-Slug: pirmasis-skaitmeninio-bvk-archyvo-principas-2026
+SEO title: Pirmasis skaitmeninio projekto archyvo principas
+Meta description: 2026 m. sukurtas pirmasis skaitmeninio projekto archyvo principas tekstams, datoms ir dokumentams saugoti.
+Slug: pirmasis-skaitmeninio-projekto-archyvo-principas-2026
 
 IMAGE PROMPT:
-Photorealistic editorial photo, laptop with folder structure blurred, organized paper folders, September daylight, no readable text.
+Photorealistic editorial photo, laptop with blurred folder structure, organized paper folders, September daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-09-07
+Publikuota: 2026 m. rugsėjo 7 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 18
-Data: 2026-09-23
+Data: 2026 m. rugsėjo 23 d.
 Rubrika: Teisė
-Pavadinimas: Pradėtas pirmasis būsimos teisinių dokumentų struktūros eskizas
+Pavadinimas: Pradėtas būsimų teisinių dokumentų struktūros eskizas
 
-STRAIPSNIS:
-Rugsėjo pabaigoje pradėtas pirmasis būsimos teisinių dokumentų struktūros eskizas. Po pirmųjų Konstitucijos fragmentų tapo aišku, kad vieno dokumento neužteks. Ateities pasauliui reikėtų kelių skirtingų tekstų: principų, taisyklių, veiklos ribų ir istorinių paaiškinimų.
+Rugsėjo pabaigoje pradėtas būsimų teisinių dokumentų struktūros eskizas. Po pirmųjų Konstitucijos sakinių tapo aišku, kad ateities pasauliui reikės ne vieno teksto, o visos dokumentų sistemos.
 
-Eskize atsirado vieta Konstitucijos juodraščiui, darbo principams, gamybos taisyklėms, dalyvavimo sąlygoms, archyviniams paaiškinimams ir vėlesniems įstatymų sluoksniams. Viskas dar buvo labai ankstyva, bet jau pradėjo aiškėti dokumentų šeima.
+Eskize atsirado vieta Konstitucijai, darbo principams, gamybos taisyklėms, dalyvavimo sąlygoms, archyviniams paaiškinimams ir vėlesniems įstatymų sluoksniams. Pradėta galvoti ir apie tai, kad ne visi dokumentai turėtų būti vienodo viešumo.
 
-Šis žingsnis padėjo atskirti, kur kalbama apie vertybes, kur apie praktinius veiksmus, o kur apie būsimą teisinį rėmą. Tokia skirtis svarbi, kad svetainė nevirstų vienu neaiškiu tekstų mišiniu.
+Tokia struktūra padėjo atskirti vertybes nuo praktinių taisyklių. Konstitucija turėtų kalbėti apie pagrindus, o gamybos ar dalyvavimo dokumentai - apie tai, kaip tie pagrindai veiktų kasdienėje praktikoje.
 
-Rugsėjo pabaigos naujiena parodė, kad projektas pradeda ruoštis ilgai dokumentų kelionei. Ateities Respublikos tekstai dar nebuvo parašyti, bet jiems pradėta ruošti vieta.
+Rugsėjo 23 dienos darbas davė teisės sluoksniui pirmą aiškesnę formą. Ateities dokumentai dar tik laukė, bet jų vieta jau buvo pradėta braižyti.
 
 SEO:
-SEO title: Pirmasis teisinių dokumentų struktūros eskizas
-Meta description: 2026 m. pradėtas pirmasis būsimos BVK teisinių dokumentų struktūros eskizas.
-Slug: pirmasis-teisiniu-dokumentu-strukturos-eskizas-2026
+SEO title: Būsimų teisinių dokumentų struktūros eskizas
+Meta description: 2026 m. pradėtas būsimų teisinių dokumentų struktūros eskizas Konstitucijai, taisyklėms ir archyvui.
+Slug: busimu-teisiniu-dokumentu-strukturos-eskizas-2026
 
 IMAGE PROMPT:
-Photorealistic legal planning desk, blank document folders, hierarchy sketch without readable text, early autumn light, realistic.
+Photorealistic legal planning desk, blank document folders, hierarchy sketch without readable text, early autumn light.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-09-23
+Publikuota: 2026 m. rugsėjo 23 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 19
-Data: 2026-10-08
+Data: 2026 m. spalio 8 d.
 Rubrika: Dizainas
-Pavadinimas: Pirmasis vizualinis stilius nukreiptas į ramią dokumentinę estetiką
+Pavadinimas: Pasirinkta rami dokumentinė projekto vizualinė kryptis
 
-STRAIPSNIS:
-Spalio pradžioje pirmasis vizualinis stilius nukreiptas į ramią dokumentinę estetiką. Nuspręsta vengti neoninio futurizmo, dirbtinio blizgesio ir perdėto fantastikos vaizdo, nes projektas turėtų atrodyti kaip tikra ilgai auganti istorija.
+Spalio pradžioje pasirinkta rami dokumentinė projekto vizualinė kryptis. Nuspręsta vengti ryškaus futurizmo, neoninių miestų, dirbtinio blizgesio ir vaizdų, kurie atrodytų labiau kaip reklama nei kaip tikra ilgo projekto istorija.
 
-Vaizdams pradėta rinktis stalai su užrašais, dokumentai, žemėlapiai, darbo vietos, paprasti daiktai, natūrali šviesa ir mažų miestelių aplinka. Tai padėjo išlaikyti ryšį su 2026 metų pradžia, o ne iš karto šokti į tolimos ateities dekoracijas.
+Vizualiniam stiliui pasirinkti paprasti motyvai: darbo stalas, užrašai, žemėlapiai, dokumentai, natūrali šviesa, mažo miestelio aplinka, žmogaus rankų darbo pėdsakai. Tokie vaizdai geriau atitinka 2026 metų pradžią ir leidžia ateičiai augti iš realios dabarties.
 
-Toks stilius ypač svarbus ankstyvoms naujienoms. Jei pirmi straipsniai atrodytų per daug futuristiškai, jie prarastų tikrumo jausmą. Todėl vizualinė kryptis pasirinkta taip, kad skaitytojas matytų realų stalą, realius lapus ir realų žmogaus darbą.
+Šis sprendimas svarbus todėl, kad pirmasis įspūdis gali pakeisti visą skaitymo toną. Jei projektas atrodytų kaip perdėta fantastika, skaitytojui būtų sunkiau patikėti jo praktiniu pagrindu.
 
-Spalio naujiena suteikė svetainei svarbią vaizdo taisyklę: ateitis turi augti iš dabarties, o ne nukristi kaip reklaminis plakatas.
+Spalio naujiena suteikė svetainei ramų vizualinį stuburą. Ateities Respublikos istorija turėtų prasidėti ne nuo blizgaus plakato, o nuo tikro stalo, ant kurio užrašoma pirmoji mintis.
 
 SEO:
-SEO title: Pirmasis ramus BVK vizualinis stilius
-Meta description: 2026 m. pirmasis BVK vizualinis stilius nukreiptas į ramią dokumentinę estetiką ir natūralų realizmą.
-Slug: pirmasis-ramus-bvk-vizualinis-stilius-2026
+SEO title: Rami dokumentinė projekto vizualinė kryptis
+Meta description: 2026 m. pasirinkta rami dokumentinė projekto vizualinė kryptis be neoninio futurizmo ir dirbtinio blizgesio.
+Slug: rami-dokumentine-projekto-vizualine-kryptis-2026
 
 IMAGE PROMPT:
 Photorealistic editorial photo, moodboard of natural documentary images, blank notes, warm autumn light, no readable text, no sci-fi visuals.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-10-08
+Publikuota: 2026 m. spalio 8 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 20
-Data: 2026-10-24
+Data: 2026 m. spalio 24 d.
 Rubrika: Vystymasis
-Pavadinimas: Svetainės idėjoje atsirado skaitytojo kelias nuo naujienos iki archyvo
+Pavadinimas: Kiekviena būsima naujiena pradėta sieti su platesne istorija
 
-STRAIPSNIS:
-Spalio pabaigoje svetainės idėjoje atsirado skaitytojo kelias nuo naujienos iki archyvo. Tai reiškė, kad lankytojas neturėtų būti apkrautas visais paaiškinimais iš karto. Jis galėtų pradėti nuo paprastos publikacijos ir po truputį gilintis.
+Spalio pabaigoje kiekviena būsima naujiena pradėta sieti su platesne istorija. Tai reiškė, kad atskiras tekstas neturėtų būti vienkartinis įrašas. Jis turėtų vesti skaitytoją toliau - į chronologiją, dokumentą, ekonomikos mintį, kultūrinį sluoksnį ar ateities pasaulio įvykį.
 
-Pirmasis kelio eskizas numatė kelis sluoksnius: naujiena, susijęs archyvo įrašas, dokumento fragmentas, chronologijos data ir platesnis paaiškinimas. Tokia struktūra leistų svetainę skaityti ne kaip vieną ilgą instrukciją, o kaip tyrinėjimą.
+Šis principas atsirado iš pačios svetainės idėjos. Jeigu žmogus skaito naujieną iš 2086 metų, jam turi būti galimybė rasti, kaip tas pasaulis prasidėjo. Jeigu jis skaito 2026 metų pradžios tekstą, jis turėtų matyti, kokį tolimą horizontą tas tekstas atveria.
 
-Šis sprendimas labai pakeitė požiūrį į turinį. Kiekviena naujiena turėjo tapti durimis į gilesnį sluoksnį. Net trumpas tekstas galėtų vesti skaitytoją prie dokumentų, metų, idėjų ir ateities pasaulio.
+Tokiu būdu naujienos tampa ne pavieniais straipsniais, o durimis. Kiekviena jų gali atverti kitą sluoksnį: datą, vietą, dokumentą, personažą arba ekonominį klausimą.
 
-Spalio pabaigos naujiena parodė, kad svetainė pradeda mąstyti apie lankytoją. Ne tik ką pasakyti, bet ir kaip žmogus po truputį atras visą projektą.
+Spalio 24 dienos sprendimas padėjo svetainei tapti vientisesnei. Projektas pradėjo kurti ne tik tekstų rinkinį, bet ir gyvą pasakojimo tinklą.
 
 SEO:
-SEO title: Skaitytojo kelias nuo naujienos iki archyvo
-Meta description: 2026 m. būsimos BVK svetainės idėjoje atsirado skaitytojo kelias nuo naujienos iki archyvo ir dokumentų.
-Slug: skaitytojo-kelias-nuo-naujienos-iki-archyvo-2026
+SEO title: Kiekviena naujiena siejama su platesne istorija
+Meta description: 2026 m. kiekviena būsima naujiena pradėta sieti su platesne projekto istorija, chronologija ir dokumentais.
+Slug: kiekviena-naujiena-siejama-su-platesne-istorija-2026
 
 IMAGE PROMPT:
-Photorealistic editorial photo, navigation cards from news to archive to documents, laptop, autumn evening light, no readable text.
+Photorealistic editorial photo, connected story cards on desk, thread linking blank notes, laptop, autumn evening light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-10-24
+Publikuota: 2026 m. spalio 24 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 21
-Data: 2026-11-09
+Data: 2026 m. lapkričio 9 d.
 Rubrika: Ekonomika
-Pavadinimas: Parengtas pirmasis dvidešimties metų kelio iki 2046 metų eskizas
+Pavadinimas: Parengtas pirmasis kelio nuo 2026 iki 2046 metų eskizas
 
-STRAIPSNIS:
-Lapkričio pradžioje parengtas pirmasis dvidešimties metų kelio iki 2046 metų eskizas. Jame bandyta suprasti, kaip nuo 2026 metų idėjos būtų galima nueiti iki pirmos realios kooperatyvinės miesto formos.
+Lapkričio pradžioje parengtas pirmasis kelio nuo 2026 iki 2046 metų eskizas. Jame pabandyta nubrėžti, kaip nuo mažos idėjos ir svetainės pradžios būtų galima nueiti iki pirmos kooperatyvinės miesto formos.
 
-Eskizas nebuvo detalus planas. Jame pažymėti tik dideli etapai: svetainės ir idėjos brandinimas, pirmi praktiniai skaičiavimai, mažos gamybos patikros, pilotinis ūkinis ritmas, mažas ūkinis branduolys, gamybos ir gyvenimo mazgas, o tik vėliau - 2046 metų kooperatyvinė miesto forma.
+Eskize pažymėti keli dideli etapai: idėjos ir svetainės kūrimas, pirmi produktų skaičiavimai, mažos gamybos patikros, pilotinis ritmas, mažas ūkinis vienetas, gamybos ir gyvenimo mazgas, o vėliau - 2046 metų kooperatyvinė miesto kryptis.
 
-Svarbiausia buvo ne datos, o pats lėtas kelias. Idėja negali tapti miestu per vieną sprendimą. Ji turi pereiti per produktą, žmones, klaidas, apskaitą, teisinę formą, darbą ir pasitikėjimą.
+Svarbiausia šiame darbe buvo lėtumas. Projektas pradėjo aiškiai matyti, kad ateities modelis negali atsirasti vienu šuoliu. Jam reikės metų, produktų, klaidų, žmonių, apskaitos, taisyklių ir pasitikėjimo.
 
-Lapkričio naujiena suteikė projektui ilgesnį stuburą. Pirmą kartą tapo aiškiau, kad 2046 metai turi būti ne stebuklas, o ilgo pasirengimo rezultatas.
+Lapkričio 9 dienos eskizas suteikė ekonominei idėjai ilgą kelią. Nuo šiol 2046 metai pradėjo atrodyti ne kaip staigus pažadas, o kaip tolima, bet nuosekliai ruošiama kryptis.
 
 SEO:
-SEO title: Pirmasis kelias iki 2046 metų eskizas
-Meta description: 2026 m. parengtas pirmasis dvidešimties metų BVK kelio iki 2046 metų kooperatyvinės miesto formos eskizas.
-Slug: pirmasis-kelias-iki-2046-metu-eskizas
+SEO title: Kelio nuo 2026 iki 2046 metų eskizas
+Meta description: 2026 m. parengtas pirmasis kelio nuo 2026 iki 2046 metų eskizas link kooperatyvinės miesto formos.
+Slug: kelio-nuo-2026-iki-2046-metu-eskizas
 
 IMAGE PROMPT:
 Photorealistic long-range planning scene, timeline from early notes to future town blocks, November daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-11-09
+Publikuota: 2026 m. lapkričio 9 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 22
-Data: 2026-11-24
+Data: 2026 m. lapkričio 24 d.
 Rubrika: Kultūra
-Pavadinimas: Pirmieji svetainės tekstai pradėti derinti su būsimo romano pasauliu
+Pavadinimas: Svetainės tekstai pradėti derinti su būsimo romano pasauliu
 
-STRAIPSNIS:
-Lapkričio pabaigoje pirmieji svetainės tekstai pradėti derinti su būsimo romano pasauliu. Naujienų, archyvo ir pasakojimo sluoksniai turėjo kalbėti apie tą pačią ateitį, bet skirtingais balsais.
+Lapkričio pabaigoje svetainės tekstai pradėti derinti su būsimo romano pasauliu. Naujienos, dokumentai, chronologija ir literatūrinis pasakojimas turėjo kalbėti apie tą pačią ateitį, bet ne tuo pačiu balsu.
 
-Svetainės tekstuose svarbiausia liko aiškumas: kas įvyko, kokia data, kokia kryptis. Romano pasaulis galėjo būti paslaptingesnis, žmogiškesnis ir labiau įtemptas. Toks atskyrimas padėjo išvengti painiavos, kur dokumentas, o kur literatūra.
+Svetainės naujienos turėtų būti aiškios ir konkrečios. Dokumentai - tikslesni ir rimtesni. Romanas - žmogiškas, įtemptas ir daugiasluoksnis. Toks atskyrimas leistų išvengti painiavos ir kartu sukurti turtingesnį pasaulį.
 
-Šis derinimas leido projektui tapti turtingesniam. Skaitytojas galėtų ateiti per naujieną, vėliau rasti dokumentą, o dar vėliau - romaną, kuriame ta pati ateitis parodoma per žmonių likimus.
+Šis derinimas padėjo suprasti, kad ateities Respublika gali būti rodoma keliais būdais. Vienas skaitytojas ateis per naujieną, kitas per dokumentą, trečias per pasakojimą apie žmogų, gyvenantį tame pasaulyje.
 
-Lapkričio pabaigos naujiena parodė, kad BVK pasaulis pradeda augti keliomis kalbomis: vieša, archyvine ir literatūrine.
+Lapkričio 24 dienos darbas sujungė kultūrą ir svetainę į vieną kryptį. Projektas pradėjo kurti ne tik informaciją, bet ir pasaulį, į kurį galima įeiti skirtingais keliais.
 
 SEO:
 SEO title: Svetainės tekstai derinami su romano pasauliu
-Meta description: 2026 m. pirmieji BVK svetainės tekstai pradėti derinti su būsimo romano pasauliu ir kultūriniu sluoksniu.
+Meta description: 2026 m. svetainės tekstai pradėti derinti su būsimo romano pasauliu ir kultūriniu projekto sluoksniu.
 Slug: svetaines-tekstai-derinami-su-romano-pasauliu-2026
 
 IMAGE PROMPT:
 Photorealistic editorial photo, website notes beside manuscript pages, warm desk lamp, November evening, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-11-24
+Publikuota: 2026 m. lapkričio 24 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 23
-Data: 2026-12-08
+Data: 2026 m. gruodžio 8 d.
 Rubrika: Archyvas
-Pavadinimas: Metų pabaigoje sudarytas pirmasis 2027 metų darbų sąrašas
+Pavadinimas: Sudarytas pirmasis 2027 metų projekto darbų sąrašas
 
-STRAIPSNIS:
-Gruodžio pradžioje sudarytas pirmasis 2027 metų darbų sąrašas. Jame pažymėta, ką reikėtų padaryti toliau: tvarkyti svetainės struktūrą, ruošti pirmus viešus tekstus, aiškinti skaitytojui projekto logiką, pradėti socialinių kanalų kryptį ir toliau plėtoti romaną.
+Gruodžio pradžioje sudarytas pirmasis 2027 metų projekto darbų sąrašas. Po intensyvių 2026 metų tapo aišku, kad kitais metais reikės ne tik tęsti užrašus, bet ir pradėti tvarkingiau rodyti projektą skaitytojui.
 
-Sąrašas padėjo užbaigti pirmuosius metus ne vien apibendrinimu, bet ir konkrečiu kitu žingsniu. 2026 metais atsirado daug minčių, tačiau 2027 metais jas reikės paversti aiškesniu skaitymo keliu.
+Į sąrašą pateko keli pagrindiniai darbai: paruošti pirmąsias publikacijas, sustiprinti chronologiją, aiškiau išdėstyti ateities naujienų idėją, plėtoti romano liniją, tvarkyti archyvą ir ruoštis pirmam ramesniam viešam projekto pristatymui.
 
-Daug dėmesio skirta tam, kad svetainė netaptų painiu failų rinkiniu. Ji turės būti suprantama žmogui, kuris pirmą kartą užeina ir nežino, ar skaito ateities naujienas, projektą, archyvą ar literatūrinį pasaulį.
+Šis darbų sąrašas padėjo užbaigti metus ne tik apibendrinimu, bet ir judesiu į priekį. 2026 metais buvo daug pradžių, o 2027 metai turėtų parodyti, kurios iš jų gali tapti skaitomu turiniu.
 
-Gruodžio naujiena suteikė metų pabaigai darbštų optimizmą. Pirmasis etapas dar labai ankstyvas, bet jis jau turi užduočių sąrašą, kuris veda į viešesnį 2027 metų sluoksnį.
+Gruodžio 8 dienos įrašas suteikė projektui artimiausią horizontą. Pirmasis etapas baigėsi ne tašku, o darbų sąrašu, kuris veda į atviresnį kitų metų žingsnį.
 
 SEO:
-SEO title: Pirmasis 2027 metų BVK darbų sąrašas
-Meta description: 2026 m. pabaigoje sudarytas pirmasis 2027 metų BVK darbų sąrašas svetainei, tekstams ir skaitytojo keliui.
-Slug: pirmasis-2027-metu-bvk-darbu-sarasas
+SEO title: Pirmasis 2027 metų projekto darbų sąrašas
+Meta description: 2026 m. sudarytas pirmasis 2027 metų projekto darbų sąrašas svetainei, chronologijai ir publikacijoms.
+Slug: pirmasis-2027-metu-projekto-darbu-sarasas
 
 IMAGE PROMPT:
 Photorealistic editorial photo, year-end planning desk, blank task cards for next year, winter daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-12-08
+Publikuota: 2026 m. gruodžio 8 d.
 Parengė: Ankstyvojo projekto redakcija
 
 ========================================================================
 ĮRAŠAS 24
-Data: 2026-12-29
+Data: 2026 m. gruodžio 29 d.
 Rubrika: Vystymasis
-Pavadinimas: Pirmieji projekto metai užbaigti aiškesne svetainės ir ateities modelio kryptimi
+Pavadinimas: Pirmieji projekto metai užbaigti aiškesne ateities kryptimi
 
-STRAIPSNIS:
-2026 metai užbaigti aiškesne svetainės ir ateities modelio kryptimi. Per metus nuo pirmo klausimo apie mažą kooperatyvą nueita iki būsimos svetainės principo, chronologijos, dokumentų užuomazgų, vizualinio stiliaus, romano idėjos ir ilgesnio kelio iki 2046 metų eskizo.
+Gruodžio pabaigoje pirmieji projekto metai užbaigti aiškesne ateities kryptimi. Per metus nuo paprastos minties apie bendrą ūkį nueita iki svetainės idėjos, ateities naujienų formato, pirmųjų dokumentų sakinių, chronologijos, vizualinės krypties ir romano užuomazgos.
 
-Tai dar nėra organizacija, įmonė ar veikianti sistema. Tačiau metų pabaigoje jau matyti, kad idėja turi kelis tarpusavyje susijusius sluoksnius: praktinį, skaitmeninį, dokumentinį, kultūrinį ir ekonominį.
+Svarbiausia, kad visos šios kryptys pradėjo jungtis. Maisto produktų sąrašai susisiejo su darbuotojo saugumu. Darbo ir būsto mintys - su ilgesniu keliu iki 2046 metų. Ateities naujienos - su 2086 metų pasauliu. Romanas - su žmogaus patirtimi tame pasaulyje.
 
-Svarbiausias 2026 metų rezultatas - ne galutinis atsakymas, o gyvas judėjimas. Projektas išmoko užduoti konkretesnius klausimus ir pradėjo saugoti savo kelią taip, kad 2027 metais būtų galima jį parodyti plačiau.
+2026 metais dar liko daug neatsakytų klausimų. Tačiau metų pabaigoje projektas jau turėjo aiškesnį ritmą: kurti, tvarkyti, sieti, saugoti chronologiją ir po truputį ruošti turinį skaitytojui.
 
-Metai baigiami atsargiai, bet su aiškiu pojūčiu, kad pradžia įvyko. Nuo šiol klausimas nebe tik "ar tokia idėja įmanoma", bet ir "kaip ją parodyti skaitytojui taip, kad jis norėtų sekti toliau".
+Pirmieji metai baigėsi atsargiu optimizmu. Idėja dar labai jauna, bet ji jau turi kryptį, kalbą, pirmus tekstus ir ilgą horizontą.
 
 SEO:
-SEO title: 2026 metai užbaigti aiškesne BVK kryptimi
-Meta description: 2026 m. BVK projektas užbaigė pirmuosius metus su aiškesne svetainės, chronologijos ir ateities modelio kryptimi.
-Slug: 2026-metai-uzbaigti-aiskesne-bvk-kryptimi
+SEO title: Pirmieji metai užbaigti aiškesne kryptimi
+Meta description: 2026 m. projektas užbaigė pirmuosius metus su aiškesne svetainės, dokumentų, chronologijos ir ateities kryptimi.
+Slug: pirmieji-metai-uzbaigti-aiskesne-kryptimi-2026
 
 IMAGE PROMPT:
 Photorealistic year-end editorial photo, organized folders, laptop, timeline cards, small lamp, winter evening, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2026-12-29
+Publikuota: 2026 m. gruodžio 29 d.
 Parengė: Ankstyvojo projekto redakcija
