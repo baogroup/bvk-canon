@@ -2,12 +2,12 @@ BVK CANON
 Годовой публикационный план 2031
 
 Статус: ACTIVE
-Версия: v1.0
+Версия: v1.1
 Дата первого принятия: 2026-04-24
-Текущая редакция: 2026-04-24
-История поправок: CHANGE-0069
+Текущая редакция: 2026-04-25
+История поправок: CHANGE-0079
 Уровень доступа: SERVICE
-Историческая принадлежность: ранний идейный слой
+Историческая принадлежность: ранний практический слой
 Связанные закрытые документы: нет
 Коды связанных закрытых документов: нет
 
@@ -15,320 +15,744 @@ BVK CANON
 Этот файл закрепляет годовой публикационный план для 2031 года в рамках внутреннего SERVICE-слоя BVK Canon.
 
 Главный принцип:
-Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
-Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+2031 год нельзя описывать как год создания организации, движения, действующего BVK, юридической структуры, предприятия, производства или Республики.
+
+2031 год является годом юридического разделения контуров. После 2030 года, когда проект впервые начал считать продукт, себестоимость, покупателей, санитарные требования, фонд и риски, в 2031 году появляется следующий вопрос: в каких законных формах вообще можно будет держать разные части будущего проекта, чтобы сайт, люди, деньги, производство, роман, архив и ответственность не смешались в одну неясную структуру.
+
+Задача публикационного плана:
+Показать, как проект осторожно разделяет три будущих слоя:
+- viešasis kontūras: сайт, архив, статьи, образование, исследование и публичное объяснение;
+- dalyvavimo kontūras: читатели, будущие участники, правила доверия, ответственность и обсуждения;
+- ūkinis kontūras: продукт, производство, продажи, работники, договоры, бухгалтерия, будущий общий фонд.
+
+Редакционное правило 2031 года:
+- никакого голоса зрелого государства;
+- никакой действующей Республики;
+- никакого действующего BVK;
+- никакой созданной VšĮ, asociacija, kooperatinė bendrovė или kooperatyvas;
+- юридические формы можно только сравнивать и рассматривать как будущие возможные контейнеры;
+- нельзя писать так, будто уже есть члены, работники, фонд, договоры или производство;
+- статьи должны звучать как свежие новости 2031 года, а не как позднее восстановление архива;
+- тон должен быть юридически осторожным, расчётным, спокойным и дисциплинированным.
+
+Примечание о нумерации:
+Предыдущая версия файла содержала ссылку на CHANGE-0069, но в текущей рабочей последовательности CHANGE-0069 уже закреплён за синхронизацией хронологического ядра. В этой редакции история поправок нормализована через CHANGE-0079, чтобы не сохранять конфликтующий номер в шапке активного файла.
 
 Связь с другими файлами:
+- 01_TIMELINE_CORE_2026_2086.txt задаёт общую хронологическую ось
 - 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 03_PHASE_2026_2045_FOUNDING_LAYER.txt задаёт смысл фазы основания
 - 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
-- данный файл переводит эту логику в конкретный годовой набор публикаций
+- 08_YEAR_2029_PUBLICATION_PLAN.txt задаёт выравнивание канона и подготовку к практике
+- 09_YEAR_2030_PUBLICATION_PLAN.txt задаёт первый год практических расчётов
+- 11_YEAR_2032_PUBLICATION_PLAN.txt должен продолжить эту логику подготовкой к производственной проверке
+- 04_ECONOMY/02_PRODUCTION_MODEL.txt задаёт экономический смысл будущего хозяйственного ядра
+- 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt задаёт ранний новостной слой
+- 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt задаёт стиль 2030-2032 годов
 
 BVK METINIS PLANAS 2031
 
 METINIS STILIUS IR TONAS
-- Nuo pasaulio konstravimo pereinama prie ankstyvos visuomeninės kalbos.
-- Tekstai labiau surinkti, aiškesni, juose daugiau viešųjų principų ir pilietinės brandos temos.
-- Dar nėra brandžios valstybės tono, tačiau jaučiamas didesnis rimtumas ir platesnis skaitytojų ratas.
-- Kompozicija tvarkingesnė, mažiau dienoraštiško laisvumo, daugiau aiškaus redakcinio balso.
+- Teisinio atsargumo metai: projektas dar nieko nesteigia, bet pradeda suprasti, kokių teisinių indų reikės ateityje.
+- Tekstai turi būti rašomi kaip to laikotarpio šviežios publikacijos: „svarstoma“, „pradedama“, „rengiamas“, „įvardijama“, o ne kaip vėlyvas archyvo atkūrimas.
+- Pagrindinės temos: viešasis kontūras, dalyvavimo kontūras, ūkinis kontūras, VšĮ, asociacija, kooperatinė bendrovė, atsakomybės ribos, pinigų atskyrimas, sutartys, skaidrumas, pasiruošimas 2032 metų gamybos patikrai.
+- Negalima rašyti apie įsteigtą organizaciją, pradėtą gamybą, darbuotojus ar realų fondą.
+- Pagrindinis metų klausimas: kokių ribų reikia prieš bet kokią praktiką, kad projektas neprasidėtų teisiškai ir morališkai neaiškiai?
 
-REKOMENDUOJAMAS PARENGĖJAS: BVK viešosios krypties ir principų redakcija
+REKOMENDUOJAMAS PARENGĖJAS: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 1
-Data: 2031-01-14
-Rubrika: Archyvas
-Pavadinimas: Peržiūrėtas ir išplėstas pirmojo penkmečio Respublikos raidos archyvas
+Data: 2031-01-10
+Rubrika: Teisė
+Pavadinimas: Iškeltas klausimas, kokio teisinio indo reikės skirtingiems BVK projekto sluoksniams
 
 STRAIPSNIS:
-Sausio mėnesį atlikta platesnė pirmųjų penkerių metų medžiagos peržiūra parodė, kad ankstyvajame etape sukaupti užrašai jau gali būti vertinami ne kaip padriki juodraščiai, o kaip nuoseklus Respublikos raidos sluoksnis. Dalis tekstų buvo patikslinti, kai kurie terminai suvienodinti, o ankstyvieji posūkiai pažymėti taip, kad vėliau būtų aiškiau matomas visos sistemos augimas.
+2031 metų pradžioje BVK projekte iškeliamas naujas praktinis klausimas: kokio teisinio indo gali reikėti skirtingiems projekto sluoksniams. Po 2030 metais pradėtų praktinių skaičiavimų vis aiškiau matoma, kad vien idėjos, svetainės ir ekonominių lentelių nepakaks, jeigu ateityje bus pereinama prie atsakingesnių veiksmų.
 
-Svarbiausia šio darbo vertė buvo ne archyvinis tvarkingumas vien dėl tvarkingumo. Išryškėjo, kaip nuo asmeninių svarstymų, AI pokalbių ir pirmųjų svetainės planų projektas pamažu virto vis aiškesniu ateities visuomenės modeliu. Pataisius senesnius įrašus, pasidarė lengviau matyti vidinę logiką, o ne vien atskiras idėjas.
+Šiuo metu nekalbama apie jokios organizacijos steigimą. Svarstoma tik pati riba: kur baigiasi viešas idėjos aiškinimas, kur prasideda galimas žmonių dalyvavimas ir kur ateityje galėtų atsirasti ūkinė veikla. Šie sluoksniai negali būti laikomi vienu neaiškiu dariniu.
 
-Atnaujintas archyvas sustiprino ir pačią projekto atmintį. Nuo šiol pirmasis penkmetis gali būti skaitomas kaip pradinė Respublikos formavimosi kronika, į kurią remsis visi tolesni sluoksniai.
+Teisinio indo klausimas keliamas ne kaip formalumas, o kaip pasitikėjimo sąlyga. Jei kada nors atsiras pinigai, sutartys, produktai, darbuotojai ar bendras fondas, turi būti aišku, kas atsako, kas sprendžia ir kokios yra kiekvieno sluoksnio ribos.
+
+Kol kas BVK projektas lieka ankstyvoje pasirengimo stadijoje. Tačiau metų pradžioje aiškiai įvardijama, kad būsimas praktinis kelias negalės prasidėti vien iš entuziazmo. Jam reikės teisėtos, skaidrios ir žmonėms suprantamos formos.
+
+Ši publikacija pradeda 2031 metų kryptį: prieš bet kokį veiksmą turi būti suprasta, kokiame teisiniame rėme tas veiksmas apskritai galėtų vykti.
 
 SEO:
-SEO title: Peržiūrėtas ir išplėstas pirmojo penkmečio Respublikos...
-Meta description: 2031 m. peržiūrėtas ir išplėstas pirmojo penkmečio Respublikos raidos archyvas.
-Slug: perziuretas-ir-isplestas-pirmojo-penkmecio-respublikos-raidos-archyvas-2031
+SEO title: Kokio teisinio indo reikės BVK projektui
+Meta description: 2031 m. BVK projekte iškeliamas klausimas, kokio teisinio indo gali reikėti viešam, dalyvavimo ir ūkiniam sluoksniui.
+Slug: kokio-teisinio-indo-reikes-bvk-projektui-2031
 
 IMAGE PROMPT:
-Photorealistic archive review scene, long table with early folders, dated folders, sticky tabs, notebooks and printed draft timelines being compared, calm winter daylight, no readable text, realistic documentary editorial photography.
+Photorealistic legal planning desk, blank legal folders, calculator, early winter daylight, practical project notes, no readable text, realistic documentary style.
 
 PABAIGOS BLOKAS:
-Publikuota: 2031-01-14
-Parengė: BVK viešosios krypties ir principų redakcija
+Publikuota: 2031-01-10
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 2
-Data: 2031-02-04
+Data: 2031-01-28
 Rubrika: Vystymasis
-Pavadinimas: Svetainėje pradėta aiškiau atskirti idėjiniai tekstai, kronika ir būsimos sistemos aprašai
+Pavadinimas: Svetainės, skaitytojų rato ir būsimos gamybos sluoksniai pradedami skirti atskirai
 
 STRAIPSNIS:
-Vasario pradžioje svetainės struktūroje pirmą kartą nuosekliau atskirti trys svarbūs turinio sluoksniai: idėjiniai tekstai, istorinė kronika ir būsimos sistemos aprašai. Iki tol jie dažnai persidengdavo, todėl skaitytojui ne visada būdavo lengva suprasti, kur baigiasi bendrieji principai ir kur prasideda konkretesnės būsimos Respublikos formos.
+Sausio pabaigoje BVK projekte pradedama aiškiau skirti tris skirtingus sluoksnius: svetainę, skaitytojų ratą ir galimą būsimą gamybą. Iki šiol šios temos priklausė tai pačiai bendrai idėjai, tačiau praktinis svarstymas rodo, kad jų atsakomybės negali būti vienodos.
 
-Toks atskyrimas padėjo sustiprinti ir pačią skaitymo patirtį. Idėjiniai tekstai galėjo kalbėti apie kryptį ir vertybes, kronika - fiksuoti raidą, o sisteminiai aprašai - rodyti, kaip vieną dieną visa tai galėtų veikti praktikoje. Dėl to projektas tapo aiškesnis ne tik naujiems skaitytojams, bet ir patiems jo kūrėjams.
+Svetainė lieka viešo aiškinimo, archyvo, pasakojimo ir kanono kūrimo erdvė. Skaitytojų ratas reiškia žmones, kurie domisi, klausia, seka tekstus ir galbūt ateityje norėtų prisidėti. Gamyba, jei ji kada nors prasidės, reikš visiškai kitą sritį: produktus, pinigus, leidimus, sutartis, riziką ir darbą.
 
-Šis žingsnis žymi momentą, kai BVK svetainė dar labiau nutolo nuo paprasto teminio archyvo ir pradėjo formuotis kaip sąmoningai sluoksniuotas viešosios ateities modelis.
+Šiuo metu pabrėžiama, kad vienas sluoksnis negali savintis kito. Skaitytojas netampa dalyviu vien todėl, kad skaito. Dalyvis netampa darbuotoju vien todėl, kad palaiko idėją. O svetainė neturi virsti būsimos ūkinės veiklos fasadu.
+
+Toks atskyrimas padeda projektui išlikti sąžiningam. Kuo aiškiau matomos ribos, tuo mažiau rizikos, kad ateityje žmonės supainios kultūrinę idėją su finansiniu, darbiniu ar teisiniu įsipareigojimu.
+
+Šiame etape tai dar tik principas, bet jis tampa svarbia 2031 metų atrama: BVK projektas turi augti ne sumaišydamas viską į vieną, o suteikdamas kiekvienam sluoksniui aiškią vietą.
 
 SEO:
-SEO title: Svetainėje pradėta aiškiau atskirti idėjiniai tekstai...
-Meta description: 2031 m. svetainėje pradėta aiškiau atskirti idėjiniai tekstai, kronika ir būsimos sistemos aprašai.
-Slug: svetaineje-pradeta-aiskiau-atskirti-idejiniai-tekstai-kronika-ir-busimos-sistemos-aprasai-2031
+SEO title: BVK sluoksniai pradedami skirti atskirai
+Meta description: 2031 m. pradedami aiškiau skirti BVK svetainės, skaitytojų rato ir būsimos gamybos sluoksniai.
+Slug: bvk-sluoksniai-pradedami-skirti-atskirai-2031
 
 IMAGE PROMPT:
-Photorealistic editorial workspace with website structure maps, section cards and content hierarchy diagrams laid out on a desk, cool daylight, no readable text, natural realistic optics.
+Photorealistic project structure desk, three separated folders for website, people and production implied by blank tabs, January light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2031-02-04
-Parengė: BVK viešosios krypties ir principų redakcija
+Publikuota: 2031-01-28
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАŠАС 3
-Data: 2031-03-18
-Rubrika: Bendruomenė
-Pavadinimas: Pirmą kartą viešiau aptarta, kad Respublikos idėja gali būti ne tik pasakojimas, bet ir visuomeninis orientyras
+ĮRAŠAS 3
+Data: 2031-02-12
+Rubrika: Teisė
+Pavadinimas: Viešasis, dalyvavimo ir ūkinis kontūrai įvardijami kaip trys atskiros būsimos kryptys
 
 STRAIPSNIS:
-Kovo mėnesį platesniame viešajame aptarime pirmą kartą aiškiau iškelta mintis, kad Respublikos idėja gali būti svarbi ne vien kaip kultūrinis pasakojimas ar įdomus ateities scenarijus. Vis dažniau ji imta matyti kaip visuomeninis orientyras, leidžiantis kalbėti apie orų gyvenimą, atsakomybę, bendrą aprūpinimą ir ilgą planavimą už įprastų politinių šūkių ribų.
+Vasario mėnesį BVK projekte įvardijami trys būsimi kontūrai: viešasis, dalyvavimo ir ūkinis. Šios sąvokos šiuo metu naudojamos ne kaip įsteigtų struktūrų pavadinimai, o kaip būdas aiškiau mąstyti apie galimą projekto raidą.
 
-Toks poslinkis neįvyko staiga. Prireikė kelerių metų, kol skaitytojai pradėjo matyti, kad svetainėje aprašoma ateitis turi vidinį nuoseklumą ir gali būti vertinama rimtai. Diskusijose vis dažniau buvo klausiama ne tik „kas tai per pasaulis“, bet ir „ką iš jo galima suprasti jau dabar“.
+Viešasis kontūras apimtų svetainę, archyvą, publikacijas, švietimą, tyrimus ir viešą projekto aiškinimą. Jis būtų skirtas tam, kad skaitytojas galėtų suprasti idėjos raidą, o ne tam, kad valdytų gamybą ar pinigus.
 
-Ši publikacija svarbi tuo, kad joje Respublika pirmą kartą viešiau apibrėžiama kaip mąstymo kryptis, galinti turėti įtakos realiam visuomeniniam vaizduotės laukui.
+Dalyvavimo kontūras sietųsi su žmonėmis, kurie ateityje galėtų norėti prisidėti giliau negu paprastas skaitytojas. Čia svarbiausi klausimai yra atsakomybė, pagarba, skaidrumas, išėjimo galimybė ir aiškios dalyvavimo ribos.
+
+Ūkinis kontūras būtų pats praktiškiausias ir rizikingiausias. Jis ateityje galėtų apimti gamybą, pardavimus, sutartis, darbuotojus, apskaitą ir bendro fondo klausimą. Todėl jam reikėtų griežčiausių ribų ir didžiausio skaidrumo.
+
+Šių trijų kontūrų įvardijimas nereiškia, kad jie jau veikia. Tai tik pirmas 2031 metų bandymas sudėti būsimas atsakomybes taip, kad vėliau jos nesusimaišytų.
 
 SEO:
-SEO title: Pirmą kartą viešiau aptarta, kad Respublikos idėja gali...
-Meta description: 2031 m. pirmą kartą viešiau aptarta, kad Respublikos idėja gali būti ne tik pasakojimas, bet ir visuomeninis orientyras.
-Slug: pirma-karta-viesiau-aptarta-kad-respublikos-ideja-gali-buti-ne-tik-pasakojimas-bet-ir-visuomeninis-orientyras-2031
+SEO title: Trys būsimi BVK kontūrai 2031 m.
+Meta description: 2031 m. BVK projekte įvardijami trys būsimi kontūrai: viešasis, dalyvavimo ir ūkinis.
+Slug: trys-busimi-bvk-konturai-2031
 
 IMAGE PROMPT:
-Photorealistic small discussion circle in a modest community room, chairs, notebooks, tea cups, people seen from side or back in natural conversation, no posing, no readable text, realistic documentary photo.
+Photorealistic overhead planning scene, three clear paper zones connected by thin threads, civic documents, people notes and production sketches, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2031-03-18
-Parengė: BVK viešosios krypties ir principų redakcija
+Publikuota: 2031-02-12
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАŠАС 4
-Data: 2031-04-09
-Rubrika: Švietimas
-Pavadinimas: Parengta straipsnių serija apie saviugdą kaip pilietinės brandos pagrindą
+ĮRAŠAS 4
+Data: 2031-02-27
+Rubrika: Archyvas
+Pavadinimas: Rengiamas pirmasis klausimų sąrašas apie skirtingų kontūrų atsakomybę
 
 STRAIPSNIS:
-Balandį pradėta nuoseklesnė straipsnių serija apie saviugdą, kuri Respublikos kontekste suprantama ne kaip individualistinis savęs tobulinimo ritualas, o kaip pilietinės brandos pamatas. Tekstuose aiškinta, kad visuomenė negali remtis vien išorine kontrole, jei žmogus pats nėra išmokęs drausmės, nuoseklumo ir atsakomybės už savo veiksmus.
+Vasario pabaigoje rengiamas pirmasis klausimų sąrašas apie skirtingų BVK kontūrų atsakomybę. Šis sąrašas nėra taisyklės ir nėra reglamentas. Tai darbo priemonė, skirta iš anksto pamatyti galimas painiavas.
 
-Ši kryptis tapo svarbi dėl to, kad projektas vis aiškiau kalba apie naują gyvenimo modelį, kuriam reikia ne vien techninių sprendimų, bet ir kitokios kasdienio elgesio kultūros. Saviugda čia pradėta sieti su gebėjimu laikytis bendrų principų, saugoti tvarką ir suprasti, kad laisvė be vidinės atramos lengvai virsta chaosu.
+Viešajam kontūrui keliami klausimai apie tekstų tikslumą, redakcijas, viešą kalbą ir archyvo patikimumą. Jei svetainė rodo skirtingus laiko sluoksnius, ji turi padėti skaitytojui suprasti, kas yra ankstyvas įrašas, kas yra naujiena, kas yra dokumentas, o kas - pasakojimo dalis.
 
-Nuo šiol švietimo ir saviugdos tema svetainėje įgauna sisteminį vaidmenį. Ji tampa ne papildomu moraliniu komentaru, o būtina būsimos visuomenės sąlyga.
+Dalyvavimo kontūrui keliami klausimai apie žmonių elgesį: kas laikoma pagalba, kas yra tik komentaras, kaip saugomas pagarbus tonas, kaip sprendžiami nesutarimai ir kaip neleidžiama smalsumui apsimesti teise valdyti projektą.
+
+Ūkiniam kontūrui keliami sunkiausi klausimai. Kas atsakytų už pinigus? Kas pasirašytų sutartis? Kaip būtų fiksuojamos pajamos ir išlaidos? Kaip būtų apsaugomas darbuotojas? Kaip būtų naudojamas galimas likutis?
+
+Šis klausimų sąrašas rengiamas tam, kad ribos būtų matomos dar iki realių konfliktų. 2031 metų logikoje atsakomybė turi būti apgalvota anksčiau negu atsiranda pinigai, pareigos ar formalūs vaidmenys.
 
 SEO:
-SEO title: Parengta straipsnių serija apie saviugdą kaip pilietinė...
-Meta description: 2031 m. parengta straipsnių serija apie saviugdą kaip pilietinės brandos pagrindą.
-Slug: parengta-straipsniu-serija-apie-saviugda-kaip-pilietines-brandos-pagrinda-2031
+SEO title: BVK kontūrų atsakomybės klausimų sąrašas
+Meta description: 2031 m. rengiamas pirmasis klausimų sąrašas apie viešojo, dalyvavimo ir ūkinio BVK kontūrų atsakomybę.
+Slug: bvk-konturu-atsakomybes-klausimai-2031
 
 IMAGE PROMPT:
-Photorealistic educational planning scene with books, civic notes, pencils, calm desk by a window, early spring light, scholarly but simple atmosphere, no readable text, documentary style.
+Photorealistic archive desk, responsibility question cards grouped into three piles, pencil, folders, late winter daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2031-04-09
-Parengė: BVK viešosios krypties ir principų redakcija
+Publikuota: 2031-02-27
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАŠАС 5
-Data: 2031-05-21
+ĮRAŠAS 5
+Data: 2031-03-12
+Rubrika: Teisė
+Pavadinimas: VšĮ svarstoma kaip galimas viešo, švietimo ir tyrimo sluoksnio indas
+
+STRAIPSNIS:
+Kovo mėnesį VšĮ pradedama svarstyti kaip galimas viešo, švietimo ir tyrimo sluoksnio indas. Tai nėra steigimo pranešimas ir nėra sprendimas. Šiuo metu tik vertinama, ar tokia forma galėtų tikti tam BVK projekto sluoksniui, kuris susijęs su svetaine, archyvu, publikacijomis, tyrimu ir viešu aiškinimu.
+
+Viešasis sluoksnis turi kitą paskirtį negu būsima gamyba. Jis nekurtų produktų, nesamdytų darbuotojų maisto dirbtuvei ir nevaldytų ūkinio fondo. Jo užduotis būtų palaikyti idėjos matomumą, skaitymo kelią, kanono tvarką ir edukacinį aiškinimą.
+
+VšĮ svarstoma dėl to, kad tokia forma gali būti siejama su viešuoju interesu, švietimu ir skaidria misija. Tačiau kartu pabrėžiama, kad jokia forma negali būti parenkama vien dėl gražaus pavadinimo. Ji turi atitikti konkrečią funkciją.
+
+Kol kas sudaromi tik klausimai: ką viešasis sluoksnis galėtų daryti, kaip jis būtų finansuojamas, kaip būtų atskirtas nuo ūkinės veiklos ir kokios atsakomybės jam tektų.
+
+Ši publikacija padeda 2031 metų teisinę diskusiją padaryti konkretesnę. Pirmą kartą vienas galimas indas priskiriamas ne visam projektui, o tik vienam jo sluoksniui.
+
+SEO:
+SEO title: VšĮ kaip galimas viešasis BVK indas
+Meta description: 2031 m. VšĮ svarstoma kaip galimas BVK viešo, švietimo, tyrimo ir archyvo sluoksnio indas.
+Slug: vsi-kaip-galimas-viesasis-bvk-indas-2031
+
+IMAGE PROMPT:
+Photorealistic legal research desk, blank VšĮ concept folder, public education notes, archive papers, March light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-03-12
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 6
+Data: 2031-03-30
+Rubrika: Vystymasis
+Pavadinimas: Viešasis sluoksnis atskiriamas nuo būsimos gamybos, kad svetainė netaptų verslo fasadu
+
+STRAIPSNIS:
+Kovo pabaigoje BVK projekte dar kartą pabrėžiama, kad viešasis sluoksnis turi būti atskirtas nuo būsimos gamybos. Svetainė, straipsniai, archyvas ir romanas negali būti naudojami taip, kad vėliau atrodytų kaip ūkinės veiklos reklaminis fasadas.
+
+Šis atskyrimas svarbus pasitikėjimui. Skaitytojas turi suprasti, kad jis skaito idėjos, kanono ir ateities pasaulio medžiagą, o ne paslėptą kvietimą pirkti, investuoti ar įsipareigoti. Viešas projektas turi teisę aiškinti būsimą praktiką, bet negali apsimesti jau veikiančia struktūra.
+
+Būsima gamyba, jei ji kada nors atsiras, turės būti vertinama pagal atskirus kriterijus: produktą, kainą, atsakomybę, leidimus, sutartis, apskaitą ir paklausą. Ji negali būti pateisinama vien tuo, kad gražiai dera prie BVK pasaulio.
+
+Tokiu būdu svetainė saugoma nuo ūkinės rizikos, o būsima praktika - nuo per didelio kultūrinio miglotumo. Kiekvienas sluoksnis gali stiprinti kitą, bet negali jo pakeisti.
+
+Ši publikacija įtvirtina svarbią 2031 metų ribą: viešas aiškinimas turi likti viešu aiškinimu, o gamyba ateityje turės stovėti ant savų skaičių ir teisinių pamatų.
+
+SEO:
+SEO title: Viešasis BVK sluoksnis atskiriamas nuo gamybos
+Meta description: 2031 m. BVK viešasis sluoksnis atskiriamas nuo būsimos gamybos, kad svetainė netaptų verslo fasadu.
+Slug: viesasis-sluoksnis-atskiriamas-nuo-gamybos-2031
+
+IMAGE PROMPT:
+Photorealistic desk with website wireframes separated from production cost sheets, spring daylight, no readable text, clear documentary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-03-30
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 7
+Data: 2031-04-11
+Rubrika: Teisė
+Pavadinimas: Asociacija svarstoma kaip galimas skaitytojų ir būsimų dalyvių rato indas
+
+STRAIPSNIS:
+Balandžio mėnesį asociacija pradedama svarstyti kaip galimas skaitytojų ir būsimų dalyvių rato indas. Tai nereiškia, kad toks ratas jau veikia ar kad priimamas sprendimas steigti asociaciją. Šiuo metu tik aiškinamasi, kokios formos reikėtų, jei ateityje susidomėjimas peraugtų į atsakingesnį prisidėjimą.
+
+Asociacijos klausimas atsiranda todėl, kad dalyvavimo sluoksnis negali būti visiškai neapibrėžtas. Jei žmonės kada nors norės prisidėti prie diskusijų, tekstų, renginių ar projektinės krypties, turi būti aišku, kokios jų teisės, pareigos, ribos ir išėjimo galimybės.
+
+Tuo pačiu pabrėžiama, kad skaitytojas nėra dalyvis. Skaitytojas gali domėtis be jokio įsipareigojimo. Dalyvavimas, jei kada nors bus kuriamas, turės reikšti daugiau: atsakomybę, pagarbą, skaidrumą ir gebėjimą neardyti bendro darbo.
+
+Asociacija 2031 metais svarstoma tik kaip vienas galimų teisinių indų. Ji negali būti painiojama su gamyba, darbuotojų santykiais ar būsimo fondo valdymu. Tai būtų kitas sluoksnis, susijęs su žmonių rato tvarka.
+
+Ši publikacija atveria dalyvavimo kontūro teisinį klausimą. Prieš atsirandant bet kokiam ratui, reikia suprasti, kaip jį apsaugoti nuo chaoso ir per ankstyvų lūkesčių.
+
+SEO:
+SEO title: Asociacija kaip galimas BVK dalyvavimo indas
+Meta description: 2031 m. asociacija svarstoma kaip galimas BVK skaitytojų ir būsimų dalyvių rato teisinis indas.
+Slug: asociacija-kaip-bvk-dalyvavimo-indas-2031
+
+IMAGE PROMPT:
+Photorealistic modest discussion planning table, blank membership concept cards, notebooks, April light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-04-11
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 8
+Data: 2031-04-29
+Rubrika: Savęs tobulinimas
+Pavadinimas: Dalyvavimo ratas siejamas su atsakomybe, o ne su formaliu priklausymu
+
+STRAIPSNIS:
+Balandžio pabaigoje dalyvavimo ratas siejamas ne su formaliu priklausymu, o su atsakomybe. Tai svarbi 2031 metų mintis, nes teisinės formos svarstymas gali klaidinti: gali pasirodyti, kad užtenka turėti pavadinimą ar nario statusą. BVK logikoje to nepakanka.
+
+Atsakingas dalyvavimas reiškia gebėjimą suprasti projekto ribas, gerbti kitus žmones, neskubėti savintis sprendimų ir veikti taip, kad bendra kryptis taptų aiškesnė. Formalus priklausymas be tokios laikysenos būtų silpnas.
+
+Šiuo metu dar nėra dalyvių sistemos, nėra narių ir nėra asociacijos. Tačiau svarbu iš anksto įvardyti, kad bet koks būsimas ratas negalės būti vien emocinis susibūrimas aplink gražią idėją. Jis turės turėti vidinę drausmę.
+
+Ši tema jungia 2028 metų dalyvavimo principus su 2031 metų teisiniais klausimais. Pirmiau atsirado kalba apie atsakomybę, o dabar ji tikrinama per galimų formų logiką.
+
+Balandžio 29 dienos įrašas primena: juridinis indas gali padėti, bet jis nepakeičia žmogaus laikysenos. Dalyvavimas prasideda ne nuo teisės vadintis dalyviu, o nuo pareigos nešti dalį bendro svorio.
+
+SEO:
+SEO title: Dalyvavimo ratas siejamas su atsakomybe
+Meta description: 2031 m. BVK dalyvavimo ratas siejamas su atsakomybe, pagarba ir skaidrumu, o ne vien formaliu priklausymu.
+Slug: dalyvavimo-ratas-ir-atsakomybe-2031
+
+IMAGE PROMPT:
+Photorealistic responsibility planning scene, empty chairs, blank principle cards, notebooks, spring evening light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-04-29
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 9
+Data: 2031-05-13
+Rubrika: Teisė
+Pavadinimas: Kooperatinė bendrovė svarstoma kaip galimas būsimo ūkinio branduolio indas
+
+STRAIPSNIS:
+Gegužės mėnesį kooperatinė bendrovė pradedama svarstyti kaip galimas būsimo ūkinio branduolio indas. Šis klausimas tiesiogiai tęsia 2030 metų praktinius skaičiavimus apie maisto dirbtuvę, savikainą, pirkėjus, fondą ir leidimus.
+
+Svarbu pabrėžti, kad 2031 metais jokia kooperatinė bendrovė dar nėra steigiama. Kol kas tik aiškinamasi, ar tokia forma ateityje galėtų laikyti gamybą, pardavimus, apskaitą, sutartis, darbuotojų santykius ir galimą bendrą fondą.
+
+Ūkinis branduolys turi kitą pobūdį negu svetainė ar dalyvavimo ratas. Čia atsirastų pinigai, produktas, rizika ir reali atsakomybė prieš žmones. Todėl jam reikėtų griežtesnės struktūros, aiškių taisyklių ir atskiros apskaitos.
+
+Kooperatinė forma svarstoma dėl to, kad ji geriau dera su bendra BVK logika negu paprastas privatus pelno išėmimas. Tačiau vien pavadinimas dar nieko negarantuoja. Reikės suprasti, kaip būtų priimami sprendimai, kaip paskirstomas likutis ir kaip apsaugomas darbuotojas.
+
+Ši publikacija įveda svarbiausią ūkiniam kontūrui skirtą klausimą: kokia forma ateityje leistų gaminti, parduoti ir kaupti bendrą pagrindą taip, kad tai netaptų įprastu privačiu verslu su gražesniu pavadinimu.
+
+SEO:
+SEO title: Kooperatinė bendrovė kaip būsimas BVK ūkinis indas
+Meta description: 2031 m. kooperatinė bendrovė svarstoma kaip galimas būsimo BVK ūkinio branduolio teisinis indas.
+Slug: kooperatine-bendrove-kaip-bvk-ukinis-indas-2031
+
+IMAGE PROMPT:
+Photorealistic cooperative business planning desk, production sketches, blank legal forms, calculator, May daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-05-13
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 10
+Data: 2031-05-31
 Rubrika: Ekonomika
-Pavadinimas: Toliau plėtojama mintis apie orų darbą, bendrą atsakomybę ir mažesnę priklausomybę nuo vartojimo spaudimo
+Pavadinimas: Ūkinis branduolys siejamas su produktu, pajamomis, apskaita ir darbuotojų atsakomybe
 
 STRAIPSNIS:
-Gegužę ekonomikos rubrikoje toliau plėtota mintis, kad orus gyvenimas negali būti nuolat statomas ant baimės prarasti darbą, būstą ar pagrindines gyvenimo sąlygas. Publikacijose aiškinta, kad darbo vertė ateities Respublikoje turi būti siejama ne su nuolatine konkurencine įtampa, o su aiškiu indėliu į bendrą gyvenimo palaikymą.
+Gegužės pabaigoje ūkinis branduolys apibrėžiamas per keturias pagrindines temas: produktą, pajamas, apskaitą ir darbuotojų atsakomybę. Šis apibrėžimas padeda atskirti būsimą gamybą nuo bendrų idėjinių tekstų.
 
-Kartu vis ryškiau iškeltas ir vartojimo spaudimo klausimas. Jei visa sistema orientuojama į begalinį įsigijimą ir individualią kovą dėl padėties, visuomenė praranda ramų ilgą horizontą. Respublikos modelyje siūloma kita kryptis - mažesnė priklausomybė nuo pertekliaus ir didesnė priklausomybė nuo bendros atsakomybės.
+Produktas būtų pirmasis patikrinimas. Jei jis nereikalingas, per brangus arba nepakankamai stabilus, visa ūkinė kryptis neturi pagrindo. Pajamos būtų antrasis patikrinimas. Be jų neatsiranda nei fondas, nei pagalba, nei galimybė plėstis.
 
-Šiame etape kalbama dar ne apie gatavą ekonominę programą, bet apie platesnį lūžį mąstyme. Tai vienas pirmųjų bandymų viešai išversti kooperatyvinę logiką į paprastą kasdienybės kalbą.
+Apskaita būtų pasitikėjimo sąlyga. Jei pajamos ir išlaidos nematomos, bendras fondas negali būti laikomas skaidriu. Darbuotojų atsakomybė būtų socialinės dalies pradžia: žmogus čia negali būti tik gražios idėjos simbolis, jis turi turėti aiškų santykį su darbu, teisėmis ir pareigomis.
+
+2031 metais visa tai dar nėra veikianti sistema. Tai yra būsimo ūkinio branduolio sąvokų tvarkymas. Tačiau toks tvarkymas reikalingas tam, kad 2032 metais būtų galima ruoštis konkretesnei patikrai.
+
+Ši publikacija parodo, kad ūkinis kontūras bus vertinamas ne pagal įkvėpimą, o pagal tai, ar jis gali gaminti, gauti pajamas, skaidriai skaičiuoti ir sąžiningai elgtis su žmogumi.
 
 SEO:
-SEO title: Toliau plėtojama mintis apie orų darbą, bendrą atsakomy...
-Meta description: 2031 m. toliau plėtojama mintis apie orų darbą, bendrą atsakomybę ir mažesnę priklausomybę nuo vartojimo spaudimo.
-Slug: toliau-pletojama-mintis-apie-oru-darba-bendra-atsakomybe-ir-mazesne-priklausomybe-nuo-vartojimo-spaudimo-2031
+SEO title: Ūkinis BVK branduolys ir atsakomybė
+Meta description: 2031 m. BVK ūkinis branduolys siejamas su produktu, pajamomis, apskaita ir darbuotojų atsakomybe.
+Slug: ukinis-bvk-branduolys-ir-atsakomybe-2031
 
 IMAGE PROMPT:
-Photorealistic economic concept photo with work gloves, simple tools, household ledger, bread and everyday objects on a wooden table, soft May daylight, natural realism, no readable text.
+Photorealistic economic planning scene, product samples, blank ledger, work gloves, calculator, late May light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2031-05-21
-Parengė: BVK viešosios krypties ir principų redakcija
+Publikuota: 2031-05-31
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАŠАС 6
+ĮRAŠAS 11
 Data: 2031-06-12
-Rubrika: Kultūra
-Pavadinimas: Romano pasaulyje pradėta aiškiau rodyti kasdienio gyvenimo ir visuomeninės tvarkos sąsaja
+Rubrika: Vystymasis
+Pavadinimas: Vienas juridinis indas nebegali išlaikyti visų projekto sluoksnių
 
 STRAIPSNIS:
-Birželį kultūriniame sluoksnyje pradėta aiškiau rodyti, kaip kasdienis gyvenimas ir visuomeninė tvarka yra neatskiriami. Romano medžiagoje daugiau dėmesio skirta ne tik atmosferai, bet ir tam, kaip tvarką laiko paprasti dalykai: viešųjų vietų ritmas, institucijų patikimumas, žmonių tarpusavio laikysena ir gebėjimas gyventi be nuolatinio triukšmo.
+Birželio viduryje BVK projekte formuluojama išvada, kad vienas juridinis indas nebegalėtų išlaikyti visų projekto sluoksnių. Kuo aiškiau matomi viešasis, dalyvavimo ir ūkinis kontūrai, tuo mažiau tikėtina, kad vienas teisinis sprendimas galėtų būti tinkamas viskam.
 
-Šis pokytis buvo svarbus todėl, kad Respublikos pasaulis vis mažiau priklausė nuo vien bendrų deklaracijų. Jis tapo tikresnis tada, kai pradėta rodyti, kaip didesnės idėjos nusėda į kasdienę aplinką, miestų kvėpavimą ir žmonių elgesį. Tokia kultūrinė medžiaga sustiprina ir visą dokumentinį sluoksnį.
+Viena forma galėtų būti patogi pradžioje, bet ilgainiui sukurtų per daug painiavos. Svetainės archyvinė veikla, žmonių dalyvavimas ir gamybinė rizika turi skirtingą pobūdį. Jei jos būtų laikomos viename inde, atsakomybės ribos taptų neaiškios.
 
-Nuo šio momento romano pasaulis dar labiau veikia kaip emocinė ir vaizdinė atrama pačiai Respublikos logikai suprasti.
+Tai nereiškia, kad reikia steigti kelias struktūras dabar. Priešingai, 2031 metais dar tik aiškinamasi, ar ateityje gali reikėti kelių skirtingų formų. Šis svarstymas leidžia neskubėti ir nesukurti formos, kuri vėliau trukdytų pačiai raidai.
+
+Skirtingi indai galėtų padėti išvengti situacijos, kai gamybos nuostoliai paveikia viešą archyvą, dalyvių ginčai veikia ūkinę veiklą arba skaitytojai įgyja lūkesčių, kurių niekas jiems teisiškai nežadėjo.
+
+Ši publikacija patvirtina svarbią 2031 metų kryptį: projektas turi būti vientisas kanone, bet ne būtinai laikomas vienoje teisinėje dėžėje.
 
 SEO:
-SEO title: Romano pasaulyje pradėta aiškiau rodyti kasdienio gyven...
-Meta description: 2031 m. romano pasaulyje pradėta aiškiau rodyti kasdienio gyvenimo ir visuomeninės tvarkos sąsaja.
-Slug: romano-pasaulyje-pradeta-aiskiau-rodyti-kasdienio-gyvenimo-ir-visuomenines-tvarkos-sasaja-2031
+SEO title: Vienas juridinis indas BVK sluoksniams netinka
+Meta description: 2031 m. BVK projekte formuluojama išvada, kad vienas juridinis indas nebegalėtų išlaikyti visų projekto sluoksnių.
+Slug: vienas-juridinis-indas-bvk-sluoksniams-netinka-2031
 
 IMAGE PROMPT:
-Photorealistic literary-worldbuilding desk with town sketches, street mood references, institutional notes and manuscript pages, warm June daylight, no readable text, realistic editorial atmosphere.
+Photorealistic structure planning scene, one overfilled folder beside three clearer separated folders, June daylight, no readable text.
 
 PABAIGOS BLOKAS:
 Publikuota: 2031-06-12
-Parengė: BVK viešosios krypties ir principų redakcija
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАŠАС 7
-Data: 2031-07-24
+ĮRAŠAS 12
+Data: 2031-06-28
+Rubrika: Teisė
+Pavadinimas: Formuojamas principas: kiekvienas sluoksnis turi turėti savo atsakomybės ribas
+
+STRAIPSNIS:
+Birželio pabaigoje formuojamas principas, kad kiekvienas BVK projekto sluoksnis turi turėti savo atsakomybės ribas. Šis principas tampa viena iš pagrindinių metų išvadų, nes be ribų ateities praktika būtų ne tik neaiški, bet ir nesaugi.
+
+Viešasis sluoksnis turi atsakyti už tai, kaip aiškinama idėja, kaip saugomas archyvas ir kaip neklaidinamas skaitytojas. Dalyvavimo sluoksnis turi atsakyti už žmonių elgesio ir pasitikėjimo kultūrą. Ūkinis sluoksnis turėtų atsakyti už pinigus, produktą, sutartis, darbuotojus ir apskaitą.
+
+Atsakomybės ribos reiškia, kad vienas sluoksnis negali lengvai perimti kito sprendimų. Viešas straipsnis negali tapti finansiniu įsipareigojimu. Skaitytojo susidomėjimas negali tapti teise valdyti gamybą. O būsima ūkinė veikla negali savintis viso kanono vardo be aiškių taisyklių.
+
+2031 metais šis principas vis dar yra parengiamasis. Tačiau būtent tokie principai vėliau leis išvengti didesnių klaidų. Kuo anksčiau matomos ribos, tuo lengviau jas paversti praktinėmis taisyklėmis.
+
+Ši publikacija parodo, kad teisė čia suprantama ne kaip šaltas formalumas, o kaip būdas saugoti žmones, pasitikėjimą ir ilgą projekto kelią.
+
+SEO:
+SEO title: Kiekvienas BVK sluoksnis turi atsakomybės ribas
+Meta description: 2031 m. formuojamas principas, kad kiekvienas BVK sluoksnis turi turėti savo aiškias atsakomybės ribas.
+Slug: kiekvienas-bvk-sluoksnis-turi-ribas-2031
+
+IMAGE PROMPT:
+Photorealistic legal boundary planning scene, layered documents separated by clear lines, June evening light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-06-28
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 13
+Data: 2031-07-10
+Rubrika: Ekonomika
+Pavadinimas: Pradedama svarstyti, kaip skirtinguose kontūruose turėtų būti atskiriami pinigai
+
+STRAIPSNIS:
+Liepos pradžioje pradedama svarstyti, kaip skirtinguose BVK kontūruose turėtų būti atskiriami pinigai. Šis klausimas dar visiškai parengiamasis, nes 2031 metais nėra nei gamybos, nei fondo, nei darbuotojų, nei veikiančių struktūrų. Tačiau pinigų tema turi būti apgalvota iš anksto.
+
+Viešasis kontūras ateityje galėtų turėti lėšų svetainei, archyvui, tyrimams, švietimui ar publikacijoms. Dalyvavimo kontūras galėtų turėti kitokio pobūdžio įnašus arba paramą, jei toks sluoksnis kada nors būtų sukurtas. Ūkinis kontūras turėtų būti visiškai atskiras, nes jame atsirastų pardavimai, sąnaudos, atlyginimai ir galimas likutis.
+
+Jei šios pinigų srovės būtų sumaišytos, pasitikėjimas greitai susilpnėtų. Skaitytojas turėtų žinoti, ar jis remia viešą projektą, ar dalyvavimo veiklą, ar gamybą. Darbuotojas turėtų žinoti, iš ko mokamas atlygis. O būsimas fondas turėtų būti matomas kaip ūkinės veiklos rezultatas, ne kaip miglotas bendras krepšys.
+
+Todėl 2031 metais pradedama kalbėti apie pinigų atskyrimą ne kaip apie techniką, o kaip apie moralinę skaidrumo sąlygą. Pinigai turi sekti funkciją, o ne keliauti per neaiškius pažadus.
+
+Ši publikacija ruošia vieną jautriausių ateities temų. Ten, kur atsiras bendri pinigai, skaidrumas turės būti ne priedas, o pradžios taisyklė.
+
+SEO:
+SEO title: BVK kontūruose pinigai turi būti atskiriami
+Meta description: 2031 m. pradedama svarstyti, kaip skirtinguose BVK kontūruose turėtų būti atskiriami pinigai ir atsakomybė.
+Slug: bvk-konturuose-pinigai-atskiriami-2031
+
+IMAGE PROMPT:
+Photorealistic transparent finance planning scene, three separate blank ledgers, calculator, July daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-07-10
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 14
+Data: 2031-07-27
+Rubrika: Archyvas
+Pavadinimas: Rengiamas pirmasis skaidrumo principų sąrašas būsimoms teisinėms formoms
+
+STRAIPSNIS:
+Liepos pabaigoje rengiamas pirmasis skaidrumo principų sąrašas būsimoms teisinėms formoms. Šis sąrašas dar nėra privalomas dokumentas, bet jis padeda suprasti, kokios vertybės turėtų lydėti bet kokį ateities formalizavimą.
+
+Pirmasis principas - aiški paskirtis. Kiekviena forma turi būti sukurta konkrečiai funkcijai, o ne viskam iš karto. Antrasis principas - matomos atsakomybės ribos. Turi būti aišku, kas sprendžia, kas pasirašo, kas atsako ir kas gali tik stebėti.
+
+Trečiasis principas - skaidri pinigų apskaita. Jei atsiranda lėšos, turi būti aišku, iš kur jos ateina, kam naudojamos ir kokiam sluoksniui priklauso. Ketvirtasis principas - išėjimo galimybė. Žmogus neturi būti įtrauktas į tokią formą, iš kurios sunku išeiti be neproporcingos žalos.
+
+Penktasis principas - viešos kalbos atsargumas. Jokia forma neturi būti pristatoma kaip didesnė, negu ji yra. Jei ji tik svarstoma, taip ir turi būti sakoma. Jei ji dar neveikia, negalima rašyti, kad ji veikia.
+
+Šis skaidrumo sąrašas rengiamas tam, kad ateities formalizavimas neprasidėtų nuo gražios etiketės. Forma turi būti aiški, o ne įspūdinga.
+
+SEO:
+SEO title: Skaidrumo principai BVK teisinėms formoms
+Meta description: 2031 m. rengiamas pirmasis skaidrumo principų sąrašas būsimoms BVK teisinėms formoms.
+Slug: skaidrumo-principai-bvk-teisinems-formoms-2031
+
+IMAGE PROMPT:
+Photorealistic transparency principles desk, blank principle cards, clear glass, legal folders, July evening light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-07-27
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 15
+Data: 2031-08-12
+Rubrika: Darbas
+Pavadinimas: Pradedama aiškiau skirti skaitytoją, dalyvį ir būsimą darbuotoją
+
+STRAIPSNIS:
+Rugpjūčio mėnesį pradedama aiškiau skirti skaitytoją, dalyvį ir būsimą darbuotoją. Šis skirtumas tampa būtinas, nes 2031 metais projektas vis dažniau kalba apie teisines formas, dalyvavimo ratą ir galimą ūkinį branduolį.
+
+Skaitytojas yra žmogus, kuris domisi ir skaito. Jis nieko neprivalo ir neįgyja jokių teisių valdyti projektą. Dalyvis, jei toks statusas kada nors atsiras, reikštų gilesnį atsakingą prisidėjimą, bet dar nebūtinai darbą ar ūkinę atsakomybę.
+
+Būsimas darbuotojas būtų visai kita kategorija. Jį sietų darbo funkcija, sutartis, atlygis, atsakomybė, teisės ir apsauga. Darbuotojo negalima painioti su savanorišku dalyviu, o dalyvio - su darbuotoju, nes taip būtų neaišku, kas už ką atsako.
+
+Šis skirtumas ypač svarbus ateities maisto dirbtuvės klausimui. Jei kada nors atsiras gamyba, joje dirbantis žmogus turės būti saugomas ne moraliniu pažadu, o aiškiu darbo santykiu. Kartu moralinis dalyvavimas negali automatiškai suteikti teisės į gamybos sprendimus.
+
+Rugpjūčio 12 dienos publikacija padeda išvengti vienos pavojingiausių painiavų: kai susidomėjimas, dalyvavimas ir darbas vadinami vienu žodžiu. 2031 metais šios ribos pradedamos valyti iš anksto.
+
+SEO:
+SEO title: Skaitytojas, dalyvis ir būsimas darbuotojas
+Meta description: 2031 m. BVK projekte pradedama aiškiau skirti skaitytoją, dalyvį ir būsimą darbuotoją.
+Slug: skaitytojas-dalyvis-busimas-darbuotojas-2031
+
+IMAGE PROMPT:
+Photorealistic role distinction planning scene, three blank role cards, work gloves, reading notebook, August daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-08-12
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 16
+Data: 2031-08-30
+Rubrika: Savęs tobulinimas
+Pavadinimas: Įvardijama, kad moralinis dalyvavimas dar nėra darbo ar nuosavybės teisė
+
+STRAIPSNIS:
+Rugpjūčio pabaigoje BVK projekte įvardijama svarbi riba: moralinis dalyvavimas dar nėra darbo ar nuosavybės teisė. Ši mintis padeda apsaugoti būsimą dalyvavimo kontūrą nuo per didelių lūkesčių ir neteisingų interpretacijų.
+
+Žmogus gali domėtis projektu, padėti aiškinti tekstus, dalyvauti diskusijoje ar palaikyti idėją. Tačiau toks prisidėjimas pats savaime nereiškia teisės į būsimą ūkinį branduolį, fondą, gamybą ar sprendimus dėl darbuotojų. Šios sritys reikalautų atskirų sutarčių, taisyklių ir atsakomybės.
+
+Ši riba svarbi ir pačiam dalyvavimui. Jei kiekvienas moralinis prisidėjimas būtų suprantamas kaip teisė į dalį projekto, dalyvavimas greitai taptų konfliktų šaltiniu. Todėl reikia iš anksto sakyti, kad pagarba ir atsakomybė nesukuria automatinės nuosavybės.
+
+Tai nereiškia, kad dalyvavimas nėra vertingas. Jis gali būti labai svarbus viešajam ir kultūriniam sluoksniui. Tačiau vertė ir teisinė teisė nėra tas pats. Būtent jų atskyrimas leidžia išsaugoti skaidrumą.
+
+Ši publikacija tęsia 2031 metų ribų logiką. Projektas dar ankstyvas, bet jau mokosi sakyti ne tik "kas galima", bet ir "kas dar negali būti laikoma teise".
+
+SEO:
+SEO title: Moralinis dalyvavimas nėra darbo teisė
+Meta description: 2031 m. BVK projekte įvardijama, kad moralinis dalyvavimas dar nėra darbo, nuosavybės ar fondo valdymo teisė.
+Slug: moralinis-dalyvavimas-nera-darbo-teise-2031
+
+IMAGE PROMPT:
+Photorealistic ethical boundary concept, blank participation card separated from work contract folder, late summer light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-08-30
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 17
+Data: 2031-09-12
+Rubrika: Teisė
+Pavadinimas: Pradedamas būsimo sutarčių sluoksnio klausimų sąrašas
+
+STRAIPSNIS:
+Rugsėjo mėnesį pradedamas būsimo sutarčių sluoksnio klausimų sąrašas. Tai dar nėra sutarčių rengimas, nes praktinė veikla neprasidėjusi. Tačiau jei ateityje atsiras gamyba, žmonės, patalpos, paslaugos ar produktai, be sutarčių sluoksnio išsiversti nebus įmanoma.
+
+Pirmiausia keliami darbo santykių klausimai: kas būtų darbuotojas, kokios jo pareigos, kaip būtų mokama, kaip fiksuojamas darbo laikas ir kokios apsaugos jam priklausytų. Antra kryptis - galimi dalyvavimo susitarimai, kurie negali būti painiojami su darbo sutartimis.
+
+Trečia kryptis - tiekimo ir pardavimo sutartys. Jei maisto dirbtuvė kada nors gamins produktus, reikės aiškių santykių su tiekėjais, pirkėjais ir pristatymo partneriais. Ketvirta kryptis - galimos patalpų, įrangos ar laikino gyvenimo sprendimų sutartys ateityje.
+
+Svarbiausia šiuo metu yra ne parengti dokumentus, o pamatyti, kokių klausimų reikės. Sutartis čia suprantama kaip apsauga nuo miglotų pažadų. Ji leidžia žmogui žinoti, ko tikėtis ir kur baigiasi kito atsakomybė.
+
+Rugsėjo 12 dienos įrašas įveda dar vieną praktinį sluoksnį. Jei ateities sistema nori būti teisinga, ji turi mokėti kalbėti sutartimis taip pat aiškiai kaip idėjomis.
+
+SEO:
+SEO title: Būsimo BVK sutarčių sluoksnio klausimai
+Meta description: 2031 m. pradedamas būsimo BVK sutarčių sluoksnio klausimų sąrašas darbo, dalyvavimo ir ūkinėms kryptims.
+Slug: busimo-bvk-sutarciu-sluoksnio-klausimai-2031
+
+IMAGE PROMPT:
+Photorealistic contract planning desk, blank agreement pages, folders, pencil, September daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-09-12
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 18
+Data: 2031-09-29
+Rubrika: Darbas
+Pavadinimas: Būsimas darbuotojo santykis su gamyba pradedamas matyti per sutartį, ne per pažadą
+
+STRAIPSNIS:
+Rugsėjo pabaigoje būsimas darbuotojo santykis su gamyba pradedamas matyti per sutartį, o ne per pažadą. Tai viena svarbiausių 2031 metų darbo temos išvadų. Jei kada nors atsiras maisto dirbtuvė ar kitas ūkinis branduolys, žmogaus apsauga turės būti aiški, ne vien moralinė.
+
+Pažadas gali būti nuoširdus, bet jis nepakankamas. Darbuotojui reikės žinoti, kas jam mokama, kokios yra pareigos, kokios darbo sąlygos, kas nutinka ligos ar išėjimo atveju, ar yra papildomų naudų ir kaip jos fiksuojamos. Be to bet kokia socialinė kalba liktų per silpna.
+
+Šiuo metu nekalbama apie realius darbuotojus. Kalbama apie būsimą principą: darbo santykis negali būti pakeistas neformalia bendrystės kalba. Jei žmogus dirba, jis turi būti saugomas kaip darbuotojas, net jei platesnė idėja yra kooperatyvinė.
+
+Tai taip pat saugo projektą nuo piktnaudžiavimo. Bendras tikslas negali tapti priežastimi mokėti neaiškiai, dirbti be ribų ar nukelti atlygį į ateities pažadus. Bendra sistema turi būti griežtesnė sau nei įprastas verslas.
+
+Rugsėjo 29 dienos publikacija įtvirtina paprastą ribą: žmogus negali būti maitinamas vien vizija. Darbo santykis turi būti aiškus.
+
+SEO:
+SEO title: Darbuotojo santykis su BVK gamyba per sutartį
+Meta description: 2031 m. būsimas darbuotojo santykis su BVK gamyba pradedamas matyti per sutartį, o ne per pažadą.
+Slug: darbuotojo-santykis-su-gamyba-per-sutarti-2031
+
+IMAGE PROMPT:
+Photorealistic work contract planning scene, blank contract folder, lunch container, work gloves, autumn light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-09-29
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 19
+Data: 2031-10-10
+Rubrika: Ekonomika
+Pavadinimas: 2032 metams pradedama ruošti maisto dirbtuvės pasirengimo patikra
+
+STRAIPSNIS:
+Spalio pradžioje 2032 metams pradedama ruošti maisto dirbtuvės pasirengimo patikra. 2030 metais buvo svarstoma pati kryptis, o 2031 metais - teisinės ir atsakomybės ribos. Dabar šie du sluoksniai pradedami jungti į kitų metų pasirengimo klausimą.
+
+Pasirengimo patikra dar nereiškia gamybos. Ji reiškia klausimų sąrašą: kokių produktų vertėtų tikrinti pirmiausia, kokių patalpų reikėtų, kokia minimali įranga būtina, kokie higienos reikalavimai būtų svarbiausi, kaip atrodytų testinė partija ir kokia teisinė forma būtų reikalinga net mažam bandymui.
+
+Šiuo metu vis dar pabrėžiama, kad nepriimamas sprendimas pradėti veiklą. Dar nėra patalpų, komandos, leidimų ar pinigų. Tačiau pasirengimo patikra leidžia 2032 metus pradėti ne nuo bendrų svajonių, o nuo konkrečių sąlygų.
+
+Ši kryptis taip pat padeda išlaikyti lėtą projekto ritmą. 2031 metai nesiveržia į gamybą. Jie tik paruošia lentyną, į kurią 2032 metais bus galima sudėti patikrinamus punktus.
+
+Spalio 10 dienos įrašas pradeda pereinamąjį tiltą į kitą etapą. Teisinės ribos turi virsti pasirengimo patikra, bet ne skubotu paleidimu.
+
+SEO:
+SEO title: Ruošiama maisto dirbtuvės pasirengimo patikra
+Meta description: 2031 m. pradedama ruošti 2032 metų BVK maisto dirbtuvės pasirengimo patikra.
+Slug: maisto-dirbtuves-pasirengimo-patikra-2032-paruosa
+
+IMAGE PROMPT:
+Photorealistic production-readiness checklist scene, food samples, legal folders, equipment sketches, October daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-10-10
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 20
+Data: 2031-10-28
 Rubrika: Technologijos
-Pavadinimas: Toliau aiškinta, kad pažangios sistemos turi mažinti triukšmą, o ne žmogaus laisvę
+Pavadinimas: Svarstoma, kokių paprastų apskaitos įrankių reikėtų prieš testines partijas
 
 STRAIPSNIS:
-Liepos mėnesį technologijų temoje toliau aiškinta, kad pažangios sistemos neturi būti kuriamos tam, kad pakeistų žmogaus apsisprendimą ar paverstų jį stebimu objektu. Priešingai, jos turi mažinti bereikalingą triukšmą, perteklinį administracinį apkrovimą ir leisti žmonėms daugiau laiko skirti gyvenimui, mokymuisi ir bendruomenei.
+Spalio pabaigoje svarstoma, kokių paprastų apskaitos įrankių reikėtų prieš bet kokias būsimas testines partijas. 2030 metais buvo pradėta kalbėti apie savikainą ir fondą, o 2031 metais vis aiškiau matoma, kad be paprastos apskaitos net mažas bandymas gali tapti neaiškus.
 
-Šis klausimas svarbus todėl, kad ateities modeliuose technologijos dažnai įsivaizduojamos kaip kontrolės instrumentas. BVK projekte vis aiškiau rodoma kita kryptis: technologijos turi būti tarnaujančios, koordinuojančios ir padedančios išlaikyti bendrą matomumą, tačiau jos negali tapti nauja prievartos forma.
+Kalbama apie labai paprastus įrankius: žaliavų registrą, išlaidų lentelę, darbo laiko žymėjimą, produktų kiekio fiksavimą, pardavimo kainų palyginimą, grįžtamąjį ryšį ir galimą likutį. Tai dar ne sudėtinga sistema, bet būtinas minimalus skaidrumo pagrindas.
 
-Toks aiškinimas stiprina ir būsimo Bendrojo Valdymo Kontūro supratimą. Jis pradeda ryškėti kaip žmogiškam gyvenimui tarnaujanti koordinavimo terpė, o ne savitikslė galia.
+Šie įrankiai svarbūs todėl, kad testinė partija turi ne tik pagaminti produktą, bet ir duoti atsakymus. Jei nėra duomenų, po bandymo lieka tik įspūdis: patiko ar nepatiko. BVK logikai to nepakanka. Reikia suprasti, ką parodė skaičiai.
+
+Apskaita taip pat saugo nuo saviapgaulės. Produktas gali atrodyti sėkmingas, kol neįskaičiuotas žmogaus laikas, pakuotė, transportas ar sugadintos žaliavos. Todėl net paprastas bandymas turi būti matuojamas sąžiningai.
+
+Ši publikacija įveda techninę 2032 metų pasirengimo pusę. Prieš gaminant reikia žinoti, kaip bus skaičiuojama.
 
 SEO:
-SEO title: Toliau aiškinta, kad pažangios sistemos turi mažinti tr...
-Meta description: 2031 m. toliau aiškinta, kad pažangios sistemos turi mažinti triukšmą, o ne žmogaus laisvę.
-Slug: toliau-aiskinta-kad-pazangios-sistemos-turi-mazinti-triuksma-o-ne-zmogaus-laisve-2031
+SEO title: Paprasti apskaitos įrankiai prieš testines partijas
+Meta description: 2031 m. svarstoma, kokių paprastų BVK apskaitos įrankių reikėtų prieš būsimas testines maisto partijas.
+Slug: paprasti-apskaitos-irankiai-pries-testines-partijas-2031
 
 IMAGE PROMPT:
-Photorealistic humane technology workspace with simple interface mockups, handwritten notes, minimal devices and calm summer light, no readable text, natural optics.
+Photorealistic simple spreadsheet planning, blank accounting sheets, calculator, food sample cards, October evening light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2031-07-24
-Parengė: BVK viešosios krypties ir principų redakcija
+Publikuota: 2031-10-28
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАŠАС 8
-Data: 2031-08-15
-Rubrika: Bendruomenė
-Pavadinimas: Aplink projektą sustiprėjo skaitytojų ratas, gebantis lyginti atskirus tekstų sluoksnius
+ĮRAŠAS 21
+Data: 2031-11-12
+Rubrika: Teisė
+Pavadinimas: Teisinių formų palyginimas paliekamas kaip pasirengimas, o ne sprendimas steigti struktūrą
 
 STRAIPSNIS:
-Rugpjūtį tapo aišku, kad dalis skaitytojų projektą jau seka ne atsitiktinai, o nuosekliai. Jie pradėjo lyginti atskirus tekstų sluoksnius: kroniką, idėjinius straipsnius, archyvines publikacijas ir kultūrinę medžiagą. Tai rodo, kad BVK pasaulis skaitytojo akyse pradeda veikti kaip vientisas darinys.
+Lapkričio viduryje pabrėžiama, kad teisinių formų palyginimas lieka pasirengimas, o ne sprendimas steigti struktūrą. Per metus jau aptarta VšĮ, asociacija ir kooperatinė bendrovė, tačiau nė viena iš šių formų dar nėra pasirenkama kaip veikianti BVK struktūra.
 
-Toks skaitymo būdas labai svarbus projekto brandai. Kol tekstai priimami tik paviršiuje, jie išlieka atskirais įrašais. Kai atsiranda skaitytojų, kurie ieško ryšių, vidinės logikos ir stiliaus kaitos, projektas pereina į gilesnį suvokimo lygmenį. Tai sustiprina ir atsakomybę išlaikyti nuoseklumą.
+Ši atsarga reikalinga todėl, kad juridinė forma neturi atsirasti anksčiau už tikrą poreikį. Jei forma sukuriama per anksti, ji gali pradėti diktuoti projekto eigą. Jei ji pasirenkama ne pagal funkciją, vėliau gali trukdyti vietoj to, kad padėtų.
 
-Ši publikacija žymi lėtą, bet svarbų poslinkį. Respublikos idėja vis aiškiau pradeda būti skaitoma kaip ilgalaikis pasaulis, o ne vien atskirų tekstų serija.
+2031 metų tikslas yra palyginti, suprasti ir pasiruošti. Viešajam sluoksniui gali reikėti vienos formos, dalyvavimo ratui - kitos, ūkiui - trečios. Tačiau kol nėra aiškių praktinių žingsnių, sprendimas turi likti atviras.
 
-SEO:
-SEO title: Aplink projektą sustiprėjo skaitytojų ratas, gebantis l...
-Meta description: 2031 m. aplink projektą sustiprėjo skaitytojų ratas, gebantis lyginti atskirus tekstų sluoksnius.
-Slug: aplink-projekta-sustiprejo-skaitytoju-ratas-gebantis-lyginti-atskirus-tekstu-sluoksnius-2031
+Tai nereiškia neveiklumo. Priešingai, toks pasirengimas yra atsakingas darbas. Jis padeda išvengti situacijos, kai struktūra sukuriama dėl įspūdžio, o vėliau tenka taisyti klaidas per žmones, pinigus ir pasitikėjimą.
 
-IMAGE PROMPT:
-Photorealistic readers in a quiet room with printed pages, laptops and notes, natural summer daylight, candid documentary atmosphere, no readable text.
-
-PABAIGOS BLOKAS:
-Publikuota: 2031-08-15
-Parengė: BVK viešosios krypties ir principų redakcija
-
-========================================================================
-ĮРАŠАС 9
-Data: 2031-09-10
-Rubrika: Duomenys
-Pavadinimas: Sudarytas pirmasis aiškesnis būsimos sistemos sričių ir jų tarpusavio ryšių sąrašas
-
-STRAIPSNIS:
-Rugsėjo mėnesį sudarytas pirmasis aiškesnis sąrašas, apimantis pagrindines būsimos sistemos sritis ir jų tarpusavio ryšius. Ši schema padėjo geriau matyti, kad Respublika negali būti statoma vien iš atskirų gerų idėjų. Ji turi remtis susietomis gyvenimo atramomis - darbu, būstu, maitinimu, sveikata, švietimu, viešąja tvarka, ekologija ir duomenų koordinavimu.
-
-Tokio sąrašo svarba buvo ne tik techninė. Jis leido pirmą kartą aiškiau matyti visą modelį kaip funkcinę architektūrą, kurioje vienos srities silpnumas neišvengiamai veikia kitas. Tai sustiprino projekto rimtumą ir priartino jį prie sisteminio mąstymo.
-
-Šis žingsnis žymi svarbią brandos ribą. Nuo šiol Respublika vis aiškiau rodoma ne kaip gražių principų rinkinys, o kaip tarpusavyje susieta gyvenimo sistema.
+Lapkričio 12 dienos įrašas dar kartą įtvirtina 2031 metų principą: teisinė forma turi ateiti tada, kai aišku, ką ji turės laikyti.
 
 SEO:
-SEO title: Sudarytas pirmasis aiškesnis būsimos sistemos sričių ir...
-Meta description: 2031 m. sudarytas pirmasis aiškesnis būsimos sistemos sričių ir jų tarpusavio ryšių sąrašas.
-Slug: sudarytas-pirmasis-aiskesnis-busimos-sistemos-sriciu-ir-ju-tarpusavio-rysiu-sarasas-2031
+SEO title: Teisinių formų palyginimas dar nėra steigimas
+Meta description: 2031 m. pabrėžiama, kad BVK teisinių formų palyginimas lieka pasirengimas, o ne sprendimas steigti struktūrą.
+Slug: teisiniu-formu-palyginimas-dar-nera-steigimas-2031
 
 IMAGE PROMPT:
-Photorealistic systems map scene with layered service diagrams, handwritten lists, colored connectors and a large worktable, early autumn daylight, no readable text.
+Photorealistic comparison table scene, several blank legal form folders, no selected option, November daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2031-09-10
-Parengė: BVK viešosios krypties ir principų redakcija
+Publikuota: 2031-11-12
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАŠАС 10
-Data: 2031-10-22
-Rubrika: Archyvas
-Pavadinimas: Parengtas ankstyvųjų Respublikos redakcijų ir pataisų sekimo principas
-
-STRAIPSNIS:
-Spalį parengtas ankstyvas redakcijų ir pataisų sekimo principas, leidžiantis aiškiau matyti, kaip laikui bėgant buvo koreguojami pagrindiniai tekstai, sąvokos ir tarpusavio nuorodos. Iki tol dalis taisymų buvo fiksuojami netolygiai, tačiau tapo aišku, kad ilgesniam projektui būtina drausminga atmintis.
-
-Tokio sekimo vertė didelė. Jis leidžia išvengti situacijos, kai galutinė formuluotė matoma atskirai nuo jos atsiradimo kelio. Būtent pataisų istorija padeda suprasti, kodėl viena ar kita tezė tapo stipresnė, tikslesnė ar tinkamesnė bendram kanonui.
-
-Ši publikacija rodo, kad Respublikos projektas vis rimčiau žiūri į savo pačios atminties kultūrą. Tai vienas iš ženklų, kad ankstyvoji fazė tampa brandesnė ir atsparesnė chaosui.
-
-SEO:
-SEO title: Parengtas ankstyvųjų Respublikos redakcijų ir pataisų s...
-Meta description: 2031 m. parengtas ankstyvųjų Respublikos redakcijų ir pataisų sekimo principas.
-Slug: parengtas-ankstyvuju-respublikos-redakciju-ir-pataisu-sekimo-principas-2031
-
-IMAGE PROMPT:
-Photorealistic archival revision log scene with notebooks, dated tabs, marked edits and organized folders under warm autumn light, no readable text.
-
-PABAIGOS BLOKAS:
-Publikuota: 2031-10-22
-Parengė: BVK viešosios krypties ir principų redakcija
-
-========================================================================
-ĮРАŠАС 11
-Data: 2031-11-11
+ĮRAŠAS 22
+Data: 2031-11-29
 Rubrika: Vystymasis
-Pavadinimas: Paskelbti pirmieji tekstai apie ilgą perėjimą nuo idėjinės terpės prie veikiančios sistemos
+Pavadinimas: Praktinis etapas siejamas su ribomis, o ne vien su entuziazmu
 
 STRAIPSNIS:
-Lapkričio mėnesį paskelbti pirmieji tekstai, kuriuose atviriau kalbama apie ilgą perėjimą nuo idėjinės terpės prie vieną dieną veikiančios sistemos. Iki tol daug publikacijų daugiausia aiškino patį modelį, tačiau dabar imta kalbėti ir apie kelią - kaip kultūrinis, archyvinis ir technologinis projektas galėtų augti į realesnę visuomeninę formą.
+Lapkričio pabaigoje praktinis etapas vis aiškiau siejamas su ribomis, o ne vien su entuziazmu. Tai svarbi 2031 metų išvada. Po kelių metų idėjų, svetainės, skaitytojų, dalyvavimo principų ir ekonominių skaičiavimų gali kilti noras pagaliau veikti. Tačiau veikti be ribų būtų pavojinga.
 
-Šiuose tekstuose ypatingai pabrėžta lėto brendimo logika. Respublika nevaizduojama kaip staigus lūžis ar deklaratyvus pažadas. Priešingai, rodomas ilgas etapas, kuriame turi susiformuoti kalba, atmintis, bendruomenės sluoksnis, praktinės schemos ir pasitikėjimas.
+Ribos čia nereiškia sustojimo. Jos reiškia apsaugą. Reikia žinoti, kur baigiasi svetainė, kur prasideda dalyvavimas, kas būtų ūkinė veikla, kokia forma laikytų pinigus, kaip saugomas žmogus ir kas atsakytų už klaidas.
 
-Tai svarbi publikacijų grupė, nes ji pirmą kartą leidžia skaitytojui matyti ne tik pasaulio būseną, bet ir jo atsiradimo procesą. Nuo šiol pats kelias tampa viešai svarstoma tema.
+Entuziazmas gali būti pradžios energija, bet jis negali pakeisti teisės, apskaitos ir sutarties. Ypač tada, kai kalbama apie maistą, darbą ir galimą socialinę paramą. Gera intencija be ribų gali greitai tapti netvarka.
+
+Todėl 2031 metais praktika matoma ne kaip romantiškas šuolis, o kaip būsimų sąlygų rinkinys. Jei sąlygos neaiškios, praktika turi palaukti. Jei ribos aiškėja, galima ruoštis kitam etapui.
+
+Ši publikacija apibendrina metų dvasią: projektas bręsta ne todėl, kad skuba veikti, o todėl, kad mokosi prieš veiksmą nusibrėžti atsakomybę.
 
 SEO:
-SEO title: Paskelbti pirmieji tekstai apie ilgą perėjimą nuo idėji...
-Meta description: 2031 m. paskelbti pirmieji tekstai apie ilgą perėjimą nuo idėjinės terpės prie veikiančios sistemos.
-Slug: paskelbti-pirmieji-tekstai-apie-ilga-perejima-nuo-idejines-terpes-prie-veikiancios-sistemos-2031
+SEO title: Praktinis BVK etapas turi prasidėti nuo ribų
+Meta description: 2031 m. BVK praktinis etapas siejamas su atsakomybės ribomis, o ne vien su entuziazmu ar noru veikti.
+Slug: praktinis-bvk-etapas-prasideda-nuo-ribu-2031
 
 IMAGE PROMPT:
-Photorealistic long-horizon planning scene with milestone cards, timeline strips and transition sketches across a wall or long table, November daylight, no readable text, realistic planning documentary photo.
+Photorealistic boundary planning scene, caution markers, project folders, practical notes, late November light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2031-11-11
-Parengė: BVK viešosios krypties ir principų redakcija
+Publikuota: 2031-11-29
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАŠАС 12
-Data: 2031-12-22
+ĮRAŠAS 23
+Data: 2031-12-12
 Rubrika: Archyvas
-Pavadinimas: Metų apžvalga: projektas pradėjo kalbėti ne tik apie ateitį, bet ir apie jos įgyvendinimo kelią
+Pavadinimas: 2031 metai užbaigiami kaip teisinių formų ir atsakomybės ribų metai
 
 STRAIPSNIS:
-Baigiantis metams tapo aišku, kad projektas žengė dar vieną svarbų žingsnį: jis kalba ne vien apie tai, kokia galėtų būti ateities Respublika, bet ir apie tai, kaip prie jos būtų einama. Šis poslinkis sustiprino visų metų turinį - nuo archyvo peržiūros ir principų aiškinimo iki pirmųjų viešų svarstymų apie ilgą perėjimą.
+Gruodžio viduryje 2031 metai apibendrinami kaip teisinių formų ir atsakomybės ribų metai. Per šiuos metus BVK projektas neįsteigia organizacijos, nepradeda gamybos ir nesukuria veikiančio ūkinio branduolio. Tačiau jis padaro svarbų pasirengimo darbą: išskiria, kokių ribų reikės prieš bet kokį praktinį žingsnį.
 
-Per 2031 metus sustiprėjo ir paties projekto viešasis balsas. Tekstai tapo aiškesni, skaitytojui lengviau atskiriami, o svetainė vis nuosekliau rodė ne padriką idėjų rinkinį, bet bręstančią kryptį. Tapo matoma, kad šis pasaulis turi ne tik viziją, bet ir savą vidinę discipliną.
+Metų eigoje įvardyti trys kontūrai: viešasis, dalyvavimo ir ūkinis. Pradėta svarstyti, kur galėtų tikti VšĮ, kur asociacija, o kur kooperatinė bendrovė ar kooperatyvas. Taip pat pradėta kalbėti apie pinigų atskyrimą, sutartis, skaidrumą ir darbuotojo apsaugą.
 
-Ši metų apžvalga fiksuoja tarpinę būseną: Respublika vis dar yra kuriama mintyje, kalboje ir kultūroje, tačiau jos kontūrai jau leidžia kalbėti apie būsimą įgyvendinimo logiką.
+Svarbiausia metų išvada yra ta, kad teisinė forma negali būti pasirenkama dėl skubėjimo. Ji turi atitikti funkciją. Viena forma negali automatiškai laikyti viso projekto, nes skirtingi sluoksniai turi skirtingas rizikas.
+
+Šis apibendrinimas svarbus prieš 2032 metus. Kitais metais bus galima ruošti konkretesnę maisto dirbtuvės pasirengimo patikrą tik todėl, kad 2031 metais pradėtos aiškinti ribos.
+
+Gruodžio 12 dienos įrašas uždaro metus be triumfo, bet su aiškiu rezultatu: projektas dar neveikia praktiškai, tačiau jau geriau supranta, kokios atsakomybės reikės, kad praktika neprasidėtų miglotai.
 
 SEO:
-SEO title: Metų apžvalga: projektas pradėjo kalbėti ne tik apie at...
-Meta description: 2031 m. metų apžvalga: projektas pradėjo kalbėti ne tik apie ateitį, bet ir apie jos įgyvendinimo kelią.
-Slug: metu-apzvalga-projektas-pradejo-kalbeti-ne-tik-apie-ateiti-bet-ir-apie-jos-igyvendinimo-kelia-2031
+SEO title: 2031 m. kaip BVK teisinių ribų metai
+Meta description: 2031 m. BVK metai užbaigiami kaip teisinių formų, kontūrų ir atsakomybės ribų pasirengimo laikotarpis.
+Slug: 2031-bvk-teisiniu-ribu-metai
 
 IMAGE PROMPT:
-Photorealistic year-end archive desk with sorted first-decade folders, annotated plans and winter evening light, no readable text, calm documentary realism.
+Photorealistic year-end legal archive desk, folders for public participation and economy, winter daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2031-12-22
-Parengė: BVK viešosios krypties ir principų redakcija
+Publikuota: 2031-12-12
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 24
+Data: 2031-12-29
+Rubrika: Vystymasis
+Pavadinimas: Prieš 2032 metus įtvirtinama mintis, kad gamybos patikra galima tik atskyrus kontūrus
+
+STRAIPSNIS:
+2031 metų pabaigoje įtvirtinama mintis, kad būsima gamybos patikra galima tik atskyrus kontūrus. Tai tampa pagrindiniu tiltu į 2032 metus. Jei maisto dirbtuvės kryptis bus tikrinama rimčiau, turi būti aišku, kur yra viešas projekto sluoksnis, kur galimas dalyvavimas, o kur ūkinė atsakomybė.
+
+Be tokio atskyrimo net maža testinė partija galėtų sukelti painiavą. Kas už ją atsako? Ar tai svetainės projektas, ar būsima gamyba? Kas skaičiuoja išlaidas? Kas priima sprendimus? Kas turi teisę vadinti rezultatą BVK praktikos dalimi?
+
+2031 metai atsako: pirmiausia reikia ribų. Tik tada galima ruoštis patikrai. Todėl 2032 metai turės tęsti ne abstrakčią idėją, o konkretesnį pasirengimą: produktai, patalpos, higiena, apskaita, testinės partijos sąlygos ir galimos teisinės formos.
+
+Ši publikacija taip pat saugo nuo per greito įspūdžio, kad praktika jau prasidėjo. Ji dar neprasidėjo. Ji tik gali būti ruošiama atsakingiau, nes 2031 metais išryškėjo jos būsimos ribos.
+
+Gruodžio 29 dienos įrašas užbaigia metus labai paprasta taisykle: prieš gaminant reikia žinoti, kas gamina, kokia forma, kokia atsakomybe ir kokiais skaičiais tai bus tikrinama.
+
+SEO:
+SEO title: Gamybos patikra galima tik atskyrus kontūrus
+Meta description: 2031 m. pabaigoje įtvirtinama mintis, kad BVK gamybos patikra galima tik atskyrus viešą, dalyvavimo ir ūkinį kontūrus.
+Slug: gamybos-patikra-tik-atskyrus-konturus-2031
+
+IMAGE PROMPT:
+Photorealistic final transition planning scene, legal folders leading to production readiness checklist, winter night, desk lamp, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2031-12-29
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
