@@ -843,3 +843,13 @@ BVK CANON
 Связанные документы: 09_YEAR_2030_PUBLICATION_PLAN.txt, 10_YEAR_2031_PUBLICATION_PLAN.txt, 11_YEAR_2032_PUBLICATION_PLAN.txt, 12_YEAR_2033_PUBLICATION_PLAN.txt, 14_YEAR_2035_PUBLICATION_PLAN.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt, 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0083]
+Дата: 2026-04-25
+Изменённый файл: CURRENT/07_TIMELINE/14_YEAR_2035_PUBLICATION_PLAN.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: годовой публикационный план 2035 года расширен с 12 до 36 публикаций и синхронизирован с уточнённой логикой раннего практического слоя BVK Canon; 2035 год закреплён как год ограниченного пилотного хозяйственного этапа после первого малого испытания 2033 года и повторяемой малой практической проверки 2034 года. Добавлены темы pilotinis ciklas, минимального оплачиваемого труда, малого резерва, отделения пилотных доходов от фонда, покупательской реакции, человеческой усталости, осторожного расчёта возможной социальной пользы и подготовки малого хозяйственного ядра 2036 года. Исправлен стиль публикаций: статьи подаются как свежие новости 2035 года, с живой читательской драматургией между надеждой и ответственностью, а не как позднее восстановление архива.
+Связанные документы: 09_YEAR_2030_PUBLICATION_PLAN.txt, 10_YEAR_2031_PUBLICATION_PLAN.txt, 11_YEAR_2032_PUBLICATION_PLAN.txt, 12_YEAR_2033_PUBLICATION_PLAN.txt, 13_YEAR_2034_PUBLICATION_PLAN.txt, 15_YEAR_2036_PUBLICATION_PLAN.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt, 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
