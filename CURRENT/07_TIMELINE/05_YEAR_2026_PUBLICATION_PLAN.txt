@@ -2,10 +2,10 @@ BVK CANON
 Годовой публикационный план 2026
 
 Статус: ACTIVE
-Версия: v2.0
+Версия: v2.1
 Дата первого принятия: 2026-04-23
-Текущая редакция: 2026-04-24
-История поправок: CHANGE-0062; CHANGE-0063
+Текущая редакция: 2026-04-25
+История поправок: CHANGE-0062; CHANGE-0063; CHANGE-0074
 Уровень доступа: SERVICE
 Историческая принадлежность: ранний идейный слой
 Связанные закрытые документы: нет
@@ -31,11 +31,12 @@ BVK CANON
 - только поиск, вопросы, первые схемы, ошибки, сомнения и попытки собрать всё в систему.
 
 Связь с другими файлами:
+- 01_TIMELINE_CORE_2026_2086.txt задаёт общую хронологическую ось
 - 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 03_PHASE_2026_2045_FOUNDING_LAYER.txt задаёт смысл фазы основания
 - 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
-- 04_YEAR_2026_ORIGIN_CHAIN.md закрепляет цепочку происхождения идеи
-- 05_YEAR_2026_DETAILED_SKELETON.md закрепляет январь-апрель 2026
-- 06_YEAR_2026_MAY_DECEMBER_SKELETON.md закрепляет май-декабрь 2026
+- 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt задаёт ранний новостной слой
+- 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt задаёт стиль 2026 года
 
 BVK METINIS PLANAS 2026
 
@@ -45,6 +46,7 @@ METINIS STILIUS IR TONAS
 - Kompozicija gali būti laisvesnė, dienoraštiška, su klausimais ir abejonėmis.
 - Respublikos pavadinimas turi atsirasti palaipsniui, ne sausio pradžioje.
 - Straipsniuose svarbu rodyti ne galutinius atsakymus, o kelio atsiradimą.
+- Kiekviena publikacija turi išlaikyti aiškią ribą: tai dar ne veikianti Respublika, o ankstyvas klausimų, užrašų, svetainės, knygos, ekonomikos ir ateities modelio sluoksnis.
 
 REKOMENDUOJAMAS PARENGĖJAS: Ankstyvųjų užrašų archyvas
 
@@ -54,8 +56,16 @@ Data: 2026-01-12
 Rubrika: Savęs tobulinimas
 Pavadinimas: Pirmą kartą užrašytas klausimas apie galimą kooperatyvą Rūdiškių apylinkėse
 
-SĄMPRATA:
-Ne Respublika, ne politinis projektas ir ne miestas. Tik pirmas klausimas: ar būtų įmanoma sukurti nedidelį kooperatyvą arba ūkio modelį, kuris gamintų realų produktą, duotų pajamas ir leistų gyventi kitaip nei įprastoje samdomo darbo schemoje.
+STRAIPSNIS:
+Kartais didesni sumanymai neprasideda nuo aiškios programos, pavadinimo ar plano. Jie prasideda nuo paprasto klausimo, kuris iš pradžių atrodo beveik buitiškas: o kas būtų, jeigu nedidelėje vietoje būtų galima sukurti kitokią darbo ir gyvenimo tvarką?
+
+2026 metų sausį toks klausimas pirmą kartą buvo užrašytas kalbant ne apie valstybę, ne apie politinį judėjimą ir ne apie būsimą miestą. Mintis buvo daug paprastesnė: ar Rūdiškių apylinkėse būtų įmanoma sukurti nedidelį kooperatyvą arba ūkio modelį, kuris gamintų realų produktą, duotų pajamas ir kartu leistų žmonėms jaustis mažiau priklausomiems nuo įprastos samdomo darbo schemos.
+
+Tuo metu nebuvo jokios aiškios struktūros. Nebuvo pavadinimo, nebuvo svetainės, nebuvo dokumentų ir nebuvo net supratimo, ar tokia mintis galėtų kada nors išeiti už asmeninių užrašų ribų. Tačiau pats klausimas jau buvo svarbus, nes jis perkėlė dėmesį nuo abstrakčios svajonės prie labai konkretaus dalyko: ką žmonės galėtų gaminti, parduoti ir iš to gyventi?
+
+Pirmuose užrašuose dar nebuvo kalbama apie didelę sistemą. Daugiau vietos užėmė kasdieniai dalykai: darbas, maistas, pajamos, būstas, šeima, saugumas, žmogaus nuovargis ir noras gyventi ne vien nuo atlyginimo iki atlyginimo. Tai buvo ne atsakymas, o pradinis bandymas suprasti, ar gyvenimo tvarka gali prasidėti nuo mažo, bet realaus ūkio.
+
+Šis įrašas vėliau tapo svarbus todėl, kad jame dar nėra jokios oficialios ateities kalbos. Yra tik žmogus, vieta, klausimas ir nuojauta, kad jeigu kada nors atsiras kitokia visuomenės forma, ji turės prasidėti ne nuo valdžios, o nuo darbo, kuris iš tikrųjų maitina žmones.
 
 SEO:
 SEO title: Pirmasis klausimas apie kooperatyvą Rūdiškėse
@@ -71,8 +81,16 @@ Data: 2026-01-27
 Rubrika: Ekonomika
 Pavadinimas: Svarstyti pirmieji paprasti gamybos variantai: duona, daržovės ir smulkus maisto ūkis
 
-SĄMPRATA:
-Pirmoji idėja dar labai praktiška: ką galima gaminti, kad tai būtų suprantama, reikalinga ir parduodama. Forminė duona, daržovės, maisto paruošimas, mažas ūkis. Dar nėra nei pavadinimo, nei Respublikos, tik bandymas suprasti, nuo ko apskritai prasideda tikras pajamų šaltinis.
+STRAIPSNIS:
+Kai pirmas klausimas apie kooperatyvą buvo užrašytas, labai greitai atsirado kitas, daug žemiškesnis klausimas: ką toks mažas modelis galėtų gaminti? Ne teoriškai, ne gražiose schemose, o taip, kad produktas būtų reikalingas kiekvieną dieną ir galėtų duoti bent pirmas pajamas.
+
+Pirmuose svarstymuose iškilo labai paprasti variantai: formovalė duona, daržovės, smulkus maisto paruošimas, galbūt maži produktų rinkiniai. Tai nebuvo pramonės planas ir nebuvo verslo projektas su aiškiomis lentelėmis. Tai buvo bandymas suprasti, nuo kokio produkto galėtų prasidėti sistema, jeigu ji nenori likti vien gražiu tekstu.
+
+Maistas atrodė natūralus dėl kelių priežasčių. Jo reikia kasdien, jis suprantamas kiekvienai šeimai, jį galima parduoti vietoje arba netoliese, o dalį galima naudoti pačių darbuotojų reikmėms. Čia pirmą kartą pasirodė mintis, kad gamyba galėtų būti susieta ne tik su pardavimu, bet ir su būsima kasdienės paramos forma.
+
+Kartu buvo aišku, kad šis kelias nėra lengvas. Maisto gamybai reikia higienos, patalpų, leidimų, įrangos, pastovaus darbo ir labai aiškaus skaičiavimo. Vien noro kepti duoną ar auginti daržoves nepakanka, jeigu nėra supratimo, kas pirks, kiek kainuos žaliavos ir ar produktas nevirs nuolatiniu nuostoliu.
+
+Todėl sausio pabaigos įrašai svarbūs ne dėl pasirinkto produkto, o dėl krypties. Juose pirmą kartą pasirodė mintis, kad ateities socialinė idėja turi atsiremti į paprastą klausimą: ar mes sugebame pagaminti kažką naudingo taip, kad tai išlaikytų ne tik svajonę, bet ir žmonių gyvenimą?
 
 SEO:
 SEO title: Pirmieji BVK gamybos variantai 2026 m.
@@ -88,8 +106,16 @@ Data: 2026-02-09
 Rubrika: Darbas
 Pavadinimas: Pirmą kartą iškeltas klausimas, ar įmonė galėtų aprūpinti darbuotojus geriau nei įprastas verslas
 
-SĄMPRATA:
-Mintis persikelia nuo produkto prie žmogaus. Ar įmanoma, kad įmonė ne tik moka atlyginimą, bet ir mažina darbuotojo gyvenimo naštą: maistas, transportas, būstas, aiškesnės taisyklės, saugesnė aplinka. Tai dar ne socialinė sistema, o tik ankstyvas klausimas.
+STRAIPSNIS:
+Vasario pradžioje kooperatyvo mintis persikėlė nuo produkto prie žmogaus. Jeigu įmonė gamina ir gauna pajamas, ar ji turi apsiriboti tik atlyginimu? O gal galima mąstyti apie tokį darbo modelį, kuriame darbuotojas gauna ne vien pinigus, bet ir mažesnę kasdienio gyvenimo naštą?
+
+Šis klausimas dar nebuvo socialinės sistemos planas. Nebuvo nei fondo, nei būsto, nei transporto, nei maisto paketo. Tačiau užrašuose atsirado mintis, kad įprastas verslas dažnai palieka žmogų vieną su visomis jo išlaidomis: nuoma, maistu, kelione į darbą, vaikais, sveikata ir nuolatine baime, kad viena nesėkmė sugriaus visą mėnesį.
+
+Todėl buvo pradėta svarstyti, ar mažas kooperatyvinis modelis galėtų veikti kitaip. Galbūt pradžioje tai būtų tik pietūs darbo metu, vėliau nuolaida savo gaminamai produkcijai, dar vėliau transporto parama arba mažas pagalbos fondas. Tai atrodė kukliai, bet būtent kuklumas saugojo mintį nuo tuščio pažado.
+
+Kartu atsirado ir pavojus. Jeigu įmonė pradeda rūpintis per daug žmogaus gyvenimo sričių, ji gali tapti ne pagalba, o priklausomybe. Todėl labai anksti iškilo klausimas apie ribas: ką darbuotojas gauna, ką jis įsipareigoja, kaip jis gali išeiti ir kaip apsaugoma jo laisvė.
+
+Šis įrašas tapo vienu pirmųjų bandymų galvoti apie darbą ne tik kaip apie atlyginimo vietą. Jame dar nėra atsakymo, bet jau atsiranda kryptis: ateities modelis turės būti vertinamas ne pagal tai, kiek gražių žodžių jis pasako apie žmogų, o pagal tai, kiek realios kasdienės naštos jis sugeba sumažinti.
 
 SEO:
 SEO title: Ar įmonė gali geriau aprūpinti darbuotojus?
@@ -105,8 +131,16 @@ Data: 2026-02-23
 Rubrika: Būstas
 Pavadinimas: Atsirado pirmoji mintis apie darbuotojų būstą prie būsimos gamybos vietos
 
-SĄMPRATA:
-Kooperatyvo idėja ima plėstis: jeigu žmonės dirba vienoje sistemoje, ar galima šalia kurti ir gyvenamąją aplinką? Čia atsiranda ankstyvas darbuotojų būsto klausimas, bet kartu ir baimė: kaip padaryti, kad tai neatrodytų kaip uždara stovykla ar priklausomybė nuo darbdavio.
+STRAIPSNIS:
+Vasario pabaigoje prie gamybos ir darbo klausimų prisidėjo dar vienas sluoksnis: būstas. Jeigu žmonės dirbtų vienoje mažoje sistemoje, ar būtų prasminga šalia jos kurti ir gyvenamąją aplinką? Iš pirmo žvilgsnio tai atrodė kaip natūralus tęsinys, bet kartu iškart iškėlė labai sudėtingų klausimų.
+
+Pirmoji mintis nebuvo apie miestą. Ji buvo daug mažesnė: galbūt keli darbuotojai galėtų gyventi arčiau darbo, galbūt būtų galima sukurti nedidelį būstą, laikinas gyvenamąsias vietas ar paprastą modulį. Tai buvo ne urbanistinė programa, o bandymas suprasti, ar darbas ir gyvenimas gali būti sujungti taip, kad žmogui būtų lengviau, o ne sunkiau.
+
+Labai anksti atsirado ir atsargumas. Darbuotojo būstas prie įmonės gali tapti pagalba, bet gali tapti ir priklausomybės forma. Jeigu žmogus praranda darbą, ar jis netenka ir namų? Jeigu jis nesutinka su taisyklėmis, ar gali išeiti be baimės? Tokie klausimai neleido minties paversti paprasta gražia schema.
+
+Todėl būsto idėja šiame etape liko kaip klausimas, o ne sprendimas. Užrašuose vis dažniau kartojosi mintis, kad bet koks būsimas gyvenamasis modelis turi būti savanoriškas, aiškus ir apsaugotas nuo savivalės. Būstas negali būti atlygio pakaitalas ar būdas laikyti žmogų sistemoje.
+
+Ši vasario publikacija svarbi todėl, kad ji pirmą kartą parodė būsimą ryšį tarp gamybos, darbo ir gyvenamosios aplinkos. Ateities miestelis dar nebuvo planuojamas, bet jau buvo aišku, kad vien gamyklos neužteks. Jeigu norima kalbėti apie kitokią tvarką, teks kalbėti ir apie tai, kur žmogus grįžta po darbo.
 
 SEO:
 SEO title: Pirmoji darbuotojų būsto idėja 2026 m.
@@ -122,8 +156,16 @@ Data: 2026-03-10
 Rubrika: Savęs tobulinimas
 Pavadinimas: Pradėta svarstyti blaivios ir saugios darbo aplinkos taisyklių kryptis
 
-SĄMPRATA:
-Atsiranda mintis apie taisykles: alkoholis, narkotikai, saugumas, disciplina. Tačiau iškart kyla pavojingas klausimas: kaip sukurti tvarką, kuri saugo žmones, bet nevirsta kalėjimu? Šis įrašas turi rodyti ne draudimų triumfą, o pirmą rimtą ribos paiešką.
+STRAIPSNIS:
+Kovo pradžioje atsirado pirmos mintys apie taisykles. Jeigu ateityje būtų kuriama bendra darbo ir gyvenimo aplinka, ji negalėtų būti palikta vien gerai nuotaikai ar gražiems pažadams. Reikėtų ribų, saugumo ir susitarimų, kurie saugotų ne abstrakčią idėją, o konkrečius žmones.
+
+Pirmiausia iškilo blaivios aplinkos klausimas. Alkoholio, narkotikų, agresijos ir neatsakingo elgesio tema pasirodė ne kaip moralinis šūkis, o kaip praktinis saugumo klausimas. Jeigu žmonės dirba su maistu, gyvena šalia vieni kitų ir pasitiki bendra sistema, jie turi žinoti, kad aplinka nebus nuolat ardoma priklausomybių ar chaoso.
+
+Tačiau tuo pačiu metu atsirado ir kita baimė. Griežtos taisyklės gali saugoti, bet gali ir sukurti uždarą, nemalonią, kontroliuojančią sistemą. Todėl ankstyvuose užrašuose vis dažniau atsirado mintis, kad draudimas pats savaime nėra sprendimas. Reikia procedūrų, aiškių teisių, pagalbos galimybių ir sąžiningo išėjimo kelio.
+
+Svarbu tai, kad ši taisyklių kryptis dar nebuvo kodeksas. Tai buvo tik pirmas bandymas suprasti, kaip suderinti bendrą saugumą ir asmeninę laisvę. Jei kada nors tokia sistema atsirastų, ji negalėtų remtis vien pasitikėjimu, bet ir negalėtų tapti nuolatiniu įtarinėjimu.
+
+Kovo įrašas vėliau tapo vienu iš ankstyvų ženklų, kad būsimas modelis turės spręsti ne tik ekonomiką. Jis turės atsakyti ir į žmogaus elgesio, ribų, priklausomybių, pasitikėjimo bei atsakomybės klausimus. Be šių dalykų net geriausia gamyba gali virsti tik dar viena silpna darbo vieta.
 
 SEO:
 SEO title: Blaivios darbo aplinkos idėja 2026 m.
@@ -139,8 +181,16 @@ Data: 2026-03-25
 Rubrika: Vystymasis
 Pavadinimas: Mažo kooperatyvo mintis pirmą kartą išsiplėtė iki būsimo gyvenamojo miestelio klausimo
 
-SĄMPRATA:
-Tai pirmasis mastelio šuolis: jeigu galima turėti gamybą, darbuotojus, būstą ir taisykles, ar tai jau gali tapti miesteliu? Dar nėra plano, tik fantazijos peraugimas į didesnį klausimą. Svarbu išlaikyti gyvą abejonę, ne oficialų toną.
+STRAIPSNIS:
+Kovo pabaigoje mažo kooperatyvo klausimas pirmą kartą išsiplėtė taip, kad vien gamybos jam jau nebeužteko. Jeigu yra darbas, produktas, darbuotojai, būstas ir taisyklės, ar tai vis dar tik įmonė? O gal iš tokių dalių pamažu gali atsirasti naujo tipo gyvenamoji vieta?
+
+Ši mintis dar nebuvo miesto planas. Nebuvo žemėlapių, architektūros, biudžeto ar aiškaus pavadinimo. Veikiau tai buvo netikėtas suvokimas, kad paprastas klausimas apie gamybą paliečia daug platesnį lauką: kaip žmonės gyvena, ką valgo, kaip keliauja į darbą, kaip augina vaikus ir kaip jaučiasi savo aplinkoje.
+
+Toks išsiplėtimas kėlė ir įkvėpimą, ir nerimą. Mažas kooperatyvas atrodė dar įsivaizduojamas, o gyvenamasis miestelis jau reikalavo daug didesnės atsakomybės. Jei apie tai kalbama per anksti, lengva sukurti tuščią utopiją. Jei nekalbama visai, dingsta supratimas, kur link veda pirmieji žingsniai.
+
+Todėl kovo pabaigos užrašuose miestelio idėja liko kaip tolimas klausimas. Buvo svarbu neužbėgti į priekį ir nevaidinti, kad viskas jau aišku. Tuo metu dar nebuvo net pirmo produkto, todėl kalbėti apie miestą buvo galima tik labai atsargiai, kaip apie galimą kryptį, o ne pažadą.
+
+Vis dėlto šis įrašas tapo svarbus todėl, kad pirmą kartą parodė mastelio augimą. Ateities modelis pradėjo atrodyti ne kaip verslo patobulinimas, o kaip galimas kitos kasdienybės daigas. Bet tas daigas dar turėjo įrodyti, kad geba išaugti iš žemės, o ne tik gražiai atrodyti užrašuose.
 
 SEO:
 SEO title: Nuo kooperatyvo iki miestelio idėjos 2026 m.
@@ -156,8 +206,16 @@ Data: 2026-04-07
 Rubrika: Kultūra
 Pavadinimas: Iškilo mintis apie knygą, kurioje būtų galima parodyti ateities šalį
 
-SĄMPRATA:
-Atsiranda literatūrinis kelias. Jeigu ekonominės schemos dar neaiškios, ateities šalį galima pradėti rodyti per pasakojimą. Knyga čia ne reklama ir ne propaganda, o saugesnis būdas mąstyti apie visuomenę, žmones, miestus, taisykles ir vidinius prieštaravimus.
+STRAIPSNIS:
+Balandžio pradžioje atsirado mintis, kad kai kurių klausimų neįmanoma išspręsti vien schemomis. Ekonomiką galima skaičiuoti, būstą galima braižyti, taisykles galima dėlioti punktais, tačiau žmogaus jausmo, baimės ir pasirinkimo taip lengvai į lentelę neįdėsi. Tam reikėjo kito kelio.
+
+Taip pirmą kartą rimčiau pasirodė knygos idėja. Ne kaip reklaminis tekstas ir ne kaip būsimos sistemos šlovinimas, o kaip galimybė parodyti ateities šalį per žmogų, kuris joje gyvena, abejoja, klausia ir mato daugiau, negu matoma oficialiuose dokumentuose. Literatūra čia galėjo tapti saugesne vieta mąstyti apie sudėtingus dalykus.
+
+Knygos mintis buvo svarbi dar ir todėl, kad ji leido atskirti du sluoksnius. Vienas sluoksnis - praktinis: gamyba, darbas, būstas, taisyklės, pinigai. Kitas - pasakojimo: kokie žmonės gyvens toje ateityje, kokios bus jų vidinės ribos, kokios paslaptys slėpsis už tvarkingos išorės. Abu sluoksniai negalėjo pakeisti vienas kito, bet galėjo vienas kitą papildyti.
+
+Tuo metu dar nebuvo aišku, koks bus knygos siužetas. Tačiau jau buvo jaučiama, kad ateities pasaulis neturi būti tik šviesus plakatas. Jame turi būti įtampa, klausimai, nežinomybė, technologijos, žmogaus vienatvė ir galbūt paslėptas valdymo sluoksnis, kurį skaitytojas atras ne iš karto.
+
+Balandžio pradžios įrašas pažymi momentą, kai projektas nustojo būti vien ekonominiu klausimu. Jis pradėjo ieškoti savo pasakojimo. O be pasakojimo net pati tiksliausia sistema lieka negyva, nes žmogus tiki ne vien struktūromis, bet ir istorijomis, kuriose gali atpažinti savo baimę bei viltį.
 
 SEO:
 SEO title: Knygos apie ateities šalį idėja 2026 m.
@@ -173,8 +231,16 @@ Data: 2026-04-24
 Rubrika: Vystymasis
 Pavadinimas: Balandžio pabaigoje tapo aišku, kad klausimų daugiau nei atsakymų
 
-SĄMPRATA:
-Svarbus sąžiningas lūžis: iki balandžio pabaigos projektas nepasistūmėjo į aiškią sistemą, bet išsiplėtė tiek, kad jo nebeįmanoma sutalpinti į vieną mažą kooperatyvo idėją. Reikia ekonomikos, teisės, svetainės, knygos, chronologijos ir ateities modelio.
+STRAIPSNIS:
+Balandžio pabaigoje ankstyvas sumanymas jau buvo išaugęs tiek, kad jo nebebuvo galima pavadinti vienu klausimu. Pradėta nuo galimo kooperatyvo prie Rūdiškių, bet labai greitai šalia atsirado gamyba, darbuotojai, būstas, taisyklės, blaivi aplinka, svetainė, knyga ir ateities chronologija.
+
+Tai nebuvo patogus etapas. Kuo daugiau buvo užrašoma, tuo aiškiau matėsi, kiek daug dar nėra suprasta. Nebuvo aišku, koks produktas galėtų išlaikyti žmones. Nebuvo aišku, kokia teisinė forma būtų tinkamiausia. Nebuvo aišku, kaip atskirti asmeninę fantaziją nuo projekto, kuris kada nors galėtų būti rodomas kitiems.
+
+Šis neaiškumas galėjo atrodyti kaip silpnumas, bet iš tikrųjų jis tapo svarbiu apsauginiu sluoksniu. Jei 2026 metais būtų buvę per greitai paskelbta apie didelę sistemą, ji būtų skambėjusi netikrai. Klausimų gausa priminė, kad pradžioje svarbiausia ne apsimesti, jog viskas žinoma, o sąžiningai surinkti viską, kas dar neatsakyta.
+
+Būtent tuo metu pradėjo ryškėti poreikis ilgesnei struktūrai. Reikėjo ne vien atskirų užrašų, bet kelio, kuriame būtų matyti, kaip vienas klausimas gimdo kitą. Reikėjo tokios svetainės ir tokios chronologijos, kurios galėtų parodyti ne tik ateities rezultatą, bet ir ilgą nepatogų kelią iki jo.
+
+Todėl balandžio pabaigos įrašas svarbus kaip pirmas pripažinimas: projektas dar neturi atsakymų, bet jau turi pakankamai klausimų, kad jų nebūtų galima palikti užrašų stalčiuje. Kartais pradžia sustiprėja ne tada, kai atsiranda planas, o tada, kai žmogus pagaliau pamato tikrą darbo dydį.
 
 SEO:
 SEO title: 2026 m. balandį BVK tapo dideliu klausimu
@@ -190,8 +256,16 @@ Data: 2026-05-08
 Rubrika: Technologijos
 Pavadinimas: Pirmą kartą rimtai svarstyta svetainė kaip langas į 2086 metų ateitį
 
-SĄMPRATA:
-Idėja pereina į skaitmeninį formatą: ne paprastas tinklaraštis, o svetainė, kurioje skaitytojas patenka tarsi į ateities naujienų portalą. Tai dar tik sumanymas, bet jis pakeičia visą projekto kryptį.
+STRAIPSNIS:
+Gegužės pradžioje atsirado idėja, kuri pakeitė visą projekto formą. Svetainė galėtų būti ne paprastas tinklaraštis ir ne įprastas projekto pristatymas. Ji galėtų veikti kaip langas į ateitį - tarsi skaitytojas netikėtai atsidurtų 2086 metų naujienų portale ir tik vėliau suprastų, kad prieš jį ne tik naujienos, bet ir kuriamas pasaulis.
+
+Ši mintis buvo rizikinga, nes lengvai galėjo atrodyti kaip žaidimas. Tačiau joje buvo ir stipri galimybė. Užuot aiškinus projektą sausais punktais, būtų galima leisti žmogui pajusti ateities kasdienybę: rubrikas, datas, įvykius, archyvus, dokumentus ir lėtai atsiveriančią istoriją.
+
+Svarbu tai, kad svetainė nebuvo sugalvota kaip 2086 metais atgal sukurtas archyvas. Ji turėjo prasidėti 2026 metais kaip gyvas projektas, o jos turinys pamažu augtų kartu su pačia idėja. Skaitytojas ateityje galėtų matyti ir brandžias 2086 metų naujienas, ir senus ankstyvus 2026 metų įrašus, kuriuose dar daug abejonių.
+
+Ši forma leido sujungti kelis sluoksnius. Viename lygyje svetainė galėjo atrodyti kaip ateities portalas. Kitame lygyje ji galėjo būti darbo archyvas, kuriame fiksuojama, kaip iš mažo klausimo atsiranda vis didesnė sistema. Tai suteikė projektui ne tik turinį, bet ir laiko pojūtį.
+
+Gegužės 8 dienos įrašas vėliau tapo vienu svarbiausių skaitmeninės formos pradžios taškų. Jis parodė, kad ateities Respublika pirmiausia gali gimti ne aikštėje, ne institucijoje ir ne įstatyme, o svetainėje, kurioje žmogus pradeda skaityti ir pamažu supranta, kad pateko į ilgesnę istoriją.
 
 SEO:
 SEO title: Svetainės kaip lango į 2086 metus idėja
@@ -207,8 +281,16 @@ Data: 2026-05-21
 Rubrika: Archyvas
 Pavadinimas: Pradėtas skirti viešas ateities sluoksnis ir vidiniai darbo užrašai
 
-SĄMPRATA:
-Atsiranda būtinybė ne viską rodyti vienodai. Vieni tekstai skirti skaitytojui, kiti - darbo kanonui, treti - dar tik chaotiški klausimai. Čia gimsta būsima viešo ir vidinio sluoksnio logika.
+STRAIPSNIS:
+Kai svetainės idėja pradėjo aiškėti, iškart atsirado klausimas, ar viskas turi būti rodoma vienodai. Vieni tekstai galėtų būti skirti skaitytojui, kiti reikalingi tik darbo tvarkai, o treti dar per anksti gimstantys, nešvarūs, pilni prieštaravimų ir klaidų. Visų jų negalima buvo sumesti į vieną vietą.
+
+Taip atsirado pirmas viešo ir vidinio sluoksnio skirtumas. Viešas sluoksnis turėjo būti aiškesnis, švaresnis ir suprantamas skaitytojui. Vidinis sluoksnis turėjo likti ten, kur galima klysti, taisyti, ginčytis su pačiu tekstu ir keisti kryptį, kol idėja dar nėra pasirengusi būti rodoma.
+
+Šis atskyrimas nebuvo slaptumo žaidimas. Jis buvo reikalingas tam, kad projektas nesugriūtų nuo savo paties netvarkos. Jeigu kiekviena mintis iš karto tampa viešu tekstu, skaitytojas greitai pasimeta. Jeigu viskas lieka tik viduje, projektas niekada neišeina į gyvą lauką.
+
+Gegužės pabaigoje pradėjo ryškėti ir būsimo kanono logika. Reikės dokumentų, kurie pasako, kas jau laikoma priimta, kas dar tik svarstoma, kas yra vieša, o kas turi būti matoma tik darbo sluoksnyje. Tuo metu tai dar nebuvo tvarkingas archyvas, bet pirmoji riba jau buvo nubrėžta.
+
+Šis įrašas svarbus todėl, kad čia atsiranda būsimo dokumentinio pasaulio disciplina. Idėja suprato, kad jai neužteks vien gražių straipsnių. Jai reikės atminties, sluoksnių ir taisyklių, leidžiančių ateityje nepasimesti tarp to, kas buvo klausimas, kas buvo klaida ir kas tapo kanonu.
 
 SEO:
 SEO title: Viešo ir vidinio BVK sluoksnio pradžia
@@ -224,8 +306,16 @@ Data: 2026-06-06
 Rubrika: Vystymasis
 Pavadinimas: Pradėtos dėlioti pirmosios būsimos svetainės rubrikos
 
-SĄMPRATA:
-Svetainės idėja gauna pirmą turinio karkasą: vystymasis, archyvas, ekonomika, teisė, švietimas, technologijos, bendruomenė. Tai dar ne institucijos, o tik būsimi langai į skirtingus projekto sluoksnius.
+STRAIPSNIS:
+Birželio pradžioje svetainė pradėjo įgauti ne tik idėją, bet ir pirmą turinio karkasą. Jeigu ji turėjo būti langas į ateitį, reikėjo suprasti, pro kokius langus skaitytojas žiūrės. Taip atsirado pirmos rubrikos: vystymasis, archyvas, ekonomika, darbas, būstas, technologijos, kultūra ir teisė.
+
+Svarbu pabrėžti, kad šios rubrikos dar nereiškė institucijų. Nebuvo ministerijų, nebuvo veikiančių tarnybų, nebuvo oficialios sistemos. Tai buvo tik teminės lentynos, kuriose vėliau galėtų kauptis tekstai. Ankstyvame etape net rubrikų pavadinimai buvo daugiau orientyrai negu galutinės struktūros.
+
+Rubrikų dėliojimas padėjo pamatyti, kad projektas nėra vienas tekstas. Jis turės kalbėti apie ekonomiką ir tuo pačiu apie žmogų, apie dokumentus ir tuo pačiu apie istorijas, apie ateitį ir tuo pačiu apie labai ankstyvą dabartį. Be tokios struktūros svetainė būtų greitai virtusi atsitiktinių idėjų krūva.
+
+Kartu buvo aišku, kad 2026 metų tekstai turi skirtis nuo vėlesnių metų tekstų. Jie negali skambėti taip, lyg juos rašytų brandžios Respublikos informacijos centras. Jie turi rodyti pačią pradžią: laisvesnę, kartais nepatogią, dar ieškančią tikslaus balso.
+
+Birželio 6 dienos įrašas žymi pirmą bandymą sudėlioti būsimo portalo kambarius. Juose dar nebuvo daug turinio, bet jau atsirado vieta, kur tas turinys galėtų augti. O projektui, kuris nori kalbėti apie šešiasdešimties metų kelią, net lentynos tampa svarbia pradžios dalimi.
 
 SEO:
 SEO title: Pirmosios BVK svetainės rubrikos 2026 m.
@@ -241,8 +331,16 @@ Data: 2026-06-27
 Rubrika: Archyvas
 Pavadinimas: Sukurtas pirmasis sąrašas dalykų, kurių dar reikės būsimam kanonui
 
-SĄMPRATA:
-Paaiškėja darbo mastas: reikės chronologijos, terminų, dokumentų, ekonomikos, taisyklių, vaizdų, publikacijų, teisinių tekstų, darbuotojų modelio ir ateities portalo logikos. Tai ne pasiekimas, o sąrašas trūkumų.
+STRAIPSNIS:
+Birželio pabaigoje pirmą kartą buvo sudarytas ne idėjų, o trūkstamų dalykų sąrašas. Tai atrodė mažiau įkvepiančiai negu ateities naujienos ar knygos vaizdiniai, bet buvo daug naudingiau. Projektas pradėjo matyti ne tik tai, ką nori pasakyti, bet ir tai, ko dar neturi.
+
+Sąraše atsirado chronologija, terminai, dokumentų taisyklės, ekonomikos modeliai, darbo principai, būsto klausimai, viešas portalas, archyvas, publikacijų ritmas, vaizdų logika ir būsimi teisės tekstai. Kiekvienas punktas rodė ne pasiekimą, o spragą. Tačiau būtent spragų matymas leido neapsimesti, kad viskas jau paruošta.
+
+Šis etapas buvo svarbus dar ir todėl, kad jame pirmą kartą išryškėjo kanono poreikis. Jeigu idėja turi gyventi ilgiau negu vienas pokalbis ar viena svetainės versija, jai reikia atminties. Reikia vietos, kur matyti, kas priimta, kas pakeista, kas atšaukta ir kodėl vienas sprendimas atsirado po kito.
+
+Tuo metu dar nebuvo tobulo failų medžio. Nebuvo aiškios redakcijų tvarkos. Tačiau jau buvo suprasta, kad be tokios tvarkos projektas praras pats save. Kiekviena nauja mintis stums seną, o po kelių mėnesių nebebus įmanoma atsekti, kodėl vienas terminas pakeitė kitą.
+
+Todėl šis birželio įrašas turi būti skaitomas kaip labai ankstyvas kanono disciplinos gimimas. Jis neturi didelio išorinio blizgesio, bet be jo ateities pasaulis būtų likęs padrikas. Kartais rimtas projektas prasideda ne nuo įkvepiančios frazės, o nuo ilgo sąrašo dalykų, kurių dar nėra.
 
 SEO:
 SEO title: Pirmasis BVK kanono darbų sąrašas
@@ -258,8 +356,16 @@ Data: 2026-07-11
 Rubrika: Technologijos
 Pavadinimas: AI pradėtas naudoti ne atsakymams pakeisti, o klausimams plėsti
 
-SĄMPRATA:
-Dirbtinis intelektas tampa mąstymo partneriu. Ne valdytoju, ne autoritetu, o įrankiu, kuris padeda išplėsti klausimų lauką: ekonomika, teisė, gamyba, miestas, ateitis, chronologija.
+STRAIPSNIS:
+Liepos mėnesį dirbtinis intelektas pirmą kartą pradėtas suvokti ne tik kaip tekstų pagalbininkas, bet kaip būdas plačiau mąstyti apie pačią sistemą. Jis nebuvo laikomas autoritetu ir negalėjo nuspręsti, kokia ateitis turi būti. Tačiau jis padėjo pamatyti klausimus, kurių vienam žmogui būtų buvę sunku greitai sujungti.
+
+AI buvo naudojamas kaip įrankis: struktūruoti temas, tikrinti prieštaravimus, ieškoti galimų skyrių, palyginti skirtingas kryptis, matyti silpnąsias vietas. Tai buvo ypač svarbu, nes projektas vienu metu lietė ekonomiką, teisę, gamybą, svetainę, knygą, miestą ir ilgą istorinę liniją.
+
+Šiame etape AI dar jokiu būdu nebuvo valdymo sistema. Jis nebuvo teisėjas, taryba, institucija ar būsimas valdžios centras. 2026 metais jis buvo labiau veidrodis, kuris padeda išplėsti klausimą ir kartais parodo, kad gražiai skambanti mintis iš tikrųjų turi vidinį prieštaravimą.
+
+Toks naudojimas turėjo ir rizikų. Per lengva pradėti tikėti, kad sugeneruota struktūra jau yra sprendimas. Todėl užrašuose vis dažniau atsirado atsargumas: AI gali padėti mąstyti, bet jis negali pakeisti atsakomybės, patirties, teisės, ekonominių skaičiavimų ir žmogaus sprendimo.
+
+Liepos 11 dienos įrašas svarbus todėl, kad čia atsiranda būsimo santykio su technologija pradžia. Technologija gali padėti tvarkyti sudėtingumą, bet ji negali tapti pasiteisinimu nemąstyti. Jei ateityje ji kada nors turės didesnį vaidmenį, jos pradžia vis tiek lieka kukli: klausimai, struktūra ir bandymas nepasimesti.
 
 SEO:
 SEO title: AI kaip BVK klausimų plėtimo įrankis
@@ -275,8 +381,16 @@ Data: 2026-07-24
 Rubrika: Archyvas
 Pavadinimas: Pradėta dėlioti ilga 2026-2086 metų įvykių grandinė
 
-SĄMPRATA:
-Jeigu svetainė rodo 2086 metus, reikia suprasti, kaip į juos ateinama. Ši publikacija žymi pirmą bandymą dėlioti ne vien ateities vaizdą, bet visą kelią iki jo.
+STRAIPSNIS:
+Jeigu svetainė turėjo rodyti 2086 metų pasaulį, reikėjo suprasti, kaip tas pasaulis iki ten ateina. Vien paskelbti brandžios ateities naujienas būtų buvę per paprasta ir per netikra. Skaitytojas turėtų jausti, kad už jų yra dešimtmečiai sprendimų, klaidų, bandymų ir lėtų posūkių.
+
+Liepos pabaigoje pradėta dėlioti ilga įvykių grandinė nuo 2026 iki 2086 metų. Iš pradžių ji buvo labai neapibrėžta. Kai kuriose vietose buvo tik metai, kitur viena mintis, dar kitur klausimas, ar toks įvykis apskritai galėtų būti logiškas. Tačiau pati grandinės idėja pakeitė projekto mastą.
+
+Chronologija leido pamatyti, kad ateitis negali atsirasti iš karto. Tarp pirmo klausimo apie kooperatyvą ir brandžios Respublikos turi būti daugybė tarpsnių: svetainė, skaitytojai, pirmos diskusijos, teisinės formos, gamyba, darbuotojai, fondas, būstas, paslaugos, miestelis, o tik tada platesnė sistema.
+
+Šis darbas taip pat parodė, kad reikia vengti per ankstyvo oficialumo. Jei 2026 metų tekstai skamba taip, lyg jau veiktų brandi valstybė, visa chronologija tampa netikra. Todėl ankstyvi metai turi išlaikyti savo nepatogumą, o vėlesni metai turi pamažu keisti toną.
+
+Liepos 24 dienos įrašas yra vienas svarbiausių archyvinės logikos taškų. Jis pradeda ne tik metų sąrašą, bet ir reikalavimą: kiekvienas būsimas įvykis turi turėti kelią iki savęs. Ateitis turi būti ne nukritusi iš dangaus, o išaugusi iš ankstesnių pasirinkimų.
 
 SEO:
 SEO title: Pradėta BVK 2026-2086 įvykių grandinė
@@ -292,8 +406,16 @@ Data: 2026-08-10
 Rubrika: Kultūra
 Pavadinimas: Atsirado ateities istorijų sluoksnio idėja
 
-SĄMPRATA:
-Projektas negali būti vien schemos ir taisyklės. Reikia istorijų, žmonių, fragmentų, dokumentų, ateities kasdienybės. Tai būsimo literatūrinio ir dokumentinio pasaulio pradžia.
+STRAIPSNIS:
+Rugpjūčio pradžioje tapo aiškiau, kad projektui neužteks vien dokumentų ir chronologijos. Jei skaitytojas turi tik datas, rubrikas ir principus, jis gali suprasti sistemą, bet nebūtinai pajus jos gyvenimą. Ateities pasauliui reikėjo istorijų sluoksnio.
+
+Šis sluoksnis turėjo būti ne dekoracija, o būdas parodyti žmonių kasdienybę. Kaip žmogus ateina į darbą? Kaip jis gauna maistą? Kaip atrodo senas miestas šalia naujo kooperatyvinio mazgo? Kaip šeima jaučiasi sistemoje, kuri žada saugumą, bet kartu reikalauja atsakomybės? Tokie klausimai negimsta iš sausų įstatymų.
+
+Ateities istorijų sluoksnis taip pat padėjo atskirti oficialią ir gyvą kalbą. Dokumentai gali pasakyti, kokia yra norma. Pasakojimai gali parodyti, kaip ta norma veikia žmogų. Vienas be kito abu sluoksniai būtų silpnesni: dokumentai taptų negyvi, o istorijos prarastų atramą.
+
+Šiame etape dar nebuvo aišku, kiek tokių istorijų reikės ir kokia jų forma bus tinkamiausia. Galbūt tai bus romano fragmentai, galbūt archyvinės ištraukos, galbūt trumpi ateities miesto epizodai. Svarbiausia buvo tai, kad projektas pradėjo suvokti save ne tik kaip planą, bet ir kaip pasakojamą pasaulį.
+
+Rugpjūčio 10 dienos įrašas žymi tą momentą, kai ateities Respublika pradėjo gauti ne tik struktūrą, bet ir atmosferą. O atmosfera svarbi todėl, kad skaitytojas dažnai pirmiausia patiki ne formule, o gyvu vaizdu, kuriame jaučia, kad toks pasaulis galėtų turėti savo rytą, triukšmą, nuovargį ir tylą.
 
 SEO:
 SEO title: Ateities istorijų sluoksnis BVK projekte
@@ -309,8 +431,16 @@ Data: 2026-08-29
 Rubrika: Vystymasis
 Pavadinimas: Vietinė idėja pradėjo virsti Baltijos masto klausimu
 
-SĄMPRATA:
-Mąstymas plečiasi nuo Rūdiškių ir Lietuvos link platesnės Baltijos erdvės. Dar nėra galutinio pavadinimo ar politinės formos, bet atsiranda kryptis: Litva, Latvija ir Estija kaip būsimas bendras laukas.
+STRAIPSNIS:
+Rugpjūčio pabaigoje ankstyva vietinė idėja pradėjo plėstis geografiškai. Pradžia vis dar buvo susijusi su Rūdiškėmis ir jų apylinkėmis, tačiau vien vietinio masto jau nebeužteko. Jei ateityje kalbama apie platesnę socialinę ir ekonominę tvarką, reikia klausti, kokiai erdvei ji priklauso.
+
+Taip atsirado Baltijos masto klausimas. Ne kaip politinis pareiškimas, ne kaip pasirengusi valstybės forma, o kaip kultūrinė ir geografinė kryptis. Lietuva, Latvija ir Estija pradėjo atrodyti ne kaip abstraktus fonas, bet kaip galima būsimo pasaulio teritorija, turinti skirtingus miestus, kalbas, kelius ir istorinius sluoksnius.
+
+Ši mintis buvo svarbi todėl, kad ji apsaugojo projektą nuo per siauro užsidarymo vienoje vietoje. Rūdiškės galėjo likti istoriniu pradžios tašku, bet būsimas pasaulis turėjo turėti platesnį kvėpavimą. Kitaip jis būtų atrodęs kaip vieno miestelio fantazija, o ne ilgo regioninio virsmo galimybė.
+
+Kartu buvo aišku, kad negalima per greitai kalbėti apie valstybę. 2026 metais nebuvo jokio Baltijos politinio darinio, jokios veikiančios Respublikos ir jokio bendro valdymo kontūro. Buvo tik supratimas, kad jeigu idėja kada nors išaugtų, ji turėtų mokėti mąstyti ne tik vietiškai, bet ir regioniškai.
+
+Rugpjūčio 29 dienos įrašas pirmą kartą atveria platesnį žemėlapį. Jis neperkelia projekto iš karto į didžiąją politiką, bet leidžia pamatyti, kad mažas klausimas prie Rūdiškių gali turėti ilgą kelią per visą Baltijos erdvę. Tai dar ne atsakymas, bet jau nebe vienas taškas žemėlapyje.
 
 SEO:
 SEO title: Nuo Rūdiškių iki Baltijos masto klausimo
@@ -326,8 +456,16 @@ Data: 2026-09-08
 Rubrika: Ekonomika
 Pavadinimas: Grįžta pagrindinis klausimas: ką reikėtų gaminti, kad modelis išsilaikytų?
 
-SĄMPRATA:
-Po svetainės ir ateities idėjų vėl grįžtama prie bazės: gamybos. Be parduodamo produkto nebus nei atlyginimų, nei būsto, nei produktų paketo, nei plėtros. Straipsnis turi būti blaivus ir skaičiuojantis.
+STRAIPSNIS:
+Rugsėjo pradžioje po svetainės, istorijų ir regioninio masto svarstymų projektas vėl grįžo prie paprasčiausio klausimo: ką reikėtų gaminti? Šis sugrįžimas buvo būtinas, nes be realaus produkto visi ateities vaizdiniai liktų tik gražia fikcija.
+
+Ekonominis klausimas šį kartą jau buvo aštresnis. Nebepakako pasakyti, kad galima kepti duoną ar auginti daržoves. Reikėjo klausti, kiek kainuos žaliavos, kiek žmonių reikės, kur bus parduodama, kaip bus išlaikoma kokybė ir ar iš pardavimo gali atsirasti ne tik atlyginimas, bet ir bent mažas bendras fondas.
+
+Maisto kryptis išliko stipri, nes ji jungė daug būsimų sluoksnių. Maistas gali būti parduodamas išorėje, bet taip pat gali grįžti į pačią sistemą kaip darbuotojų pietūs, nuolaida produkcijai ar ankstyvas produktų paketo bandymas. Šis ryšys tarp gamybos ir socialinės paramos tapo vis svarbesnis.
+
+Kartu buvo aišku, kad pirmasis produktas neturi būti per siauras. Vien duona gali būti simboliška, bet rizikinga. Platesnė maisto dirbtuvė - duona, paprasti patiekalai, pusgaminiai, sezoninės daržovių paruošos - atrodė lankstesnė, nes galėtų prisitaikyti prie paklausos ir darbuotojų poreikių.
+
+Rugsėjo 8 dienos įrašas primena, kad ateities modelio tikrumas prasidės ne nuo gražios svetainės ir ne nuo romano, o nuo gamybos stalo. Jeigu produktas neišlaiko savęs, jis neišlaikys ir didesnės idėjos. O jeigu išlaiko, tada pirmą kartą atsiranda pagrindas kalbėti apie daugiau.
 
 SEO:
 SEO title: Ką gaminti, kad kooperatyvo modelis išsilaikytų?
@@ -341,14 +479,22 @@ Photorealistic production feasibility desk scene, bread sample, vegetable crate,
 ĮRAŠAS 18
 Data: 2026-09-26
 Rubrika: Darbas
-Pavadinimas: Pirmą kartą surašytos būsimo darbuotojo-účastnika teisės ir pareigos kaip klausimai
+Pavadinimas: Pirmą kartą surašyti būsimo darbuotojo-dalyvio teisių ir pareigų klausimai
 
-SĄMPRATA:
-Dar ne taisyklės, ne kodeksas ir ne darbo sutartis. Tik klausimų rinkinys: ką žmogus gauna, ką įsipareigoja, kaip išeina, kaip saugoma jo šeima, kaip sistema netampa priklausomybe.
+STRAIPSNIS:
+Rugsėjo pabaigoje pradėjo aiškėti, kad būsimas darbuotojas negalės būti tik paprastas samdomas žmogus senąja prasme. Jeigu modelis kada nors turėtų kooperatyvinį pobūdį, darbuotojas taptų ir dalyviu, bet tai iškart iškėlė daug nepatogių klausimų.
+
+Ką toks žmogus gauna? Atlyginimą, maistą, nuolaidas, galbūt transportą, o vėliau ir būsto paramą? Ką jis įsipareigoja? Dirbti atsakingai, laikytis bendrų taisyklių, saugoti kokybę, neardyti aplinkos, dalyvauti bendro fondo kūrime? Šie klausimai dar nebuvo paversti taisyklėmis, tačiau jų buvo neįmanoma apeiti.
+
+Svarbiausias klausimas buvo laisvė. Jei žmogus tampa dalyviu, ar jis gali išeiti? Kas nutinka jo būstui, paramai, sukauptai daliai ar santykiui su bendru fondu? Ankstyvas modelis turėjo nuo pat pradžių vengti spąstų, kuriuose graži socialinė apsauga pavirsta priklausomybe nuo vienos sistemos.
+
+Todėl šis įrašas sąmoningai buvo surašytas klausimų forma. Dar nebuvo nei darbo kodekso, nei dalyvavimo taisyklių, nei teisinės struktūros. Tačiau jau buvo suprasta, kad teisės ir pareigos turi būti kuriamos kartu. Vien teisės be atsakomybės sugriautų sistemą, o pareigos be teisių padarytų ją neteisingą.
+
+Rugsėjo 26 dienos įrašas svarbus todėl, kad jame pirmą kartą pradeda ryškėti žmogaus vieta būsimoje sistemoje. Ne kaip dekoracija, ne kaip statistinis darbuotojas ir ne kaip pilietis iš tolimos ateities, o kaip konkretus žmogus, kuriam reikia aiškumo, saugumo ir galimybės pasirinkti.
 
 SEO:
-SEO title: Darbuotojo-účastnika klausimai 2026 m.
-Meta description: 2026 m. pirmą kartą surašyti būsimo darbuotojo-účastnika teisių, pareigų ir išėjimo klausimai.
+SEO title: Darbuotojo-dalyvio klausimai 2026 m.
+Meta description: 2026 m. pirmą kartą surašyti būsimo darbuotojo-dalyvio teisių, pareigų ir išėjimo klausimai.
 Slug: darbuotojo-dalyvio-klausimai-2026
 
 IMAGE PROMPT:
@@ -360,8 +506,16 @@ Data: 2026-10-09
 Rubrika: Teisė
 Pavadinimas: Paaiškėjo, kad būsimi draudimai turi būti saugikliai, o ne uždaros sistemos pradžia
 
-SĄMPRATA:
-Alkoholio ir narkotikų draudimo mintis peržiūrima atsargiau. Reikia ne vien drausti, bet kurti saugias procedūras, žmogaus teises, išėjimo galimybę ir apsaugą nuo savivalės.
+STRAIPSNIS:
+Spalio pradžioje buvo grįžta prie taisyklių temos, bet jau atsargiau. Ankstyvuose užrašuose blaivumo, saugumo ir disciplinos klausimai galėjo atrodyti kaip paprasti draudimai. Tačiau kuo daugiau apie tai buvo galvojama, tuo aiškiau darėsi, kad draudimas be procedūrų gali tapti pavojingas.
+
+Būsimoje darbo ir gyvenimo aplinkoje reikėtų saugoti žmones nuo chaoso, priklausomybių ir agresijos. Tačiau lygiai taip pat reikėtų saugoti žmogų nuo savivalės. Jei sistema gali ką nors uždrausti, ji turi aiškiai paaiškinti kodėl, kaip sprendžiami pažeidimai, ar yra pagalba, ar yra apeliacija, ar žmogus gali išeiti be pažeminimo.
+
+Šis suvokimas buvo svarbus, nes jis neleido ankstyvai idėjai pavirsti uždaros bendruomenės fantazija. Saugumas neturi reikšti nuolatinės kontrolės. Tvarka neturi reikšti tylos. Bendra aplinka turi būti ginama, bet ji negali būti ginama taip, kad žmogus netektų savo orumo.
+
+Todėl spalio įrašuose atsirado žodis "saugikliai". Tai dar nebuvo teisinė sąvoka, bet ji padėjo atskirti toną. Būsimos taisyklės turi būti ne bausmių rinkinys, o būdas saugoti bendrą darbą, šeimas, vaikus, produktą ir pačią pasitikėjimo galimybę.
+
+Spalio 9 dienos įrašas parodo, kad projektas pradėjo mokytis atsargumo. Kiekviena stipri taisyklė turi turėti ribą, o kiekvienas draudimas turi būti pateisinamas ne noru valdyti žmogų, bet būtinybe apsaugoti bendrą erdvę nuo to, kas ją tikrai ardo.
 
 SEO:
 SEO title: Draudimai kaip saugikliai, ne uždara sistema
@@ -377,8 +531,16 @@ Data: 2026-10-28
 Rubrika: Archyvas
 Pavadinimas: Pradėti pirmieji būsimos teisės, būsto ir darbo dokumentų juodraščiai
 
-SĄMPRATA:
-Prasideda dokumentų sluoksnis, bet jis dar nėra teisė. Tai būsimi klausimų ir principų juodraščiai: darbas, būstas, dalyvavimas, šeima, saugumas, bendras fondas.
+STRAIPSNIS:
+Spalio pabaigoje ankstyvi klausimai pradėjo virsti dokumentų juodraščiais. Tai dar nebuvo teisė, nebuvo kodeksai ir nebuvo jokia oficiali sistema. Tai buvo bandymas surašyti temas taip, kad vėliau jos galėtų būti tikrinamos, taisomos ir jungiamos į ilgesnį kanoną.
+
+Pirmieji dokumentų juodraščiai sukosi apie darbą, būstą, dalyvavimą, šeimą, saugumą ir bendrą fondą. Jie dar buvo netobuli, kartais per platūs, kartais per griežti, kartais labiau panašūs į klausimų sąrašus negu į norminius tekstus. Tačiau būtent tokia forma tuo metu ir buvo sąžiningiausia.
+
+Šie juodraščiai padėjo atskirti, kas yra viešas tekstas ir kas yra darbo medžiaga. Viešoje svetainėje galima rodyti aiškesnius straipsnius, o vidiniame sluoksnyje turi likti vietos nebaigtoms formuluotėms. Jei viskas per anksti būtų paskelbta kaip galutinė tiesa, projektas prarastų galimybę mokytis.
+
+Dokumentų pradžia taip pat parodė, kad idėja pamažu tampa rimtesnė. Kol mintys gyvena tik pastraipose, jas lengva keisti pagal nuotaiką. Kai jos įdedamos į failus, gauna datas, versijas ir ryšius su kitais dokumentais, atsiranda atsakomybė prieš pačią eigą.
+
+Spalio 28 dienos įrašas žymi ankstyvą teisės ir archyvo susitikimą. Dar nebuvo ką priimti, bet jau buvo ką saugoti. O kartais kanonas prasideda būtent tada, kai nebaigti tekstai pirmą kartą pripažįstami kaip būsimos atminties dalis.
 
 SEO:
 SEO title: Pirmieji BVK darbo ir būsto dokumentų juodraščiai
@@ -394,8 +556,16 @@ Data: 2026-11-08
 Rubrika: Technologijos
 Pavadinimas: AI pradėtas matyti kaip būsimas koordinavimo įrankis, ne kaip valdžia
 
-SĄMPRATA:
-Atsiranda būsimo BVK kaip koordinavimo kontūro užuomazga. Tačiau svarbu iškart atskirti: 2026 m. AI nėra valdžia. Jis tik padeda galvoti, skaičiuoti, struktūruoti ir tikrinti prieštaravimus.
+STRAIPSNIS:
+Lapkričio pradžioje AI tema įgavo naują atspalvį. Iki tol dirbtinis intelektas daugiausia buvo naudojamas kaip pagalbininkas rašant, struktūruojant ir tikrinant mintis. Dabar atsirado klausimas, ar ateityje tokia technologija galėtų padėti koordinuoti sudėtingą sistemą.
+
+Šis klausimas buvo pavojingas, nes jį lengva suprasti neteisingai. 2026 metais AI nebuvo valdžia. Jis neturėjo jokios teisės spręsti už žmones, nebuvo institucija ir nebuvo joks paslėptas kontūras. Jis buvo tik instrumentas, padedantis matyti daug ryšių vienu metu.
+
+Vis dėlto būsimos koordinacijos mintis buvo svarbi. Jeigu kada nors atsirastų gamyba, būstas, socialinė parama, transportas, fondai, dokumentai ir regionai, žmogaus rankomis visa tai valdyti būtų labai sunku. Todėl buvo pradėta svarstyti, kad technologija galėtų padėti ne pakeisti žmogų, o išlaikyti sistemos skaidrumą ir nuoseklumą.
+
+Kartu reikėjo nuo pat pradžių įrašyti ribą. AI negali būti pasiteisinimas neatsakomybei. Jeigu sprendimą priima žmogus, jis negali pasislėpti už algoritmo. Jeigu technologija pateikia modelį, jis turi būti tikrinamas, aiškinamas ir koreguojamas. Kitaip pagalba greitai pavirstų aklu pasitikėjimu.
+
+Lapkričio 8 dienos įrašas vėliau tapo vienu iš ankstyvų būsimo BVK kaip koordinavimo kontūro šešėlių. Tačiau šiame 2026 metų taške tai dar tik mintis. Ne valdžia, ne sistema ir ne likimas - tik klausimas, ar technologija gali padėti žmogui nepaskęsti sudėtingume.
 
 SEO:
 SEO title: AI kaip koordinavimo įrankio idėja 2026 m.
@@ -411,8 +581,16 @@ Data: 2026-11-23
 Rubrika: Vystymasis
 Pavadinimas: Pirmą kartą aiškiai įvardyta, kad be ekonomikos ateities pasaulis liks tik graži fikcija
 
-SĄMPRATA:
-Sąžiningas kritinis tekstas: svetainė, knyga, idėjos ir chronologija nieko nereiškia, jei nėra atsakymo, kas gamina, ką parduoda, kaip moka atlyginimus ir iš ko atsiranda būstas bei parama šeimai.
+STRAIPSNIS:
+Lapkričio pabaigoje buvo užrašyta viena iš blaiviausių 2026 metų minčių: be ekonomikos visas ateities pasaulis liks tik graži fikcija. Svetainė gali būti įdomi, knyga gali būti įtraukianti, dokumentai gali atrodyti rimti, bet jeigu nėra atsakymo, kas gamina ir iš ko gyvena žmonės, visa konstrukcija pakimba ore.
+
+Šis pripažinimas buvo nemalonus, bet reikalingas. Idėjiniams projektams dažnai lengviau kalbėti apie vertybes negu apie sąskaitas, žaliavas, patalpas, atlyginimus ir pardavimus. Tačiau būtent šie nepatogūs dalykai lemia, ar socialinis pažadas kada nors galės tapti kasdienybe.
+
+Užrašuose vis aiškiau kartojosi mintis: pirmiausia turi atsirasti gamyba, tada pajamos, tada bendras fondas, tada tik labai atsargios lengvatos. Ne atvirkščiai. Negalima pirmiau pažadėti būsto, maisto paketo ir saugios šeimos aplinkos, o tik paskui ieškoti, iš ko visa tai bus apmokėta.
+
+Ši mintis taip pat saugojo projektą nuo politinio teatro. Respublika negali prasidėti vien nuo pavadinimo, simbolio ar didelio pranešimo. Ji gali prasidėti tik tada, kai bent mažas modelis parodo, kad sugeba pagaminti, parduoti, sąžiningai paskirstyti ir padėti žmogui konkrečiau negu sena tvarka.
+
+Lapkričio 23 dienos įrašas yra tarsi šaltas vanduo visam ankstyvam entuziazmui. Jis nesugriauna svajonės, bet priverčia ją atsistoti ant grindų. Jei ateities pasaulis nori būti tikras, jis turi išmokti skaičiuoti duoną, darbą, laiką ir žmogaus gyvenimo kainą.
 
 SEO:
 SEO title: Be ekonomikos BVK liktų tik fikcija
@@ -420,45 +598,54 @@ Meta description: 2026 m. pirmą kartą aiškiai įvardyta, kad be realios ekono
 Slug: be-ekonomikos-bvk-liktu-fikcija-2026
 
 IMAGE PROMPT:
-Photorealistic sober planning scene, empty factory-floor sketch beside household bills and food list, late November grey daylight, no readable text, realistic documentary mood.
+Photorealistic sober planning photo, calculator, blank cost sheets, simple food items, winter window light, no readable text, realistic documentary tone, no futuristic elements.
 
 ========================================================================
 ĮRAŠAS 23
-Data: 2026-12-10
+Data: 2026-12-08
 Rubrika: Archyvas
-Pavadinimas: Sudėtas pirmasis metų klausimų žemėlapis
+Pavadinimas: Svetainės ir knygos kryptys pradėtos jungti į vieną chronologinę sistemą
 
-SĄMPRATA:
-Metų pabaigoje ne švenčiami pasiekimai, o surenkami klausimai: kooperatyvas, gamyba, būstas, taisyklės, svetainė, knyga, 2086 metai, chronologija, Baltijos mastas, AI ir dokumentai. Tai pirmas tikras klausimų žemėlapis.
+STRAIPSNIS:
+Gruodžio pradžioje tapo aiškiau, kad svetainė ir knyga negali vystytis visiškai atskirai. Svetainė rodo publikacijas, datas, dokumentus ir ateities naujienų sluoksnį. Knyga gali parodyti žmogų, gyvenantį brandesniame pasaulyje. Tačiau be bendros chronologijos šie du keliai pradėtų vienas kitam prieštarauti.
+
+Todėl buvo pradėta jungti svetainės ir knygos kryptis į vieną laiko sistemą. Jeigu romanas vyksta 2085 metais, svetainės 2086 metų naujienos turi jaustis kaip to paties pasaulio tęsinys. Jeigu 2026 metais dar tik gimsta asmeninis klausimas, romanas negali būti naudojamas kaip įrodymas, kad viskas jau egzistuoja.
+
+Šis jungimas reikalavo atsargumo. Literatūra gali leisti daugiau paslapties, vidinės įtampos ir nežinomybės. Svetainės dokumentai turi būti aiškesni, labiau susieti su datomis ir taisyklėmis. Abi formos negali turėti vienodo balso, bet jos turi priklausyti tam pačiam pasauliui.
+
+Gruodžio įrašuose pradėjo ryškėti mintis, kad ateities Respublika turės kelis skaitymo būdus. Vienas žmogus galės skaityti naujienas, kitas - dokumentus, trečias - romaną, ketvirtas - ankstyvus 2026 metų įrašus. Jei viskas bus suderinta, kiekvienas sluoksnis papildys kitą.
+
+Gruodžio 8 dienos įrašas svarbus todėl, kad čia projektas pradeda suvokti savo paties daugiasluoksnę formą. Tai ne tik svetainė ir ne tik knyga. Tai ateities pasaulis, kuriam reikia bendros atminties, kad skirtingos durys vestų į tą pačią istoriją.
 
 SEO:
-SEO title: Pirmasis BVK klausimų žemėlapis 2026 m.
-Meta description: 2026 m. pabaigoje sudėtas pirmasis BVK klausimų žemėlapis, apimantis ekonomiką, būstą, svetainę ir ateities chronologiją.
-Slug: pirmasis-bvk-klausimu-zemelapis-2026
+SEO title: Svetainė ir knyga sujungtos į chronologiją
+Meta description: 2026 m. BVK svetainės ir knygos kryptys pradėtos jungti į vieną chronologinę ateities pasaulio sistemą.
+Slug: svetaine-ir-knyga-viena-chronologija-2026
 
 IMAGE PROMPT:
-Photorealistic year-end planning board with clusters of blank notes connected by string, winter daylight, no readable text, natural archive mood, no futuristic visuals.
+Photorealistic editorial desk photo, manuscript pages and website wireframe sketches side by side, thin timeline thread connecting paper groups, December lamplight, no readable text, natural realism.
 
 ========================================================================
 ĮRAŠAS 24
-Data: 2026-12-27
+Data: 2026-12-28
 Rubrika: Vystymasis
-Pavadinimas: Metų pabaigoje maža kooperatyvo mintis jau buvo virtusi būsimo kanono užduotimi
+Pavadinimas: Metų pabaigoje įtvirtinta mintis, kad Respublika turi prasidėti nuo įrodymo, o ne nuo paskelbimo
 
-SĄMPRATA:
-Metų finalas: Respublikos dar nėra, įmonės nėra, miesto nėra. Bet jau aišku, kad pirminė mintis išaugo į didelę užduotį: reikia kurti ne vien idėją, o visą kelią, kuris galėtų ją padaryti įtikinamą.
+STRAIPSNIS:
+2026 metų pabaigoje ankstyvas klausimų sluoksnis jau leido suformuluoti svarbiausią metų išvadą. Ateities Respublika negali prasidėti nuo paskelbimo. Ji negali būti tiesiog parašyta, pavadinta ar parodyta kaip jau egzistuojanti. Ji turi išaugti iš įrodymo, kad kitokia darbo ir gyvenimo organizacija gali veikti geriau.
+
+Per metus mintis nuėjo ilgą kelią: nuo klausimo apie mažą kooperatyvą prie Rūdiškių iki svetainės, knygos, chronologijos, gamybos, būsto, darbuotojo-dalyvio, AI kaip įrankio ir būsimo kanono. Tačiau nė vienas iš šių dalykų dar nereiškė veikiančios sistemos. Jie reiškė tik tai, kad klausimas tapo pakankamai didelis, kad jo nebebuvo galima pamiršti.
+
+Metų pabaigoje ypač svarbu buvo neperrašyti pradžios gražesne kalba. 2026 metais nebuvo nei valstybės, nei miesto, nei įmonės, nei socialinio paketo. Buvo tik užrašai, abejonės, pirmos struktūros ir noras surasti tokį kelią, kuris nepasibaigtų vien dar viena utopija.
+
+Todėl buvo įtvirtinta formulė: pradžioje ne Respublika kaip valdžia, o Respublika kaip klausimas apie kasdienį gyvenimą. Ar galima gaminti kitaip? Ar galima dirbti saugiau? Ar galima mažinti žmogaus išlaidas? Ar galima kurti būstą ne kaip spekuliaciją, o kaip bendros sistemos dalį? Ar galima technologiją naudoti ne žmogui pakeisti, o jam padėti?
+
+Gruodžio 28 dienos įrašas uždaro pirmus metus be triumfo. Tai ne finalas, o pirmas sąžiningas slenkstis. Jei ateityje kada nors atsiras brandi Respublika, jos pradžioje turi likti ne didelis pareiškimas, o mažas klausimas: ar galime įrodyti, kad žmogaus kasdienybė gali būti sutvarkyta teisingiau?
 
 SEO:
-SEO title: 2026 m. BVK idėja virto būsimo kanono užduotimi
-Meta description: 2026 metų pabaigoje maža kooperatyvo mintis jau buvo virtusi būsimo BVK kanono ir ilgos chronologijos užduotimi.
-Slug: bvk-ideja-virto-kanono-uzduotimi-2026
+SEO title: Respublika turi prasidėti nuo įrodymo
+Meta description: 2026 m. pabaigoje įtvirtinta mintis, kad ateities Respublika turi prasidėti nuo praktinio įrodymo, o ne paskelbimo.
+Slug: respublika-prasideda-nuo-irodymo-2026
 
 IMAGE PROMPT:
-Photorealistic quiet winter home-office scene, neatly stacked first-year notes, closed notebook, warm desk lamp, dark window, feeling of unfinished but serious beginning, no readable text, clean documentary realism.
-
-PABAIGOS BLOKAS VISIEMS 2026 M. ĮRAŠAMS:
-Publikuota: pagal įrašo datą
-Parengė: Ankstyvųjų užrašų archyvas
-
-BENDRA 2026 M. IŠVADA:
-2026 metų publikacijos turi rodyti ne pasirengusią Respubliką, o didėjančią klausimų grandinę. Skaitytojas turi matyti, kaip iš mažos ūkinės minties palaipsniui gimsta svetainės, knygos, chronologijos, ekonomikos, teisės ir būsimo miesto poreikis.
+Photorealistic year-end planning scene in a Lithuanian home office, closed notebook, simple desk lamp, winter darkness outside, small stack of organized papers, no readable text, calm documentary realism.
