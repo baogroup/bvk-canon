@@ -823,3 +823,13 @@ BVK CANON
 Связанные документы: 09_YEAR_2030_PUBLICATION_PLAN.txt, 10_YEAR_2031_PUBLICATION_PLAN.txt, 12_YEAR_2033_PUBLICATION_PLAN.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt, 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0081]
+Дата: 2026-04-25
+Изменённый файл: CURRENT/07_TIMELINE/12_YEAR_2033_PUBLICATION_PLAN.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: годовой публикационный план 2033 года расширен с 12 до 36 публикаций и синхронизирован с уточнённой логикой раннего практического слоя BVK Canon; 2033 год закреплён как год первого малого, ограниченного, законного и прозрачного производственного испытания. Добавлены тестовые партии, реальные данные, себестоимость, скрытые расходы, гигиена, роли команды, обратная связь, повторная проверка, граница между тестовыми доходами и фондом, отказ от преждевременного социального обещания и подготовка к более стабильной проверке 2034 года. Исправлен стиль публикаций: статьи подаются как свежие новости 2033 года, а не как позднее восстановление архива.
+Связанные документы: 09_YEAR_2030_PUBLICATION_PLAN.txt, 10_YEAR_2031_PUBLICATION_PLAN.txt, 11_YEAR_2032_PUBLICATION_PLAN.txt, 13_YEAR_2034_PUBLICATION_PLAN.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt, 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
