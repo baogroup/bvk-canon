@@ -873,3 +873,23 @@ BVK CANON
 Связанные документы: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, CURRENT/07_TIMELINE/06_YEAR_2027_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/02_CONTENT_PLAN_2026_2046.txt, CURRENT/07_TIMELINE/04_ARTICLE_MATRIX_2026_2046.txt, CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0086]
+Дата: 2026-04-25
+Изменённый файл: CURRENT/07_TIMELINE/06_YEAR_2027_PUBLICATION_PLAN.txt
+Старая версия: v1.1
+Новая версия: v1.2
+Причина: годовой публикационный план 2027 года переработан под новый редакционный принцип CHANGE-0084: публикации сайта должны звучать как живые новости своего времени, а не как поздний архивный слой и не как внутренние служебные пояснения канона. Сохранены 24 публикации, но заголовки, статьи, SEO и image prompts переписаны в более живом, оптимистичном и новостном стиле. 2027 год закреплён как год первого открытого чтения: подготовка меню, стартовые страницы, объяснение 2026/2086, первые читатели, социальные каналы, роман как культурный слой, первые реакции и подготовка 2028 года.
+Связанные документы: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, CURRENT/07_TIMELINE/05_YEAR_2026_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/07_YEAR_2028_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/02_CONTENT_PLAN_2026_2046.txt, CURRENT/07_TIMELINE/04_ARTICLE_MATRIX_2026_2046.txt, CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0087]
+Дата: 2026-04-25
+Изменённый файл: CURRENT/07_TIMELINE/05_YEAR_2026_PUBLICATION_PLAN.txt
+Старая версия: v2.2
+Новая версия: v2.3
+Причина: годовой публикационный план 2026 года переписан в формате живых новостей сайта, а не внутренних служебных пояснений. Убраны оправдательные формулы в тексте статей вроде "это ещё не город / не государство / не производство"; эти ограничения оставлены только как служебные правила канона в шапке файла. Все 24 публикации переработаны как самостоятельные новостные материалы с конкретным содержанием: первая идея общего хозяйства, поиск продуктов вроде хлеба, огурцов, супов и овощных заготовок, работа и безопасность человека, DI, сайт как новости из будущего, название и знак, первые конституционные фразы, хронология, Baltijos erdvė, 2085/2086 sluoksnis и kelias iki 2046 metų.
+Связанные документы: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, CURRENT/07_TIMELINE/06_YEAR_2027_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/02_CONTENT_PLAN_2026_2046.txt, CURRENT/07_TIMELINE/04_ARTICLE_MATRIX_2026_2046.txt, CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
