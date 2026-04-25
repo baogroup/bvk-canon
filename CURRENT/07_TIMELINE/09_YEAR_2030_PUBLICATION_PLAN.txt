@@ -2,12 +2,12 @@ BVK CANON
 Годовой публикационный план 2030
 
 Статус: ACTIVE
-Версия: v1.0
+Версия: v1.1
 Дата первого принятия: 2026-04-23
-Текущая редакция: 2026-04-23
-История поправок: CHANGE-0066
+Текущая редакция: 2026-04-25
+История поправок: CHANGE-0066; CHANGE-0078
 Уровень доступа: SERVICE
-Историческая принадлежность: ранний идейный слой
+Историческая принадлежность: ранний практический слой
 Связанные закрытые документы: нет
 Коды связанных закрытых документов: нет
 
@@ -15,320 +15,740 @@ BVK CANON
 Этот файл закрепляет годовой публикационный план для 2030 года в рамках внутреннего SERVICE-слоя BVK Canon.
 
 Главный принцип:
-Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
-Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+2030 год нельзя описывать как год организации, движения, действующего BVK, юридической структуры, предприятия, производства или Республики.
+
+2030 год является первым годом трезвых практических расчётов. После личного 2026 года, открытого чтения 2027 года, языка участия 2028 года и выравнивания канона 2029 года проект возвращается к первому экономическому вопросу: что именно может производить будущий практический контур, сколько это будет стоить, кто это купит и какая форма потребуется, чтобы всё было законно и прозрачно.
+
+Задача публикационного плана:
+Показать, как проект начинает переходить от культурно-архивной стадии к практической подготовке, но ещё не запускает производство. В 2030 году появляются продуктовая матрица, пищевая мастерская как возможная первая линия, расчёт себестоимости, вопросы помещения, гигиены, оборудования, покупателей, внешних продаж, фонда, рисков, работника-дальнейшего участника и будущих юридических форм.
+
+Редакционное правило 2030 года:
+- никакого голоса зрелого государства;
+- никакой действующей Республики;
+- никакой организации, движения или официального круга участников;
+- никакой начатой практической деятельности;
+- никаких обещаний производства, зарплат, жилья, фонда или социального пакета;
+- пищевую мастерскую можно описывать только как проверяемое направление, не как действующий объект;
+- фонд можно описывать только как будущий принцип, зависящий от реальных доходов;
+- юридические формы можно вводить как вопрос, который будет развиваться в 2031 году;
+- тон должен быть спокойным, практическим, расчётным и юридически осторожным.
 
 Связь с другими файлами:
+- 01_TIMELINE_CORE_2026_2086.txt задаёт общую хронологическую ось
 - 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 03_PHASE_2026_2045_FOUNDING_LAYER.txt задаёт смысл фазы основания
 - 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
-- данный файл переводит эту логику в конкретный годовой набор публикаций
+- 05_YEAR_2026_PUBLICATION_PLAN.txt задаёт личный идейный слой
+- 06_YEAR_2027_PUBLICATION_PLAN.txt задаёт год первого открытого чтения
+- 07_YEAR_2028_PUBLICATION_PLAN.txt задаёт год языка участия
+- 08_YEAR_2029_PUBLICATION_PLAN.txt задаёт выравнивание канона и подготовку к практике
+- 10_YEAR_2031_PUBLICATION_PLAN.txt должен продолжить эту логику юридическими формами
+- 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt задаёт ранний новостной слой
+- 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt задаёт стиль 2030-2032 годов
 
 BVK METINIS PLANAS 2030
 
 METINIS STILIUS IR TONAS
-- Atsiranda aiškesnė tapatybė, kalba ir vizualinis projektas.
-- Tekstai turi būti solidesni, brandesni, bet dar ne formalios valstybės pobūdžio.
-- Daugiau dėmesio kasdienybės modeliui, ekonomikai, švietimui ir instituciniams kontūrams.
-- Stilius ramesnis, tvarkingesnis, labiau redakciškai išbaigtas nei ankstesniais metais.
+- Pirmieji praktinių skaičiavimų metai: projektas dar neveikia ūkiškai, bet jau pradeda tikrinti, kas galėtų tapti realiu pagrindu.
+- Tekstai turi būti blaivesni, konkretesni ir mažiau kultūriniai nei 2027-2029 metais.
+- Pagrindinės temos: produktas, maisto dirbtuvė, savikaina, higiena, leidimai, įranga, pirkėjai, išoriniai pardavimai, bendras fondas, rizikos, būsima teisinė forma.
+- Negalima rašyti apie pradėtą gamybą, darbuotojus ar socialinį paketą kaip apie faktą.
+- Pagrindinis metų klausimas: ar ateities socialinė idėja gali turėti realų ekonominį pagrindą?
 
-REKOMENDUOJAMAS PARENGĖJAS: BVK tapatybės ir turinio plėtros redakcija
+REKOMENDUOJAMAS PARENGĖJAS: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 1
-Data: 2030-01-15
-Rubrika: Kultūra
-Pavadinimas: Pradėtas formuoti vizualinis ir kalbinis Baltijos Kooperatinės Respublikos stilius
+Data: 2030-01-11
+Rubrika: Vystymasis
+Pavadinimas: Po kelerių metų grįžta pirmasis klausimas: kas iš tikrųjų galėtų išlaikyti modelį
 
 STRAIPSNIS:
-Sausį projektas žengė į svarbią tapatybės formavimo fazę. Pirmą kartą nuosekliau pradėta derinti vizualinė kryptis, kalbinės formuluotės, simbolinė nuotaika ir bendras Respublikos atpažįstamumas. Tai buvo reikalinga tam, kad augantis turinys nepradėtų skambėti kaip skirtingų projektų mišinys.
+2030 metų pradžioje projektas sąmoningai grįžo prie klausimo, nuo kurio viskas prasidėjo dar 2026 metais: kas iš tikrųjų galėtų išlaikyti kitokią darbo ir gyvenimo tvarką? Po svetainės atvėrimo, romano sluoksnio, skaitytojų ir kanono tvarkymo tapo aišku, kad idėja negali amžinai likti tik tekstų pasaulyje.
 
-Šiame etape daug dėmesio skirta pusiausvyrai tarp aiškumo ir išskirtinumo. Respublikos kalba turėjo būti santūri, rimta ir kultūringa, o vizualinis stilius - atpažįstamas, bet ne agresyvus. Taip pradėjo rastis savitas viešasis balsas.
+Šis sugrįžimas nebuvo gamybos pradžia. Nebuvo įmonės, darbuotojų, patalpų, leidimų ar fondo. Tačiau atsirado būtinybė pradėti mąstyti praktiškiau. Jeigu ateities Respublika kada nors turės socialinį pagrindą, ji negalės remtis vien gražia kalba apie bendrumą. Ji turės atsiremti į realiai sukuriamą vertę.
 
-Nuo šio momento BVK pasaulis tapo labiau atpažįstamas ne tik idėjomis, bet ir forma.
+Pirmasis klausimas buvo labai paprastas ir kartu sunkus: kokia veikla galėtų sukurti pajamas, bet kartu neprieštarauti būsimos kooperatyvinės tvarkos logikai? Kitaip tariant, reikėjo ieškoti ne tik pelningo produkto, bet ir tokio produkto, kuris vėliau galėtų jungtis su darbuotojų kasdienybe, maistu, šeima ir socialine parama.
+
+2030 metų pradžioje buvo svarbu nepradėti nuo per didelių pažadų. Dar negalima kalbėti apie socialinį paketą, darbuotojų būstą ar bendrą aprūpinimą. Galima kalbėti tik apie klausimus, kuriuos reikės tikrinti skaičiais: ką gaminti, kam parduoti, kiek kainuos ir ar iš to gali likti bent mažas pagrindas bendram fondui.
+
+Sausio 11 dienos įrašas žymi pirmą aiškų 2030 metų posūkį. Projektas vis dar lieka ankstyvas, bet jo kalboje atsiranda daugiau žemės. Ateities klausimas pirmą kartą pradeda reikalauti ne tik vaizduotės, bet ir sąnaudų lentelės.
 
 SEO:
-SEO title: Pradėtas formuoti Baltijos Kooperatinės Respublikos stilius
-Meta description: 2030 m. pradėtas nuosekliai formuoti Baltijos Kooperatinės Respublikos vizualinis ir kalbinis stilius.
-Slug: baltijos-kooperatines-respublikos-stilius-2030
+SEO title: Pirmasis praktinis BVK modelio klausimas 2030 m.
+Meta description: 2030 m. BVK projektas grįžo prie pirmojo praktinio klausimo: kas iš tikrųjų galėtų išlaikyti ateities modelį.
+Slug: pirmasis-praktinis-bvk-modelio-klausimas-2030
 
 IMAGE PROMPT:
-Photorealistic branding workspace with logo drafts, typography swatches, color notes and layout sketches, winter daylight, no readable text, realistic editorial setting.
+Photorealistic sober planning desk, old archive notes beside calculator and blank cost sheets, January daylight, no readable text, natural documentary realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2030-01-15
-Parengė: BVK tapatybės ir turinio plėtros redakcija
+Publikuota: 2030-01-11
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 2
-Data: 2030-02-05
-Rubrika: Vystymasis
-Pavadinimas: Svetainėje atsirado pirmieji nuoseklūs tekstai apie būsimą Respublikos gyvenimo modelį
+Data: 2030-01-28
+Rubrika: Ekonomika
+Pavadinimas: Pradėta rinkti pirmoji galimų produktų krypties lentelė
 
 STRAIPSNIS:
-Vasario mėnesį svetainėje pasirodė pirmieji nuoseklesni tekstai apie tai, kaip galėtų atrodyti gyvenimas būsimoje Respublikoje. Dėmesys buvo sutelktas ne vien į institucijas, bet ir į žmogaus kasdienybę: būstą, darbą, viešąją aplinką, poilsį ir bendrą saugumo jausmą.
+Sausio pabaigoje buvo pradėta rinkti pirmoji galimų produktų krypties lentelė. Tai nebuvo verslo planas ir nebuvo sprendimas, ką gaminti. Tai buvo bandymas išsklaidyti miglą ir sudėti galimas kryptis į vieną vietą, kad jos būtų matomos ne kaip svajonės, o kaip tikrintini variantai.
 
-Šie tekstai buvo svarbūs tuo, kad leido projektui išeiti iš vien principų lygmens. Skaitytojas pirmą kartą galėjo aiškiau įsivaizduoti, ką tokia sistema reikštų praktikoje.
+Lentelėje galėjo atsirasti keli paprasti klausimai: ar produktas reikalingas kasdien, ar jį galima parduoti vietoje, ar jis turi pakankamai pastovią paklausą, kokių leidimų reikės, ar galima pradėti nuo mažo masto, ar jis gali būti susietas su darbuotojų maitinimu ir ateities produktų paketu.
 
-Nuo šio momento Respublikos vizija pradėta rodyti kaip gyvenamas modelis, o ne vien istorinė ar teorinė schema.
+Maisto kryptis šiame etape ėmė atrodyti stipresnė už daugelį kitų, nes ji tiesiogiai siejasi su kasdienybe. Maistas ne tik parduodamas - jis valgomas darbo metu, keliauja į šeimą, gali būti planuojamas kaip nuolaida arba būsimų rinkinių dalis. Toks ryšys buvo svarbus BVK logikai.
+
+Tačiau lentelė taip pat turėjo saugoti nuo romantizavimo. Vien todėl, kad produktas gražiai atrodo idėjoje, nereiškia, kad jis išsilaikys rinkoje. Reikia žinoti žaliavas, kainą, darbo laiką, praradimus, logistiką ir pardavimo kanalus. Be šių klausimų bet kuri kryptis būtų tik žodis.
+
+Sausio 28 dienos įrašas pradėjo 2030 metų ekonominę discipliną. Idėja pirmą kartą buvo pakviesta ne tik įkvėpti, bet ir atsakyti į labai paprastą lentelės klausimą: kodėl būtent šis produktas galėtų veikti?
 
 SEO:
-SEO title: Pasirodė pirmieji tekstai apie BVK gyvenimo modelį
-Meta description: 2030 m. svetainėje atsirado pirmieji nuoseklūs tekstai apie būsimos Respublikos gyvenimo modelį.
-Slug: pirmieji-tekstai-apie-bvk-gyvenimo-modeli-2030
+SEO title: Pirmoji BVK galimų produktų lentelė
+Meta description: 2030 m. pradėta rinkti pirmoji galimų BVK produktų krypties lentelė, ruošiant praktinį ekonominį etapą.
+Slug: pirmoji-bvk-galimu-produktu-lentele-2030
 
 IMAGE PROMPT:
-Photorealistic lifestyle-planning scene with housing sketches, family notes and urban comfort references on a desk, winter light, no readable text.
+Photorealistic product planning table with food samples, blank comparison grid, pencil, calculator, cold winter light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2030-02-05
-Parengė: BVK tapatybės ir turinio plėtros redakcija
+Publikuota: 2030-01-28
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 3
-Data: 2030-03-19
-Rubrika: Archyvas
-Pavadinimas: Parengta ankstyva pagrindinių Respublikos dokumentų ir jų ryšių struktūra
+Data: 2030-02-12
+Rubrika: Ekonomika
+Pavadinimas: Maisto dirbtuvė išskirta kaip lankstesnė pradžia nei vienas produktas
 
 STRAIPSNIS:
-Kovą parengta ankstyva pagrindinių dokumentų struktūra, leidžianti matyti, kaip skirtingi Respublikos tekstai remtų vieni kitus. Ši schema padėjo aiškiau skirti, kurie tekstai ateityje galėtų tapti pamatiniais, o kurie atliktų aiškinamąją, istorinę ar tarpinę funkciją.
+Vasario viduryje maisto kryptis pradėta formuluoti ne kaip vieno produkto idėja, o kaip mažos maisto dirbtuvės galimybė. Tai buvo svarbus patikslinimas. Vien formine duona ar vienu konkrečiu gaminiu pradžia galėtų būti per siaura, o dirbtuvė leidžia lanksčiau reaguoti į paklausą.
 
-Toks darbas sustiprino ir archyvinę drausmę, ir pasaulio tikrumą. Kuo aiškesni tapo dokumentų tarpusavio ryšiai, tuo tvirtesnė darėsi ir bendra sistemos logika. Būtent šiame etape pradėta aiškiau atskirti, kad Baltijos Kooperatinė Respublika yra pati valstybės forma, o Bendrasis Valdymo Kontūras - jos koordinacinis valdymo karkasas.
+Maisto dirbtuvės sąvoka galėjo apimti kelias kryptis: paprastą kepybą, formine duoną, sriubas, troškinius, paruoštus pietus, pusgaminius, sezonines daržovių paruošas, produktų rinkinius ir pristatymą. Tokia įvairovė dar nereiškė, kad viskas būtų daroma iš karto. Ji tik parodė galimą erdvę, kurią reikės susiaurinti skaičiais.
 
-Šis žingsnis buvo svarbus ruošiantis daug sudėtingesnei vėlesnei plėtrai.
+Ši kryptis buvo patraukli todėl, kad maistas jungia išorinį pardavimą ir vidinę ateities logiką. Pradžioje produktai turėtų būti parduodami išorėje, nes be išorinių pajamų negali atsirasti fondas. Tačiau ilgainiui dalis gamybos galėtų tapti darbuotojų maitinimo arba produktų paramos pagrindu.
+
+Kartu buvo įrašyta atsargi riba: maisto dirbtuvė nėra jau veikianti gamyba. 2030 metais ji yra tik tikrinama kryptis. Jai reikės patalpų, higienos, įrangos, leidimų, apskaitos, kokybės ir žmonių, kurie sugebėtų dirbti ne kaip entuziastai, o kaip atsakinga maža komanda.
+
+Vasario 12 dienos įrašas padėjo projektui išeiti iš vieno simbolinio produkto mąstymo. Ateities praktika turi prasidėti nuo to, kas gali būti lankstu, naudinga ir pakankamai arti žmogaus kasdienybės.
 
 SEO:
-SEO title: Parengta ankstyva BVK dokumentų struktūra
-Meta description: 2030 m. parengta ankstyva pagrindinių Respublikos dokumentų ir jų ryšių struktūra.
-Slug: ankstyva-bvk-dokumentu-struktura-2030
+SEO title: Maisto dirbtuvė kaip lanksti BVK pradžia
+Meta description: 2030 m. maisto dirbtuvė išskirta kaip lankstesnė BVK praktikos pradžia nei vienas siauras produktas.
+Slug: maisto-dirbtuve-kaip-bvk-pradzia-2030
 
 IMAGE PROMPT:
-Photorealistic archival-structuring photo with flowchart papers, binders and categorized document trees, early spring daylight, no readable text.
+Photorealistic small food workshop planning still life, bread tin, soup pot, vegetables, delivery boxes, blank notes, February light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2030-03-19
-Parengė: BVK tapatybės ir turinio plėtros redakcija
+Publikuota: 2030-02-12
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 4
-Data: 2030-04-08
-Rubrika: Švietimas
-Pavadinimas: Paskelbta pirmoji straipsnių serija apie mokymąsi, saviugdą ir visuomeninę brandą ateities Respublikoje
+Data: 2030-02-27
+Rubrika: Darbas
+Pavadinimas: Pirmą kartą svarstyta, kiek žmonių reikėtų mažai maisto gamybai
 
 STRAIPSNIS:
-Balandį paskelbta pirmoji aiškesnė švietimo krypties straipsnių serija. Joje nagrinėta, kodėl mokymasis Respublikoje negalėtų apsiriboti profesiniu rengimu ir kodėl saviugda turėtų tapti pilietinės brandos pagrindu.
+Vasario pabaigoje produktų klausimas natūraliai perėjo prie žmonių klausimo. Maisto dirbtuvė negali veikti pati savaime. Reikia suprasti, kiek žmonių reikėtų net labai mažam bandymui: kas gamintų, kas ruoštų žaliavas, kas prižiūrėtų tvarką, kas pakuotų, kas pristatytų ir kas skaičiuotų pinigus.
 
-Ši serija išsiskyrė tuo, kad joje ateities sistema pradėta aiškinti per žmogaus brendimą. Buvo pabrėžta, kad jokie geri instituciniai sprendimai neveiks be vidinės atsakomybės, dėmesio ir gebėjimo bendradarbiauti.
+Šis klausimas buvo svarbus todėl, kad ankstyvose idėjose gamyba dažnai atrodo lengvesnė negu yra. Atrodo, kad užtenka kelių receptų ir noro dirbti. Tačiau net mažas maisto gamybos procesas reikalauja laiko, higienos, koordinacijos, pastovumo ir atsakomybės.
 
-Nuo šio momento švietimo tema tapo viena iš centrinių Respublikos modelio ašių.
+2030 metais dar nebuvo komandos ir negalėjo būti kalbama apie darbuotojų priėmimą. Tačiau buvo galima pradėti skaičiuoti vaidmenis. Vienas žmogus negali ilgai būti ir gamintojas, ir vadybininkas, ir buhalteris, ir vairuotojas. Jei viskas laikosi ant vieno žmogaus, modelis nėra tvarus.
+
+Čia pirmą kartą praktiškai sugrįžo darbuotojo-dalyvio sąvoka. Ateityje žmogus tokioje sistemoje negalėtų būti tik samdinys be ryšio su bendra logika. Tačiau 2030 metais dar reikėjo suprasti daug paprastesnį dalyką: kokių funkcijų apskritai reikėtų, kad mažas gamybos branduolys nesubyrėtų.
+
+Vasario 27 dienos įrašas parodė, kad gamybos klausimas visada yra ir žmonių klausimas. Produktas gali būti geras, bet jei nėra aiškaus darbo paskirstymo, jis liks tik bandymas.
 
 SEO:
-SEO title: Paskelbta pirmoji BVK švietimo straipsnių serija
-Meta description: 2030 m. paskelbta pirmoji straipsnių serija apie mokymąsi, saviugdą ir visuomeninę brandą ateities Respublikoje.
-Slug: pirmoji-bvk-svietimo-straipsniu-serija-2030
+SEO title: Kiek žmonių reikėtų mažai BVK maisto gamybai
+Meta description: 2030 m. pirmą kartą svarstyta, kiek žmonių ir kokių vaidmenų reikėtų mažai BVK maisto gamybai.
+Slug: kiek-zmoniu-reiketu-bvk-maisto-gamybai-2030
 
 IMAGE PROMPT:
-Photorealistic study-space photo with books, lesson notes, educational diagrams and natural spring light, no readable text, calm intellectual atmosphere.
+Photorealistic work-role planning scene, blank role cards, aprons, gloves, delivery bag, calculator, late February daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2030-04-08
-Parengė: BVK tapatybės ir turinio plėtros redakcija
+Publikuota: 2030-02-27
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 5
-Data: 2030-05-20
+Data: 2030-03-12
 Rubrika: Ekonomika
-Pavadinimas: Pradėtas aiškinti kooperatyvinės ekonomikos principas kaip alternatyva vartojimo lenktynėms
+Pavadinimas: Pradėta skaičiuoti, iš ko susideda paprasto maisto produkto savikaina
 
 STRAIPSNIS:
-Gegužės mėnesį pradėtas nuosekliau aiškinti kooperatyvinės ekonomikos principas. Pirmuosiuose tekstuose pabrėžta, kad tokia ekonomika remtųsi ne nuolatiniu vartojimo spaudimu, o ilgaamžiu aprūpinimu, atsakingu darbu ir bendro saugumo logika.
+Kovo pradžioje projektas pirmą kartą rimčiau atsisėdo prie savikainos klausimo. Tai buvo vienas blaiviausių 2030 metų žingsnių. Jei maisto produktas atrodo paprastas, tai dar nereiškia, kad jo kaina paprasta. Už kiekvienos porcijos ar kepinio slypi daug mažų eilučių.
 
-Svarbu buvo parodyti, kad alternatyva rinkos lenktynėms nereiškia skurdo ar sustingimo. Atvirkščiai - kalbėta apie stabilesnį gyvenimo pagrindą, kuris leistų žmogui daugiau jėgų skirti kūrybai, šeimai ir prasmingam darbui.
+Savikainoje reikėjo matyti žaliavas, energiją, vandenį, pakuotę, patalpų išlaidas, įrangos nusidėvėjimą, darbuotojo laiką, transportą, nepavykusias partijas, grąžinimus, sanitarines priemones ir apskaitą. Net jei kai kurios eilutės pradžioje atrodo mažos, ilgainiui jos gali nulemti, ar produktas apskritai išsilaiko.
 
-Ši publikacija žymi ankstyvą, bet jau labai svarbų ekonominės kalbos posūkį.
+Šis skaičiavimas turėjo ir moralinę reikšmę. Jeigu projektas nori ateityje padėti darbuotojams, jis negali pradėti nuo saviapgaulės. Negalima žadėti pigesnio maisto, didesnio atlyginimo ir fondo, jei nežinoma, ar produktas apskritai duoda likutį.
+
+Savikaina taip pat padėjo pamatyti, kad socialinė idėja turi labai griežtą ekonominę ribą. Geras noras nemažina žaliavų kainos. Atsakomybė nepristato produktų nemokamai. Todėl kiekvienas socialinis pažadas turi būti grindžiamas tuo, kas lieka po tikrų išlaidų.
+
+Kovo 12 dienos įrašas įtvirtino naują 2030 metų toną. Ateities Respublika turi ne tik kalbėti apie teisingumą, bet ir suprasti, kiek kainuoja viena duonos riekė.
 
 SEO:
-SEO title: Pradėtas aiškinti kooperatyvinės ekonomikos principas
-Meta description: 2030 m. pradėtas aiškinti kooperatyvinės ekonomikos principas kaip alternatyva vartojimo lenktynėms.
-Slug: kooperatyvines-ekonomikos-principas-2030
+SEO title: Maisto produkto savikaina BVK modelyje
+Meta description: 2030 m. pradėta skaičiuoti, iš ko susideda paprasto maisto produkto savikaina BVK praktiniame modelyje.
+Slug: maisto-produkto-savikaina-bvk-2030
 
 IMAGE PROMPT:
-Photorealistic photo of practical economy planning: budget sheets, cooperative supply diagrams, food and housing icons sketched on paper, late spring light, no readable text.
+Photorealistic close-up of calculator, flour, packaging samples, blank cost columns, March daylight, no readable text, sober realistic mood.
 
 PABAIGOS BLOKAS:
-Publikuota: 2030-05-20
-Parengė: BVK tapatybės ir turinio plėtros redakcija
+Publikuota: 2030-03-12
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 6
-Data: 2030-06-11
-Rubrika: Kultūra
-Pavadinimas: Romano, archyvų ir svetainės pasakojimo linijos suderintos į bendrą ateities pasaulio audinį
+Data: 2030-03-29
+Rubrika: Ekonomika
+Pavadinimas: Pirmą kartą aiškiai įvardyta, kad bendras fondas negali atsirasti prieš pajamas
 
 STRAIPSNIS:
-Birželį toliau stiprintas bendras pasaulio vientisumas. Romano, archyvų ir viešosios svetainės pasakojimo linijos buvo suderintos taip, kad skirtingos formos nebekonkuruotų tarpusavyje, o viena kitą papildytų.
+Kovo pabaigoje buvo aiškiai įvardyta viena svarbiausių ekonominių ribų: bendras fondas negali atsirasti prieš pajamas. Jis negali būti vien graži eilutė dokumente, moralinis noras ar pažadas darbuotojui. Fondas gali atsirasti tik tada, kai veikla sukuria likutį po realių išlaidų.
 
-Šis derinimas pareikalavo atsisakyti kai kurių stiprių, bet bendram tonui netinkančių sprendimų. Tačiau rezultatas tapo aiškesnis: Respublikos pasaulis ėmė veikti kaip vientisas audinys, kuriame teisė, kultūra, kronika ir miesto gyvenimas remiasi bendra atmintimi.
+Ši mintis galėjo atrodyti savaime suprantama, tačiau ankstyvuose socialiniuose projektuose ji dažnai pamirštama. Pirmiausia pažadama pagalba, o tik vėliau ieškoma, iš ko ji bus apmokėta. BVK logikoje toks kelias būtų pavojingas, nes jis sukurtų nusivylimą dar prieš prasidedant praktikai.
 
-Tai sustiprino ne tik projektą, bet ir jo skaitymo įtaigą.
+Todėl fondas 2030 metais buvo aprašomas tik kaip būsimas principas. Jis dar neveikia, nieko nefinansuoja ir niekam nieko nežada. Jo tikslas - parodyti, kad jei ateityje atsiras pelno likutis, jis turėtų būti naudojamas ne privačiai rentai, o bendram vystymui, žmonėms ir sistemai.
+
+Šis principas taip pat padėjo atskirti BVK kryptį nuo įprasto privataus verslo. Skirtumas nėra tas, kad išlaidos dingsta. Skirtumas tas, ką daroma su likučiu, jeigu jis atsiranda. Tačiau prieš kalbant apie paskirstymą, reikia įrodyti, kad likutis apskritai gali būti.
+
+Kovo 29 dienos įrašas grąžino socialinę kalbą prie ekonomikos. Ateities pagalba turi prasidėti ne nuo pažado, o nuo pajamų, kurios atlaiko sąžiningą skaičiavimą.
 
 SEO:
-SEO title: Suderintos pagrindinės BVK pasakojimo linijos
-Meta description: 2030 m. romano, archyvų ir svetainės pasakojimo linijos suderintos į bendrą ateities pasaulio audinį.
-Slug: suderintos-bvk-pasakojimo-linijos-2030
+SEO title: Bendras fondas negali atsirasti prieš pajamas
+Meta description: 2030 m. BVK projekte aiškiai įvardyta, kad bendras fondas negali atsirasti prieš realias pajamas.
+Slug: bendras-fondas-negali-atsirasti-pries-pajamas-2030
 
 IMAGE PROMPT:
-Photorealistic layered worldbuilding desk with manuscript, archive folders, screenshots mockups and map fragments, summer daylight, no readable text.
+Photorealistic financial planning scene, blank fund diagram, calculator, simple food product, muted spring light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2030-06-11
-Parengė: BVK tapatybės ir turinio plėtros redakcija
+Publikuota: 2030-03-29
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 7
-Data: 2030-07-23
-Rubrika: Duomenys
-Pavadinimas: Sukurtas pirmasis teminis Respublikos institucijų, sričių ir viešųjų funkcijų žemėlapis
+Data: 2030-04-10
+Rubrika: Teisė
+Pavadinimas: Maisto gamybos idėja pirmą kartą susieta su higienos ir leidimų klausimais
 
 STRAIPSNIS:
-Liepos mėnesį sukurtas teminis žemėlapis, leidžiantis vienoje sistemoje matyti pagrindines būsimos Respublikos institucijas, veiklos sritis ir viešąsias funkcijas. Tai buvo svarbus žingsnis nuo abstrakčių aprašų prie struktūrinio modeliavimo.
+Balandžio pradžioje maisto gamybos idėja pirmą kartą buvo tiesiogiai susieta su higienos ir leidimų klausimais. Tai buvo būtinas žingsnis, nes maistas nėra vien kūrybinis produktas. Jis susijęs su žmonių sveikata, atsakomybe ir labai konkrečiais reikalavimais.
 
-Žemėlapis parodė, kaip tarpusavyje siejasi švietimas, sveikata, aprūpinimas, miesto priežiūra, kultūra, saugumas ir bendras koordinavimas. Nors schema dar nebuvo baigta, ji suteikė daug daugiau aiškumo tolesniam turinio planavimui.
+Iki tol buvo lengviau kalbėti apie produktus, receptus ir pardavimą. Tačiau praktikoje reikėtų patalpų, švaros zonų, sandėliavimo, šaldymo, atliekų tvarkymo, dokumentų, tikrinimų ir aiškios atsakomybės. Be šių dalykų maisto dirbtuvė negalėtų būti laikoma rimta kryptimi.
 
-Nuo šio momento projektas stipriau pradėtas matyti kaip būsimos tvarkos architektūra.
+2030 metais dar nebuvo renkamasi konkrečių patalpų ir nebuvo kreipiamasi dėl leidimų. Tačiau buvo svarbu anksti įrašyti, kad ateities gamyba negali prasidėti neformaliai, tarsi tai būtų tik namų virtuvės pratęsimas. Jei produktas bus parduodamas, jis turi atitikti realią tvarką.
+
+Šis klausimas taip pat padėjo pamatyti, kad pigiausias kelias nebūtinai yra teisingiausias. Sutaupyti ten, kur kalbama apie higieną ir saugumą, reikštų griauti pasitikėjimą dar prieš pradedant. Todėl teisė ir higiena tapo ne kliūtimi, o būsimo patikimumo pagrindu.
+
+Balandžio 10 dienos įrašas pridėjo maisto idėjai rimtumo. Nuo šiol gamyba nebegalėjo būti įsivaizduojama tik kaip produktų sąrašas. Ji turėjo būti mąstoma kaip atsakinga ir teisėta veikla.
 
 SEO:
-SEO title: Sukurtas pirmasis BVK institucijų žemėlapis
-Meta description: 2030 m. sukurtas pirmasis teminis Respublikos institucijų, sričių ir viešųjų funkcijų žemėlapis.
-Slug: pirmasis-bvk-instituciju-zemelapis-2030
+SEO title: Maisto gamyba susieta su higiena ir leidimais
+Meta description: 2030 m. BVK maisto gamybos idėja pirmą kartą susieta su higienos, leidimų ir atsakomybės klausimais.
+Slug: maisto-gamyba-higiena-leidimai-2030
 
 IMAGE PROMPT:
-Photorealistic system-mapping photo with civic function cards, arrows and institutional clusters on a large board, midsummer daylight, no readable text.
+Photorealistic clean food-prep planning scene, sanitary checklist sheets blurred, stainless surface, empty containers, April daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2030-07-23
-Parengė: BVK tapatybės ir turinio plėtros redakcija
+Publikuota: 2030-04-10
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 8
-Data: 2030-08-14
+Data: 2030-04-26
 Rubrika: Technologijos
-Pavadinimas: Aptartos galimybės ateityje svetainėje įdiegti interaktyvias dalyvavimo ir naršymo formas
+Pavadinimas: Sudarytas pradinis mažos maisto dirbtuvės įrangos klausimų sąrašas
 
 STRAIPSNIS:
-Rugpjūtį aptartos pirmosios realesnės galimybės ateityje svetainėje įdiegti interaktyvesnes dalyvavimo ir naršymo formas. Kalbėta apie tai, kaip skaitytojas galėtų ne tik judėti tarp tekstų, bet ir pajusti kanono sluoksnių tarpusavio ryšį.
+Balandžio pabaigoje buvo sudarytas pradinis mažos maisto dirbtuvės įrangos klausimų sąrašas. Jame dar nebuvo galutinių pirkinių ar kainų, bet buvo aiškiau matyti, kad net kukliai pradžiai reikėtų daugiau nei kelių virtuvės įrankių.
 
-Šiame etape svarbiausias buvo ne funkcijų kiekis, o aiškus supratimas, kad kiekviena nauja forma turi tarnauti bendram pasaulio suvokimui. Todėl prioritetas teiktas prasmingam gilinimui, o ne išoriniam efektui.
+Reikėjo svarstyti darbo stalus, šaldytuvus, orkaitę ar kepimo įrangą, indus, pakuotę, svarstykles, laikymo vietas, valymo priemones, galbūt paprastą pristatymo inventorių. Kiekvienas elementas reiškė ne tik kainą, bet ir vietą, priežiūrą, saugumą bei atsakomybę.
 
-Tokie svarstymai toliau stiprino projekto skaitmeninę brandą.
+Įrangos sąrašas padėjo pamatyti, kad maža gamyba vis tiek yra sistema. Jei trūksta vienos svarbios grandies, visa veikla gali pradėti strigti. Produktas negali būti stabilus, jei įranga atsitiktinė, o darbo vieta nepritaikyta.
+
+Tuo pačiu buvo svarbu neperkrauti pradžios. Per brangi įranga gali nužudyti idėją taip pat greitai kaip ir jos trūkumas. Todėl 2030 metais pagrindinis klausimas buvo ne ką nusipirkti, o kokios minimalios techninės sąlygos būtinos patikimam testui.
+
+Balandžio 26 dienos įrašas įvedė techninę gamybos pusę. Ateities socialinė idėja čia dar kartą nusileido ant grindų: reikia ne tik principų, bet ir stalo, šaldytuvo, indo, vietos ir tvarkos.
 
 SEO:
-SEO title: Aptartos interaktyvios BVK naršymo formos
-Meta description: 2030 m. aptartos galimybės ateityje svetainėje įdiegti interaktyvias dalyvavimo ir naršymo formas.
-Slug: interaktyvios-bvk-narsymo-formos-2030
+SEO title: Mažos BVK maisto dirbtuvės įrangos sąrašas
+Meta description: 2030 m. sudarytas pradinis mažos BVK maisto dirbtuvės įrangos ir techninių sąlygų klausimų sąrašas.
+Slug: mazos-maisto-dirbtuves-irangos-sarasas-2030
 
 IMAGE PROMPT:
-Photorealistic UX planning desk with navigation sketches, wireframes and content paths, late summer daylight, no readable text, realistic editorial tech scene.
+Photorealistic equipment planning scene, kitchen equipment sketches, blank inventory cards, measuring tape, April evening light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2030-08-14
-Parengė: BVK tapatybės ir turinio plėtros redakcija
+Publikuota: 2030-04-26
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 9
-Data: 2030-09-09
-Rubrika: Archyvas
-Pavadinimas: Pradėta rengti archyvinių straipsnių serija, imituojanti skirtingų laikotarpių Respublikos publikacijas
+Data: 2030-05-11
+Rubrika: Ekonomika
+Pavadinimas: Pirmą kartą svarstyta, kas galėtų būti pirmieji maisto dirbtuvės pirkėjai
 
 STRAIPSNIS:
-Rugsėjį pradėta rengti archyvinių straipsnių serija, kuri turėtų leisti skaitytojui judėti per skirtingas istorines epochas lyg per tikrą viešą atmintį. Šių publikacijų tikslas - sukurti ne vien faktų rinkinį, o laiko atmosferą, kurioje keičiasi ir kalba, ir tonas, ir pačios visuomenės savivoka.
+Gegužės pradžioje buvo pradėtas vienas svarbiausių klausimų: kas galėtų būti pirmieji maisto dirbtuvės pirkėjai? Be šio atsakymo visa gamybos kryptis liktų teorinė. Produktas gali atrodyti reikalingas, bet jei nėra kam jo parduoti, jis nesukuria jokio pagrindo.
 
-Toks metodas pareikalavo didesnio stilistinio jautrumo. Kiekvienas laikotarpis turėjo skambėti savaip, kitaip visa chronologija prarastų įtikinamumą.
+Pirmieji pirkėjai galėtų būti vietos žmonės, mažos parduotuvės, biurai, dirbantys žmonės, kuriems reikalingi paprasti pietūs, arba nedideli užsakymai renginiams. Tačiau kiekviena tokia kryptis turi savų reikalavimų: kaina, pristatymas, kiekis, pastovumas ir kokybė.
 
-Ši serija vėliau taps vienu iš stipriausių visos svetainės pasakojimo pagrindų.
+Svarbu buvo suprasti, kad pradžioje maisto dirbtuvė negalėtų būti kuriama vien saviems poreikiams. Jei nėra išorinio pardavimo, nėra pajamų. Jei nėra pajamų, nėra fondo. Jei nėra fondo, nėra jokios realios socialinės paramos. Todėl išorinis pirkėjas tapo būtina grandimi.
+
+Šis klausimas taip pat padėjo apsaugoti projektą nuo uždaros sistemos iliuzijos. Tikras praktinis modelis turi gebėti keistis su aplinka. Jis turi parduoti, gauti grįžtamąjį ryšį, taisyti produktą ir įrodyti, kad jo vertė suprantama ne tik vidiniam ratui.
+
+Gegužės 11 dienos įrašas aiškiai pasakė: pirmoji gamyba turi turėti pirkėją už savęs ribų. Kitaip ji bus ne ekonomika, o tik vidinis bandymas.
 
 SEO:
-SEO title: Pradėta BVK archyvinių straipsnių serija
-Meta description: 2030 m. pradėta rengti archyvinių straipsnių serija, imituojanti skirtingų laikotarpių Respublikos publikacijas.
-Slug: bvk-archyviniu-straipsniu-serija-2030
+SEO title: Pirmieji BVK maisto dirbtuvės pirkėjai
+Meta description: 2030 m. pirmą kartą svarstyta, kas galėtų būti pirmieji BVK maisto dirbtuvės pirkėjai ir klientai.
+Slug: pirmieji-maisto-dirbtuves-pirkejai-2030
 
 IMAGE PROMPT:
-Photorealistic archival reconstruction scene with mixed-era paper styles, stamped folders and layout variations, early autumn light, no readable text.
+Photorealistic market planning desk, delivery route sketches, small food containers, customer cards, May daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2030-09-09
-Parengė: BVK tapatybės ir turinio plėtros redakcija
+Publikuota: 2030-05-11
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 10
-Data: 2030-10-21
-Rubrika: Bendruomenė
-Pavadinimas: Aplink projektą ėmė ryškėti pastovesnis skaitytojų, komentatorių ir sekėjų branduolys
+Data: 2030-05-30
+Rubrika: Vystymasis
+Pavadinimas: Paaiškėjo, kad pirmoji gamyba turės parduoti į išorę, o ne tik maitinti savus
 
 STRAIPSNIS:
-Spalio mėnesį aplink projektą pradėjo aiškiau ryškėti nebe atsitiktiniai lankytojai, o pastovesnis skaitytojų, komentatorių ir sekėjų branduolys. Šie žmonės jau gebėjo atskirti pagrindines kryptis, grįždavo prie ankstesnių temų ir vis dažniau matė projektą kaip vientisą pasaulį.
+Gegužės pabaigoje buvo aiškiai įtvirtinta, kad pirmoji gamyba turės parduoti į išorę, o ne tik maitinti savus. Ši mintis labai svarbi, nes ateities socialinis modelis negali pradėti nuo uždaro vartojimo rato, kuris pats savęs neišlaiko.
 
-Nors šis branduolys dar nebuvo organizuota bendruomenė, jo buvimas keitė patį projekto toną. Dabar tapo svarbu ne tik kurti, bet ir išlaikyti santykį, nuoseklumą bei pasitikėjimą.
+Jeigu gamyba tik aprūpina vidų, bet nesukuria išorinių pajamų, ji greitai tampa išlaidomis. O ankstyvame etape projektas dar neturi jokio didelio fondo, rėmimo ar atsarginės sistemos. Todėl išorinis pardavimas turi būti pirmas rimtas patikrinimas.
 
-Taip pradėjo rastis pirmieji būsimo ilgo bendruomeninio lauko kontūrai.
+Tai nereiškia, kad darbuotojų maitinimo idėja nesvarbi. Priešingai, ji išlieka viena iš galimų pirmųjų socialinių formų ateityje. Tačiau ji gali atsirasti tik tada, kai gamyba jau sugeba uždirbti daugiau, negu pati sunaudoja. Kitaip parama bus tik perkelta skola.
+
+Ši išvada padėjo griežčiau atskirti norą nuo galimybės. Noras maitinti savus gali būti gražus, bet galimybė atsiranda tik per pardavimą, savikainą, paklausą ir skaidrų likutį. 2030 metais reikia dirbti būtent su šiais klausimais.
+
+Gegužės 30 dienos įrašas tapo ekonominiu saugikliu. Pirmoji gamyba turi įrodyti savo vertę rinkoje, kad kada nors galėtų padėti žmonėms viduje.
 
 SEO:
-SEO title: Ryškėja pastovesnis BVK skaitytojų branduolys
-Meta description: 2030 m. aplink projektą ėmė ryškėti pastovesnis skaitytojų, komentatorių ir sekėjų branduolys.
-Slug: bvk-skaitytoju-branduolys-2030
+SEO title: Pirmoji BVK gamyba turi parduoti į išorę
+Meta description: 2030 m. paaiškėjo, kad pirmoji BVK gamyba turės parduoti į išorę, o ne tik maitinti savo ratą.
+Slug: pirmoji-bvk-gamyba-parduoda-i-isore-2030
 
 IMAGE PROMPT:
-Photorealistic community discussion photo, small mixed group with laptops and printed concept pages, calm autumn indoor light, natural documentary style, no readable text.
+Photorealistic delivery and sales planning scene, food boxes, local route map blurred, calculator, May evening light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2030-10-21
-Parengė: BVK tapatybės ir turinio plėtros redakcija
+Publikuota: 2030-05-30
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮRAŠАС 11
-Data: 2030-11-12
-Rubrika: Vystymasis
-Pavadinimas: Pirmą kartą plačiau aprašyta, kaip idėja galėtų pereiti iš kultūrinio projekto į realų visuomeninį modelį
+ĮRAŠAS 11
+Data: 2030-06-12
+Rubrika: Teisė
+Pavadinimas: Pradėta atskirti svetainės projektą nuo būsimos ūkinės veiklos
 
 STRAIPSNIS:
-Lapkričio mėnesį pirmą kartą plačiau aprašyta ilgoji perėjimo logika: kaip kultūrinis ir informacinis projektas per daugelį metų galėtų virsti realesniu visuomeniniu modeliu. Šiame etape dar nebuvo kalbama apie tiesioginius politinius instrumentus, bet jau buvo svarstoma, kaip idėja gali persikelti į žmonių mąstymą, praktiką ir lėtą bendruomeninį brandumą.
+Birželio viduryje buvo pradėta aiškiau atskirti svetainės projektą nuo būsimos ūkinės veiklos. Iki tol visos kryptys priklausė tam pačiam BVK pasauliui, bet praktikoje jos negali būti laikomos viena ir ta pačia struktūra.
 
-Toks tekstas buvo reikalingas tam, kad visa iki tol sukurta medžiaga įgytų aiškesnę kryptį. Nuo šiol skaitytojas galėjo matyti ne vien pasaulio vaizdą, bet ir ilgą jo įgyvendinimo kelią.
+Svetainė yra kultūrinis, archyvinis ir aiškinamasis sluoksnis. Ji kaupia tekstus, kuria chronologiją, padeda skaitytojui suprasti idėją ir saugo kanoną. Būsima ūkinė veikla būtų visai kitas dalykas: produktai, pinigai, atsakomybė, galimi darbuotojai, leidimai ir sutartys.
 
-Tai tapo vienu iš svarbiausių tilto tekstų visame ankstyvajame laikotarpyje.
+Šis atskyrimas buvo būtinas pasitikėjimui. Jei viešas skaitymo projektas staiga pradėtų painiotis su gamyba, būtų neaišku, kas už ką atsako. Todėl dar prieš bet kokį praktinį etapą reikėjo pripažinti, kad skirtingoms funkcijoms reikės skirtingų formų.
+
+Tai taip pat saugojo svetainę. Ji neturi tapti verslo fasadu. Jos užduotis - rodyti idėjos raidą, o ne slėpti ūkinę veiklą po kultūriniu sluoksniu. Lygiai taip pat būsima gamyba negali remtis vien svetainės autoritetu - ji turės įrodyti save praktiškai.
+
+Birželio 12 dienos įrašas pradėjo teisinio aiškumo liniją. Projektas gali turėti daug sluoksnių, bet kiekvienas jų turi žinoti savo ribas.
 
 SEO:
-SEO title: Plačiau aprašytas perėjimas iš BVK projekto į modelį
-Meta description: 2030 m. pirmą kartą plačiau aprašyta, kaip Respublikos idėja galėtų pereiti iš kultūrinio projekto į realų visuomeninį modelį.
-Slug: perejimas-is-bvk-projekto-i-modeli-2030
+SEO title: Svetainė atskiriama nuo būsimos ūkinės veiklos
+Meta description: 2030 m. BVK svetainės projektas pradėtas aiškiau atskirti nuo būsimos ūkinės ir gamybinės veiklos.
+Slug: svetaine-atskiriama-nuo-ukines-veiklos-2030
 
 IMAGE PROMPT:
-Photorealistic strategic roadmap photo with long-term phases, community stages and societal transition notes, late autumn daylight, no readable text.
+Photorealistic desk with two separated folders: public website materials and business planning papers, June daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2030-06-12
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 12
+Data: 2030-06-28
+Rubrika: Teisė
+Pavadinimas: Iškeltas klausimas, kodėl gamybai reikės atskiros teisinės formos
+
+STRAIPSNIS:
+Birželio pabaigoje buvo iškeltas klausimas, kodėl būsimai gamybai reikės atskiros teisinės formos. Tai dar nebuvo konkrečios formos pasirinkimas, bet labai svarbus principinis žingsnis. Jei atsiras produktai, pardavimai ir pinigai, reikės aiškaus teisinio indo.
+
+Atskira forma reikalinga ne dėl formalumo. Ji apibrėžia atsakomybę, apskaitą, sutartis, mokesčius, galimus darbuotojus ir santykį su fondu. Be jos praktinis etapas liktų miglotas ir galėtų pakenkti tiek projektui, tiek žmonėms, kurie prie jo prisidėtų.
+
+Šiame etape dar nebuvo sprendžiama, ar ateityje tai turėtų būti kooperatinė bendrovė, įmonė, asociacija, viešoji įstaiga ar kelių formų derinys. 2030 metų užduotis buvo tik aiškiai pasakyti: gamyba negali būti vykdoma tame pačiame neapibrėžtame sluoksnyje kaip svetainė ir romanas.
+
+Atskira teisinė forma taip pat padėtų ateityje atskirti riziką. Jei gamyba patiria nuostolių, tai neturi sugriauti viso kultūrinio ir archyvinio projekto. Jei svetainė keičia kanoną, tai neturi automatiškai tapti ūkinės veiklos sprendimu.
+
+Birželio 28 dienos įrašas paruošė 2031 metų teisinę temą. Prieš renkantis formą, reikia suprasti, kodėl jos apskritai reikia.
+
+SEO:
+SEO title: Kodėl BVK gamybai reikės teisinės formos
+Meta description: 2030 m. iškeltas klausimas, kodėl būsimai BVK gamybai reikės atskiros teisinės formos ir atsakomybės ribų.
+Slug: kodel-bvk-gamybai-reikes-teisines-formos-2030
+
+IMAGE PROMPT:
+Photorealistic legal planning table, blank registration forms, separate folders, calculator, summer light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2030-06-28
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 13
+Data: 2030-07-10
+Rubrika: Ekonomika
+Pavadinimas: Pirmą kartą aprašyta testinių maisto partijų idėja
+
+STRAIPSNIS:
+Liepos pradžioje buvo aprašyta testinių maisto partijų idėja. Tai dar nebuvo gamybos pradžia, bet pirmas būdas įsivaizduoti, kaip ateityje galėtų būti tikrinamas produktas. Testinė partija reiškia ribotą, aiškiai skaičiuojamą bandymą, o ne nuolatinę veiklą.
+
+Toks metodas galėtų padėti patikrinti kelis dalykus: ar produktas pavyksta stabiliai, kiek laiko užima gamyba, kiek realiai kainuoja žaliavos, ar pakuotė tinkama, ar žmonės nori pirkti ir kokią kainą jie laiko priimtina. Be tokio bandymo bet koks planas liktų popierinis.
+
+Svarbu, kad 2030 metais testinė partija dar nebuvo vykdoma. Ji tik aprašoma kaip būsima patikros forma. Tai padeda neperšokti į veikimą, bet leidžia ruoštis praktiškiau. Kiekvienas bandymas turės turėti tikslą, skaičių ir rezultatą.
+
+Testinės partijos logika taip pat apsaugo nuo per didelio starto. Vietoje brangios ir rizikingos pradžios galima tikrinti mažais žingsniais. Jei produktas neveikia, klaida lieka mažesnė. Jei veikia, galima pereiti prie kito klausimo.
+
+Liepos 10 dienos įrašas parodė, kad būsima praktika turės prasidėti ne nuo didelio paleidimo, o nuo mažo, sąžiningo patikrinimo.
+
+SEO:
+SEO title: Testinės BVK maisto partijos idėja
+Meta description: 2030 m. pirmą kartą aprašyta testinių BVK maisto partijų idėja kaip būsima praktinės patikros forma.
+Slug: testines-bvk-maisto-partijos-ideja-2030
+
+IMAGE PROMPT:
+Photorealistic small batch food testing scene, sample containers, weighing scale, blank test sheets, July daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2030-07-10
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 14
+Data: 2030-07-27
+Rubrika: Technologijos
+Pavadinimas: Pradėta svarstyti paprasta užsakymų, pristatymo ir apskaitos logika
+
+STRAIPSNIS:
+Liepos pabaigoje produktų klausimas buvo papildytas užsakymų, pristatymo ir apskaitos logika. Net mažai maisto dirbtuvei neužtenka pagaminti produktą. Reikia suprasti, kaip gaunamas užsakymas, kaip jis paruošiamas, kaip pristatomas ir kaip fiksuojami pinigai.
+
+Šiame etape buvo svarstoma tik paprasta sistema. Galbūt pradžioje pakaktų elementarios užsakymų lentelės, aiškaus pristatymo grafiko, išlaidų ir pajamų žurnalo, produktų sąrašo ir grįžtamojo ryšio formos. Tačiau net tokia paprasta sistema turi būti tvarkinga.
+
+Apskaita čia nebuvo matoma kaip biurokratinė našta. Ji buvo pasitikėjimo pagrindas. Jei ateityje bus kalbama apie bendrą fondą, kiekvienas turi suprasti, iš kur pinigai ateina, kur jie išeina ir kas lieka. Be apskaitos fondas taptų tik gražiu žodžiu.
+
+Pristatymo logika taip pat parodė, kad gamyba nėra izoliuota. Ji jungiasi su keliais, laiku, klientų poreikiais ir patikimumu. Vėluojantis arba neaiškus pristatymas gali sugadinti net gerą produktą.
+
+Liepos 27 dienos įrašas įvedė dar vieną praktinę grandį. Ateities gamyba turės ne tik virti, kepti ar pakuoti. Ji turės mokėti priimti užsakymą, nuvežti produktą ir sąžiningai suskaičiuoti rezultatą.
+
+SEO:
+SEO title: Paprasta BVK užsakymų ir apskaitos logika
+Meta description: 2030 m. pradėta svarstyti paprasta BVK maisto dirbtuvės užsakymų, pristatymo ir apskaitos logika.
+Slug: bvk-uzsakymu-pristatymo-apskaitos-logika-2030
+
+IMAGE PROMPT:
+Photorealistic logistics planning desk, delivery route sketch, order cards, calculator, food boxes, July evening light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2030-07-27
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 15
+Data: 2030-08-13
+Rubrika: Savęs tobulinimas
+Pavadinimas: Paaiškėjo, kad pagalba darbuotojui negali būti pažadėta anksčiau už pajamas
+
+STRAIPSNIS:
+Rugpjūčio viduryje socialinė kalba buvo dar kartą grąžinta prie ekonominės ribos. Pagalba darbuotojui negali būti pažadėta anksčiau už pajamas. Tai buvo svarbu pasakyti aiškiai, nes BVK idėjos šerdyje nuo pradžių buvo noras mažinti žmogaus gyvenimo naštą.
+
+Tačiau noras padėti gali tapti pavojingas, jei jis virsta pažadu be pagrindo. Darbuotojo maistas, transporto parama, mokymai, nuolaidos ar būsto pagalba gali atsirasti tik tada, kai gamyba jau sukuria stabilų likutį. Kitaip pagalba bus finansuojama skolomis, iliuzijomis arba kito žmogaus neišmokėtu darbu.
+
+Ši mintis nėra socialinės idėjos atsisakymas. Priešingai, ji ją saugo. Jei pagalba atsiranda per anksti, ji greitai žlunga ir sukelia nusivylimą. Jei ji atsiranda lėtai, iš patikrinto pagrindo, ji gali tapti pasitikėjimo dalimi.
+
+2030 metais dar nebuvo jokio darbuotojų paketo. Buvo tik pradinis supratimas, kad ateities parama turi sekti paskui tvarią gamybą, o ne ją lenkti. Tai vienas svarbiausių būsimos ekonominės etikos principų.
+
+Rugpjūčio 13 dienos įrašas padėjo atskirti užuojautą nuo atsakomybės. Padėti žmogui galima tik tada, kai pagalba turi tikrą atramą.
+
+SEO:
+SEO title: Pagalba darbuotojui negali lenkti pajamų
+Meta description: 2030 m. BVK projekte aiškiai įvardyta, kad pagalba darbuotojui negali būti pažadėta anksčiau už realias pajamas.
+Slug: pagalba-darbuotojui-negali-lenkti-pajamu-2030
+
+IMAGE PROMPT:
+Photorealistic reflective desk scene, worker lunch container, blank budget sheet, calculator, August light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2030-08-13
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 16
+Data: 2030-08-30
+Rubrika: Darbas
+Pavadinimas: Darbuotojo pietūs pradėti svarstyti kaip pirmoji galima būsimos paramos forma
+
+STRAIPSNIS:
+Rugpjūčio pabaigoje darbuotojo pietūs pradėti svarstyti kaip pirmoji galima būsimos paramos forma. Tai buvo sąmoningai kukli mintis. Ne būstas, ne platus socialinis paketas, ne šeimos aprūpinimas, o vienas labai konkretus dalykas: ar gamyba galėtų kada nors pamaitinti žmogų darbo metu?
+
+Ši idėja atrodė natūrali būtent dėl maisto dirbtuvės krypties. Jei gaminama maisto produkcija, dalis jos ateityje galėtų grįžti į darbuotojų kasdienybę. Tačiau ir čia buvo būtina riba: tai negali būti pažadėta anksčiau, nei žinoma, kad produktas išsilaiko ekonomiškai.
+
+Darbuotojo pietūs svarbūs ne tik kaip maistas. Jie simbolizuoja pirmą realų skirtumą tarp įprasto darbo ir būsimos kooperatyvinės logikos. Darbo vieta galėtų ne tik imti žmogaus laiką, bet ir grąžinti dalį rūpesčio jo kasdienybei.
+
+Vis dėlto 2030 metais ši mintis liko tik būsimos galimybės lygmenyje. Reikėjo skaičiuoti, kiek kainuotų porcijos, ar jos nemažintų būtino likučio, kaip tai būtų fiksuojama ir ar tokia parama būtų sąžininga visiems.
+
+Rugpjūčio 30 dienos įrašas parodė, kad pirmoji socialinė forma turi būti maža, konkreti ir patikrinama. Didelė pagalba prasideda nuo klausimo, ar galima sąžiningai duoti žmogui pietus.
+
+SEO:
+SEO title: Darbuotojo pietūs kaip pirmoji BVK parama
+Meta description: 2030 m. darbuotojo pietūs pradėti svarstyti kaip pirmoji galima būsimos BVK paramos forma.
+Slug: darbuotojo-pietus-kaip-pirmoji-bvk-parama-2030
+
+IMAGE PROMPT:
+Photorealistic simple worker meal planning scene, lunch tray, production notes, calculator, late summer daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2030-08-30
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 17
+Data: 2030-09-12
+Rubrika: Ekonomika
+Pavadinimas: Bendro fondo idėja pirmą kartą susieta su skaidriu pelno likučiu
+
+STRAIPSNIS:
+Rugsėjo viduryje bendro fondo idėja buvo tiesiogiai susieta su skaidriu pelno likučiu. Tai reiškė, kad fondas negali būti suprantamas kaip abstrakti kasa, į kurią kažkas tiesiog įdeda pinigų. Jis turi atsirasti tik iš aiškiai matomo skirtumo tarp pajamų ir sąžiningai pripažintų išlaidų.
+
+Šis principas buvo svarbus dėl pasitikėjimo. Jei ateityje žmonės dirbs bendroje sistemoje, jie turės suprasti, kaip skaičiuojamas likutis ir kodėl viena jo dalis skiriama plėtrai, kita - rezervui, trečia - galimai darbuotojų paramai. Be skaidrumo fondas taptų konflikto šaltiniu.
+
+Skaidrus pelno likutis taip pat padeda atskirti BVK kryptį nuo įprastos privačios logikos. Pelno egzistavimas savaime nėra blogis. Klausimas yra, kam jis tarnauja. Jei likutis naudojamas tik privačiam išėmimui, sistema lieka įprastas verslas. Jei jis matomai grįžta į bendrą plėtrą, atsiranda kita kryptis.
+
+2030 metais dar nebuvo fondo ir nebuvo pelno. Tačiau buvo labai svarbu iš anksto apibrėžti, kad fondo kalba turi būti ne emocinė, o apskaitinė. Kiekvienas bendras sprendimas turės remtis skaičiumi.
+
+Rugsėjo 12 dienos įrašas padėjo pamatyti būsimą fondo etiką. Bendrumas prasideda ne nuo gražios frazės, o nuo skaidraus likučio.
+
+SEO:
+SEO title: Bendras fondas ir skaidrus pelno likutis
+Meta description: 2030 m. BVK bendro fondo idėja pirmą kartą susieta su skaidriu pelno likučiu ir apskaita.
+Slug: bendras-fondas-skaidrus-pelno-likutis-2030
+
+IMAGE PROMPT:
+Photorealistic transparent accounting concept, blank ledger, calculator, simple product samples, September light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2030-09-12
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 18
+Data: 2030-09-28
+Rubrika: Archyvas
+Pavadinimas: Sukurtas pirmasis klausimų sąrašas apie skaidrią apskaitą ir bendrą fondą
+
+STRAIPSNIS:
+Rugsėjo pabaigoje buvo sukurtas pirmasis klausimų sąrašas apie skaidrią apskaitą ir bendrą fondą. Tai nebuvo buhalterinė sistema, bet pradinis bandymas suprasti, kokius klausimus reikės atsakyti prieš bet kokį praktinį modelį.
+
+Sąraše atsirado paprasti, bet svarbūs klausimai: kas fiksuoja pajamas, kas mato išlaidas, kaip atskiriamos gamybos sąnaudos nuo plėtros išlaidų, kokia dalis gali būti atidedama rezervui, kas sprendžia dėl fondo naudojimo ir kaip išvengiama asmeninio piktnaudžiavimo.
+
+Šis klausimų sąrašas buvo reikalingas todėl, kad bendras fondas yra jautri vieta. Ten, kur atsiranda bendri pinigai, atsiranda ir įtampa. Jei taisyklės neaiškios, net geri žmonės gali pradėti nepasitikėti vieni kitais. Todėl skaidrumas turi būti ruošiamas dar prieš atsirandant pinigams.
+
+2030 metais šie klausimai liko archyviniai ir parengiamieji. Tačiau jų atsiradimas parodė, kad projektas pradeda mąstyti ne tik apie produktą, bet ir apie ilgalaikę pasitikėjimo infrastruktūrą.
+
+Rugsėjo 28 dienos įrašas įtvirtino principą: fondas turi būti matomas ne tada, kai jau kyla konfliktas, o nuo pirmos dienos, kai jis apskritai tampa įmanomas.
+
+SEO:
+SEO title: Skaidrios apskaitos ir BVK fondo klausimai
+Meta description: 2030 m. sukurtas pirmasis klausimų sąrašas apie skaidrią BVK apskaitą ir būsimą bendrą fondą.
+Slug: skaidrios-apskaitos-ir-fondo-klausimai-2030
+
+IMAGE PROMPT:
+Photorealistic archive folder with accounting question cards, blank ledgers, pencil, autumn light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2030-09-28
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 19
+Data: 2030-10-10
+Rubrika: Vystymasis
+Pavadinimas: Įvardytos pirmosios rizikos: per maža paklausa, per didelės sąnaudos ir per ankstyvi pažadai
+
+STRAIPSNIS:
+Spalio pradžioje buvo sąmoningai įvardytos pirmosios praktinio posūkio rizikos. Tai buvo būtina, nes projektas negalėjo kalbėti tik apie galimybes. Jeigu norima rimtai pereiti prie ekonomikos, reikia matyti ir tai, kas gali nepavykti.
+
+Pirmoji rizika - per maža paklausa. Produktas gali atrodyti reikalingas, bet jei žmonės jo neperka pakankamu kiekiu ir už tinkamą kainą, gamyba neišsilaiko. Antroji rizika - per didelės sąnaudos. Net geras pardavimas gali nieko nereikšti, jei žaliavos, patalpos, darbas ir transportas suvalgo visą likutį.
+
+Trečioji rizika buvo pati pavojingiausia BVK idėjai: per ankstyvi pažadai. Jei dar neaiški gamyba, negalima žadėti darbuotojams socialinių naudų. Jei dar nėra fondo, negalima kalbėti taip, lyg jis jau veiktų. Per ankstyvas pažadas gali sugriauti pasitikėjimą labiau negu lėta pradžia.
+
+Rizikų įvardijimas nereiškė atsisakymo. Priešingai, jis padėjo projektui subręsti. Tik tas modelis, kuris mato savo silpnybes, gali vėliau tapti patikimesnis. Optimizmas be rizikų sąrašo yra tik nuotaika.
+
+Spalio 10 dienos įrašas parodė, kad praktikos link einama ne užmerktomis akimis. Ateities Respublika turi mokėti kalbėti apie nesėkmę dar prieš pirmą bandymą.
+
+SEO:
+SEO title: Pirmosios BVK praktinio modelio rizikos
+Meta description: 2030 m. įvardytos pirmosios BVK praktinio modelio rizikos: paklausa, sąnaudos ir per ankstyvi pažadai.
+Slug: pirmosios-bvk-praktinio-modelio-rizikos-2030
+
+IMAGE PROMPT:
+Photorealistic risk planning desk, red-flag markers on blank sheets, calculator, product samples, October daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2030-10-10
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 20
+Data: 2030-10-27
+Rubrika: Teisė
+Pavadinimas: Paaiškėjo, kad pagalba darbuotojui neturi virsti priklausomybe nuo sistemos
+
+STRAIPSNIS:
+Spalio pabaigoje socialinės pagalbos klausimas buvo papildytas teisine ir moraline riba. Pagalba darbuotojui neturi virsti priklausomybe nuo sistemos. Ši mintis buvo svarbi nuo pat ankstyvų būsto ir darbo svarstymų, bet 2030 metais ji įgavo praktiškesnį atspalvį.
+
+Jeigu ateityje darbuotojas gaus maistą, nuolaidas, transporto paramą ar galbūt būsto pagalbą, reikia iš anksto suprasti, kaip jis išlieka laisvas. Kas nutinka, jei jis išeina? Ar jis nepraranda visko vienu metu? Ar pagalba nėra naudojama kaip būdas jį laikyti?
+
+Šie klausimai ypač svarbūs kooperatyvinei logikai. Bendra sistema gali būti stipri tik tada, kai žmogus joje nėra įkalintas. Socialinis saugumas neturi pavirsti minkšta priklausomybės forma, kurioje išeiti tampa per sunku.
+
+2030 metais dar nebuvo pagalbos formų, bet buvo galima pradėti kurti apsauginius principus. Kiekviena būsima nauda turi turėti aiškias ribas, sąlygas ir išėjimo kelią. Tik tada ji bus pagalba, o ne kontrolės įrankis.
+
+Spalio 27 dienos įrašas priminė, kad socialinis modelis turi saugoti ne tik nuo skurdo, bet ir nuo priklausomybės. Žmogui reikia ne tik paramos, bet ir teisės likti laisvam.
+
+SEO:
+SEO title: Pagalba darbuotojui neturi virsti priklausomybe
+Meta description: 2030 m. įvardyta, kad būsima BVK pagalba darbuotojui neturi virsti priklausomybe nuo sistemos.
+Slug: pagalba-darbuotojui-ne-priklausomybe-2030
+
+IMAGE PROMPT:
+Photorealistic legal-social planning scene, work key, blank exit agreement pages, lunch container, autumn evening light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2030-10-27
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 21
+Data: 2030-11-12
+Rubrika: Teisė
+Pavadinimas: 2031 metams pradėta ruošti teisinių formų palyginimo kryptis
+
+STRAIPSNIS:
+Lapkričio viduryje 2031 metams pradėta ruošti teisinių formų palyginimo kryptis. 2030 metais jau tapo aišku, kad praktinis etapas negalės prasidėti be atskiros teisinės formos, tačiau pačios formos pasirinkimas reikalavo atskiro, atsargaus darbo.
+
+Reikėjo suprasti, kuo skiriasi viešoji, asociacinė, kooperatinė ir ūkinė logika. Viena forma gali tikti svetainei, švietimui ar viešam paaiškinimui. Kita - žmonių ratui. Trečia - gamybai, pardavimams ir darbuotojų santykiams. Jeigu visos funkcijos bus sumaišytos, vėliau bus sunku išlaikyti skaidrumą.
+
+2030 metais dar nebuvo lyginami konkretūs modeliai iki galo. Tačiau buvo sudaryta kryptis: 2031 metais reikės kalbėti apie VšĮ, asociaciją, kooperatinę bendrovę ar kitus galimus teisinius indus, kiekvienam priskiriant aiškią paskirtį.
+
+Šis pasiruošimas taip pat padėjo suvokti, kad teisė nėra tik formalumas. Ji nustato, kas gali priimti sprendimus, kas atsako už pinigus, kas turi teises ir kaip apsaugomas bendras darbas nuo savivalės.
+
+Lapkričio 12 dienos įrašas atveria duris į 2031 metus. Po produktų ir sąnaudų klausimų kitas žingsnis turi būti teisinis aiškumas.
+
+SEO:
+SEO title: Ruošiamas BVK teisinių formų palyginimas
+Meta description: 2030 m. pradėta ruošti 2031 metų BVK teisinių formų palyginimo kryptis prieš praktinį etapą.
+Slug: bvk-teisiniu-formu-palyginimas-2031-paruosa
+
+IMAGE PROMPT:
+Photorealistic legal comparison planning, separate blank folders for organization types, calculator, November daylight, no readable text.
 
 PABAIGOS BLOKAS:
 Publikuota: 2030-11-12
-Parengė: BVK tapatybės ir turinio plėtros redakcija
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮRAŠАС 12
-Data: 2030-12-17
-Rubrika: Archyvas
-Pavadinimas: Metų apžvalga: Respublikos pasaulis svetainėje jau atrodo kaip nuosekliai auganti sistema
+ĮRAŠAS 22
+Data: 2030-11-29
+Rubrika: Ekonomika
+Pavadinimas: Pirmoji maisto dirbtuvės kryptis palikta kaip klausimas, kurį reikės tikrinti skaičiais
 
 STRAIPSNIS:
-2030 metai tapo laikotarpiu, kai Respublikos pasaulis įgijo aiškesnį viešą veidą. Per šiuos mėnesius pradėtas formuoti vizualinis ir kalbinis stilius, išplėsti gyvenimo modelio aprašymai, sustiprinta dokumentų struktūra, pradėta švietimo ir ekonomikos kalba, suderintos pagrindinės pasakojimo linijos, sukurtas institucijų žemėlapis, pradėta archyvinių straipsnių serija ir išryškėjo tvirtesnis skaitytojų branduolys.
+Lapkričio pabaigoje maisto dirbtuvės kryptis buvo palikta ne kaip sprendimas, o kaip klausimas, kurį reikės tikrinti skaičiais. Tai buvo sąmoningas ir svarbus atsargumas. Net jeigu kryptis atrodo tinkama BVK logikai, ji negali būti priimta vien dėl savo gražaus atitikimo idėjai.
 
-Svarbiausia metų išvada - svetainėje kuriamas pasaulis jau atrodo ne kaip pavienė eksperimentinė idėja, o kaip nuosekliai auganti sistema. Kartu vis aiškiau matoma, kad kiti metai reikalaus dar daugiau disciplinos, aiškesnio viešo žodyno ir stipresnio socialinio matmens.
+Reikės patikrinti savikainą, paklausą, patalpų kainą, leidimus, įrangą, darbo laiką, galimą pardavimo kainą, pristatymą ir rizikas. Tik tada bus galima spręsti, ar maisto dirbtuvė gali tapti pirmu praktiniu branduoliu, ar reikia ieškoti kitos krypties.
 
-Metai užbaigiami kaip tapatybės sutvirtinimo etapas.
+Ši formuluotė padėjo apsaugoti projektą nuo per ankstyvo užsirakinimo viename variante. Maisto kryptis atrodo stipri, bet ji nėra dogma. Jei skaičiai parodys, kad ji per sunki, projektas turės turėti drąsos koreguoti kelią.
+
+Tuo pačiu buvo aišku, kad tokia kryptis verta rimtesnio darbo. Ji pakankamai arti žmogaus kasdienybės, kad atitiktų BVK socialinę logiką, ir pakankamai praktiška, kad ją būtų galima tikrinti. Todėl ji palikta kaip pagrindinė 2031-2032 metų patikros tema.
+
+Lapkričio 29 dienos įrašas parodė brandžią poziciją: kryptį galima mylėti, bet ją vis tiek reikia skaičiuoti.
 
 SEO:
-SEO title: 2030 m. BVK metų apžvalga
-Meta description: 2030 metų apžvalga: Respublikos pasaulis svetainėje jau atrodo kaip nuosekliai auganti sistema.
-Slug: bvk-2030-metu-apzvalga
+SEO title: Maisto dirbtuvė kaip tikrintinas BVK klausimas
+Meta description: 2030 m. BVK maisto dirbtuvės kryptis palikta kaip klausimas, kurį reikės tikrinti realiais skaičiais.
+Slug: maisto-dirbtuve-tikrintinas-bvk-klausimas-2030
 
 IMAGE PROMPT:
-Photorealistic end-of-year creative archive scene with branding drafts, maps, article bundles and organized folders, winter dusk light, no readable text.
+Photorealistic food direction review, sample menu cards blank, cost sheets, calculator, November evening light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2030-12-17
-Parengė: BVK tapatybės ir turinio plėtros redakcija
+Publikuota: 2030-11-29
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 23
+Data: 2030-12-12
+Rubrika: Archyvas
+Pavadinimas: 2030 metai užbaigti kaip pirmųjų praktinių klausimų ir sąnaudų metų pradžia
+
+STRAIPSNIS:
+Gruodžio viduryje 2030 metai buvo apibendrinti kaip pirmųjų praktinių klausimų ir sąnaudų metų pradžia. Per metus projektas dar nieko negamino, nieko nepardavė ir niekam nežadėjo socialinės paramos. Tačiau jis padarė kitą svarbų darbą - pradėjo kalbėti apie praktikos sąlygas.
+
+Buvo grįžta prie pirmojo klausimo, surinkta produktų krypties lentelė, išskirta maisto dirbtuvės galimybė, pradėta skaičiuoti savikaina, įvardyta pajamų būtinybė, aptarti leidimai, įranga, pirkėjai, išorinis pardavimas, teisinė forma, testinės partijos, užsakymai, fondas ir rizikos.
+
+Ši apžvalga buvo svarbi todėl, kad neleido 2030 metų paversti tuščiu pasiruošimu. Nors praktika dar neprasidėjo, atsirado klausimų sistema, be kurios praktika būtų neatsakinga. Kartais ne veiksmas, o teisingų klausimų surinkimas yra būtinas pirmas žingsnis.
+
+Metų pabaigoje buvo aišku, kad 2031 turės gilinti teisinę kryptį, o 2032 - artėti prie konkretesnės pasirengimo formos. 2030 atliko savo vaidmenį: jis nuleido idėją prie sąnaudų, bet dar neleido jai apsimesti veikiančia ekonomika.
+
+Gruodžio 12 dienos įrašas užbaigia metus blaivia išvada. Ateities Respublikos praktika prasideda ne nuo atidarymo juostos, o nuo klausimo, ar skaičiai leidžia žengti kitą žingsnį.
+
+SEO:
+SEO title: 2030 m. BVK praktinių klausimų apžvalga
+Meta description: 2030 m. BVK metai užbaigti kaip pirmųjų praktinių klausimų, sąnaudų ir maisto dirbtuvės patikros pradžia.
+Slug: 2030-bvk-praktiniu-klausimu-apzvalga
+
+IMAGE PROMPT:
+Photorealistic year-end archive desk, practical question folders, cost sheets, product samples, winter light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2030-12-12
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 24
+Data: 2030-12-29
+Rubrika: Vystymasis
+Pavadinimas: Prieš 2031 metus įtvirtinta mintis, kad praktika prasidės tik nuo teisėtumo ir skaidrumo
+
+STRAIPSNIS:
+2030 metų pabaigoje buvo įtvirtinta mintis, kuri turi lydėti visą kitą etapą: praktika gali prasidėti tik nuo teisėtumo ir skaidrumo. Be šių dviejų dalykų net geriausia socialinė idėja gali greitai tapti nepatikima.
+
+Teisėtumas reiškia, kad būsima gamyba turės turėti aiškią formą, atsakomybę, leidimus, mokesčius ir sutartis. Skaidrumas reiškia, kad pajamos, išlaidos, fondas ir sprendimai negali būti paslėpti migloje. Jei žmonės turės pasitikėti bendra sistema, jie turi matyti jos pagrindą.
+
+Ši išvada buvo ypač svarbi prieš 2031 metus. Kitais metais reikės lyginti teisines formas ir suprasti, kuris sluoksnis kam reikalingas. Svetainė, viešas paaiškinimas, dalyvavimo ratas ir būsima gamyba neturi būti sukišti į vieną neaiškų indą.
+
+2030 metų pabaigoje projektas dar nebuvo pasirengęs veikti praktiškai. Tačiau jis jau buvo pasirengęs atsisakyti pavojingos iliuzijos, kad gera idėja savaime pateisina neaiškią formą. Gera idėja turi būti dar griežtesnė sau nei paprastas verslas.
+
+Gruodžio 29 dienos įrašas uždaro 2030 metus kaip sąžiningą slenkstį. Nuo šiol kitas klausimas skamba aiškiai: kokio teisėto ir skaidraus indo reikės, kad ateities praktika galėtų prasidėti be saviapgaulės?
+
+SEO:
+SEO title: Praktika prasidės nuo teisėtumo ir skaidrumo
+Meta description: 2030 m. pabaigoje įtvirtinta mintis, kad BVK praktika galės prasidėti tik nuo teisėtumo ir skaidrumo.
+Slug: praktika-nuo-teisetumo-ir-skaidrumo-2030
+
+IMAGE PROMPT:
+Photorealistic final planning scene, legal folders, transparent accounting sheets, quiet winter night, desk lamp, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2030-12-29
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
