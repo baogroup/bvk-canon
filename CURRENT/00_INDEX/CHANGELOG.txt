@@ -723,3 +723,13 @@ BVK CANON
 Связанные документы: 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt, 04_ARTICLE_MATRIX_2026_2046.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt, 03_SOCIAL_ORDER/05_HOUSING_CODE.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0071]
+Дата: 2026-04-25
+Изменённый файл: CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
+Старая версия: v1.1
+Новая версия: v1.2
+Причина: ранний новостной слой 2026-2035 синхронизирован с уточнённой логикой происхождения Республики; 2026 год закреплён как личный вопрос о кооперативе рядом с Рудишкес, 2027-2029 как цифровой, культурный и публично-поисковый период, 2030-2032 как расчётная и юридически осторожная подготовка, 2033 как год первого малого кооперативного производства, 2034 как год стабилизации производства, а 2035 как год первых социальных результатов и подготовки к более плотному переходному периоду 2036-2045.
+Связанные документы: 07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt, 07_TIMELINE/02_CONTENT_PLAN_2026_2046.txt, 07_TIMELINE/03_PHASE_2026_2045_FOUNDING_LAYER.txt, 07_TIMELINE/04_ARTICLE_MATRIX_2026_2046.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
