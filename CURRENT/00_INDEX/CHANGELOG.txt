@@ -833,3 +833,13 @@ BVK CANON
 Связанные документы: 09_YEAR_2030_PUBLICATION_PLAN.txt, 10_YEAR_2031_PUBLICATION_PLAN.txt, 11_YEAR_2032_PUBLICATION_PLAN.txt, 13_YEAR_2034_PUBLICATION_PLAN.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt, 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0082]
+Дата: 2026-04-25
+Изменённый файл: CURRENT/07_TIMELINE/13_YEAR_2034_PUBLICATION_PLAN.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: годовой публикационный план 2034 года расширен с 12 до 36 публикаций и синхронизирован с уточнённой логикой раннего практического слоя BVK Canon; 2034 год закреплён как год повторяемой малой практической проверки после первого ограниченного испытания 2033 года. Добавлены темы повторяемости продукта, нескольких малых патикр, сравнения себестоимости, фиксации труда, санитарной дисциплины, покупательской реакции, малого резерва, отделения резерва от фонда, кандидата на постоянный продукт и подготовки возможного ограниченного пилотного этапа 2035 года. Исправлен стиль публикаций: статьи подаются как свежие новости 2034 года, с более живой читательской драматургией, а не как позднее восстановление архива.
+Связанные документы: 09_YEAR_2030_PUBLICATION_PLAN.txt, 10_YEAR_2031_PUBLICATION_PLAN.txt, 11_YEAR_2032_PUBLICATION_PLAN.txt, 12_YEAR_2033_PUBLICATION_PLAN.txt, 14_YEAR_2035_PUBLICATION_PLAN.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt, 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
