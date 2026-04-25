@@ -2,10 +2,10 @@ BVK CANON
 Годовой публикационный план 2027
 
 Статус: ACTIVE
-Версия: v1.0
+Версия: v1.1
 Дата первого принятия: 2026-04-23
-Текущая редакция: 2026-04-23
-История поправок: CHANGE-0063
+Текущая редакция: 2026-04-25
+История поправок: CHANGE-0063; CHANGE-0075
 Уровень доступа: SERVICE
 Историческая принадлежность: ранний идейный слой
 Связанные закрытые документы: нет
@@ -15,320 +15,734 @@ BVK CANON
 Этот файл закрепляет годовой публикационный план для 2027 года в рамках внутреннего SERVICE-слоя BVK Canon.
 
 Главный принцип:
-Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
-Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+2027 год нельзя описывать как год организации, движения, действующего BVK, юридической структуры, предприятия или Республики.
+
+2027 год является годом первого открытого чтения. Проект выходит из полностью личного рабочего слоя к первому внешнему читателю, но остаётся культурным, цифровым, объясняющим и поисковым. В этот период сайт готовится и открывается для чтения, формируется логика объяснения проекта, начинается рабочий слой романа о 2085 годе и появляются первые реакции читателей.
+
+Задача публикационного плана:
+Показать, как после личного 2026 года проект впервые становится видимым: через сайт, правила чтения, ранний архив, связь 2026 и 2086 годов, художественный слой романа, первые читательские вопросы и осторожное понимание того, что видимость ещё не равна организации.
+
+Редакционное правило 2027 года:
+- никакого голоса зрелого государства;
+- никакой действующей Республики;
+- никакой организации, движения или официального круга участников;
+- никакого предприятия, производства или юридической структуры;
+- сайт можно показывать как живой проект, но не как государственный портал;
+- роман можно показывать как художественный мост к 2085 году, но не как официальный документ;
+- первых читателей можно показывать как читателей, а не как общину или сторонников.
 
 Связь с другими файлами:
+- 01_TIMELINE_CORE_2026_2086.txt задаёт общую хронологическую ось
 - 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 03_PHASE_2026_2045_FOUNDING_LAYER.txt задаёт смысл фазы основания
 - 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
-- данный файл переводит эту логику в конкретный годовой набор публикаций
+- 05_YEAR_2026_PUBLICATION_PLAN.txt задаёт личный идейный слой предыдущего года
+- 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt задаёт ранний новостной слой
+- 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt задаёт стиль 2027-2029 годов
 
 BVK METINIS PLANAS 2027
 
 METINIS STILIUS IR TONAS
-- Idėja plečiasi į pasaulį, pasakojimą ir pirmus išorinius atgarsius.
-- Tekstai turi būti šiek tiek tvirtesni nei 2026 m., bet dar ne oficialūs.
-- Daugiau kultūrinio sluoksnio: romano užuomazgos, miestų vaizduotė, pirmieji skaitytojai.
-- Leidžiama daugiau vientisos pasakojimo energijos, tačiau be deklaratyvios politikos.
+- Pirmasis atviro skaitymo etapas: svetainė išeina iš visiškai asmeninio darbo lauko, bet dar netampa institucija.
+- Tekstai turi būti aiškesni ir tvirtesni nei 2026 metais, tačiau vis dar neoficialūs.
+- Daugiau skaitmeninio, kultūrinio ir aiškinamojo sluoksnio: svetainė, skaitymo taisyklės, pirmasis skaitytojas, romanas, 2085 metų pasakojimo pradžia.
+- Negalima rašyti apie organizaciją, judėjimą, teisinę struktūrą ar bendruomenę kaip apie jau egzistuojančius dalykus.
+- Pagrindinis metų klausimas: kaip padaryti, kad pirmasis skaitytojas suprastų, jog tai ne paruošta Respublika, o ilgas ateities pasaulio kūrimo kelias.
 
 REKOMENDUOJAMAS PARENGĖJAS: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 1
-Data: 2027-01-13
-Rubrika: Kultūra
-Pavadinimas: Pradėta rengti romano apie 2080-uosius koncepcija, susieta su BVK archyvais ir Respublikos idėja
+Data: 2027-01-14
+Rubrika: Archyvas
+Pavadinimas: 2026 metų užrašai pradėti tvarkyti į pirmą viešą archyvo sluoksnį
 
 STRAIPSNIS:
-Sausio mėnesį Respublikos projektas įgijo naują kryptį - pradėta formuoti romano apie brandžią ateities epochą koncepcija. Šis sumanymas kilo iš supratimo, kad vien dokumentų ir naujienų nepakanka: skaitytojui reikia ir gyvo žmogaus žvilgsnio į pasaulį, kuriame Respublika jau tapusi kasdienybe.
+2027 metų pradžioje pirmiausia buvo grįžta prie ankstesnių metų užrašų. 2026-ieji paliko daug klausimų, fragmentų, nebaigtų minčių ir bandymų suprasti, nuo ko galėtų prasidėti kitokia darbo bei gyvenimo tvarka. Tačiau šie užrašai dar nebuvo tinkami tiesiogiai rodyti skaitytojui.
 
-Ankstyvieji romano užrašai buvo tiesiogiai siejami su kuriamu BVK archyvu. Miestai, institucijos, viešoji tvarka, kasdienybės detalės ir moraliniai konfliktai buvo derinami taip, kad literatūrinis sluoksnis neprieštarautų dokumentiniam pasauliui.
+Sausį pradėtas pirmas jų tvarkymas. Buvo aiškiau atskiriama, kas yra asmeninis klausimas, kas gali tapti viešu tekstu, o kas turi likti darbo sluoksnyje. Svarbiausia buvo ne pagražinti pradžią, o išlaikyti jos tikrumą: 2026 metais dar nebuvo nei Respublikos, nei BVK, nei miesto, nei organizacijos.
 
-Ši publikacija žymi momentą, kai Respublikos idėja įgijo ne tik teisinių ir struktūrinių, bet ir pasakojimo formų.
+Šis archyvo tvarkymas padėjo pamatyti, kad ankstyvieji tekstai turi vertę būtent dėl savo netobulumo. Jie rodo ne pasiektą rezultatą, o pirmą bandymą mąstyti kitaip. Todėl buvo nuspręsta jų nepaversti vėlyvos Respublikos stiliaus dokumentais.
+
+Pirmasis viešas archyvo sluoksnis turėjo veikti kaip kelio pradžios liudijimas. Skaitytojas ateityje turėtų matyti, kad projektas neprasidėjo nuo paruoštos ideologijos, o nuo klausimų, kuriuos reikėjo ilgai tikrinti.
+
+Taip 2027 metų sausis tapo ne naujo didelio pareiškimo, o ankstyvos atminties tvarkymo pradžia. Prieš atveriant svetainę kitiems, reikėjo pačiam projektui suprasti, ką jis paveldėjo iš pirmųjų metų.
 
 SEO:
-SEO title: Pradėta rengti BVK romano koncepcija 2027 m.
-Meta description: 2027 m. pradėta rengti romano apie 2080-uosius koncepcija, tiesiogiai susieta su BVK archyvais ir Respublikos pasauliu.
-Slug: pradeta-rengti-bvk-romano-koncepcija-2027
+SEO title: Pirmasis viešas 2026 metų BVK archyvo sluoksnis
+Meta description: 2027 m. pradėtas tvarkyti 2026 metų BVK užrašų archyvas, atskiriant viešą sluoksnį nuo darbo medžiagos.
+Slug: 2026-metu-uzrasu-viesas-archyvas-2027
 
 IMAGE PROMPT:
-Photorealistic horizontal editorial photo, writer’s desk with notebooks, city sketches, timeline notes and a laptop, winter daylight, literary planning atmosphere, no readable text, natural documentary style.
+Photorealistic horizontal editorial photo, winter desk with sorted folders, blank archive cards, old notebook from previous year, soft January daylight, no readable text, natural documentary realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2027-01-13
+Publikuota: 2027-01-14
 Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 2
-Data: 2027-02-07
-Rubrika: Archyvas
-Pavadinimas: Sukurtas pirmasis pasakojimo ir dokumentinio Respublikos pasaulio ryšio modelis
+Data: 2027-01-31
+Rubrika: Technologijos
+Pavadinimas: Svetainės struktūra pradėta ruošti pirmiesiems skaitytojams
 
 STRAIPSNIS:
-Vasario pradžioje pirmą kartą sistemingai sujungti du iki tol greta augę sluoksniai - dokumentinis Respublikos archyvas ir būsimo pasakojimo pasaulis. Buvo kuriamas modelis, leidžiantis tam pačiam istoriniam laikotarpiui turėti ir viešą dokumento balsą, ir gyvesnį kultūrinį atspindį.
+Sausio pabaigoje darbas persikėlė nuo užrašų prie svetainės struktūros. Jei projektas turėjo būti atvertas skaitytojui, reikėjo ne tik tekstų, bet ir aiškaus kelio per juos. Vien įkelti publikacijas būtų buvę per mažai.
 
-Šis sprendimas padėjo išvengti dviejų atskirų projektų. Vietoje to pradėjo ryškėti viena vientisa kanono sistema, kurioje teisė, naujienos, kronika ir literatūra remiasi bendru pagrindu.
+Pradėtos dėlioti pagrindinės dalys: pradžios paaiškinimas, naujienų sluoksnis, ankstyvas archyvas, ateities datos ir pagrindinės rubrikos. Buvo svarbu, kad skaitytojas nepasimestų tarp 2026 metų kilmės įrašų ir 2086 metų ateities naujienų.
 
-Nors pats modelis dar buvo ankstyvas ir ne kartą koreguotas, jo atsiradimas tapo lūžiu visoje Respublikos kūrimo metodikoje.
+Tuo metu svetainė dar nebuvo oficialus portalas. Ji buvo darbo erdvė, kuri pamažu ruošėsi tapti matoma. Todėl jos struktūra turėjo būti pakankamai aiški, bet ne per daug valstybiška. Ankstyvas tonas turėjo likti žmogiškas ir atsargus.
+
+Techninė pusė taip pat nebuvo atskirta nuo turinio. Kiekvienas meniu punktas, kiekviena rubrika ir kiekviena nuoroda turėjo padėti skaitytojui suprasti, kad jis mato ne veikiančią Respubliką, o ilgą jos idėjos gimimo kelią.
+
+Šis įrašas žymi momentą, kai svetainė pirmą kartą pradėjo ruoštis ne autoriui, o kitam žmogui. Tai dar nebuvo viešas startas, bet jau buvo pirmas rimtas klausimas: ar nepažįstamas skaitytojas supras, kur pateko?
 
 SEO:
-SEO title: Sujungti BVK dokumentinis ir pasakojimo pasauliai
-Meta description: 2027 m. sukurtas pirmasis modelis, jungiantis dokumentinį Respublikos archyvą ir pasakojimo pasaulį.
-Slug: sujungti-bvk-dokumentinis-ir-pasakojimo-pasauliai-2027
+SEO title: Svetainė pradėta ruošti pirmiesiems skaitytojams
+Meta description: 2027 m. BVK svetainės struktūra pradėta ruošti pirmiesiems skaitytojams ir aiškesniam projekto supratimui.
+Slug: svetaines-struktura-pirmiesiems-skaitytojams-2027
 
 IMAGE PROMPT:
-Photorealistic tabletop scene with document folders beside story pages and map sketches, late-winter daylight, clear separation and connection between materials, no readable text, realistic editorial photography.
+Photorealistic laptop and paper wireframe planning scene, winter afternoon, simple website structure cards, no readable screen text, clean natural realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2027-02-07
+Publikuota: 2027-01-31
 Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 3
-Data: 2027-03-16
-Rubrika: Kultūra
-Pavadinimas: Parengti ankstyvieji būsimo romano miestų, institucijų ir laikmečio užrašai
+Data: 2027-02-16
+Rubrika: Vystymasis
+Pavadinimas: Pirmą kartą suformuluota, kaip skaitytojas turėtų suprasti ateities naujienų svetainę
 
 STRAIPSNIS:
-Kovo mėnesį pradėti rengti detalesni būsimo romano užrašai, skirti miestams, institucijoms ir laikmečio nuotaikai. Svarbiausia užduotis buvo ne kurti dekoraciją, o iš anksto pajusti, kaip gyventų visuomenė, kurioje pagrindiniai Respublikos principai jau yra įsitvirtinę.
+Vasario viduryje tapo aišku, kad svetainei reikės ne tik turinio, bet ir skaitymo instrukcijos. Ne dėl formalumo, o todėl, kad pati forma buvo neįprasta: skaitytojas galėjo matyti ateities naujienas, ankstyvą archyvą, darbo užrašus ir būsimo romano pėdsakus.
 
-Miestų užrašuose daug dėmesio skirta erdvei, ritmui, švarai, archyvams, tylesnei viešajai kultūrai ir kasdieniam žmogaus santykiui su tvarka. Institucijų sluoksnis vystytas taip, kad jos atrodytų ne kaip bausmės aparatas, o kaip ilgalaikį stabilumą palaikanti sistema.
+Pirmasis paaiškinimas turėjo atsakyti į paprastą klausimą: kas tai yra? Tai ne veikiančios valstybės portalas, ne politinės organizacijos puslapis ir ne paprastas fantastikos projektas. Tai gyvas skaitmeninis pasaulio kūrimo archyvas, kuriame ateitis rodoma kartu su savo pradžia.
 
-Šiame etape dar nebuvo galutinio formų tikslumo, tačiau ateities pasaulio medžiaga pirmą kartą pradėjo įgauti savitą atmosferą.
+Ši formuluotė buvo svarbi, nes ji saugojo projektą nuo klaidingo supratimo. Jeigu skaitytojas mato 2086 metų datą, jis gali manyti, kad žiūri į fikciją. Jeigu mato dokumentų pavadinimus, gali manyti, kad čia jau skelbiama reali institucija. Reikėjo paaiškinti, kad abu sluoksniai yra vienos ilgalaikės formos dalys.
+
+Vasario tekstuose atsirado mintis, kad svetainę reikia skaityti kaip kelią, o ne kaip galutinį atsakymą. Ankstyvieji metai rodo, kaip klausimas gimsta. Vėlyvieji metai rodo, kokį pasaulį tas klausimas leidžia įsivaizduoti.
+
+Taip pirmą kartą buvo suformuluota skaitytojo padėtis: jis nėra kviečiamas tikėti paruošta sistema. Jis kviečiamas sekti, kaip sistema dar tik ieško savo pagrindo.
 
 SEO:
-SEO title: Parengti pirmieji būsimo Respublikos pasaulio užrašai
-Meta description: 2027 m. parengti ankstyvieji būsimo romano miestų, institucijų ir laikmečio užrašai.
-Slug: pirmieji-respublikos-pasaulio-uzrasai-2027
+SEO title: Kaip skaityti BVK ateities naujienų svetainę
+Meta description: 2027 m. pirmą kartą suformuluota, kaip skaitytojui suprasti BVK ateities naujienų svetainę ir jos archyvą.
+Slug: kaip-skaityti-bvk-ateities-svetaine-2027
 
 IMAGE PROMPT:
-Photorealistic creative planning photo with city sketch papers, institutional diagrams and handwritten atmosphere notes spread across desk, early spring light, natural optics, no readable text.
+Photorealistic editorial photo of a calm reading setup, laptop with blurred portal layout, printed guide pages, soft February light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2027-03-16
+Publikuota: 2027-02-16
 Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
-ĮРАŠAS 4
-Data: 2027-04-11
-Rubrika: Vystymasis
-Pavadinimas: Svetainės turinio vizija išplėsta į ilgalaikį Respublikos istorijos ir kultūros projektą
+ĮRAŠAS 4
+Data: 2027-02-28
+Rubrika: Archyvas
+Pavadinimas: Atskirtas ankstyvųjų užrašų sluoksnis ir būsimos Respublikos naujienų forma
 
 STRAIPSNIS:
-Balandį tapo aišku, kad svetainė negalės apsiriboti vien naujienomis ar teoriniais aprašais. Jos vizija buvo išplėsta į ilgą istorijos, kultūros, teisės ir kasdienybės lauką, kuriame ateities Respublika būtų matoma kaip pilnas civilizacinis projektas.
+Vasario pabaigoje buvo aiškiau atskirti du svarbūs sluoksniai. Vienas jų - ankstyvieji užrašai, kuriuose matyti abejonės, klausimai ir dar netvarkinga pradžia. Kitas - būsimos Respublikos naujienų forma, kuri leidžia skaitytojui pamatyti brandesnį pasaulį iš vidaus.
 
-Šis pokytis reiškė, kad svetainė turės tarnauti kelioms funkcijoms iš karto: aiškinti idėją, kaupti archyvą, ugdyti skaitytojo žvilgsnį ir kurti gyvą kultūrinę terpę. Tai pareikalavo peržiūrėti ankstesnį turinio planą ir tiksliau atskirti, kas yra grynoji kronika, kas - dokumentas, o kas - kultūrinis sluoksnis.
+Šis atskyrimas buvo būtinas, nes ankstyvas tekstas ir ateities naujiena negali skambėti vienodai. 2026 metų įrašas turi turėti asmeninį, ieškantį toną. 2086 metų naujiena turi skambėti taip, lyg ji priklausytų jau veikiančiai brandžiai sistemai. Sumaišius šiuos balsus, griūtų visas laiko pojūtis.
 
-Nuo šios dienos projektas pradėtas laikyti ilgalaike Respublikos atminties ir vaizduotės sistema.
+Todėl buvo nuspręsta ankstyvųjų metų neperrašyti vėlyva oficialia kalba. Net jei tekstai trumpesni, paprastesni ar mažiau tikslūs, jie turi teisę likti pradžios liudijimu. Ateities naujienos gali būti ramesnės, oficialesnės, bet jos neturi pavogti pradžios balso.
+
+Archyvinis sprendimas padėjo svetainei tapti aiškesnei. Skaitytojas galėjo suprasti, kad vienas tekstas rodo klausimo gimimą, o kitas - pasaulį, kuris galėtų atsirasti po daugelio metų. Tai ne prieštaravimas, o specialiai kuriama laiko struktūra.
+
+Šis įrašas tapo vienu pirmųjų redakcinių saugiklių. Jis priminė, kad ateities pasaulio patikimumas priklauso ne tik nuo to, kas parašyta, bet ir nuo to, ar kiekvienas tekstas kalba savo laiko balsu.
 
 SEO:
-SEO title: Išplėsta ilgalaikė BVK svetainės vizija
-Meta description: 2027 m. svetainės turinio vizija išplėsta į ilgalaikį Respublikos istorijos ir kultūros projektą.
-Slug: isplesta-ilgalaike-bvk-svetaines-vizija-2027
+SEO title: Ankstyvieji užrašai atskirti nuo ateities naujienų
+Meta description: 2027 m. BVK projekte atskirtas ankstyvųjų užrašų sluoksnis ir būsimos Respublikos naujienų forma.
+Slug: ankstyvieji-uzrasai-ir-ateities-naujienos-2027
 
 IMAGE PROMPT:
-Photorealistic editorial photo of planning board with sections for history, law, culture and daily life, spring daylight, realistic studio-documentary mood, no readable text.
+Photorealistic overhead archive scene, two clearly separated paper groups, one rough notebook stack and one clean publication stack, no readable labels, late winter light.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-02-28
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 5
+Data: 2027-03-12
+Rubrika: Vystymasis
+Pavadinimas: Svetainė pirmą kartą paruošta atviram skaitymui
+
+STRAIPSNIS:
+Kovo mėnesį svetainė pirmą kartą buvo paruošta atviresniam skaitymui. Tai dar nebuvo didelis paleidimas, reklaminė kampanija ar oficialus projekto pristatymas. Veikiau tai buvo tylus ribos peržengimas: tekstai, kurie iki tol daugiausia buvo darbo viduje, galėjo būti parodyti kitam žmogui.
+
+Tam reikėjo kelių dalykų. Pirmiausia - bent minimalios pradžios logikos. Skaitytojas turėjo suprasti, kodėl svetainėje atsiranda 2026 metai, kodėl kai kurie tekstai kalba apie 2086 metus ir kodėl projektas sąmoningai nemėgina apsimesti jau veikiančia valstybe.
+
+Antra, reikėjo apsaugoti ankstyvą balsą. Svetainė turėjo būti pakankamai tvarkinga, kad ją būtų galima skaityti, bet ne tokia nugludinta, kad pradingtų jos tikras gimimo laikas. 2027 metų pradžioje projektas vis dar buvo mažas, atsargus ir ieškantis.
+
+Atviras skaitymas taip pat reiškė naują atsakomybę. Kai tekstą mato kitas žmogus, jis ima veikti kitaip. Jis gali būti nesuprastas, kritikuojamas, supainiotas su politiniu pareiškimu ar tiesiog palaikytas keistu literatūriniu eksperimentu. Visa tai reikėjo priimti kaip dalį kelio.
+
+Kovo 12 dienos įrašas žymi pirmą svetainės išėjimą iš visiškai uždaro rato. Nuo šiol projektas jau ne tik rašė pats sau. Jis pradėjo mokytis būti perskaitomas.
+
+SEO:
+SEO title: Svetainė paruošta atviram skaitymui 2027 m.
+Meta description: 2027 m. BVK svetainė pirmą kartą paruošta atviram skaitymui, dar ne kaip oficialus portalas, o kaip gyvas projektas.
+Slug: svetaine-paruosta-atviram-skaitymui-2027
+
+IMAGE PROMPT:
+Photorealistic clean computer desk, website preview on blurred screen, open notebook, early spring daylight, no readable text, calm launch preparation mood.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-03-12
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 6
+Data: 2027-03-29
+Rubrika: Archyvas
+Pavadinimas: Skaitytojui paaiškinta, kodėl svetainėje susitinka 2026 ir 2086 metai
+
+STRAIPSNIS:
+Kovo pabaigoje vienu svarbiausių klausimų tapo datų paaiškinimas. Kodėl toje pačioje svetainėje gali būti 2026 metų pradžios užrašai ir 2086 metų ateities naujienos? Be šio paaiškinimo visa forma rizikavo atrodyti paini.
+
+Buvo suformuluota mintis, kad 2026 metai yra ne Respublikos gimimas, o klausimo gimimas. Tai pradžios vieta, kur dar nėra struktūros, nėra institucijų ir nėra veikiančio modelio. 2086 metai, priešingai, rodo brandų sluoksnį - pasaulį, kurį skaitytojas gali matyti kaip ilgalaikės raidos rezultatą.
+
+Šių dviejų laikų susitikimas nebuvo klaida. Jis buvo svetainės esmė. Skaitytojas galėjo vienu metu matyti kelio pradžią ir tolimą rezultatą, o tarp jų vėliau turėjo atsirasti visa lėta chronologija.
+
+Toks paaiškinimas padėjo išvengti dviejų kraštutinumų. Viena vertus, ankstyvi tekstai neturėjo būti painiojami su veikiančia Respublika. Kita vertus, ateities naujienos neturėjo būti suprantamos kaip paprastas atsitiktinis fantastikos žaidimas.
+
+Šis įrašas tapo vienu iš pagrindinių svetainės skaitymo raktų. Jis pasakė: čia svarbus ne vien ateities vaizdas, bet ir tai, kaip sunkiai, lėtai ir netobulai tas vaizdas galėtų atsirasti.
+
+SEO:
+SEO title: Kodėl BVK svetainėje susitinka 2026 ir 2086 metai
+Meta description: 2027 m. skaitytojui paaiškinta, kodėl BVK svetainėje kartu rodomi 2026 metų pradžios užrašai ir 2086 metų ateitis.
+Slug: kodel-susitinka-2026-ir-2086-metai-bvk-2027
+
+IMAGE PROMPT:
+Photorealistic tabletop with two dated paper stacks suggested by blank year cards, timeline thread between them, spring light, no readable text, natural realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-03-29
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 7
+Data: 2027-04-11
+Rubrika: Kultūra
+Pavadinimas: Atvertas pirmasis viešas ateities Respublikos skaitymo langas
+
+STRAIPSNIS:
+Balandžio mėnesį svetainė pradėjo veikti kaip pirmasis viešas langas į ateities Respublikos pasaulį. Tai nebuvo oficialus valstybės portalas ir nebuvo pasirengusi sistema. Tai buvo skaitymo langas - galimybė pamatyti, kaip galėtų atrodyti tolima ateitis, kai šiandieniniai klausimai jau būtų perėję ilgą kelią.
+
+Šis langas buvo sąmoningai kultūrinis. Jis neturėjo įtikinti žmogaus šūkiu ar politiniu pažadu. Jis turėjo leisti jam sustoti, perskaityti, pasimesti, sugrįžti ir pamažu suprasti, kad prieš jį ne vien naujienų imitacija, o ilgas pasaulio kūrimo bandymas.
+
+Balandžio tekstuose vis stipriau ryškėjo skirtumas tarp informacijos ir atmosferos. Informacija paaiškina, kas yra kas. Atmosfera leidžia pajusti, kad pasaulis turi savo laiką, tylą, įtampą ir kasdienį ritmą. Be šios atmosferos svetainė būtų likusi tik dokumentų rinkiniu.
+
+Tuo metu dar nebuvo daug skaitytojų. Tačiau net keli pirmi žvilgsniai į svetainę buvo svarbūs, nes jie tikrino, ar forma veikia. Ar žmogus supranta, kad čia nėra baigtos valstybės? Ar jį traukia ateities sluoksnis? Ar pradžia atrodo pakankamai tikra?
+
+Šis įrašas pažymi ne masinį atidarymą, o pirmą kultūrinį atvėrimą. Ateities Respublika čia dar neegzistuoja, bet skaitytojas jau gali pažvelgti pro pirmą jos langą.
+
+SEO:
+SEO title: Pirmasis viešas ateities Respublikos skaitymo langas
+Meta description: 2027 m. atvertas pirmasis viešas BVK svetainės langas į ateities Respublikos pasaulį ir jo skaitymo formą.
+Slug: pirmasis-viesas-ateities-respublikos-langas-2027
+
+IMAGE PROMPT:
+Photorealistic editorial photo, open laptop near a window, soft April daylight, paper notes and calm reading atmosphere, no readable text, no sci-fi visuals.
 
 PABAIGOS BLOKAS:
 Publikuota: 2027-04-11
 Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
-ĮRAŠAS 5
-Data: 2027-05-19
-Rubrika: Technologijos
-Pavadinimas: AI pradėtas naudoti ne tik idėjoms, bet ir fikcinio ateities pasaulio vientisumui tikrinti
-
-STRAIPSNIS:
-Gegužės mėnesį AI naudojimas tapo tikslesnis. Jei anksčiau jis daugiausia padėdavo plėsti mintį ir ieškoti krypčių, tai dabar pradėtas taikyti ir pasaulio vientisumui tikrinti: ar neprieštarauja miestų raida, ar laiko ašis logiška, ar institucijų atsiradimas dera su visuomenės brandos etapais.
-
-Toks darbas parodė ir naują sunkumą - kuo daugiau sluoksnių projektas turėjo, tuo dažniau išryškėdavo neatitikimai. Dėl to dalis ankstesnių aprašų buvo peržiūrėti ir perrašyti.
-
-Šis etapas sustiprino bendrą darbo metodą: Respublikos pasaulis turi būti ne tik gražiai parašytas, bet ir viduje nuoseklus.
-
-SEO:
-SEO title: AI pradėtas naudoti BVK pasaulio vientisumui tikrinti
-Meta description: 2027 m. AI pradėtas naudoti ne tik idėjoms, bet ir Respublikos ateities pasaulio vientisumui tikrinti.
-Slug: ai-tikrino-bvk-pasaulio-vientisuma-2027
-
-IMAGE PROMPT:
-Photorealistic workstation photo with multiple timeline sheets, maps and consistency notes beside laptop, late spring daylight, serious analytical mood, no readable text, realistic photography.
-
-PABAIGOS BLOKAS:
-Publikuota: 2027-05-19
-Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
-
-========================================================================
-ĮRAŠAS 6
-Data: 2027-06-14
-Rubrika: Kultūra
-Pavadinimas: Išgrynintos pirmosios romano temos: atsakomybė, archyvai, miestas ir sistemos trapumas
-
-STRAIPSNIS:
-Birželį aiškiau išryškėjo pirmosios pagrindinės būsimo romano temos. Paaiškėjo, kad pasakojimo centre turės būti ne vien ateities tvarka, bet ir jos kaina: atsakomybė, atmintis, miestas kaip gyvas darinys, institucijų trapumas ir žmogaus santykis su sistema, kuri turi išlikti teisinga.
-
-Šių temų atradimas buvo svarbus ir pačiam projektui. Jis leido tiksliau suprasti, kokia moralinė įtampa turi slypėti ir viešuosiuose Respublikos tekstuose. Net tobulesnės tvarkos vizija negali būti negyva - ji turi turėti žmogaus mastelį.
-
-Nuo šio momento kultūrinis sluoksnis pradėtas naudoti kaip būdas gilinti pačią projekto šerdį.
-
-SEO:
-SEO title: Išgrynintos pirmosios BVK romano temos
-Meta description: 2027 m. aiškiau išgrynintos pirmosios būsimo Respublikos romano temos: atsakomybė, archyvai ir sistemos trapumas.
-Slug: isgrynintos-pirmosios-bvk-romano-temos-2027
-
-IMAGE PROMPT:
-Photorealistic contemplative desk scene with thematic notes, city photos, notebooks and highlighted motifs, warm early summer light, literary-documentary feel, no readable text.
-
-PABAIGOS BLOKAS:
-Publikuota: 2027-06-14
-Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
-
-========================================================================
-ĮRAŠAS 7
-Data: 2027-07-26
-Rubrika: Archyvas
-Pavadinimas: Pradėtas rinkti atskiras BVK pasaulio datų, vietų ir veikėjų kanonas
-
-STRAIPSNIS:
-Liepos pabaigoje pradėtas atskiras datų, vietų ir veikėjų kanonas. Iki tol daugelis šių elementų egzistavo skirtinguose užrašuose, tačiau tapo aišku, kad be vieningos atminties projektas ims pats sau prieštarauti.
-
-Pradinis kanonas buvo dar labai ankstyvas: dalis vietovardžių buvo laikini, veikėjų funkcijos kito, o keli istoriniai įvykiai dar neturėjo tikslių datų. Vis dėlto būtent šis žingsnis leido pereiti nuo padriko kūrimo prie ilgalaikio pasaulio saugojimo.
-
-Nuo šio momento kiekviena nauja detalė turėjo būti vertinama ne pavieniui, o visos Respublikos istorijos kontekste.
-
-SEO:
-SEO title: Pradėtas rinkti BVK datų ir vietų kanonas
-Meta description: 2027 m. pradėtas sistemingai rinkti atskiras BVK pasaulio datų, vietų ir veikėjų kanonas.
-Slug: pradetas-rinkti-bvk-datu-vietu-kanonas-2027
-
-IMAGE PROMPT:
-Photorealistic archival classification scene with labeled map pins, character cards, date strips and folders, midsummer light, no readable text, natural materials, documentary style.
-
-PABAIGOS BLOKAS:
-Publikuota: 2027-07-26
-Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
-
-========================================================================
 ĮRAŠAS 8
-Data: 2027-08-18
-Rubrika: Bendruomenė
-Pavadinimas: Socialiniuose tinkluose pirmą kartą pasidalinta mintimis apie būsimą svetainę ir jos pasaulį
+Data: 2027-04-27
+Rubrika: Technologijos
+Pavadinimas: Svetainė pradėta naudoti kaip gyvas, o ne atgal sukurtas archyvas
 
 STRAIPSNIS:
-Rugpjūtį projektas pirmą kartą atsargiai paliestas viešesnėje erdvėje. Socialiniuose tinkluose pasidalinta mintimis apie būsimą svetainę, jos neįprastą koncepciją ir galimybę skaitytojui patekti į lėtai kuriamą ateities pasaulį.
+Balandžio pabaigoje buvo aiškiau įtvirtinta, kad svetainė nėra archyvas, sukurtas atgaline data iš tolimos ateities. Ji prasideda 2026-2027 metais kaip gyvas skaitmeninis projektas ir tik vėliau, laikui bėgant, gali tapti plačiu istoriniu sluoksniu.
 
-Reakcija buvo kukli, tačiau svarbi. Keli žmonės iš karto suprato idėjos mastą, kiti matė tai kaip keistą eksperimentą. Vis dėlto šis išėjimas leido pamatyti, kad projektas gali įdomiai skambėti ir už uždaro kūrimo lauko ribų.
+Šis skirtumas buvo labai svarbus. Jeigu svetainė būtų vaizduojama kaip 2086 metais sudarytas senų dokumentų rinkinys, ankstyvieji tekstai prarastų savo tikrą dabartį. Jie taptų dekoracija. O projekto logikai reikėjo priešingo dalyko: parodyti, kad ankstyvieji metai buvo rašomi tada, kai dar niekas nebuvo aišku.
 
-Būtent čia prasidėjo pirmieji būsimos bendruomenės atgarsiai, nors jų dar negalima vadinti nei ratu, nei sąjūdžiu.
+Gyvo archyvo principas reiškė, kad kiekvienas tekstas turi savo laiką. 2027 metų publikacija turi žinoti tik tiek, kiek tuo metu žino projektas. Ji negali kalbėti su 2086 metų instituciniu pasitikėjimu ir negali apsimesti, kad jau turi atsakymus, kurie atsiras tik po dešimtmečių.
+
+Technologiškai tai skatino galvoti apie svetainę kaip apie augančią sistemą. Reikėjo numatyti, kad vėliau atsiras daugiau metų, daugiau rubrikų, daugiau ryšių ir daugiau skaitymo kelių. Tačiau pradžioje ji turėjo išlikti paprasta ir suprantama.
+
+Šis įrašas įtvirtino vieną iš pagrindinių svetainės principų: archyvas čia nėra miręs sandėlis. Jis gyvas, nes jo ateitis dar tik rašoma.
 
 SEO:
-SEO title: Apie būsimą BVK svetainę pirmą kartą prabilta viešiau
-Meta description: 2027 m. socialiniuose tinkluose pirmą kartą pasidalyta mintimis apie būsimą BVK svetainę ir jos pasaulį.
-Slug: pirmasis-viesesnis-bvk-pristatymas-2027
+SEO title: Svetainė kaip gyvas BVK archyvas
+Meta description: 2027 m. BVK svetainė pradėta suprasti kaip gyvas augantis archyvas, o ne atgal sukurtas ateities dokumentų rinkinys.
+Slug: svetaine-kaip-gyvas-bvk-archyvas-2027
 
 IMAGE PROMPT:
-Photorealistic casual modern photo of a hand near laptop and phone showing social posting workflow, late summer daylight, realistic domestic setting, no readable screen text.
+Photorealistic website maintenance scene, laptop with blurred archive layout, chronological paper cards, clean spring evening light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2027-08-18
+Publikuota: 2027-04-27
 Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 9
-Data: 2027-09-09
-Rubrika: Kultūra
-Pavadinimas: Pasirodė pirmieji atsiliepimai apie romano ir Respublikos idėjos jungtį
+Data: 2027-05-10
+Rubrika: Vystymasis
+Pavadinimas: Sukurta pirmoji skaitymo taisyklė: ateitis rodoma iš vidaus, o pradžia paliekama matoma
 
 STRAIPSNIS:
-Rugsėjį gauti pirmieji išoriniai atgarsiai apie romano ir Respublikos idėjos jungtį. Būtent ši sąsaja sulaukė daugiausia smalsumo, nes leido pažvelgti į projektą ne kaip į sausą teoriją, o kaip į pasaulį, kurį galima skaityti, įsivaizduoti ir pamažu suprasti.
+Gegužės pradžioje buvo suformuluota pirmoji aiškesnė skaitymo taisyklė: ateitis turi būti rodoma iš vidaus, bet pradžia negali būti paslėpta. Kitaip sakant, skaitytojas gali matyti brandžios Respublikos naujienas, tačiau jis turi turėti galimybę grįžti prie metų, kai visa tai dar buvo tik klausimas.
 
-Dalis atsiliepimų buvo padrąsinantys, dalis - atsargūs. Kilo ir klausimų, ar tokia forma nesusilpnins pačios visuomeninės minties. Tačiau ilgainiui paaiškėjo, kad kultūrinis sluoksnis veikiau stiprina projekto įtaigą.
+Ši taisyklė padėjo sujungti du skirtingus svetainės poreikius. Viena vertus, ateities naujienos turi būti pakankamai įtikinamos, kad skaitytojas pajustų gyvą pasaulį. Kita vertus, ankstyvas archyvas turi likti matomas, kad ateitis neatrodytų nukritusi iš niekur.
 
-Ši publikacija žymi momentą, kai pasaulio kūrimas pradėjo veikti ne tik viduje, bet ir skaitytojo sąmonėje.
+Pradžia paliekama matoma ne todėl, kad ji graži. Priešingai, ji netvarkinga, abejojanti ir kartais per daug asmeniška. Tačiau būtent todėl ji reikalinga. Ji parodo, kad jokia didesnė sistema neprasideda nuo tobulo dokumento.
+
+Ši taisyklė taip pat saugo nuo per greito mitologizavimo. Lengva sukurti įspūdį, kad Respublika nuo pat pradžių turėjo aiškų planą. Daug sunkiau parodyti, kad pirmiausia buvo tik bandymas suprasti, ar mažas kooperatyvas galėtų palengvinti žmonių kasdienybę.
+
+Gegužės 10 dienos įrašas tapo vienu iš pirmųjų svetainės redakcinių principų. Skaitytojas turi matyti ne tik rezultatą, bet ir kelią, nes be kelio ateitis tampa reklama, o ne istorija.
 
 SEO:
-SEO title: Pasirodė pirmieji atsiliepimai apie BVK ir romaną
-Meta description: 2027 m. pasirodė pirmieji atsiliepimai apie būsimo romano ir Respublikos idėjos jungtį.
-Slug: pirmieji-atsiliepimai-apie-bvk-ir-romana-2027
+SEO title: Pirmoji BVK svetainės skaitymo taisyklė
+Meta description: 2027 m. suformuluota pirmoji BVK svetainės skaitymo taisyklė: ateitis rodoma iš vidaus, o pradžia paliekama matoma.
+Slug: pirmoji-bvk-skaitymo-taisykle-2027
 
 IMAGE PROMPT:
-Photorealistic editorial photo of printed feedback notes beside manuscript pages and concept folders, early autumn light, natural realism, no readable text.
+Photorealistic reading table with two open blank sections, one polished and one rough, bookmarks, May daylight, no readable text, documentary editorial style.
 
 PABAIGOS BLOKAS:
-Publikuota: 2027-09-09
+Publikuota: 2027-05-10
 Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 10
-Data: 2027-10-21
-Rubrika: Bendruomenė
-Pavadinimas: Aplink svetainės idėją ėmė rastis pirmasis nedidelis susidomėjusių skaitytojų ratas
+Data: 2027-05-26
+Rubrika: Archyvas
+Pavadinimas: Ankstyvieji tekstai palikti netobuli, kad būtų matomas tikras kelias
 
 STRAIPSNIS:
-Spalį pirmą kartą tapo matoma, kad projektą pradeda sekti ne vien atsitiktiniai smalsuoliai. Aplink svetainės idėją ėmė rastis nedidelis, bet jau atpažįstamas skaitytojų ratas, kuriam rūpėjo ne vien neįprasta forma, bet ir pati Respublikos vizija.
+Gegužės pabaigoje buvo priimtas svarbus redakcinis sprendimas: ankstyvieji tekstai neturi būti perrašyti taip, kad atrodytų iš karto brandūs. Jie gali būti taisomi, aiškinami ir tvarkomi, tačiau jų pradinis nepatogumas turi likti matomas.
 
-Kol kas šis ratas dar buvo trapus. Žmonės daugiausia stebėjo, klausinėjo, lygino, bandė suprasti, ar kalbama apie meną, idėjinį projektą, ar būsimą visuomeninį modelį. Tačiau vien tai, kad atsirado sugrįžtančių skaitytojų, tapo svarbiu ženklu.
+Šis sprendimas nebuvo lengvas. Kuriant viešą projektą visada norisi parodyti gražesnę, tvarkingesnę pradžią. Tačiau tokia pradžia būtų netikra. Ji sukurtų įspūdį, kad kelias buvo aiškus nuo pirmos dienos, nors iš tikrųjų 2026 ir 2027 metais daug kas dar buvo miglota.
 
-Nuo šio momento projektas pradėjo turėti ne tik archyvą, bet ir pirmąją tikrą auditorijos atmintį.
+Netobulumas čia tapo archyvine verte. Jis rodo, kaip mintis kito, kur buvo klaidų, kur buvo per anksti pasakyta per daug ir kur vėliau reikėjo grįžti. Tokia atmintis leidžia projektui ne slėpti savo raidą, o iš jos mokytis.
+
+Žinoma, tai nereiškė, kad viešame sluoksnyje galima palikti bet kokią netvarką. Skaitytojas vis tiek turi suprasti tekstą. Tačiau tarp suprantamumo ir dirbtinio nugludinimo buvo pasirinktas atsargus vidurys.
+
+Šis įrašas įtvirtino archyvinį sąžiningumą. Ateities pasaulis gali atrodyti tvirtas tik tada, kai jo pradžia nebijo parodyti, kad kadaise buvo silpna, neaiški ir žmogiška.
 
 SEO:
-SEO title: Aplink BVK idėją ėmė rastis pirmieji skaitytojai
-Meta description: 2027 m. aplink svetainės idėją susiformavo pirmasis nedidelis susidomėjusių skaitytojų ratas.
-Slug: aplink-bvk-ideja-pirmieji-skaitytojai-2027
+SEO title: Ankstyvieji BVK tekstai palikti netobuli
+Meta description: 2027 m. nuspręsta ankstyvuosius BVK tekstus palikti pakankamai netobulus, kad būtų matomas tikras projekto kelias.
+Slug: ankstyvieji-bvk-tekstai-palikti-netobuli-2027
 
 IMAGE PROMPT:
-Photorealistic candid small-group scene in a café or quiet room, people discussing printed concept pages, natural gestures, autumn daylight, no readable text, documentary mood.
+Photorealistic archive desk with rough drafts and corrected pages, visible editing marks but unreadable text, late May daylight, natural realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2027-10-21
+Publikuota: 2027-05-26
 Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 11
-Data: 2027-11-12
-Rubrika: Archyvas
-Pavadinimas: Parengtas pirmasis BVK pasaulio ir romano medžiagos sujungtas darbinių užrašų rinkinys
+Data: 2027-06-09
+Rubrika: Kultūra
+Pavadinimas: Svetainė pradėta suvokti kaip pasakojimo, dokumentų ir ateities naujienų sankirta
 
 STRAIPSNIS:
-Lapkričio mėnesį parengtas pirmasis stambesnis darbinių užrašų rinkinys, kuriame vienoje vietoje sukaupta pagrindinė Respublikos pasaulio, laiko ašies ir romano medžiaga. Tai leido pirmą kartą matyti visą projektą ne atskiromis dalimis, o kaip vieną augančią struktūrą.
+Birželį svetainės forma pradėjo aiškiau atrodyti kaip trijų sluoksnių sankirta. Viename sluoksnyje buvo dokumentai ir kanonas, kitame - ateities naujienos, trečiame - pasakojimo ir romano kryptis. Kiekvienas sluoksnis turėjo savo balsą, bet visi turėjo priklausyti tam pačiam pasauliui.
 
-Rinkinys dar nebuvo galutinis. Jame liko pasikartojimų, skirtingo tono įrašų ir kelių prieštaringų sprendimų. Tačiau jis atliko svarbiausią darbą - tapo pereinamuoju tiltu tarp išsibarsčiusių metų užrašų ir būsimo nuoseklaus kanono.
+Šis suvokimas padėjo išvengti painiavos. Jei dokumentas bando kalbėti kaip romanas, jis praranda aiškumą. Jei naujiena tampa per daug asmeniška, ji nebeatrodo kaip naujiena. Jei romanas ima aiškinti sistemą kaip instrukcija, jis praranda gyvybę.
 
-Šis etapas sustiprino suvokimą, kad projektui reikės ne tik kūrybinės, bet ir griežtos redakcinės drausmės.
+Todėl 2027 metais pradėta ieškoti atskiro balso kiekvienai formai. Dokumentai turėjo būti ramūs ir tikslūs. Naujienos - gyvos, bet ne propagandinės. Pasakojimo sluoksnis - žmogiškas, atviresnis įtampai ir neatsakytoms paslaptims.
+
+Svetainė dėl to tapo ne paprastu puslapių rinkiniu, o daugiasluoksniu skaitymo aparatu. Vienas skaitytojas galėjo ateiti dėl ateities naujienų, kitas - dėl romano užuominų, trečias - dėl dokumentų. Svarbiausia buvo, kad visi jie rastų tą patį pamatą.
+
+Birželio 9 dienos įrašas žymi pirmą aiškesnį supratimą, kad BVK projektas turi būti skaitomas ne vienu, o keliais keliais. Toks daugiasluoksniškumas vėliau taps viena iš jo stiprybių.
 
 SEO:
-SEO title: Parengtas jungtinis BVK ir romano užrašų rinkinys
-Meta description: 2027 m. parengtas pirmasis jungtinis BVK pasaulio ir romano darbinių užrašų rinkinys.
-Slug: jungtinis-bvk-ir-romano-uzrasu-rinkinys-2027
+SEO title: Svetainė kaip BVK pasakojimo ir dokumentų sankirta
+Meta description: 2027 m. BVK svetainė pradėta suvokti kaip pasakojimo, dokumentų ir ateities naujienų sankirta.
+Slug: svetaine-kaip-pasakojimo-dokumentu-sankirta-2027
 
 IMAGE PROMPT:
-Photorealistic desk photo with thick clipped manuscript bundle, folders and reference notes, late autumn daylight, realistic paper textures, no readable text.
+Photorealistic editorial photo, three groups of paper materials on desk: documents, story pages, news layout sketches, summer light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2027-11-12
+Publikuota: 2027-06-09
 Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 12
-Data: 2027-12-20
-Rubrika: Kultūra
-Pavadinimas: Metų apžvalga: Respublikos idėja įgavo ne tik principus, bet ir savo pasakojimo pasaulį
+Data: 2027-06-24
+Rubrika: Savęs tobulinimas
+Pavadinimas: Pirmasis skaitytojas turi ne tik patikėti, bet ir išmokti klausti
 
 STRAIPSNIS:
-2027 metai užbaigiami kaip laikotarpis, kai Respublikos projektas iš grynai struktūrinės idėjos virto pilnesniu pasauliu. Per šiuos mėnesius pradėta romano koncepcija, sujungtas dokumentinis ir pasakojimo sluoksnis, parengti miestų ir institucijų užrašai, išgrynintos pagrindinės temos, pradėtas atskiras datų ir vietų kanonas bei atsirado pirmieji išoriniai skaitytojų atgarsiai.
+Birželio pabaigoje atsirado svarbi mintis apie skaitytoją. Projektui nereikia žmogaus, kuris iš karto patikėtų viskuo, ką mato. Daug svarbiau, kad skaitytojas išmoktų klausti: kas čia rodoma, kodėl taip sudėliotos datos, kur baigiasi pasakojimas ir prasideda praktinis klausimas?
 
-Metai parodė ir naujus reikalavimus. Kuo pasaulis tapo turtingesnis, tuo didesnės tapo vidinės drausmės, vientisumo ir peržiūros užduotys. Tačiau būtent šis sudėtingumas liudijo, kad projektas ima gyventi.
+Ši nuostata buvo reikalinga todėl, kad pati svetainės forma galėjo lengvai sukurti klaidingą įspūdį. Ateities naujienos gali atrodyti kaip jau esanti realybė. Ankstyvieji archyvai gali atrodyti per paprasti. Romanas gali būti supainiotas su paaiškinamuoju dokumentu. Skaitytojas turi turėti teisę abejoti.
 
-Svarbiausia metų išvada - Respublikos idėja jau turi ne tik principus ir kryptį, bet ir savąją vaizduotės terpę.
+Todėl pirmojo skaitytojo figūra buvo suvokta ne kaip būsimas narys ar sekėjas. Jis visų pirma yra žmogus, kuris ateina į svetainę ir bando suprasti. Jo klausimai padeda projektui matyti, kur jis per sudėtingas, kur per miglotas ir kur per greitai pereina prie didelių žodžių.
+
+Ši mintis taip pat saugojo nuo ankstyvo užsidarymo. Jei projektas priima tik tikinčius, jis greitai tampa silpnas. Jei jis priima klausimus, jis turi galimybę augti tvirčiau. Todėl klausimas čia tapo ne kliūtimi, o būtina dalyvavimo pradžia.
+
+Birželio 24 dienos įrašas užbaigia pirmą 2027 metų pusmetį labai paprasta išvada: svetainė neturi versti žmogaus tikėti. Ji turi pakviesti jį mąstyti kartu, net jei pradžioje jis dar nesutinka su niekuo.
 
 SEO:
-SEO title: 2027 m. BVK metų kultūrinė apžvalga
-Meta description: 2027 metų apžvalga: Respublikos idėja įgavo ne tik principus, bet ir savą pasakojimo pasaulį.
-Slug: bvk-2027-metu-kulturine-apzvalga
+SEO title: Pirmasis BVK skaitytojas mokosi klausti
+Meta description: 2027 m. suformuluota mintis, kad pirmasis BVK skaitytojas turi ne tik patikėti, bet ir mokėti klausti.
+Slug: pirmasis-bvk-skaitytojas-mokosi-klausti-2027
 
 IMAGE PROMPT:
-Photorealistic winter evening review scene with archive folders, manuscript stack and warm desk lamp, calm end-of-year mood, no readable text, documentary realism.
+Photorealistic quiet reading scene, person from behind at desk looking at blurred laptop, notebook with blank question marks implied but no readable text, midsummer light.
 
 PABAIGOS BLOKAS:
-Publikuota: 2027-12-20
+Publikuota: 2027-06-24
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 13
+Data: 2027-07-08
+Rubrika: Kultūra
+Pavadinimas: Pradėtas būsimo romano, vykstančio 2085 metais, darbo sluoksnis
+
+STRAIPSNIS:
+Liepos pradžioje buvo aiškiau atidarytas romano darbo sluoksnis. Svarbiausia jo data tapo ne 2027, o 2085 metai. Tai reiškė, kad romanas nepasakoja apie patį projekto kūrimą, o nukelia skaitytoją į brandesnį pasaulį, kuriame Respublika jau turi savo kasdienybę, archyvus ir paslėptas įtampas.
+
+Šis sprendimas leido išvengti tiesioginės propagandos. Romanas neturėjo aiškinti, kodėl sistema gera. Jis turėjo parodyti žmogų, kuris gyvena jos viduje ir pradeda kelti klausimus. Tokia forma buvo daug stipresnė, nes leido matyti ne tik išorinę tvarką, bet ir jos vidinius šešėlius.
+
+Pirmuose romano užrašuose pradėjo ryškėti tyrėjo figūra. Tai žmogus, kuris ne iš karto supranta, ką iš tikrųjų tiria. Jis susiduria su archyvais, uždarais sluoksniais, koordinavimo sistema ir klausimu, ar brandi tvarka gali turėti paslaptį, kurios pati visuomenė kasdien nepastebi.
+
+Romano darbo sluoksnis buvo atskirtas nuo oficialių dokumentų. Tai labai svarbu: literatūra gali klausti drąsiau, bet ji negali tapti teisiniu tekstu. Ji gali parodyti galimą pasaulio gilumą, bet negali pakeisti kanono taisyklių.
+
+Liepos 8 dienos įrašas žymi pirmą rimtą meninį įėjimą į 2085 metus. Nuo šiol ateities Respublika turi ne tik naujienų formą, bet ir žmogų, kuris joje pradeda ieškoti to, ko naujienos paprastai nepasako.
+
+SEO:
+SEO title: Pradėtas romanas apie 2085 metų BVK pasaulį
+Meta description: 2027 m. pradėtas būsimo romano, vykstančio 2085 metais, darbo sluoksnis kaip atskiras BVK pasakojimo kelias.
+Slug: pradetas-romanas-apie-2085-bvk-pasauli-2027
+
+IMAGE PROMPT:
+Photorealistic writing desk, manuscript folder marked only by blank cover, city-at-night reference photos blurred, July evening light, no readable text, literary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-07-08
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 14
+Data: 2027-07-25
+Rubrika: Archyvas
+Pavadinimas: Romanas atskirtas nuo oficialių dokumentų ir paliktas kaip pasakojimo kelias
+
+STRAIPSNIS:
+Liepos pabaigoje reikėjo aiškiai atskirti romaną nuo dokumentinio sluoksnio. Nors abu priklausė tam pačiam pasauliui, jų funkcijos buvo skirtingos. Dokumentai turėjo laikyti struktūrą, o romanas - parodyti žmogaus patirtį toje struktūroje.
+
+Šis atskyrimas saugojo ir skaitytoją, ir patį projektą. Jeigu romano mintis būtų laikoma oficialiu faktu, kanonas greitai taptų neaiškus. Jeigu dokumentai būtų rašomi kaip romano fragmentai, jie prarastų tikslumą. Reikėjo dviejų durų į tą patį namą, bet ne vieno sumaišyto koridoriaus.
+
+Romanas galėjo kelti klausimus apie paslėptą koordinavimo sluoksnį, žmogaus kilmę, AI, archyvų spragas ir moralines sistemos ribas. Tačiau tie klausimai turėjo likti literatūriniame kelyje tol, kol kanonas jų neįtvirtina atskirai.
+
+Tuo pačiu romanas nebuvo laikomas šalutiniu priedu. Jis galėjo tapti svarbiu būdu suprasti brandžios Respublikos atmosferą. Oficialūs dokumentai gali parodyti, kaip sistema turėtų veikti. Pasakojimas gali parodyti, ką reiškia joje būti gyvam.
+
+Šis įrašas įtvirtino vieną iš ilgalaikių BVK principų: meninis sluoksnis yra būtinas, bet jis turi turėti aiškias ribas. Tik tada jis stiprina kanoną, o ne jį ardo.
+
+SEO:
+SEO title: Romanas atskirtas nuo BVK dokumentų
+Meta description: 2027 m. romanas atskirtas nuo oficialių BVK dokumentų ir paliktas kaip savarankiškas pasakojimo kelias.
+Slug: romanas-atskirtas-nuo-bvk-dokumentu-2027
+
+IMAGE PROMPT:
+Photorealistic archive desk, official-looking blank folders on one side and manuscript pages on the other, clear separation, warm July light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-07-25
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 15
+Data: 2027-08-12
+Rubrika: Kultūra
+Pavadinimas: Ateities žmogaus žvilgsnis pasirinktas kaip būdas suprasti brandžią Respubliką
+
+STRAIPSNIS:
+Rugpjūčio viduryje romano kryptis tapo aiškesnė: brandžią Respubliką reikia rodyti ne vien per jos įstatymus, pastatus ar naujienas, o per ateities žmogaus žvilgsnį. Tik žmogus gali parodyti, kaip sistema jaučiasi iš vidaus.
+
+Toks pasirinkimas pakeitė pasakojimo svorį. Jei pagrindinis veikėjas tik aiškina pasaulį, romanas tampa vadovėliu. Jei jis gyvena, abejoja, klysta ir tyrinėja, skaitytojas gali pamatyti ne tik tvarką, bet ir jos kainą. Ateities visuomenė tada tampa ne plakatu, o erdve, kurioje vyksta vidinis gyvenimas.
+
+Šiame etape pradėjo ryškėti tyrėjo kelias. Jis nėra maištininkas iš karto ir nėra sistemos priešas. Jis pirmiausia yra žmogus, kuris pastebi, kad už kasdienės ramybės gali slypėti gilesnė architektūra. Jo klausimai kyla ne iš noro sugriauti, o iš noro suprasti.
+
+Būtent toks žvilgsnis buvo svarbus visam BVK pasauliui. Jis leido išvengti pernelyg tobulo ateities vaizdo. Net brandi sistema turi turėti šešėlių, nes kitaip ji neatrodo tikra. Ir net gera tvarka turi būti matoma per žmogaus nerimą.
+
+Rugpjūčio 12 dienos įrašas žymi romano žmogaus atsiradimą. Ateities Respublika čia pirmą kartą pradeda kalbėti ne kaip institucija, o kaip patirtis.
+
+SEO:
+SEO title: Ateities žmogaus žvilgsnis į brandžią Respubliką
+Meta description: 2027 m. pasirinkta brandžią BVK Respubliką rodyti per ateities žmogaus žvilgsnį, o ne tik per dokumentus.
+Slug: ateities-zmogaus-zvilgsnis-i-respublika-2027
+
+IMAGE PROMPT:
+Photorealistic over-the-shoulder scene of a person studying archive materials, soft August evening light, no face visible, no readable text, realistic mood.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-08-12
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 16
+Data: 2027-08-29
+Rubrika: Technologijos
+Pavadinimas: Pirmą kartą romane numatyta paslėpto koordinavimo sluoksnio tema
+
+STRAIPSNIS:
+Rugpjūčio pabaigoje romano užrašuose pirmą kartą aiškiau pasirodė paslėpto koordinavimo sluoksnio tema. Tai dar nebuvo galutinis siužeto sprendimas, bet jau atsirado nuojauta, kad brandžios Respublikos ramybė gali būti palaikoma ne vien matomomis institucijomis.
+
+Ši tema buvo jautri. Įprastose 2086 metų naujienose AI neturėtų būti pateikiamas kaip sensacija. Brandžioje visuomenėje jis gali būti toks įprastas kaip elektra, ryšys ar transporto sistema. Tačiau romanas leidžia pažvelgti giliau - į tai, kas paprastai lieka nematoma.
+
+Paslėpto koordinavimo sluoksnis nebuvo kuriamas kaip pigi paslaptis. Jis turėjo kelti klausimą: kiek sudėtinga sistema gali būti valdoma taip, kad žmonės ja pasitikėtų, bet kartu iki galo nesuprastų visos jos gelmės? Kur baigiasi pagalba ir prasideda priklausomybė?
+
+Ši tema taip pat susiejo ankstyvą 2026 metų AI naudojimą su tolimu ateities sluoksniu. Pradžioje AI buvo tik įrankis klausimams plėsti. Romane jis galėjo tapti daug gilesnio klausimo šešėliu. Tačiau tarp šių dviejų dalykų turės praeiti dešimtmečiai.
+
+Rugpjūčio 29 dienos įrašas svarbus kaip pirmas atsargus žingsnis į uždarą narrative sluoksnį. Jis dar nieko neatskleidžia galutinai, bet leidžia suprasti, kad ateities pasaulis turės ne tik paviršių, bet ir paslaptį.
+
+SEO:
+SEO title: Romane numatytas paslėptas koordinavimo sluoksnis
+Meta description: 2027 m. būsimo BVK romano užrašuose pirmą kartą numatyta paslėpto koordinavimo sluoksnio tema.
+Slug: pasleptas-koordinavimo-sluoksnis-romane-2027
+
+IMAGE PROMPT:
+Photorealistic subtle technology-and-archive scene, dim desk with blurred diagrams, laptop glow very natural, no neon, no readable text, late August night.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-08-29
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 17
+Data: 2027-09-15
+Rubrika: Kultūra
+Pavadinimas: 2085 metų pasakojimas pradėtas jungti su 2086 metų naujienų portalu
+
+STRAIPSNIS:
+Rugsėjo viduryje buvo pradėta jungti 2085 metų romano pasakojimą su 2086 metų naujienų portalo logika. Tai buvo būtina, nes abu sluoksniai priklausė beveik tam pačiam brandžios Respublikos laikui. Jei jie nesutaptų, pasaulis imtų skilti.
+
+Romanas galėjo rodyti žmogaus tyrimą, vidinę įtampą ir paslėptus klausimus. 2086 metų naujienos turėjo rodyti kasdienę brandžios sistemos veiklą. Vienas sluoksnis galėjo būti gilesnis ir neramesnis, kitas - ramesnis ir oficialiau struktūruotas. Tačiau datos, vietos ir bendras pasaulio tonas turėjo derėti.
+
+Šis jungimas vertė tikrinti smulkmenas. Kokios institucijos gali būti minimos romane? Koks viešasis tonas turi skambėti naujienose? Kas 2085 metais dar paslėpta, o kas 2086 metais jau gali būti normali viešoji tikrovė?
+
+Darbas buvo lėtas, bet svarbus. Jis parodė, kad ateities pasaulis negali būti kuriamas tik pagal nuotaiką. Kiekviena nauja detalė turi atsiliepti kituose sluoksniuose, kitaip skaitytojas pajus, kad tai ne pasaulis, o nesujungtų tekstų rinkinys.
+
+Rugsėjo 15 dienos įrašas žymi pirmą rimtą bandymą sujungti meninį ir naujienų laiką. Nuo šiol 2085 ir 2086 metai pradėjo veikti ne kaip atskiros idėjos, o kaip gretimi to paties pasaulio kambariai.
+
+SEO:
+SEO title: 2085 metų romanas jungiamas su 2086 portalu
+Meta description: 2027 m. 2085 metų BVK romano pasakojimas pradėtas jungti su 2086 metų ateities naujienų portalo logika.
+Slug: 2085-romanas-ir-2086-portalas-2027
+
+IMAGE PROMPT:
+Photorealistic planning table with two adjacent timeline sections, manuscript pile and news layout mockup, September light, no readable text, natural realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-09-15
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 18
+Data: 2027-10-03
+Rubrika: Vystymasis
+Pavadinimas: Pirmieji skaitytojai parodė, kad svetainės forma reikalauja aiškesnio paaiškinimo
+
+STRAIPSNIS:
+Spalio pradžioje pirmi skaitytojų atsiliepimai parodė tai, ko buvo galima tikėtis: svetainės forma ne visiems iš karto aiški. Vieni matė ateities naujienas ir klausė, ar tai žaidimas. Kiti pastebėjo dokumentų toną ir bandė suprasti, ar čia politinis projektas. Dar kiti tiesiog pasimetė tarp datų.
+
+Šie klausimai buvo naudingi. Jie parodė, kur projektas per daug remiasi vidiniu žinojimu ir per mažai paaiškina save žmogui, kuris ateina pirmą kartą. Tai ypač svarbu, nes svetainė nuo pradžių turėjo kelis sluoksnius ir netipinę laiko struktūrą.
+
+Todėl pradėta galvoti apie aiškesnį įvadinį sluoksnį. Reikėjo paprastų puslapių, kurie paaiškintų, kas yra svetainė, kaip ją skaityti, kodėl yra 2026 ir 2086 metai, kuo skiriasi archyvas, naujienos, dokumentai ir romanas.
+
+Svarbu tai, kad skaitytojų nesupratimas nebuvo laikomas nesėkme. Priešingai, jis tapo pirmu realiu bandymu patikrinti, ar idėja gali išeiti už autoriaus galvos ribų. Jei žmogus nesupranta, tai nereiškia, kad jis kaltas. Galbūt tekstas dar nepakankamai aiškiai atveria duris.
+
+Spalio 3 dienos įrašas parodė, kad pirmieji skaitytojai yra ne auditorija skaičiais, o veidrodis. Jie padeda pamatyti, kur pasaulis dar nepaaiškina pats savęs.
+
+SEO:
+SEO title: Pirmieji skaitytojai paprašė aiškesnio BVK paaiškinimo
+Meta description: 2027 m. pirmieji BVK svetainės skaitytojai parodė, kad projekto forma reikalauja aiškesnio paaiškinimo.
+Slug: pirmieji-skaitytojai-aiskesnis-bvk-paaiskinimas-2027
+
+IMAGE PROMPT:
+Photorealistic desk with printed reader notes and website sketches, autumn light, no readable text, calm feedback review mood.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-10-03
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 19
+Data: 2027-10-19
+Rubrika: Archyvas
+Pavadinimas: Pradėtas taisyti svetainės įvadinis sluoksnis pagal pirmuosius skaitytojų klausimus
+
+STRAIPSNIS:
+Spalio antroje pusėje pirmieji skaitytojų klausimai virto praktiniu darbu. Pradėtas taisyti svetainės įvadinis sluoksnis: aiškinamieji puslapiai, pradžios tekstai, rubrikų aprašai ir archyvo logika. Tikslas buvo ne supaprastinti pasaulį, o padaryti pirmą įėjimą švaresnį.
+
+Buvo aišku, kad skaitytojas negali pradėti nuo sudėtingiausių sluoksnių. Jam pirmiausia reikia suprasti, kad projektas nėra veikianti institucija, kad 2026 metai rodo pradžią, o 2086 metai - ateities vaizdą. Tik po to galima vesti prie dokumentų, romano ir ilgos chronologijos.
+
+Įvadinio sluoksnio taisymas taip pat padėjo pačiam projektui. Kai bandai paaiškinti kitam, dažnai pamatai, kad kai kurios vidinės formuluotės dar miglotos. Taip skaitytojo klausimas tampa ne išoriniu trukdžiu, o redakcinio tikslinimo įrankiu.
+
+Šiame etape nebuvo kalbama apie bendruomenę ar dalyvius. Tai dar buvo per anksti. Buvo tik skaitytojai, kurie padėjo suprasti, kaip svetainė atrodo iš šalies. Ir to visiškai pakako.
+
+Spalio 19 dienos įrašas žymi pirmą kartą, kai svetainė buvo taisoma ne vien pagal autoriaus planą, bet ir pagal realų skaitytojo kelią. Tai mažas, bet labai svarbus žingsnis į viešumą.
+
+SEO:
+SEO title: Svetainės įvadas taisomas pagal skaitytojų klausimus
+Meta description: 2027 m. BVK svetainės įvadinis sluoksnis pradėtas taisyti pagal pirmuosius skaitytojų klausimus.
+Slug: svetaines-ivadas-taisomas-pagal-skaitytojus-2027
+
+IMAGE PROMPT:
+Photorealistic website editing scene, laptop, printed intro page drafts, pencil corrections, October evening lamp, no readable text, documentary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-10-19
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 20
+Data: 2027-11-06
+Rubrika: Savęs tobulinimas
+Pavadinimas: Atsirado pirmoji riba tarp smalsaus skaitytojo ir būsimo dalyvio sąvokos
+
+STRAIPSNIS:
+Lapkričio pradžioje pradėta atsargiai skirti smalsų skaitytoją nuo būsimo dalyvio. Tai buvo labai ankstyvas skirtumas, nes 2027 metais dar nebuvo organizacijos, narių, susitikimų struktūros ar veikiančio bendruomeninio kontūro. Tačiau pats klausimas jau pasirodė.
+
+Skaitytojas gali ateiti, perskaityti, pasidomėti, sugrįžti arba nesugrįžti. Jis nieko neįsipareigoja. Dalyvis, net jei tokia sąvoka kada nors atsirastų, turėtų reikšti daugiau: atsakomybę, pagarbą, nuoseklumą, gebėjimą ne tik vertinti, bet ir prisidėti prie aiškumo.
+
+Šis skirtumas buvo svarbus tam, kad projektas neperšoktų per anksti į bendruomenės kalbą. Per lengva kelis susidomėjusius žmones pavadinti judėjimu. Tačiau toks skubėjimas būtų netikras ir pavojingas. 2027 metais reikia kalbėti tik apie skaitymą, klausimus ir pirmą supratimą.
+
+Kartu ši mintis pradėjo ruošti 2028 metų temą. Jeigu kitais metais bus kalbama apie dalyvavimo principus, jie turi kilti ne iš noro greitai suburti grupę, o iš poreikio apsaugoti projektą nuo chaoso, paviršutiniškumo ir neatsakingo prisijungimo.
+
+Lapkričio 6 dienos įrašas įveda labai svarbią ribą: smalsumas yra pradžia, bet jis dar nėra dalyvavimas. Tik tada, kai ši riba aiški, projektas gali augti neskubėdamas ir neapsimesdamas didesnis, negu yra.
+
+SEO:
+SEO title: Skirtumas tarp BVK skaitytojo ir būsimo dalyvio
+Meta description: 2027 m. pirmą kartą atsargiai atskirtas smalsus BVK skaitytojas ir būsimo dalyvio sąvoka.
+Slug: skirtumas-tarp-bvk-skaitytojo-ir-dalyvio-2027
+
+IMAGE PROMPT:
+Photorealistic quiet table scene with one open book and separate blank participation cards, November daylight, no readable text, symbolic but realistic.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-11-06
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 21
+Data: 2027-11-22
+Rubrika: Vystymasis
+Pavadinimas: Svetainė pradėta suvokti ne kaip atsakymas, o kaip ilgas klausimų kelias
+
+STRAIPSNIS:
+Lapkričio pabaigoje po pirmųjų skaitytojų reakcijų ir įvadinių taisymų buvo suformuluota ramesnė svetainės samprata. Ji nėra atsakymas. Ji yra ilgas klausimų kelias, kuriame vieni tekstai rodo pradžią, kiti - ateities vaizdą, o tarp jų pamažu atsiranda jungtys.
+
+Šis suvokimas padėjo sumažinti spaudimą. Nereikėjo iš karto įrodyti visko. Nereikėjo viename puslapyje paaiškinti ekonomikos, teisės, romano, AI, miesto ir ateities Respublikos. Reikėjo leisti skaitytojui eiti po truputį.
+
+Svetainė kaip klausimų kelias reiškė, kad neaiškumas nėra vien klaida. Kai kurie dalykai turi likti atviri, nes projektas dar tik vystosi. Svarbiausia - kad neaiškumas būtų sąžiningas, o ne naudojamas paslėpti tuštumai.
+
+Tai taip pat pakeitė požiūrį į ankstyvus straipsnius. Jie neturi vaidinti galutinių išvadų. Jie gali būti laipteliai. Vienas tekstas klausia apie kooperatyvą, kitas apie svetainę, trečias apie romaną, ketvirtas apie skaitytoją. Visi kartu jie kuria kryptį.
+
+Lapkričio 22 dienos įrašas padėjo projektui kvėpuoti lėčiau. Ateitis neturi būti įrodyta vienu mostu. Ji gali būti atveriama per klausimus, jeigu tie klausimai vedami pakankamai nuosekliai.
+
+SEO:
+SEO title: Svetainė kaip ilgas BVK klausimų kelias
+Meta description: 2027 m. BVK svetainė pradėta suvokti ne kaip galutinis atsakymas, o kaip ilgas klausimų ir skaitymo kelias.
+Slug: svetaine-kaip-ilgas-bvk-klausimu-kelias-2027
+
+IMAGE PROMPT:
+Photorealistic long paper path of blank notes across a desk, laptop at one end, late November dusk, no readable text, calm reflective mood.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-11-22
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 22
+Data: 2027-12-07
+Rubrika: Archyvas
+Pavadinimas: Pirmieji atviro skaitymo metai parodė, kad projektui reikės aiškesnės atminties tvarkos
+
+STRAIPSNIS:
+Gruodžio pradžioje buvo apžvelgti pirmieji atviro skaitymo metai. Jie parodė, kad vien publikuoti tekstus nepakanka. Jei projektas nori augti dešimtmečiais, jam reikės daug aiškesnės atminties tvarkos: kas parašyta, kada pakeista, kodėl pakeista ir su kuo susiję.
+
+Per metus atsirado daugiau sluoksnių: ankstyvas archyvas, ateities naujienos, romano užrašai, įvadiniai paaiškinimai, skaitytojų klausimai. Be tvarkos visa tai galėjo greitai pradėti painiotis. Todėl archyvas tapo ne priedu, o būtina projekto dalimi.
+
+Atminties tvarka turėjo būti ne tik techninė. Ji turėjo saugoti prasmę. Jei vėliau kas nors skaitys 2027 metų tekstus, jis turi suprasti, kad tai ne institucinis laikotarpis, o pirmo atviro skaitymo metai. Be tokio konteksto ankstyvi tekstai gali būti suprasti klaidingai.
+
+Šis suvokimas ruošė kelią griežtesniam kanono darbui ateityje. Reikės versijų, indeksų, ryšių, galbūt atskirų viešų ir darbo sluoksnių. Tačiau 2027 metais svarbiausia buvo pats principas: atmintis turi būti valdoma, o ne paliekama atsitiktinumui.
+
+Gruodžio 7 dienos įrašas įtvirtina paprastą pamoką. Kuo projektas gyvesnis, tuo daugiau jam reikia tvarkos. Ne tam, kad užšaltų, o tam, kad galėtų augti neprarasdamas savo pradžios.
+
+SEO:
+SEO title: Pirmieji BVK atviro skaitymo metai ir atminties tvarka
+Meta description: 2027 m. pirmieji BVK atviro skaitymo metai parodė, kad projektui reikės aiškesnės archyvinės atminties tvarkos.
+Slug: pirmieji-atviro-skaitymo-metai-atminties-tvarka-2027
+
+IMAGE PROMPT:
+Photorealistic year-end archive organization scene, folders, index cards, small desk lamp, winter light, no readable text, natural documentary style.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-12-07
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 23
+Data: 2027-12-18
+Rubrika: Kultūra
+Pavadinimas: Romanas ir svetainė metų pabaigoje įtvirtinti kaip du skirtingi to paties pasaulio vartai
+
+STRAIPSNIS:
+Gruodžio viduryje buvo apibendrintas romano ir svetainės santykis. Per metus tapo aišku, kad tai nėra du atskiri projektai, bet ir ne tas pats tekstas. Svetainė ir romanas turi būti du skirtingi vartai į tą patį BVK pasaulį.
+
+Svetainė leidžia matyti datas, naujienas, dokumentus, archyvą ir ilgą kelią nuo 2026 iki 2086 metų. Romanas leidžia įeiti į 2085 metų žmogaus patirtį, į jo klausimus, tyrimą, santykį su sistema ir paslėptu koordinavimo sluoksniu. Vienas kelias yra labiau dokumentinis, kitas - labiau žmogiškas.
+
+Šis atskyrimas padėjo sustiprinti abu sluoksnius. Svetainė neturi aiškinti visų romano paslapčių, o romanas neturi tapti svetainės instrukcija. Tačiau jie turi derėti: pasaulio datos, tonas, institucijų pojūtis ir bendras istorinis kvėpavimas turi būti vieningi.
+
+Metų pabaigoje tai tapo vienu svarbiausių kūrybinių principų. Skaitytojas gali pradėti nuo naujienų arba nuo romano, bet abiem atvejais jis turi patekti į tą pačią didelę istoriją. Skirtis turi kelias, ne pasaulis.
+
+Gruodžio 18 dienos įrašas užtvirtina 2027 metų kultūrinį rezultatą. Projektas jau turi ne tik svetainę, bet ir antrą įėjimą - pasakojimą, kuriame ateities Respublika tampa ne vien struktūra, o žmogaus likimo erdve.
+
+SEO:
+SEO title: Romanas ir svetainė kaip du BVK pasaulio vartai
+Meta description: 2027 m. romanas ir svetainė įtvirtinti kaip du skirtingi, bet susiję vartai į tą patį BVK pasaulį.
+Slug: romanas-ir-svetaine-du-bvk-vartai-2027
+
+IMAGE PROMPT:
+Photorealistic two-door metaphor in realistic desk composition: manuscript stack and website layout print separated by a central timeline, winter lamplight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-12-18
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 24
+Data: 2027-12-29
+Rubrika: Vystymasis
+Pavadinimas: 2027 metais projektas tapo matomas, bet dar netapo organizacija
+
+STRAIPSNIS:
+2027 metų pabaigoje buvo svarbu labai tiksliai apibrėžti, kas iš tikrųjų įvyko. Projektas tapo matomas. Svetainė buvo paruošta atviram skaitymui, atsirado pirmi skaitytojai, pradėtas romano darbo sluoksnis, aiškiau atskirti archyvai, dokumentai ir ateities naujienos.
+
+Tačiau projektas dar netapo organizacija. Nebuvo asociacijos, nebuvo narių, nebuvo gamybos, nebuvo teisinės struktūros ir nebuvo bendruomenės, kuri galėtų prisiimti atsakomybę už veiksmus. Tai buvo sąmoningai svarbu įvardyti, kad vėlesni skaitytojai nesupainiotų matomumo su instituciniu atsiradimu.
+
+Metų pabaigoje projektas turėjo daugiau aiškumo negu 2026 metais, bet vis dar gyveno klausimų režimu. Jis jau mokėjo paaiškinti, kaip skaityti svetainę, bet dar nemokėjo atsakyti, kaip praktiškai pereiti prie ekonomikos. Jis turėjo skaitytoją, bet dar neturėjo dalyvio.
+
+Būtent ši būsena ruošė 2028 metus. Kitais metais reikės kalbėti apie dalyvavimo kalbą, atsakomybę, skaitymo taisykles, pirmus principus ir atsargų skirtumą tarp smalsumo ir tikro prisidėjimo. Tačiau 2027 metais užteko pirmo matomumo.
+
+Gruodžio 29 dienos įrašas užbaigia metus be perdėto triumfo. Projektas išėjo iš uždaro stalo į skaitymo lauką. Tai dar ne Respublikos pradžia, bet tai jau pirmas kartas, kai jos ilgas klausimas buvo parodytas kitam žmogui.
+
+SEO:
+SEO title: 2027 metais BVK tapo matomas, bet ne organizacija
+Meta description: 2027 m. BVK projektas tapo matomas skaitytojams, tačiau dar netapo organizacija, judėjimu ar praktine struktūra.
+Slug: bvk-tapo-matomas-bet-ne-organizacija-2027
+
+IMAGE PROMPT:
+Photorealistic end-of-year home office scene, open laptop, organized notes, quiet winter window, no readable text, calm documentary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2027-12-29
 Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
