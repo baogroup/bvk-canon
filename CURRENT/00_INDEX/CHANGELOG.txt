@@ -703,3 +703,13 @@ BVK CANON
 Связанные документы: CHANGELOG.txt, MASTER_INDEX.txt, 05_YEAR_2026_PUBLICATION_PLAN.txt, 06_YEAR_2027_PUBLICATION_PLAN.txt, 07_YEAR_2028_PUBLICATION_PLAN.txt, 08_YEAR_2029_PUBLICATION_PLAN.txt, 09_YEAR_2030_PUBLICATION_PLAN.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0069]
+Дата: 2026-04-25
+Изменённый файл: CURRENT/07_TIMELINE/01_TIMELINE_CORE_2026_2086.txt
+Старая версия: v1.2
+Новая версия: v1.3
+Причина: хронологическое ядро синхронизировано с уточнённой логикой происхождения Республики; 2026 год закреплён как личный вопрос о кооперативе рядом с Рудишкес, 2030-2032 как расчётный и юридически осторожный период, 2033 как первое малое кооперативное производство, 2034-2040 как стабилизация производства и первых льгот, 2041-2045 как формирование производственно-жилого узла, а 2046 как результат двадцатилетнего перехода, а не внезапное появление готового государства.
+Связанные документы: 02_CONTENT_PLAN_2026_2046.txt, 03_PHASE_2026_2045_FOUNDING_LAYER.txt, 04_ARTICLE_MATRIX_2026_2046.txt, 04_ECONOMY/02_PRODUCTION_MODEL.txt, 04_ECONOMY/01_CURRENCY_AND_SOCIAL_STANDARD.txt, 09_NEWS_AND_NARRATIVE/01_NEWS_EVOLUTION_MODEL_2026_2086.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
