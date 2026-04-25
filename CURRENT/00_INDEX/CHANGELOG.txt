@@ -773,3 +773,13 @@ BVK CANON
 Связанные документы: 05_YEAR_2026_PUBLICATION_PLAN.txt, 07_YEAR_2028_PUBLICATION_PLAN.txt, 08_YEAR_2029_PUBLICATION_PLAN.txt, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt, 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0076]
+Дата: 2026-04-25
+Изменённый файл: CURRENT/07_TIMELINE/07_YEAR_2028_PUBLICATION_PLAN.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: годовой публикационный план 2028 года расширен с 12 до 24 публикаций и синхронизирован с уточнённой логикой раннего BVK Canon; 2028 год закреплён как год языка участия, ответственного чтения, различия между смелым интересом и будущим участием, первых принципов участия, терминологической дисциплины, разделения публичных и рабочих текстов и AI-проверки канона. Отдельно зафиксировано, что идея собственной социальной/игровой среды с аватарами была рассмотрена как перспективное направление, но признана слишком дорогой и преждевременной для реализации в 2028 году.
+Связанные документы: 05_YEAR_2026_PUBLICATION_PLAN.txt, 06_YEAR_2027_PUBLICATION_PLAN.txt, 08_YEAR_2029_PUBLICATION_PLAN.txt, 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt, 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, 01_TIMELINE_CORE_2026_2086.txt, 02_CONTENT_PLAN_2026_2046.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
