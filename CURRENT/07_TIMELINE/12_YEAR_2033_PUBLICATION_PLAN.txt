@@ -2,12 +2,12 @@ BVK CANON
 Годовой публикационный план 2033
 
 Статус: ACTIVE
-Версия: v1.0
+Версия: v1.1
 Дата первого принятия: 2026-04-24
-Текущая редакция: 2026-04-24
-История поправок: CHANGE-0071
+Текущая редакция: 2026-04-25
+История поправок: CHANGE-0081
 Уровень доступа: SERVICE
-Историческая принадлежность: ранний идейный слой
+Историческая принадлежность: ранний практический слой
 Связанные закрытые документы: нет
 Коды связанных закрытых документов: нет
 
@@ -15,320 +15,1021 @@ BVK CANON
 Этот файл закрепляет годовой публикационный план для 2033 года в рамках внутреннего SERVICE-слоя BVK Canon.
 
 Главный принцип:
-Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
-Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+2033 год нельзя описывать как год полноценного производства, действующего предприятия, устойчивого кооператива, работников как системы, фонда, социального пакета, действующего BVK или Республики.
+
+2033 год является годом первого малого, ограниченного, законного и прозрачного производственного испытания. После подготовки 2032 года проект впервые проверяет пищевую мастерскую не только через документы и расчёты, но через очень ограниченные тестовые партии, сбор данных, ошибки, себестоимость, обратную связь и осторожную подготовку к более стабильной проверке 2034 года.
+
+Задача публикационного плана:
+Показать, как BVK практическая линия впервые касается реальности, но не превращается в победную риторику. Все публикации должны звучать как свежие новости 2033 года, написанные в момент событий. В текстах используются формулы "atliekama", "fiksuojama", "renkami duomenys", "patikslinama", "vertinama", "įtvirtinama", потому что процесс происходит в самом 2033 году.
+
+Редакционное правило 2033 года:
+- никакого голоса зрелого государства;
+- никакой действующей Республики;
+- никакого действующего BVK;
+- никакого полноценного производства;
+- никаких постоянных работников как системы;
+- никакого действующего фонда;
+- никакого социального пакета;
+- тестовые партии описываются только как ribota patikra / mokymosi patikra;
+- любые доходы от теста не называются фондом;
+- первый результат не объявляется успехом модели;
+- тон должен быть практическим, честным, осторожным и основанным на данных.
+
+Плотность публикаций:
+С 2033 года публикационная плотность увеличивается до 36 публикаций в год, потому что появляется первая практическая проверка и, соответственно, больше событий, данных, ошибок, уточнений и промежуточных результатов.
 
 Связь с другими файлами:
+- 01_TIMELINE_CORE_2026_2086.txt задаёт общую хронологическую ось
 - 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 03_PHASE_2026_2045_FOUNDING_LAYER.txt задаёт смысл фазы основания
 - 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
-- данный файл переводит эту логику в конкретный годовой набор публикаций
+- 09_YEAR_2030_PUBLICATION_PLAN.txt задаёт год практических расчётов
+- 10_YEAR_2031_PUBLICATION_PLAN.txt задаёт год юридического разделения контуров
+- 11_YEAR_2032_PUBLICATION_PLAN.txt задаёт год подготовки к первой производственной проверке
+- 13_YEAR_2034_PUBLICATION_PLAN.txt должен продолжить эту логику более стабильной малой производственной проверкой
+- 04_ECONOMY/02_PRODUCTION_MODEL.txt задаёт общий производственный слой
+- 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt задаёт ранний новостной слой
+- 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt задаёт стиль 2033-2040 годов
 
 BVK METINIS PLANAS 2033
 
 METINIS STILIUS IR TONAS
-- Atsiranda daugiau interaktyvumo, praktinio pritaikomumo ir dalyvavimo logikos.
-- Tekstai turi būti tankesni, probleminiai, juose daugiau klausimo „kaip tai veiktų praktiškai“.
-- Balsas santūriai analitinis, bet dar ne šaltai institucinis.
-- Projektas jau ima atrodyti kaip prototipas, o ne vien mokomoji vaizduotės sistema.
+- Metai turi skambėti kaip pirmos ribotos praktinės patikros etapas, ne kaip gamybos pradžia.
+- Daugiau gyvų praktinių įvykių: testinė partija, duomenys, klaidos, pataisymai, grįžtamasis ryšys, savikaina, pakartotinė patikra.
+- Balsas santūrus, tikslus, be pergalės retorikos.
+- Straipsniai turi būti pateikiami kaip gyvos 2033 metų publikacijos, ne kaip vėlesnis archyvo atkūrimas.
+- Pagrindinis metų klausimas: ar maisto dirbtuvės kryptį galima tikrinti realybėje taip, kad nebūtų pažeistas teisėtumas, skaidrumas ir pasitikėjimas?
 
-REKOMENDUOJAMAS PARENGĖJAS: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
-
-========================================================================
-ĮРАŠАС 1
-Data: 2033-01-15
-Rubrika: Technologijos
-Pavadinimas: Pradėti kurti pirmieji vartotojo dalyvavimo scenarijai būsimoje Respublikos skaitmeninėje erdvėje
-
-STRAIPSNIS:
-Sausio mėnesį pradėti kurti pirmieji vartotojo dalyvavimo scenarijai, skirti būsimos Respublikos skaitmeninei erdvei. Iki tol projektas daugiausia buvo skaitomas, stebimas ir analizuojamas, tačiau dabar vis aiškiau iškilo klausimas, kaip žmogus tokioje sistemoje ne tik matytų, bet ir veiktų.
-
-Scenarijuose svarstyta, kaip būtų galima aiškiai parodyti pareigas, pasirinkimus, atsakomybės sritis ir bendro gyvenimo ritmą nepaverčiant dalyvavimo dirbtiniu žaidimu. Buvo ieškoma formų, kurios leistų žmogui suvokti, kaip jo veiksmai siejasi su platesniu miesto ar bendruomenės balansu.
-
-Šis etapas žymi svarbų poslinkį. Respublika pradedama modeliuoti ne tik kaip stebimas pasaulis, bet ir kaip aplinka, kurioje dalyvavimas turi savo aiškią struktūrą.
-
-SEO:
-SEO title: Pradėti kurti pirmieji vartotojo dalyvavimo scenarijai...
-Meta description: 2033 m. pradėti kurti pirmieji vartotojo dalyvavimo scenarijai būsimoje Respublikos skaitmeninėje erdvėje.
-Slug: pradeti-kurti-pirmieji-vartotojo-dalyvavimo-scenarijai-busimoje-respublikos-skaitmenineje-erdveje-2033
-
-IMAGE PROMPT:
-Photorealistic UX scenario workshop scene with interface sketches, user journey cards and participation flow diagrams on a desk, winter daylight, no readable text.
-
-PABAIGOS BLOKAS:
-Publikuota: 2033-01-15
-Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+REKOMENDUOJAMAS PARENGĖJAS: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАŠАС 2
-Data: 2033-02-05
+ĮRAŠAS 1
+Data: 2033-01-10
 Rubrika: Vystymasis
-Pavadinimas: Svetainėje iškelta mintis, kad ateities valstybė turi būti ne stebima, o patiriama per veiksmą ir pasirinkimą
+Pavadinimas: Metai pradedami nuo ribotos maisto dirbtuvės patikros, o ne nuo gamybos starto
 
 STRAIPSNIS:
-Vasario pradžioje svetainėje aiškiau suformuluota mintis, kad ateities valstybė negali būti suvokiama vien kaip gražiai aprašytas modelis. Jei ji turi tapti įtikinama, žmogus privalo suprasti ją per veiksmą, pasirinkimą ir asmeninę atsakomybę, o ne tik per iš šalies stebimas deklaracijas.
+2033 metai BVK projekte pradedami nuo aiškios ribos: kalbama ne apie gamybos startą, o apie ribotą maisto dirbtuvės patikrą. Po 2032 metais parengtų produktų, higienos, įrangos, atsakomybės ir apskaitos klausimų galima žengti mažą praktinį žingsnį, bet jo negalima pristatyti kaip veikiančios sistemos.
 
-Ši idėja svarbi visam projekto tolesniam augimui. Ji perkelia dėmesį nuo pasyvaus skaitymo prie aktyvesnio įsivaizdavimo: kas nutiktų, jei žmogus turėtų pasirūpinti bendru ritmu, priimti ribas, laikytis drausmės ir kartu naudotis didesniu socialiniu saugumu. Tokia perspektyva stiprina projekto tikrumą.
+Ribota patikra reiškia, kad pirmiausia tikrinamas pats procesas: ar įmanoma paruošti produktą, suskaičiuoti jo savikainą, užfiksuoti darbo laiką, suprasti klaidas ir gauti pirmą reakciją. Tai dar nėra įmonė, nuolatinis pardavimas ar kooperatyvinė gamyba.
 
-Ši publikacija žymi momentą, kai BVK pasaulis pradeda būti mąstomas kaip patiriama terpė. Būtent tai ateityje atvers kelią žaidybinei, socialinei ir bendruomeninei formai.
+Šiuo metu ypač svarbu nesukurti klaidingo įspūdžio. Pirmasis bandymas negali būti vadinamas socialinio modelio įrodymu. Jis gali tik parodyti, ar idėja apskritai gali būti tikrinama realybėje, nepažeidžiant teisėtumo, skaidrumo ir atsargumo ribų.
+
+Sausio 10 dienos publikacija atidaro metus blaivia nuostata: pirmas praktinis veiksmas turi būti mažas, aiškiai apribotas ir pasiruošęs pripažinti savo silpnybes.
 
 SEO:
-SEO title: Svetainėje iškelta mintis, kad ateities valstybė turi b...
-Meta description: 2033 m. svetainėje iškelta mintis, kad ateities valstybė turi būti ne stebima, o patiriama per veiksmą ir pasirinkimą.
-Slug: svetaineje-iskelta-mintis-kad-ateities-valstybe-turi-buti-ne-stebima-o-patiriama-per-veiksma-ir-pasirinkima-2033
+SEO title: 2033 m. pradedama ribota maisto dirbtuvės patikra
+Meta description: 2033 m. BVK projektas pradedamas nuo ribotos maisto dirbtuvės patikros, o ne nuo gamybos starto.
+Slug: ribota-maisto-dirbtuves-patikra-2033
 
 IMAGE PROMPT:
-Photorealistic conceptual participation scene with hand moving tokens or cards across a civic board setup, natural desk environment, soft winter light, no readable text.
+Photorealistic small practical test planning scene, food workshop checklist, calculator, blank legal notes, winter daylight, no readable text, documentary realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2033-02-05
-Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+Publikuota: 2033-01-10
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАŠАС 3
-Data: 2033-03-19
-Rubrika: Duomenys
-Pavadinimas: Sukurtas ankstyvas modelis, kaip Respublikos sistemoje galėtų būti matomi poreikiai, darbai ir atsakomybės sritys
+ĮRAŠAS 2
+Data: 2033-01-20
+Rubrika: Teisė
+Pavadinimas: Patikros mastas apibrėžiamas taip, kad ji neperžengtų neaiškios ūkinės veiklos ribos
 
 STRAIPSNIS:
-Kovą sukurtas ankstyvas modelis, leidžiantis svarstyti, kaip Respublikos sistemoje būtų matomi poreikiai, darbai ir atsakomybės sritys. Šioje schemoje siekiama ne viską supaprastinti iki mechaninio skaičiavimo, bet surasti būdą, kaip bendras gyvenimas galėtų būti koordinuojamas aiškiau ir teisingiau.
+Sausio antroje pusėje patikros mastas apibrėžiamas taip, kad ji neperžengtų neaiškios ūkinės veiklos ribos. Tai svarbus teisinis saugiklis, nes net labai mažas maisto bandymas gali sukurti atsakomybę, jeigu atsiranda pardavimas, pirkėjas ar nuolatinis kartojimas.
 
-Ypatingas dėmesys skirtas tam, kad duomenų logika netaptų žmogų spaudžiančiu aparatu. Projekte akcentuojama, kad poreikių ir darbų matomumas reikalingas tam, jog būtų mažiau triukšmo, bereikalingo dubliavimosi ir nesąžiningos naštos pasiskirstymo. Tai koordinavimo, o ne nuasmeninimo įrankis.
+Šiuo metu patikra aprašoma kaip mokymosi ir duomenų rinkimo veiksmas. Jeigu produktas būtų ruošiamas, svarbiausia būtų fiksuoti sąnaudas, laiką, higienos procesą ir rezultatą. Bet kokia išorinė reakcija turi būti vertinama atsargiai, nepaverčiant bandymo nuolatine komercine veikla.
 
-Šis modelis yra ankstyvas, bet svarbus. Jis priartina projektą prie praktinio klausimo, kaip galėtų veikti didesnė tarpusavyje susieta bendro gyvenimo sistema.
+Tokia riba saugo projektą nuo per ankstyvo žingsnio. Praktika turi prasidėti ne nuo noro parodyti rezultatą, o nuo gebėjimo laikytis teisinio aiškumo. Jei neaišku, ar veiksmas jau tampa ūkine veikla, jis turi būti stabdomas arba papildomai tikslinamas.
+
+Ši publikacija įtvirtina 2033 metų pradžios taisyklę: net pirmas bandymas turi turėti ribas, nes maža klaida teisinėje pradžioje vėliau gali kainuoti pasitikėjimą.
 
 SEO:
-SEO title: Sukurtas ankstyvas modelis, kaip Respublikos sistemoje...
-Meta description: 2033 m. sukurtas ankstyvas modelis, kaip Respublikos sistemoje galėtų būti matomi poreikiai, darbai ir atsakomybės sritys.
-Slug: sukurtas-ankstyvas-modelis-kaip-respublikos-sistemoje-galetu-buti-matomi-poreikiai-darbai-ir-atsakomybes-sritys-2033
+SEO title: Patikros mastas ir ūkinės veiklos riba
+Meta description: 2033 m. BVK maisto patikros mastas apibrėžiamas taip, kad ji neperžengtų neaiškios ūkinės veiklos ribos.
+Slug: patikros-mastas-ir-ukines-veiklos-riba-2033
 
 IMAGE PROMPT:
-Photorealistic data-mapping scene with task clusters, need charts and responsibility matrix sketches spread over a worktable, spring daylight, no readable text.
+Photorealistic legal boundary desk, small batch notes, blank forms, measuring tape, winter light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2033-03-19
-Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+Publikuota: 2033-01-20
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАŠАС 4
-Data: 2033-04-09
-Rubrika: Bendruomenė
-Pavadinimas: Pirmieji aktyvesni projekto sekėjai pradėjo siūlyti savo būsimos skaitmeninės erdvės matymus
-
-STRAIPSNIS:
-Balandžio mėnesį pirmieji aktyvesni projekto sekėjai ėmė siūlyti savo įžvalgas apie tai, kaip galėtų atrodyti būsima Respublikos skaitmeninė erdvė. Šie siūlymai apėmė ne tik techninius sprendimus, bet ir patį dalyvavimo toną - kiek sistemoje turėtų būti aiškumo, kiek laisvo pasirinkimo, kaip išvengti perteklinio mechaninio jausmo.
-
-Tai svarbus ženklas, rodantis, kad dalis auditorijos jau pradeda mąstyti ne vien kaip skaitytoja, bet ir kaip būsimo pasaulio bendraautorė. Kol tokie svarstymai dar pavieniai, tačiau jie rodo, kad projektas pasiekė naują įsitraukimo gylį.
-
-Ši publikacija fiksuoja pirmuosius bandymus išplėsti Respublikos skaitmeninę vaizduotę už pirminio kūrėjų rato ribų. Ilgainiui tai gali tapti vienu iš bendruomeninės plėtros pamatų.
-
-SEO:
-SEO title: Pirmieji aktyvesni projekto sekėjai pradėjo siūlyti sav...
-Meta description: 2033 m. pirmieji aktyvesni projekto sekėjai pradėjo siūlyti savo būsimos skaitmeninės erdvės matymus.
-Slug: pirmieji-aktyvesni-projekto-sekejai-pradejo-siulyti-savo-busimos-skaitmenines-erdves-matymus-2033
-
-IMAGE PROMPT:
-Photorealistic collaborative planning scene with a few participants sharing sketches around a table, pointing at layouts and notes, spring indoor light, no readable text.
-
-PABAIGOS BLOКAS:
-Publikuota: 2033-04-09
-Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
-
-========================================================================
-ĮРАШАС 5
-Data: 2033-05-21
-Rubrika: Kultūra
-Pavadinimas: Romano medžiaga papildyta naujais socialinio gyvenimo ir miesto valdymo sluoksniais
-
-STRAIPSNIS:
-Gegužę toliau plėtota romano medžiaga, tačiau šį kartą daugiau dėmesio skirta socialinio gyvenimo ir miesto valdymo sluoksniams. Į pasakojimo audinį įtraukti ne tik žmonių santykiai, bet ir viešosios erdvės ritmas, tarnybų darbas, bendri aprūpinimo principai bei kasdienė disciplinos kultūra.
-
-Šie papildymai sustiprino vieną svarbią projekto savybę: Respublika vis labiau rodoma ne per dideles deklaracijas, o per smulkų miesto gyvenimo tikrumą. Tai leidžia skaitytojui geriau jausti, kaip tokia sistema veikia ne ant popieriaus, bet gatvėje, mokykloje, namuose ir bendrose erdvėse.
-
-Romano pasaulio tankinimas vėl sustiprino kultūrinę projekto atramą. Būtent per ją dalis skaitytojų į BVK įžengia pirmiausia, o tik vėliau pasiekia dokumentinį sluoksnį.
-
-SEO:
-SEO title: Romano medžiaga papildyta naujais socialinio gyvenimo i...
-Meta description: 2033 m. romano medžiaga papildyta naujais socialinio gyvenimo ir miesto valdymo sluoksniais.
-Slug: romano-medziaga-papildyta-naujais-socialinio-gyvenimo-ir-miesto-valdymo-sluoksniais-2033
-
-IMAGE PROMPT:
-Photorealistic literary-worldbuilding desk with city-life notes, institution sketches and atmospheric references, warm spring light, no readable text.
-
-PABAIGOS BLOKAS:
-Publikuota: 2033-05-21
-Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
-
-========================================================================
-ĮРАШАС 6
-Data: 2033-06-12
+ĮRAŠAS 3
+Data: 2033-01-30
 Rubrika: Archyvas
-Pavadinimas: Išplėstas archyvinių publikacijų modelis, leidžiantis vienu metu matyti skirtingas Respublikos epochas
+Pavadinimas: 2032 metų pasirengimo dokumentai suvedami į pirmą praktinės patikros paketą
 
 STRAIPSNIS:
-Birželio mėnesį išplėstas archyvinių publikacijų modelis taip, kad būtų lengviau vienu metu matyti skirtingas Respublikos epochas. Ši schema padeda skaitytojui suvokti, jog 2026, 2030 ar 2086 metų tekstai nėra atsitiktinės atplaišos, o vienos didesnės istorijos sluoksniai.
+Sausio pabaigoje 2032 metų pasirengimo dokumentai suvedami į pirmą praktinės patikros paketą. Į jį įtraukiamos produktų matrica, sanitarinės sąlygos, minimalios įrangos sąrašas, žaliavų klausimai, vaidmenų aprašymai, savikainos skaičiuoklės schema ir rizikos pastabos.
 
-Toks išplėtimas svarbus ir pačiam projektui. Kuo geriau matomos skirtingų laikotarpių jungtys, tuo aiškiau galima tvarkyti pasaulio logiką, stilių kaitą ir institucijų raidą. Tai ypač svarbu, kai svetainėje daugėja turinio ir kyla rizika prarasti vidinį nuoseklumą.
+Šis paketas nėra oficialus leidimas pradėti gamybą. Jo paskirtis - užtikrinti, kad pirmas mažas bandymas nebūtų daromas chaotiškai. Kiekviena dalis turi parodyti, ką reikia stebėti, ką reikia suskaičiuoti ir kur gali atsirasti silpna vieta.
 
-Nuo šio momento archyvas tampa ne tik saugojimo vieta, bet ir aktyvia skaitymo bei pasaulio orientacijos priemone. Jis padeda judėti laiku pirmyn ir atgal nepasimetant bendrame vaizde.
+Dokumentų suvedimas taip pat padeda atskirti rimtą pasirengimą nuo paprasto entuziazmo. Jei klausimai sudėti vienoje vietoje, lengviau matyti, ar patikra apskritai gali vykti, ar dar trūksta per daug sąlygų.
 
-SEO:
-SEO title: Išplėstas archyvinių publikacijų modelis, leidžiantis v...
-Meta description: 2033 m. išplėstas archyvinių publikacijų modelis, leidžiantis vienu metu matyti skirtingas Respublikos epochas.
-Slug: isplestas-archyviniu-publikaciju-modelis-leidziantis-vienu-metu-matyti-skirtingas-respublikos-epochas-2033
-
-IMAGE PROMPT:
-Photorealistic archive wall scene with multiple year markers, pinned publication cards and layered chronology strands, summer daylight, no readable text.
-
-PABAIGOS BLOKAS:
-Publikuota: 2033-06-12
-Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
-
-========================================================================
-ĮРАШАС 7
-Data: 2033-07-24
-Rubrika: Technologijos
-Pavadinimas: Aptartos pirmosios vidinės socialinio tinklo ir žaidybinės sąveikos architektūros kryptys
-
-STRAIPSNIS:
-Liepos mėnesį technologijų ir vystymosi sankirtoje aptartos pirmosios vidinės socialinio tinklo bei žaidybinės sąveikos architektūros kryptys. Svarstyta, kaip sukurti erdvę, kuri nebūtų nei tuščias pramoginis apvalkalas, nei šaltas administracinis įrankis, o padėtų žmogui išmokti dalyvavimo logikos.
-
-Pagrindinis klausimas buvo ne dekoratyvus. Ieškota būdų, kaip per skaitmeninę aplinką perteikti pasirinkimo pasekmes, bendro gyvenimo ritmą ir atsakomybės svorį. Tokia erdvė turėtų stiprinti ne priklausomybę nuo ekrano, o supratimą apie sistemos veikimą.
-
-Šiame etape dar nėra galutinio techninio sprendimo, tačiau kryptis jau aiški. Respublika pradeda mąstyti apie terpę, kurioje dalyvavimo kultūra galėtų būti ne tik aiškinama, bet ir treniruojama.
+Ši publikacija rodo, kad archyvas 2033 metais tampa praktiniu darbo instrumentu. Jis ne tik saugo praeitį, bet ir padeda neleisti pirmajam veiksmui prasidėti be tvarkos.
 
 SEO:
-SEO title: Aptartos pirmosios vidinės socialinio tinklo ir žaidybi...
-Meta description: 2033 m. aptartos pirmosios vidinės socialinio tinklo ir žaidybinės sąveikos architektūros kryptys.
-Slug: aptartos-pirmosios-vidines-socialinio-tinklo-ir-zaidybines-saveikos-architekturos-kryptys-2033
+SEO title: Praktinės BVK patikros dokumentų paketas
+Meta description: 2033 m. 2032 metų pasirengimo dokumentai suvedami į pirmą BVK praktinės maisto patikros paketą.
+Slug: praktines-bvk-patikros-dokumentu-paketas-2033
 
 IMAGE PROMPT:
-Photorealistic game-social architecture planning scene with wireframes, interaction maps and tabletop prototypes, midsummer light, no readable text, realistic design studio mood.
+Photorealistic organized readiness package, folders, checklists, food matrix cards, desk lamp, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2033-07-24
-Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+Publikuota: 2033-01-30
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАШАС 8
-Data: 2033-08-16
+ĮRAŠAS 4
+Data: 2033-02-09
 Rubrika: Ekonomika
-Pavadinimas: Pradėti tikslinti praktiniai kooperacijos, paskirstymo ir pasitikėjimo mechanizmų scenarijai
+Pavadinimas: Iš produktų matricos atrenkamos kelios saugiausios pirmosios patikros kryptys
 
 STRAIPSNIS:
-Rugpjūtį ekonomikos temoje pereita prie praktiškesnių scenarijų. Pradėta tikslinti, kaip kooperacija, paskirstymas ir tarpusavio pasitikėjimas galėtų veikti ne vien kaip vertybiniai principai, bet kaip kasdienės sistemos mechanizmai. Daug dėmesio skirta tam, kaip būtų išvengiama tiek savanaudiško kaupimo, tiek neveiksnaus neapibrėžtumo.
+Vasario pradžioje iš produktų matricos atrenkamos kelios saugiausios pirmosios patikros kryptys. Renkamasi ne pagal tai, kas atrodo įdomiausia, o pagal tai, kas galėtų būti paprasčiausiai paruošiama, lengviausiai suskaičiuojama ir mažiausiai rizikinga higienos požiūriu.
 
-Šie scenarijai svarbūs todėl, kad jie pirmą kartą aiškiau susieja ekonominį klausimą su pasitikėjimo kultūra. Jei žmonės turi bendras garantijas, jie taip pat turi matyti, kad sistema remiasi aiškia atsakomybe ir neleidžia tyliai slėpti naštos kitiems. Tik tokiu atveju kooperatyvinė logika išlieka tvari.
+Svarstomos tokios kryptys kaip formine duona, paprastas kepinys, sriuba, troškinys arba nedidelis pusgaminio bandymas. Kiekvienas variantas tikrinamas pagal žaliavų kainą, darbo laiką, pakuotę, laikymo sąlygas ir galimą grįžtamąjį ryšį.
 
-Šis žingsnis priartina projektą prie rimtesnio praktinio svarstymo. Ekonominė Respublikos pusė vis mažiau primena abstraktų idealą ir vis labiau - tikrą gyvenimo organizavimo modelį.
+Šiuo metu nepasirenkamas galutinis BVK produktas. Atranka skirta tik pirmai patikrai, kuri turėtų parodyti, kas realiai įmanoma mažame mastelyje. Jei kryptis pasirodys per sudėtinga, ji turės būti atidėta arba pakeista.
+
+Vasario 9 dienos publikacija pabrėžia, kad pirmas produktas turi būti ne simboliškiausias, o saugiausias mokymuisi. Pradžia turi išlaikyti ne įspūdį, o procesą.
 
 SEO:
-SEO title: Pradėti tikslinti praktiniai kooperacijos, paskirstymo...
-Meta description: 2033 m. pradėti tikslinti praktiniai kooperacijos, paskirstymo ir pasitikėjimo mechanizmų scenarijai.
-Slug: pradeti-tikslinti-praktiniai-kooperacijos-paskirstymo-ir-pasitikejimo-mechanizmu-scenarijai-2033
+SEO title: Saugiausios pirmosios maisto patikros kryptys
+Meta description: 2033 m. iš BVK maisto produktų matricos atrenkamos saugiausios pirmosios praktinės patikros kryptys.
+Slug: saugiausios-pirmosios-maisto-patikros-kryptys-2033
 
 IMAGE PROMPT:
-Photorealistic cooperative-economy concept scene with shared resources, household goods, planning charts and trust-based allocation notes on a summer table, no readable text.
+Photorealistic food product selection table, bread sample, soup container, blank comparison cards, February daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2033-08-16
-Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+Publikuota: 2033-02-09
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАШАС 9
-Data: 2033-09-11
-Rubrika: Švietimas
-Pavadinimas: Paskelbti tekstai apie tai, kaip dalyvavimo kultūra turi būti ugdoma dar iki pačios sistemos paleidimo
+ĮRAŠAS 5
+Data: 2033-02-18
+Rubrika: Darbas
+Pavadinimas: Mažos komandos vaidmenys susiejami su pirmosios patikros dienos eiga
 
 STRAIPSNIS:
-Rugsėjį paskelbti tekstai, kuriuose pabrėžta, kad dalyvavimo kultūra negali atsirasti tą pačią dieną, kai pradedama veikti nauja sistema. Ji turi būti ugdoma gerokai anksčiau - per kalbą, įpročius, mokymąsi, bendravimo toną ir gebėjimą matyti save kaip platesnio gyvenimo dalį.
+Vasario viduryje mažos komandos vaidmenys susiejami su pirmosios patikros dienos eiga. Tai dar nėra komandos sudarymas, tačiau jau aiškiau matoma, kokių funkcijų reikėtų, jeigu ribotas bandymas būtų atliekamas praktiškai.
 
-Šis akcentas ypač svarbus, nes jis saugo projektą nuo naivaus techninio mąstymo. Net pati geriausia struktūra neveiks, jei žmonės prie jos ateis su senais įpročiais: abejingumu, atsainumu, trumpu horizontu ir nenoru dalytis atsakomybe. Todėl švietimo sluoksnis ima vaidinti vis svarbesnį vaidmenį.
+Patikros dienos grandinėje išskiriamas žaliavų paruošimas, gaminimas, higienos priežiūra, pakuotė, laiko fiksavimas, sąnaudų žymėjimas, galimas pristatymas ir pastabų surinkimas. Net jeigu kai kuriuos vaidmenis atliktų tas pats žmogus, jie turi būti matomi atskirai.
 
-Nuo šio momento dalyvavimo kultūra BVK pasaulyje traktuojama kaip iš anksto ugdoma civilizacinė kompetencija. Ji tampa būtina būsimos sistemos paleidimo sąlyga.
+Toks aprašymas saugo nuo įprastos klaidos, kai mažas bandymas laikomas paprastu ir todėl neplanuojamas. Praktikoje net mažas produktas reikalauja tvarkos, nes vienas praleistas žingsnis gali iškraipyti savikainą arba kokybę.
+
+Ši publikacija parodo, kad 2033 metų patikra vertinama kaip darbo procesas, o ne kaip vienkartinis virtuvės eksperimentas.
 
 SEO:
-SEO title: Paskelbti tekstai apie tai, kaip dalyvavimo kultūra tur...
-Meta description: 2033 m. paskelbti tekstai apie tai, kaip dalyvavimo kultūra turi būti ugdoma dar iki pačios sistemos paleidimo.
-Slug: paskelbti-tekstai-apie-tai-kaip-dalyvavimo-kultura-turi-buti-ugdoma-dar-iki-pacios-sistemos-paleidimo-2033
+SEO title: Mažos komandos vaidmenys patikros dienai
+Meta description: 2033 m. mažos BVK komandos vaidmenys susiejami su pirmosios maisto patikros dienos eiga.
+Slug: mazos-komandos-vaidmenys-patikros-dienai-2033
 
 IMAGE PROMPT:
-Photorealistic civic-learning scene with workshop materials, simple educational tools and group study atmosphere, early autumn daylight, no readable text.
+Photorealistic role workflow planning, aprons, gloves, role cards, process timeline, no readable text, winter indoor light.
 
-PABAIGOS BLOКАС:
-Publikuota: 2033-09-11
-Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+PABAIGOS BLOKAS:
+Publikuota: 2033-02-18
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАШАС 10
-Data: 2033-10-23
+ĮRAŠAS 6
+Data: 2033-02-28
+Rubrika: Technologijos
+Pavadinimas: Savikainos skaičiuoklė paruošiama pirmam realių duomenų įvedimui
+
+STRAIPSNIS:
+Vasario pabaigoje savikainos skaičiuoklė paruošiama pirmam realių duomenų įvedimui. Iki šiol ji buvo schema, padedanti mąstyti apie žaliavas, pakuotę, energiją, darbo laiką ir nuostolius. Dabar ji pritaikoma taip, kad galėtų priimti pirmos patikros duomenis.
+
+Skaičiuoklėje paliekamos eilutės ir akivaizdžioms, ir lengvai pamirštamoms sąnaudoms. Įtraukiama ne tik pagrindinė žaliava, bet ir mažos pakuotės, valymo priemonės, sugaištas laikas, transporto detalės, nepavykę bandymai ir galimi likučiai.
+
+Tai svarbu todėl, kad pirmoji patikra turi parodyti ne emociją, o skaičių. Produktas gali atrodyti pavykęs, bet jei neįrašytas visas darbo laikas, savikaina bus klaidinga. O klaidinga savikaina veda prie klaidingų sprendimų.
+
+Ši publikacija įtvirtina techninį patikros principą: kiekvienas realus žingsnis turi palikti duomenį, kurį vėliau galima patikrinti.
+
+SEO:
+SEO title: Savikainos skaičiuoklė realiems duomenims
+Meta description: 2033 m. BVK savikainos skaičiuoklė paruošiama pirmam realių maisto patikros duomenų įvedimui.
+Slug: savikainos-skaiciuokle-realiems-duomenims-2033
+
+IMAGE PROMPT:
+Photorealistic laptop spreadsheet, calculator, ingredients, blank columns, February evening light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-02-28
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 7
+Data: 2033-03-08
+Rubrika: Ekonomika
+Pavadinimas: Atliekama pirmoji labai ribota maisto produkto testinė partija
+
+STRAIPSNIS:
+Kovo pradžioje atliekama pirmoji labai ribota maisto produkto testinė partija. Tai laikoma mokymosi patikra, o ne gamybos pradžia. Jos tikslas - patikrinti procesą, savikainą, darbo laiką, higienos drausmę ir produkto stabilumą mažame mastelyje.
+
+Partijos mastas sąmoningai ribotas. Vengiama bet kokio įspūdžio, kad pradedama nuolatinė veikla. Svarbiausia ne kiek pagaminta, o ką pavyko išmatuoti: kiek sunaudota žaliavų, kiek laiko užtruko paruošimas, kur atsirado klaidų ir kokie punktai buvo neįvertinti.
+
+Ši patikra turi didelę simbolinę reikšmę, bet ji nėra pergalė. Ji pirmą kartą išveda BVK praktinę kryptį iš vien tekstų į ribotą veiksmą. Tačiau pats veiksmas dar nieko neįrodo, kol nėra surinkti ir sąžiningai įvertinti duomenys.
+
+Kovo 8 dienos publikacija žymi mažą, bet istorinį slenkstį: idėja pirmą kartą tikrinama ne tik sakiniais, bet ir realiu procesu.
+
+SEO:
+SEO title: Pirmoji ribota BVK maisto testinė partija
+Meta description: 2033 m. atliekama pirmoji labai ribota BVK maisto produkto testinė partija kaip mokymosi patikra.
+Slug: pirmoji-ribota-bvk-maisto-testine-partija-2033
+
+IMAGE PROMPT:
+Photorealistic small batch food test, simple prepared product samples, scale, checklist, clean workspace, March daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-03-08
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 8
+Data: 2033-03-18
+Rubrika: Teisė
+Pavadinimas: Pirmoji testinė partija fiksuojama kaip mokymosi patikra, o ne nuolatinė gamyba
+
+STRAIPSNIS:
+Kovo viduryje pirmoji testinė partija teisiškai ir redakciniu požiūriu fiksuojama kaip mokymosi patikra, o ne nuolatinė gamyba. Ši riba būtina, kad skaitytojas, dalyviai ir pats projektas nesupainiotų mažo bandymo su veikiančiu ūkinio kontūro startu.
+
+Fiksuojama, kad patikros tikslas yra duomenys: savikaina, procesas, darbo ritmas, klaidos, higienos punktai ir galimas grįžtamasis ryšys. Ji nėra verslo pradžia, nėra kooperatinės gamybos įsteigimas ir nėra socialinio fondo atsiradimas.
+
+Ši publikacija saugo projektą nuo per ankstyvos sėkmės kalbos. Net jei pirmas gaminys pavyko, tai dar nereiškia, kad modelis veikia. Modelis galėtų būti vertinamas tik po pakartojamų duomenų, aiškios formos ir skaidraus proceso.
+
+Todėl kovo 18 dienos tekstas įtvirtina atsargų toną: pirmoji testinė partija svarbi ne todėl, kad jau kažką įrodo, o todėl, kad leidžia pradėti matuoti.
+
+SEO:
+SEO title: Testinė partija kaip mokymosi patikra
+Meta description: 2033 m. pirmoji BVK testinė maisto partija fiksuojama kaip mokymosi patikra, o ne nuolatinė gamyba.
+Slug: testine-partija-kaip-mokymosi-patikra-2033
+
+IMAGE PROMPT:
+Photorealistic legal annotation scene, test batch notes, blank classification folder, food sample, March light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-03-18
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 9
+Data: 2033-03-30
+Rubrika: Archyvas
+Pavadinimas: Surinkti pirmieji testinės partijos duomenys: sąnaudos, laikas ir proceso pastabos
+
+STRAIPSNIS:
+Kovo pabaigoje surenkami pirmieji testinės partijos duomenys: sąnaudos, darbo laikas, žaliavų likučiai, proceso pastabos ir pirmos klaidos. Šie duomenys tampa svarbesni už patį produkto įspūdį, nes būtent jie parodo, ar bandymą galima vertinti rimtai.
+
+Pirminės pastabos rodo, kad kai kurios sąnaudos pasirodo didesnės nei buvo tikėtasi, o kai kurie proceso žingsniai užima daugiau laiko. Tai nėra nesėkmė. Priešingai, tokia informacija yra pagrindinė patikros vertė.
+
+Duomenys taip pat leidžia atskirti tai, kas buvo emocinis lūkestis, nuo to, ką parodė realybė. Jei produktas atrodo pavykęs, bet skaičiai rodo per didelę savikainą, reikia taisyti ne įspūdį, o procesą.
+
+Ši publikacija įrašo pirmą praktinę pamoką: realybė dažnai yra lėtesnė, brangesnė ir smulkesnė už planą. Būtent todėl patikra buvo reikalinga.
+
+SEO:
+SEO title: Pirmieji BVK testinės partijos duomenys
+Meta description: 2033 m. surinkti pirmieji BVK testinės maisto partijos duomenys: sąnaudos, laikas ir proceso pastabos.
+Slug: pirmieji-bvk-testines-partijos-duomenys-2033
+
+IMAGE PROMPT:
+Photorealistic data review desk, used checklist, calculator, product remnants, notes, late March light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-03-30
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 10
+Data: 2033-04-08
 Rubrika: Vystymasis
-Pavadinimas: Projektas vis dažniau apibūdinamas kaip būsimos visuomenės prototipas, o ne vien informacinė svetainė
+Pavadinimas: Pirmoji patikra parodė, kad procesas sudėtingesnis nei produktų lentelė
 
 STRAIPSNIS:
-Spalio mėnesį viešajame projekto apibūdinime vis dažniau imta vartoti formuluotę, kad BVK yra būsimos visuomenės prototipas, o ne vien informacinė svetainė. Toks poslinkis atsirado ne dėl išorinio įvaizdžio, bet todėl, kad pats projektas jau turi pakankamai daug tarpusavyje susijusių sluoksnių - archyvą, principus, scenarijus, kultūrinį pasaulį ir ankstyvą dalyvavimo logiką.
+Balandžio pradžioje pirmos patikros duomenys parodo, kad realus procesas sudėtingesnis nei produktų lentelė. Lentelėje galima tvarkingai surašyti žaliavas, laiką ir kainas, tačiau praktikoje atsiranda laukimas, tvarkymas, klaidos, praradimai ir smulkūs nepatogumai.
 
-Svarbu, kad žodis „prototipas“ čia suprantamas ne technine siaurąja prasme. Jis reiškia, kad projekte bandoma ne tik pasakoti apie kitokį gyvenimą, bet ir po truputį tikrinti, kokių atramų jam reikėtų. Būtent tai skiria brandesnę viziją nuo paprastos utopinės fantazijos.
+Ši išvada svarbi, nes ji grąžina projektą prie labai paprastos realybės: gamyba nėra vien produkto idėja. Ji yra darbo seka, kurioje kiekvienas žingsnis gali pailgėti, pabrangti arba pareikalauti papildomos atsakomybės.
 
-Ši publikacija fiksuoja reikšmingą savivokos pokytį. Respublika pradedama matyti kaip lėtai bandoma ateities forma, kurios kontūrai jau pakankamai aiškūs rimtesniam svarstymui.
+Patikra parodo ir tai, kad kai kurios problemos nebuvo matomos iš anksto. Pavyzdžiui, pakavimas, valymas, laikymas ar užrašų fiksavimas gali atrodyti antraeiliai, bet mažame bandyme jie gali tapti rimtomis laiko eilutėmis.
+
+Balandžio 8 dienos publikacija nėra nusivylimas. Ji yra reikalingas patikslinimas: produktų matrica padeda pradėti, bet tik praktika parodo, kiek iš tikrųjų sveria procesas.
 
 SEO:
-SEO title: Projektas vis dažniau apibūdinamas kaip būsimos visuome...
-Meta description: 2033 m. projektas vis dažniau apibūdinamas kaip būsimos visuomenės prototipas, o ne vien informacinė svetainė.
-Slug: projektas-vis-dazniau-apibudinamas-kaip-busimos-visuomenes-prototipas-o-ne-vien-informacine-svetaine-2033
+SEO title: Procesas sudėtingesnis nei produktų lentelė
+Meta description: 2033 m. pirmoji BVK maisto patikra parodė, kad realus procesas sudėtingesnis nei produktų lentelė.
+Slug: procesas-sudetingesnis-nei-produktu-lentele-2033
 
 IMAGE PROMPT:
-Photorealistic prototype-lab style scene with mixed archival, civic and interface materials on one workspace, autumn daylight, no readable text, realistic editorial feel.
+Photorealistic messy-but-clean process review, checklist with many small notes, cleaned workspace, April light, no readable text.
 
-PABAIGOS BLOКАС:
-Publikuota: 2033-10-23
-Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+PABAIGOS BLOKAS:
+Publikuota: 2033-04-08
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАШАС 11
-Data: 2033-11-14
+ĮRAŠAS 11
+Data: 2033-04-18
+Rubrika: Teisė
+Pavadinimas: Higienos sąrašas papildytas po pirmosios praktinės patirties
+
+STRAIPSNIS:
+Balandžio viduryje higienos sąrašas papildomas po pirmosios praktinės patirties. Kai kurie punktai, kurie pasirengimo dokumentuose atrodė pakankami, po bandymo patikslinami. Praktika parodo, kad higiena yra ne vien taisyklės prieš darbą, bet ir nuolatinė proceso drausmė.
+
+Papildomuose punktuose daugiau dėmesio skiriama paviršių valymui tarp skirtingų žingsnių, žaliavų ir paruoštų produktų atskyrimui, indų laikymui, laiko žymėjimui ir atliekų tvarkymui. Tai smulkūs dalykai, bet jie lemia pasitikėjimą.
+
+Šiuo metu higienos sąrašas vis dar nėra oficialus gamybos reglamentas. Jis yra patikros dokumentas, padedantis geriau suprasti, ko reikėtų, jei bandymai būtų kartojami. Tačiau jo griežtėjimas rodo, kad maisto kryptis vertinama rimtai.
+
+Ši publikacija pabrėžia, kad praktika turi ne tik patikrinti produktą, bet ir pagerinti taisykles. Jei po bandymo sąrašas nepasikeičia, vadinasi, bandymas nebuvo pakankamai atidžiai stebėtas.
+
+SEO:
+SEO title: Higienos sąrašas po pirmosios patirties
+Meta description: 2033 m. BVK maisto patikros higienos sąrašas papildytas po pirmosios praktinės patirties.
+Slug: higienos-sarasas-po-pirmosios-patirties-2033
+
+IMAGE PROMPT:
+Photorealistic hygiene checklist revision, clean containers, gloves, stainless table, April daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-04-18
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 12
+Data: 2033-04-29
+Rubrika: Darbas
+Pavadinimas: Komandos vaidmenų aprašymas patikslintas pagal realų darbo ritmą
+
+STRAIPSNIS:
+Balandžio pabaigoje komandos vaidmenų aprašymas patikslinamas pagal realų darbo ritmą. Pirmoji patikra parodo, kad kai kurie vaidmenys buvo per plačiai apibrėžti, o kai kurios mažos funkcijos buvo nepakankamai įvertintos.
+
+Daugiau dėmesio skiriama tam, kas fiksuoja laiką, kas tikrina higienos žingsnius, kas renka sąnaudų duomenis ir kas užrašo pastabas po proceso. Pasirodo, kad be atskiros stebėjimo funkcijos dalis svarbių duomenų gali būti pamiršta.
+
+Šis patikslinimas rodo, kad praktinis darbas reikalauja daugiau drausmės negu bendras entuziazmas. Jei visi daro viską, niekas tiksliai nežino, kas atsakingas už klaidą ar praleistą informaciją.
+
+Balandžio 29 dienos publikacija sustiprina darbo logiką: net mažai patikrai reikia aiškių vaidmenų, nes būtent vaidmenys paverčia veiksmą pamatuojamu procesu.
+
+SEO:
+SEO title: Komandos vaidmenys pagal realų ritmą
+Meta description: 2033 m. BVK komandos vaidmenų aprašymas patikslintas pagal realų pirmosios maisto patikros darbo ritmą.
+Slug: komandos-vaidmenys-pagal-realu-ritma-2033
+
+IMAGE PROMPT:
+Photorealistic team workflow correction desk, role cards, stopwatch, apron, notes, spring evening light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-04-29
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 13
+Data: 2033-05-10
+Rubrika: Ekonomika
+Pavadinimas: Ribotai surinktas pirmasis pirkėjų grįžtamasis ryšys apie testinį produktą
+
+STRAIPSNIS:
+Gegužės pradžioje ribotai surenkamas pirmasis pirkėjų arba išorinių vertintojų grįžtamasis ryšys apie testinį produktą. Šis žingsnis atliekamas atsargiai, nes patikra dar nėra nuolatinė prekyba ir neturi būti pristatoma kaip reguliari gamyba.
+
+Grįžtamasis ryšys renkamas dėl skonio, porcijos dydžio, pakuotės patogumo, kainos pojūčio, produkto aiškumo ir galimo pakartotinio poreikio. Svarbiausia ne pagirti produktą, o suprasti, kur jis neatitinka žmogaus lūkesčio.
+
+Pirmieji atsiliepimai padeda atskirti vidinį projekto žvilgsnį nuo realaus žmogaus reakcijos. Tai, kas kūrėjui atrodo logiška, pirkėjui gali būti per brangu, per paprasta arba per neaišku.
+
+Ši publikacija parodo, kad pirmasis praktinis bandymas turi išeiti iš vidinio rato bent tiek, kiek leidžia teisėtas ir ribotas patikros formatas. Produktas turi būti tikrinamas ne tik pagal planą, bet ir pagal žmogaus reakciją.
+
+SEO:
+SEO title: Pirmasis grįžtamasis ryšys apie testinį produktą
+Meta description: 2033 m. ribotai surinktas pirmasis grįžtamasis ryšys apie BVK testinį maisto produktą.
+Slug: pirmasis-griztamasis-rysys-apie-testini-produkta-2033
+
+IMAGE PROMPT:
+Photorealistic feedback review scene, sample food containers, blank feedback cards, May daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-05-10
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 14
+Data: 2033-05-20
+Rubrika: Technologijos
+Pavadinimas: Užsakymų ir grįžtamojo ryšio schema papildyta pirmomis praktinėmis pastabomis
+
+STRAIPSNIS:
+Gegužės viduryje užsakymų ir grįžtamojo ryšio schema papildoma pirmomis praktinėmis pastabomis. Paaiškėja, kad vien užrašyti produktą ir reakciją nepakanka. Reikia fiksuoti ir laiką, pristatymo būdą, pakuotės būklę, kainos suvokimą bei tai, ar žmogus suprato, ką tiksliai gauna.
+
+Schema papildoma laukais, kurie leidžia geriau matyti produkto kelią nuo paruošimo iki atsiliepimo. Tai padeda suprasti, kad grįžtamasis ryšys nėra tik nuomonė. Jis yra proceso dalis, parodanti, kur nutrūksta aiškumas.
+
+Technologinė pusė išlieka labai paprasta. Nereikia sudėtingos sistemos. Reikia tokio įrankio, kuris neapsunkintų bandymo, bet padėtų neprarasti svarbių duomenų.
+
+Ši publikacija parodo, kad 2033 metais net mažas įrankis keičiasi pagal realią patirtį. Sistema mokosi iš proceso, o ne tik iš ankstesnių prielaidų.
+
+SEO:
+SEO title: Grįžtamojo ryšio schema papildyta pastabomis
+Meta description: 2033 m. BVK užsakymų ir grįžtamojo ryšio schema papildyta pirmomis praktinėmis maisto patikros pastabomis.
+Slug: griztamojo-rysio-schema-papildyta-pastabomis-2033
+
+IMAGE PROMPT:
+Photorealistic simple feedback system update, laptop with blurred form, delivery box, handwritten blank cards, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-05-20
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 15
+Data: 2033-05-31
+Rubrika: Vystymasis
+Pavadinimas: Paaiškėjo, kad pirmas produktas turi būti ne įdomiausias, o stabiliausias
+
+STRAIPSNIS:
+Gegužės pabaigoje po pirmųjų duomenų ir reakcijų aiškiau pasakoma, kad pirmas produktas turi būti ne įdomiausias, o stabiliausias. Tai svarbi praktinė pamoka, nes ankstyvame etape lengva rinktis tai, kas atrodo originaliau arba geriau tinka ateities pasaulio vaizdui.
+
+Stabilus produktas reiškia, kad jį galima pakartoti, suskaičiuoti, paruošti be didelės rizikos, supakuoti ir paaiškinti pirkėjui. Jei produktas per sudėtingas, jo patikra sunkiai atskiria recepto problemą nuo proceso problemos.
+
+Ši išvada keičia maisto dirbtuvės krypties toną. Vietoje kūrybinio įspūdžio pasirenkamas patikimumas. Būtent tokia logika geriau dera su BVK praktine etika: pradėti nuo to, kas gali laikyti procesą, o ne nuo to, kas gražiau atrodo aprašyme.
+
+Gegužės 31 dienos publikacija įtvirtina pirmą produkto atrankos pamoką. Ateities praktika turi prasidėti nuo stabilumo, nes be jo neįmanoma nei kokybė, nei skaidri savikaina.
+
+SEO:
+SEO title: Pirmas produktas turi būti stabiliausias
+Meta description: 2033 m. paaiškėjo, kad pirmas BVK maisto patikros produktas turi būti ne įdomiausias, o stabiliausias.
+Slug: pirmas-produktas-turi-buti-stabiliausias-2033
+
+IMAGE PROMPT:
+Photorealistic stable product comparison, simple repeatable food samples, checklist, May evening light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-05-31
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 16
+Data: 2033-06-09
+Rubrika: Ekonomika
+Pavadinimas: Pirmoji savikainos lentelė parodė paslėptas mažos gamybos išlaidas
+
+STRAIPSNIS:
+Birželio pradžioje pirmoji savikainos lentelė parodo paslėptas mažos gamybos išlaidas. Kai kurios jos nėra matomos planuojant iš anksto: papildomas valymo laikas, pakuotės nuostoliai, smulkios žaliavų paklaidos, nepanaudoti likučiai ir pasiruošimo trukmė.
+
+Šie skaičiai nėra patogūs, bet jie labai vertingi. Jie padeda suprasti, kad mažas produktas nėra pigus vien todėl, kad jo mastas mažas. Kartais mažas mastas net padidina vieneto kainą, nes išlaidos paskirstomos labai nedideliam kiekiui.
+
+Savikainos lentelė taip pat atskleidžia, kur reikia taisyti procesą. Galbūt reikia paprastesnės pakuotės, mažiau žingsnių, tikslesnio žaliavų kiekio ar kito produkto formato. Be tokių duomenų sprendimai būtų daromi iš nuojautos.
+
+Ši publikacija parodo vieną pirmųjų rimtų praktinių pamokų: tikra kaina dažnai slepiasi smulkmenose, o socialinė idėja negali ignoruoti nė vienos iš jų.
+
+SEO:
+SEO title: Savikaina parodė paslėptas mažos gamybos išlaidas
+Meta description: 2033 m. pirmoji BVK savikainos lentelė parodė paslėptas mažos maisto gamybos išlaidas.
+Slug: savikaina-parode-pasleptas-islaidas-2033
+
+IMAGE PROMPT:
+Photorealistic cost review, calculator, small expense cards, packaging remnants, June daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-06-09
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 17
+Data: 2033-06-19
+Rubrika: Ekonomika
+Pavadinimas: Nuostolio scenarijus palygintas su realiais pirmosios patikros duomenimis
+
+STRAIPSNIS:
+Birželio viduryje anksčiau parengtas nuostolio scenarijus palyginamas su realiais pirmosios patikros duomenimis. Šis palyginimas leidžia pamatyti, kurios rizikos buvo įvertintos teisingai, o kurios pasirodė per švelniai arba visai nebuvo pastebėtos.
+
+Palyginimas parodo, kad mokymosi kaina yra reali. Net jei produktas pavyksta, bandymas gali būti nuostolingas dėl laiko, mažo masto, pakuotės, nepanaudotų žaliavų ar pakartotinių bandymų. Tai nėra priežastis nutraukti kryptį, bet tai rimta priežastis nekeisti patikros į gamybos startą per anksti.
+
+Nuostolio scenarijus tampa ne baimės dokumentu, o valdymo priemone. Jis padeda nustatyti, kiek galima bandyti, kokio masto nereikėtų viršyti ir kokią informaciją būtina surinkti prieš kitą žingsnį.
+
+Ši publikacija rodo, kad 2033 metais BVK praktika mokosi žiūrėti į nuostolį ne kaip į gėdą, o kaip į duomenį. Svarbu ne tai, ar pirmas bandymas iš karto atsiperka, o tai, ar jis padeda geriau skaičiuoti.
+
+SEO:
+SEO title: Nuostolio scenarijus ir realūs duomenys
+Meta description: 2033 m. BVK nuostolio scenarijus palygintas su realiais pirmosios maisto patikros duomenimis.
+Slug: nuostolio-scenarijus-ir-realus-duomenys-2033
+
+IMAGE PROMPT:
+Photorealistic loss scenario comparison desk, calculator, charts without readable text, product notes, June light.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-06-19
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 18
+Data: 2033-06-29
 Rubrika: Archyvas
-Pavadinimas: Parengta nauja chronologijos redakcija, aiškiau rodanti perėjimą nuo idėjos prie būsimos tvarkos
+Pavadinimas: Pirmoji patikra įrašyta kaip mokymosi etapas, o ne ekonominė sėkmė
 
 STRAIPSNIS:
-Lapkričio mėnesį parengta nauja chronologijos redakcija, kurioje aiškiau parodytas perėjimas nuo pradinės idėjos prie būsimos visuomeninės tvarkos. Joje daugiau dėmesio skirta ne tik pavieniams įvykiams, bet ir etapų logikai - kaip iš asmeninių paieškų auga kultūrinė terpė, iš jos - bendruomeninis sluoksnis, o iš jo ilgainiui gali rastis realesnės formos.
+Birželio pabaigoje pirmoji patikra įrašoma kaip mokymosi etapas, o ne ekonominė sėkmė. Šis redakcinis sprendimas svarbus tam, kad vėlesnė chronologija neperrašytų pirmo bandymo gražesne ir netikslesne kalba.
 
-Ši peržiūra buvo reikalinga tam, kad projektas išlaikytų ilgą vidinį ritmą. Kuo daugiau kaupiasi publikacijų ir idėjinių blokų, tuo svarbiau tiksliai matyti, kas atsiranda kada ir kodėl. Naujoji chronologija padeda ateitį modeliuoti atsakingiau.
+Patikra suteikė duomenų apie sąnaudas, laiką, procesą, higieną, pakuotę ir pirmą reakciją. Tačiau ji dar neįrodė, kad maisto dirbtuvė gali veikti kaip stabilus ūkinis branduolys. Tam reikėtų pakartojamumo, teisinio aiškumo, didesnio duomenų kiekio ir patikimesnio ekonominio rezultato.
 
-Tai svarbus archyvinis žingsnis, nes jis stiprina paties projekto savidrausmę. Respublikos istorija tampa vis mažiau miglota ir vis aiškiau suvaldoma kaip nuoseklus laiko audinys.
+Todėl archyve sąmoningai fiksuojama santūri išvada. Pirmas bandymas yra svarbus, bet jo reikšmė - mokymasis. Jis parodo ne galutinį atsakymą, o tai, kokius klausimus reikia užduoti toliau.
+
+Ši publikacija saugo kanoną nuo dirbtinės sėkmės. BVK praktinė istorija turi būti stipri ne todėl, kad slepia sunkumus, o todėl, kad juos užrašo tiksliai.
 
 SEO:
-SEO title: Parengta nauja chronologijos redakcija, aiškiau rodanti...
-Meta description: 2033 m. parengta nauja chronologijos redakcija, aiškiau rodanti perėjimą nuo idėjos prie būsimos tvarkos.
-Slug: parengta-nauja-chronologijos-redakcija-aiskiau-rodanti-perejima-nuo-idejos-prie-busimos-tvarkos-2033
+SEO title: Pirmoji patikra kaip mokymosi etapas
+Meta description: 2033 m. pirmoji BVK maisto patikra įrašyta kaip mokymosi etapas, o ne ekonominė sėkmė.
+Slug: pirmoji-patikra-kaip-mokymosi-etapas-2033
 
 IMAGE PROMPT:
-Photorealistic chronology revision scene with dated cards, layered phase charts and corrected timeline pages spread across a large table, late autumn light.
+Photorealistic archive entry scene, test report folder, modest food sample photo turned away, June evening, no readable text.
 
-PABAIGOS BLOКАС:
-Publikuota: 2033-11-14
-Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+PABAIGOS BLOKAS:
+Publikuota: 2033-06-29
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
 
 ========================================================================
-ĮРАШАС 12
+ĮRAŠAS 19
+Data: 2033-07-08
+Rubrika: Ekonomika
+Pavadinimas: Parengta antros ribotos testinės partijos korekcijų lentelė
+
+STRAIPSNIS:
+Liepos pradžioje parengiama antros ribotos testinės partijos korekcijų lentelė. Ji remiasi pirmos patikros duomenimis ir skirta ne plėtrai, o klaidų sumažinimui. Svarstoma, ką supaprastinti, ką tikslinti ir kokių punktų nebekartoti.
+
+Korekcijose daugiau dėmesio skiriama žaliavų kiekiui, darbo laiko planavimui, pakuotės pasirinkimui, higienos žingsnių tvarkai ir duomenų fiksavimui. Taip pat vertinama, ar reikia mažinti produkto sudėtingumą, kad būtų lengviau suprasti tikrą savikainą.
+
+Antroji partija dar nėra stabilios gamybos ženklas. Ji yra pakartotinis mokymosi veiksmas, skirtas patikrinti, ar procesas gali būti pagerintas remiantis ankstesniais duomenimis.
+
+Liepos 8 dienos publikacija parodo, kad BVK praktinis kelias mokosi iteruoti: padaryti, suskaičiuoti, pataisyti ir tik tada svarstyti kitą žingsnį.
+
+SEO:
+SEO title: Antros testinės partijos korekcijų lentelė
+Meta description: 2033 m. parengta antros ribotos BVK maisto testinės partijos korekcijų lentelė.
+Slug: antros-testines-partijos-korekciju-lentele-2033
+
+IMAGE PROMPT:
+Photorealistic correction table, revised checklist, food samples, calculator, July daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-07-08
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 20
+Data: 2033-07-18
+Rubrika: Darbas
+Pavadinimas: Patikslinta, kiek žmogaus laiko iš tikrųjų pareikalauja mažas produktas
+
+STRAIPSNIS:
+Liepos viduryje patikslinama, kiek žmogaus laiko iš tikrųjų pareikalauja mažas produktas. Pirmoji patikra parodė, kad darbo laikas dažnai pasislepia ne pačiame gaminime, o pasiruošime, tvarkyme, pakavime, duomenų fiksavime ir grįžtamojo ryšio surinkime.
+
+Šis patikslinimas keičia požiūrį į savikainą. Jei žmogaus laikas neįskaičiuojamas, produktas atrodo pigesnis nei yra. Tačiau BVK logikoje žmogaus laikas negali būti nematomas. Sistema, kuri nori būti teisingesnė, turi skaičiuoti darbą sąžiningai.
+
+Taip pat paaiškėja, kad maža gamyba gali būti neproporcingai imli laikui. Keli vienetai pareikalauja beveik tiek pat pasiruošimo kaip didesnė partija, todėl mastas tampa labai svarbus ekonominiam vertinimui.
+
+Ši publikacija įtvirtina vieną darbo etikos taisyklę: produktas negali būti laikomas pigiu tik todėl, kad kažkieno laikas liko nematomas.
+
+SEO:
+SEO title: Žmogaus laikas mažame BVK produkte
+Meta description: 2033 m. patikslinta, kiek žmogaus laiko iš tikrųjų pareikalauja mažas BVK maisto produktas.
+Slug: zmogaus-laikas-mazame-bvk-produkte-2033
+
+IMAGE PROMPT:
+Photorealistic time tracking scene, stopwatch, apron, checklist, small product sample, July light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-07-18
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 21
+Data: 2033-07-30
+Rubrika: Technologijos
+Pavadinimas: Paprasta apskaitos schema pritaikyta pakartotinei patikrai
+
+STRAIPSNIS:
+Liepos pabaigoje paprasta apskaitos schema pritaikoma pakartotinei patikrai. Po pirmo bandymo paaiškėja, kuriuos duomenis reikia rinkti aiškiau: laiką, žaliavų nuostolius, pakuotės kainą, valymo priemones, energiją, transportą ir pastabas po proceso.
+
+Schema lieka paprasta, nes sudėtinga sistema mažam bandymui būtų per didelė našta. Tačiau paprastumas nereiškia netikslumo. Tikslas - turėti tiek duomenų, kiek reikia atsakingam palyginimui tarp pirmos ir antros patikros.
+
+Apskaitos pritaikymas rodo, kad technologijos čia naudojamos ne blizgesiui, o aiškumui. Jei įrankis padeda geriau matyti realybę, jis vertingas. Jei jis tik apsunkina procesą, jis turi būti supaprastintas.
+
+Ši publikacija parodo, kad 2033 metų praktikoje skaitmeninis sluoksnis tarnauja mažam, bet labai svarbiam tikslui: nepamesti skaičių.
+
+SEO:
+SEO title: Apskaitos schema pakartotinei patikrai
+Meta description: 2033 m. paprasta BVK apskaitos schema pritaikyta pakartotinei maisto produkto patikrai.
+Slug: apskaitos-schema-pakartotinei-patikrai-2033
+
+IMAGE PROMPT:
+Photorealistic simple accounting update, laptop spreadsheet blurred, calculator, food process notes, July evening, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-07-30
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 22
+Data: 2033-08-09
+Rubrika: Ekonomika
+Pavadinimas: Antroji patikra leidžia išskirti vieną stabilesnę maisto kryptį
+
+STRAIPSNIS:
+Rugpjūčio pradžioje antroji ribota patikra leidžia išskirti vieną stabilesnę maisto kryptį. Tai dar nereiškia galutinio produkto pasirinkimo, tačiau jau matoma, kuris variantas geriau kartojasi, aiškiau skaičiuojamas ir kelia mažiau proceso rizikų.
+
+Stabilesnė kryptis vertinama pagal kelis kriterijus: ar produktą galima paruošti panašiu laiku, ar savikaina nesvyruoja per stipriai, ar pakuotė tinka, ar pirkėjo reakcija suprantama ir ar higienos reikalavimai nepadaro produkto per sudėtingo pradiniam etapui.
+
+Ši išvada suteikia daugiau krypties 2034 metams. Jeigu bus svarstomas ilgesnis bandomasis laikotarpis, jis turės remtis ne plačiu idėjų lauku, o vienu ar keliais geriau patikrintais produktais.
+
+Rugpjūčio 9 dienos publikacija pabrėžia: stabilumas yra pirmasis realus praktikos draugas. Be jo nėra nei kokybės, nei fondo, nei pasitikėjimo.
+
+SEO:
+SEO title: Antroji patikra išskiria stabilesnę kryptį
+Meta description: 2033 m. antroji BVK maisto patikra leidžia išskirti vieną stabilesnę produktų kryptį.
+Slug: antroji-patikra-isskiria-stabilesne-krypti-2033
+
+IMAGE PROMPT:
+Photorealistic stable food direction review, repeated sample products, comparison notes, August daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-08-09
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 23
+Data: 2033-08-19
+Rubrika: Vystymasis
+Pavadinimas: Maisto dirbtuvės idėja pradeda skirtis nuo bendros gamybos fantazijos
+
+STRAIPSNIS:
+Rugpjūčio viduryje maisto dirbtuvės idėja aiškiau atsiskiria nuo bendros gamybos fantazijos. Po dviejų ribotų patikrų ji nebėra vien graži kryptis tekstuose. Ji tampa konkrečių sąnaudų, proceso, klaidų ir ribų lauku.
+
+Tai nereiškia, kad dirbtuvė jau veikia. Tačiau jos vaizdas tampa realistiškesnis. Vietoje abstraktaus "galėtume gaminti maistą" atsiranda klausimai apie produktą, laiką, higieną, pakuotę, kainą, pakartojamumą ir žmogaus darbą.
+
+Šis skirtumas svarbus visam BVK projektui. Jis rodo, kad praktinė kryptis bręsta tik tada, kai pradeda prarasti dalį romantikos. Kuo daugiau tikrų detalių, tuo mažiau lieka tuščios fantazijos, bet tuo daugiau atsiranda tikro pagrindo.
+
+Rugpjūčio 19 dienos publikacija fiksuoja brandesnę stadiją: maisto dirbtuvė vis dar nėra gamyba, bet ji jau nebėra vien vaizduotės objektas.
+
+SEO:
+SEO title: Maisto dirbtuvė nebėra vien gamybos fantazija
+Meta description: 2033 m. BVK maisto dirbtuvės idėja pradeda skirtis nuo bendros gamybos fantazijos po ribotų patikrų.
+Slug: maisto-dirbtuve-nebe-vien-fantazija-2033
+
+IMAGE PROMPT:
+Photorealistic realistic workshop planning scene, worn checklist, simple tools, food samples, August evening light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-08-19
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 24
+Data: 2033-08-30
+Rubrika: Teisė
+Pavadinimas: Pradedama aiškiau svarstyti, kokios formos reikėtų ribotam tęstinumui
+
+STRAIPSNIS:
+Rugpjūčio pabaigoje pradedama aiškiau svarstyti, kokios teisinės ar organizacinės formos reikėtų ribotam tęstinumui. Jeigu patikros būtų kartojamos, jos nebegalėtų likti vien atsitiktiniais bandymais. Tęstinumas reikalautų aiškesnio atsakomybės rėmo.
+
+Šiuo metu neskelbiama apie steigimą ar ūkinės veiklos pradžią. Svarstoma tik tai, kokios sąlygos turėtų būti įvykdytos prieš ilgesnį bandomąjį laikotarpį: teisinis indas, apskaita, higiena, pinigų srautai, dalyvaujančių žmonių vaidmenys ir ribos.
+
+Ši tema tiesiogiai tęsia 2031 metų kontūrų atskyrimą. Jei maisto kryptis kada nors įgytų tęstinumą, ji turėtų priklausyti ne viešajam ar literatūriniam sluoksniui, o aiškiai apibrėžtam ūkiniam rėmui.
+
+Publikacija pabrėžia: kartoti bandymą galima tik tada, kai kartojimas nekuria teisinės miglos. Ribotas tęstinumas turi būti ne improvizacija, o sąmoningas kitas žingsnis.
+
+SEO:
+SEO title: Kokia forma reikalinga ribotam tęstinumui
+Meta description: 2033 m. pradedama svarstyti, kokios formos reikėtų ribotam BVK maisto patikrų tęstinumui.
+Slug: kokia-forma-reikalinga-ribotam-testinumui-2033
+
+IMAGE PROMPT:
+Photorealistic legal continuity planning, repeated test folders, blank form options, August light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-08-30
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 25
+Data: 2033-09-08
+Rubrika: Darbas
+Pavadinimas: Būsimos komandos drausmė įvardijama kaip tokia pat svarbi kaip receptas
+
+STRAIPSNIS:
+Rugsėjo pradžioje būsimos komandos drausmė įvardijama kaip tokia pat svarbi kaip receptas. Po pirmųjų patikrų matoma, kad net geras produktas gali nepavykti, jeigu žmonės nesilaiko laiko, higienos, fiksavimo ir atsakomybės tvarkos.
+
+Drausmė čia nereiškia griežtumo dėl paties griežtumo. Ji reiškia gebėjimą dirbti taip, kad rezultatas būtų pakartojamas ir suprantamas. Jei kiekvieną kartą daroma kitaip, neįmanoma suprasti, kodėl vienas bandymas pavyko, o kitas ne.
+
+Ši tema svarbi ir kooperatyvinei logikai. Bendras darbas negali remtis vien šiltu santykiu. Jis turi turėti tvarką, kuri saugo ne vadovą, o pačius žmones nuo chaoso ir nereikalingos naštos.
+
+Rugsėjo 8 dienos publikacija primena: receptas sukuria produktą, bet drausmė sukuria galimybę tą produktą pakartoti.
+
+SEO:
+SEO title: Komandos drausmė tokia pat svarbi kaip receptas
+Meta description: 2033 m. BVK būsimos maisto komandos drausmė įvardijama kaip tokia pat svarbi kaip pats receptas.
+Slug: komandos-drausme-kaip-receptas-2033
+
+IMAGE PROMPT:
+Photorealistic disciplined small team prep scene, aprons, clean table, workflow cards, September daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-09-08
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 26
+Data: 2033-09-18
+Rubrika: Savęs tobulinimas
+Pavadinimas: Pirmoji praktika parodė, kad kooperacija prasideda nuo mažų pareigų
+
+STRAIPSNIS:
+Rugsėjo viduryje pirmoji praktika leidžia aiškiau pasakyti, kad kooperacija prasideda nuo mažų pareigų. Dideli žodžiai apie bendrumą neturi daug vertės, jeigu žmogus nepažymi laiko, nesutvarko vietos, neužrašo sąnaudų arba palieka klaidą kitam.
+
+Ši išvada perkelia kooperacijos idėją iš teorijos į kasdienį elgesį. Bendras darbas susideda ne iš gražių principų, o iš mažų veiksmų, kuriuos kažkas turi atlikti laiku ir atsakingai. Jei šie veiksmai nematomi, sistema pradeda remtis nemokamu ir nepripažintu darbu.
+
+Praktika taip pat parodo, kad dalyvavimas negali būti tik emocinis pritarimas. Net mažame bandyme reikia žmogaus, kuris prisiima konkrečią dalį. Be to kooperacija lieka žodis, bet ne darbo forma.
+
+Ši publikacija sustiprina moralinę 2033 metų pamoką: būsima bendruomeninė tvarka prasidės ne nuo didelių pareiškimų, o nuo mažų pareigų, kurios atliekamos sąžiningai.
+
+SEO:
+SEO title: Kooperacija prasideda nuo mažų pareigų
+Meta description: 2033 m. pirmoji BVK praktika parodė, kad kooperacija prasideda nuo mažų kasdienių pareigų.
+Slug: kooperacija-prasideda-nuo-mazu-pareigu-2033
+
+IMAGE PROMPT:
+Photorealistic small duties scene, cleaned workspace, checklist, hands arranging tools, autumn light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-09-18
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 27
+Data: 2033-09-29
+Rubrika: Archyvas
+Pavadinimas: Sudaromas pirmasis praktinių klaidų ir pataisų sąrašas
+
+STRAIPSNIS:
+Rugsėjo pabaigoje sudaromas pirmasis praktinių klaidų ir pataisų sąrašas. Jame fiksuojamos ne tik didelės problemos, bet ir smulkios vietos, kurios patikros metu trukdė aiškiai matuoti rezultatą.
+
+Į sąrašą patenka laiko planavimo klaidos, nepakankamai tikslus žaliavų fiksavimas, per sudėtinga pakuotė, neaiškus vaidmenų pasiskirstymas, higienos žingsnių dubliavimas ir per vėlai užrašytos pastabos. Kiekviena klaida siejama su galima pataisa.
+
+Šis sąrašas svarbus todėl, kad jis paverčia nesėkmes mokymosi medžiaga. Jei klaidos neužrašomos, jos kartojasi. Jei jos įvardijamos ramiai, jos tampa kitu proceso tobulinimo žingsniu.
+
+Rugsėjo 29 dienos publikacija rodo, kad archyvas praktiškai bręsta: jis saugo ne tik idėjas, bet ir klaidas, nes būtent klaidos leidžia sistemai mokytis.
+
+SEO:
+SEO title: Praktinių klaidų ir pataisų sąrašas
+Meta description: 2033 m. sudaromas pirmasis BVK praktinių maisto patikros klaidų ir pataisų sąrašas.
+Slug: praktiniu-klaidu-ir-pataisu-sarasas-2033
+
+IMAGE PROMPT:
+Photorealistic error review desk, correction checklist, used notes, calculator, September evening, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-09-29
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 28
+Data: 2033-10-09
+Rubrika: Ekonomika
+Pavadinimas: Bendro fondo klausimas pirmą kartą vertinamas pagal realius patikros likučius
+
+STRAIPSNIS:
+Spalio pradžioje bendro fondo klausimas pirmą kartą vertinamas pagal realius patikros likučius. Tai dar nereiškia, kad fondas atsirado. Tačiau pirmieji skaičiai leidžia pamatyti, kaip teorinė fondo idėja susiduria su realia savikaina ir galimu likučiu.
+
+Vertinant duomenis matoma, kad likutis po mažos patikros gali būti labai trapus arba jo visai nebūti. Tai svarbi pamoka. Bendras fondas negali būti kuriamas iš optimizmo. Jis gali atsirasti tik iš pakartojamo, skaidriai apskaičiuoto ir pakankamai stabilaus rezultato.
+
+Šiame etape fondas lieka klausimas. Reikia suprasti, kokia produkto kaina, kokios sąnaudos ir koks mastas galėtų leisti kalbėti apie bent minimalų bendrą likutį. Viena sėkmingesnė partija dar nieko neįrodo.
+
+Spalio 9 dienos publikacija parodo pirmą realų fondo idėjos susidūrimą su skaičiais. Tai blaivus, bet būtinas žingsnis: tikras bendrumas turi turėti tikrą likutį.
+
+SEO:
+SEO title: Fondo klausimas pagal realius likučius
+Meta description: 2033 m. BVK bendro fondo klausimas pirmą kartą vertinamas pagal realius maisto patikrų likučius.
+Slug: fondo-klausimas-pagal-realius-likucius-2033
+
+IMAGE PROMPT:
+Photorealistic fund evaluation desk, transparent ledger, calculator, small product samples, October daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-10-09
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 29
+Data: 2033-10-19
+Rubrika: Teisė
+Pavadinimas: Įtvirtinama riba: testinės pajamos dar nėra bendras fondas
+
+STRAIPSNIS:
+Spalio viduryje įtvirtinama svarbi riba: testinės pajamos dar nėra bendras fondas. Net jeigu ribota patikra duoda kokių nors įplaukų, jos pirmiausia turi būti naudojamos sąnaudoms suprasti, nuostoliams padengti, procesui tikslinti ir duomenims patikrinti.
+
+Bendras fondas reikštų nuolatinį, aiškų, skaidrų ir taisyklėmis apibrėžtą likučio naudojimą. Testinės pajamos tokio statuso dar neturi. Jos per silpnos, per nereguliarios ir per mažai patikrintos, kad būtų galima kalbėti apie fondo veikimą.
+
+Ši riba saugo nuo per ankstyvos socialinės retorikos. Jei pajamos pavadinamos fondu per anksti, atsiranda lūkesčiai, kurių projektas dar negali išlaikyti. O lūkesčiai be pagrindo virsta nusivylimu.
+
+Spalio 19 dienos publikacija primena: pirma reikia pakartojamų skaičių, o tik tada galima kalbėti apie fondą kaip realų mechanizmą.
+
+SEO:
+SEO title: Testinės pajamos dar nėra bendras fondas
+Meta description: 2033 m. BVK projekte įtvirtinama riba, kad testinės pajamos dar nėra bendras fondas.
+Slug: testines-pajamos-dar-nera-bendras-fondas-2033
+
+IMAGE PROMPT:
+Photorealistic legal-financial boundary scene, small income notes separated from fund folder, autumn light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-10-19
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 30
+Data: 2033-10-30
+Rubrika: Vystymasis
+Pavadinimas: Socialinis pažadas paliekamas ateičiai, kol patikra neparodo tvarumo
+
+STRAIPSNIS:
+Spalio pabaigoje socialinis pažadas aiškiai paliekamas ateičiai, kol patikra neparodo tvarumo. Po pirmųjų bandymų galima matyti, kad idėja turi praktinį pagrindą tolesniam tikrinimui, bet dar ne tokį pagrindą, kuris leistų žadėti darbuotojų maitinimą, paramą ar socialinį paketą.
+
+Tai nėra socialinės krypties atsisakymas. Priešingai, toks atidėjimas ją saugo. Jei pagalba būtų pažadėta per anksti, ji remtųsi ne realia galia, o viltimi. BVK logikoje pagalba turi ateiti po pajamų, po skaidrumo ir po pakartojamumo.
+
+Todėl 2033 metais socialinė kalba išlieka labai atsargi. Galima sakyti, kad maisto dirbtuvės kryptis kada nors galėtų tapti pirmųjų darbuotojų pietų ar produkto paramos pagrindu, bet dar negalima sakyti, kad ši pagalba jau prasideda.
+
+Ši publikacija įtvirtina etinę ribą: geriau lėčiau artėti prie pagalbos, negu per anksti pažadėti tai, ko sistema dar negali laikyti.
+
+SEO:
+SEO title: Socialinis pažadas paliekamas ateičiai
+Meta description: 2033 m. BVK socialinis pažadas paliekamas ateičiai, kol maisto patikra dar neparodė tvarumo.
+Slug: socialinis-pazadas-paliekamas-ateiciai-2033
+
+IMAGE PROMPT:
+Photorealistic thoughtful planning scene, lunch support idea card set aside from cost sheets, October evening, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-10-30
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 31
+Data: 2033-11-09
+Rubrika: Ekonomika
+Pavadinimas: 2034 metams pradedama ruošti stabilesnės mažos gamybos patikros kryptis
+
+STRAIPSNIS:
+Lapkričio pradžioje 2034 metams pradedama ruošti stabilesnės mažos gamybos patikros kryptis. Po pirmųjų ribotų bandymų atsiranda daugiau duomenų, bet dar nepakanka pagrindo kalbėti apie nuolatinę gamybą. Todėl kitas tikslas - ne plėtra, o stabilesnis bandymo ritmas.
+
+Svarstoma, ar vieną atrinktą produktą būtų galima tikrinti ilgesniu laikotarpiu, su aiškesne savikaina, kartojamu procesu, paprastesne apskaita ir labiau apibrėžta atsakomybe. Tai būtų pereinamasis žingsnis tarp vienkartinių testų ir galimos mažos gamybos.
+
+Ši kryptis taip pat reikalauja teisinio ir sanitarinio tikslumo. Jeigu bandymai kartojami dažniau, jų statusas keičiasi. Todėl 2034 metų pasirengimas turi būti dar atsargesnis už 2033 metų pradžią.
+
+Lapkričio 9 dienos publikacija pradeda naują klausimą: ar mažas bandymas gali tapti stabilesne patikra, neperžengdamas ribų, kurioms dar nepasiruošta?
+
+SEO:
+SEO title: Stabilesnės mažos gamybos patikros kryptis
+Meta description: 2033 m. pradedama ruošti 2034 metų stabilesnės mažos BVK maisto gamybos patikros kryptis.
+Slug: stabilesnes-mazos-gamybos-patikros-kryptis-2034-paruosa
+
+IMAGE PROMPT:
+Photorealistic next-year production planning, repeated product samples, roadmap cards, November daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-11-09
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 32
+Data: 2033-11-19
+Rubrika: Darbas
+Pavadinimas: Pradedama svarstyti, kokių minimalių darbo susitarimų reikėtų tęstinei patikrai
+
+STRAIPSNIS:
+Lapkričio viduryje pradedama svarstyti, kokių minimalių darbo susitarimų reikėtų tęstinei patikrai. Jei 2034 metais būtų bandoma kartoti maisto patikrą reguliariau, nebeužtektų neformalaus vaidmenų pasiskirstymo.
+
+Svarstomi paprasti, bet svarbūs klausimai: kas dalyvauja, kiek laiko skiria, kokias funkcijas atlieka, kaip fiksuojamas darbas, ar yra atlygis, ar tai tik mokymosi bandymas, kaip sprendžiama atsakomybė už klaidas ir kaip žmogus gali pasitraukti.
+
+Šie klausimai dar nereiškia darbo vietų kūrimo. Tačiau jie rodo, kad praktikai kartojantis atsakomybė didėja. Ten, kur žmogus dirba realų darbą, nebegalima remtis vien bendru noru padėti.
+
+Lapkričio 19 dienos publikacija paruošia svarbią 2034 metų ribą: tęstinumas pareikalaus aiškesnių susitarimų, net jei mastas vis dar mažas.
+
+SEO:
+SEO title: Minimalūs darbo susitarimai tęstinei patikrai
+Meta description: 2033 m. pradedama svarstyti, kokių minimalių darbo susitarimų reikėtų BVK tęstinei maisto patikrai.
+Slug: minimalus-darbo-susitarimai-testinei-patikrai-2033
+
+IMAGE PROMPT:
+Photorealistic work agreement planning, blank simple agreement pages, gloves, stopwatch, November light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-11-19
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 33
+Data: 2033-11-29
+Rubrika: Technologijos
+Pavadinimas: Apskaitos ir užsakymų schema ruošiama ilgesniam bandymo laikotarpiui
+
+STRAIPSNIS:
+Lapkričio pabaigoje apskaitos ir užsakymų schema ruošiama ilgesniam bandymo laikotarpiui. Iki šiol ji buvo pritaikyta atskiroms patikroms, tačiau jei 2034 metais būtų tikrinamas stabilesnis ritmas, reikėtų matyti duomenis per kelias savaites ar mėnesius.
+
+Schema papildoma galimybe stebėti pakartojamus užsakymus, vidutinę savikainą, grįžtamąjį ryšį, laiko sąnaudas ir produktų svyravimus. Tik per ilgesnį laiką galima suprasti, ar produktas iš tikrųjų stabilus, ar tik atsitiktinai pavyko kelis kartus.
+
+Technologinis sprendimas vis dar išlieka paprastas. Svarbiausia - ne sukurti sudėtingą platformą, o turėti patikimą duomenų seką, kurią būtų galima skaityti ir tikrinti.
+
+Ši publikacija parodo, kad 2033 metų pabaigoje praktinis sluoksnis pradeda ruoštis ne vienkartiniam veiksmui, o ilgesnio stebėjimo kultūrai.
+
+SEO:
+SEO title: Apskaita ilgesniam bandymo laikotarpiui
+Meta description: 2033 m. BVK apskaitos ir užsakymų schema ruošiama ilgesniam maisto bandymo laikotarpiui.
+Slug: apskaita-ilgesniam-bandymo-laikotarpiui-2033
+
+IMAGE PROMPT:
+Photorealistic longer-period tracking setup, calendar grid blurred, spreadsheet, product sample cards, November evening light.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-11-29
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 34
+Data: 2033-12-09
+Rubrika: Archyvas
+Pavadinimas: 2033 metai apibendrinami kaip pirmos mažos praktinės patikros metai
+
+STRAIPSNIS:
+Gruodžio pradžioje 2033 metai apibendrinami kaip pirmos mažos praktinės patikros metai. Per šiuos metus BVK projektas dar nesukuria nuolatinės gamybos, neįsteigia veikiančio ūkinio branduolio ir nepradeda socialinio paketo. Tačiau jis pirmą kartą ribotai patikrina maisto kryptį realiu procesu.
+
+Metų eigoje atlikta pirmoji testinė partija, surinkti duomenys, patikslinta savikaina, atnaujintas higienos sąrašas, peržiūrėti komandos vaidmenys, surinktas grįžtamasis ryšys, parengta antros patikros korekcijų lentelė ir pradėta ruoštis stabilesniam 2034 metų bandymo ritmui.
+
+Svarbiausias metų rezultatas nėra ekonominė sėkmė. Rezultatas - įrodymas, kad projektas gali pereiti nuo teksto prie riboto veikimo ir kartu neprarasti atsargumo. Tai mažas, bet esminis slenkstis.
+
+Gruodžio 9 dienos publikacija užfiksuoja 2033 metus kaip pirmą realybės prisilietimą. Jis dar trapus, bet jau matuojamas.
+
+SEO:
+SEO title: 2033 m. kaip pirmos praktinės patikros metai
+Meta description: 2033 m. BVK metai apibendrinami kaip pirmos mažos praktinės maisto patikros metai.
+Slug: 2033-pirmos-praktines-patikros-metai
+
+IMAGE PROMPT:
+Photorealistic year-end practical archive, test batch reports, calculator, food sample photos turned away, winter daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-12-09
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 35
 Data: 2033-12-19
-Rubrika: Archyvas
-Pavadinimas: Metų apžvalga: skaitmeniniai eksperimentai pradėjo tikrinti, kaip Respublikos idėja veiktų praktiškai
+Rubrika: Vystymasis
+Pavadinimas: Pirmoji patikra neįrodo modelio, bet parodo, kad jį galima tikrinti realybėje
 
 STRAIPSNIS:
-Metų pabaigoje galima sakyti, kad 2033-ieji buvo lūžio metai skaitmeninių ir dalyvavimo eksperimentų požiūriu. Per šiuos metus daugiau dėmesio skirta ne vien principų aiškinimui, bet ir klausimui, kaip žmogus galėtų patirti sistemą per pasirinkimą, atsakomybę ir bendrą ritmą.
+Gruodžio viduryje įtvirtinama viena svarbiausių metų išvadų: pirmoji patikra neįrodo modelio, bet parodo, kad jį galima tikrinti realybėje. Tai labai svarbus skirtumas, nes per anksti paskelbta sėkmė pakenktų visai BVK logikai.
 
-Dėl to projektas priartėjo prie svarbios ribos. Jis nebėra vien dokumentų, vaizdinių ir pasakojimų laukas. Jame vis ryškiau ieškoma formų, kurios leistų praktiškai pajusti kooperatyvinės logikos veikimą. Tai dar ankstyva, tačiau kryptis jau aiški.
+Modelis galėtų būti įrodinėjamas tik per laiką, pakartojamumą, teisėtumą, skaidrią apskaitą, pakankamą paklausą ir sąžiningą santykį su darbuotojo laiku. 2033 metų patikra dar turi per mažai duomenų, kad būtų galima kalbėti apie tvarumą.
 
-Ši metų apžvalga fiksuoja etapą, kai Respublikos idėja pradėta tikrinti kaip gyvenimo prototipas. Būtent tai suteikia projektui vis daugiau svorio ateities kontūre.
+Tačiau pats faktas, kad maisto kryptis gali būti tikrinama, jau yra svarbus. Tai išveda projektą iš vien teorinės stadijos. Nuo šiol klausimai apie produktą, savikainą, higieną, grįžtamąjį ryšį ir darbo ritmą turi realų pagrindą.
+
+Gruodžio 19 dienos publikacija saugo balansą: nei pergalės retorikos, nei nusivylimo. Pirmoji patikra atveria kelią, bet dar nepastato namo.
 
 SEO:
-SEO title: Metų apžvalga: skaitmeniniai eksperimentai pradėjo tikr...
-Meta description: 2033 m. metų apžvalga: skaitmeniniai eksperimentai pradėjo tikrinti, kaip Respublikos idėja veiktų praktiškai.
-Slug: metu-apzvalga-skaitmeniniai-eksperimentai-pradejo-tikrinti-kaip-respublikos-ideja-veiktu-praktiskai-2033
+SEO title: Patikra leidžia modelį tikrinti realybėje
+Meta description: 2033 m. BVK pirmoji praktinė patikra neįrodo modelio, bet parodo, kad jį galima tikrinti realybėje.
+Slug: patikra-leidzia-modeli-tikrinti-realybeje-2033
 
 IMAGE PROMPT:
-Photorealistic year-end prototype review scene with screens off, printouts, notes, prototypes and quiet winter office atmosphere, no readable text.
+Photorealistic reflective year-end planning, small test results, road-to-next-year cards, December light, no readable text.
 
-PABAIGOS BLOКАС:
+PABAIGOS BLOKAS:
 Publikuota: 2033-12-19
-Parengė: BVK dalyvavimo, scenarijų ir sistemos bandymų redakcija
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 36
+Data: 2033-12-29
+Rubrika: Ekonomika
+Pavadinimas: Prieš 2034 metus įtvirtinama taisyklė: tęstinumas galimas tik po skaidrių skaičių
+
+STRAIPSNIS:
+2033 metų pabaigoje prieš 2034 metus įtvirtinama taisyklė: tęstinumas galimas tik po skaidrių skaičių. Tai reiškia, kad jokio ilgesnio bandymo negalima grįsti vien tuo, kad pirmos patikros suteikė vilties.
+
+Skaidrūs skaičiai turi parodyti savikainą, darbo laiką, žaliavų nuostolius, pakuotę, pirkėjų reakciją, galimą likutį ir nuostolio ribą. Jei šių skaičių nepakanka, 2034 metais reikia tęsti pasirengimą, o ne didinti mastą.
+
+Ši taisyklė saugo nuo per greito perėjimo prie stabilios gamybos kalbos. Maisto dirbtuvės kryptis gali atrodyti realesnė nei anksčiau, bet ji vis dar turi įrodyti pakartojamumą. Be jo nėra nei fondo, nei socialinio pažado, nei darbuotojų sistemos.
+
+Gruodžio 29 dienos publikacija uždaro 2033 metus su aiškia sąlyga: kitas žingsnis leidžiamas tik tada, kai duomenys aiškesni už norą skubėti.
+
+SEO:
+SEO title: Tęstinumas galimas tik po skaidrių skaičių
+Meta description: 2033 m. pabaigoje BVK projekte įtvirtinama taisyklė, kad tęstinumas galimas tik po skaidrių skaičių.
+Slug: testinumas-tik-po-skaidriu-skaiciu-2033
+
+IMAGE PROMPT:
+Photorealistic final accounting threshold scene, transparent ledger, calculator, next-year folder, winter night, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2033-12-29
+Parengė: Ankstyvojo praktinio modelio redakciniai užrašai
