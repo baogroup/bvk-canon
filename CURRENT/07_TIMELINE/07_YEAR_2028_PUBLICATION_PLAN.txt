@@ -2,10 +2,10 @@ BVK CANON
 Годовой публикационный план 2028
 
 Статус: ACTIVE
-Версия: v1.0
+Версия: v1.1
 Дата первого принятия: 2026-04-23
-Текущая редакция: 2026-04-23
-История поправок: CHANGE-0064
+Текущая редакция: 2026-04-25
+История поправок: CHANGE-0064; CHANGE-0076
 Уровень доступа: SERVICE
 Историческая принадлежность: ранний идейный слой
 Связанные закрытые документы: нет
@@ -15,320 +15,735 @@ BVK CANON
 Этот файл закрепляет годовой публикационный план для 2028 года в рамках внутреннего SERVICE-слоя BVK Canon.
 
 Главный принцип:
-Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
-Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+2028 год нельзя описывать как год организации, движения, действующего BVK, юридической структуры, предприятия или Республики.
+
+2028 год является годом языка участия. После первого открытого чтения 2027 года проект начинает осторожно формулировать, кто такой читатель, чем смелость вопроса отличается от участия, какие принципы нужны будущему кругу людей и почему нельзя слишком рано называть проект движением.
+
+Задача публикационного плана:
+Показать, как сайт, роман, архив и первые читатели постепенно создают не организацию, а культуру ответственного чтения. В 2028 году появляются первые принципы участия, терминологическая дисциплина, разделение публичных и рабочих текстов, AI-проверка канона и идея будущей социальной/игровой среды, которая признаётся слишком дорогой и слишком ранней для реализации.
+
+Редакционное правило 2028 года:
+- никакого голоса зрелого государства;
+- никакой действующей Республики;
+- никакой организации, движения или официального круга участников;
+- первых читателей можно показывать только как читателей;
+- участие можно описывать только как будущую моральную и редакционную возможность;
+- социальную сеть или игру можно упоминать как дорогую будущую идею, но не как начатую разработку;
+- AI остаётся инструментом проверки и структурирования, а не властью и не контуром управления.
 
 Связь с другими файлами:
+- 01_TIMELINE_CORE_2026_2086.txt задаёт общую хронологическую ось
 - 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 03_PHASE_2026_2045_FOUNDING_LAYER.txt задаёт смысл фазы основания
 - 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
-- данный файл переводит эту логику в конкретный годовой набор публикаций
+- 05_YEAR_2026_PUBLICATION_PLAN.txt задаёт личный идейный слой
+- 06_YEAR_2027_PUBLICATION_PLAN.txt задаёт год первого открытого чтения
+- 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt задаёт ранний новостной слой
+- 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt задаёт стиль 2027-2029 годов
 
 BVK METINIS PLANAS 2028
 
 METINIS STILIUS IR TONAS
-- Projektas iš archyvinės idėjos pereina į aktyviai pildomą skaitmeninę erdvę.
-- Tekstai turi būti kryptingesni, aiškesni, mažiau dienoraštiški.
-- Jaučiamas ankstyvas sistemos konstravimas: svetainė, straipsnių ciklai, teisinių juodraščių užuomazgos, pirmi nuolatiniai skaitytojai.
-- Vis dar jokio sunkios institucijos tono, bet daugiau organizuoto ritmo.
+- Antrieji atviro skaitymo metai: projektas jau matomas, bet dar neturi organizacijos.
+- Tekstai turi būti aiškesni už 2027 metus, bet vis dar neoficialūs ir neinstituciniai.
+- Pagrindinės temos: atsakingas skaitymas, skaitytojo apibrėžimas, smalsumo ir dalyvavimo skirtumas, pirmieji dalyvavimo principai, terminų tvarka, kanono tikrinimas, viešo ir darbo sluoksnio atskyrimas.
+- Socialinio tinklo ar žaidybinės erdvės idėja gali būti aptarta tik kaip brangi ir per ankstyva ateities kryptis.
+- Pagrindinis metų klausimas: kokios laikysenos reikės žmogui, kuris ateityje norės ne tik skaityti, bet ir prisidėti?
 
-REKOMENDUOJAMAS PARENGĖJAS: BVK skaitmeninio projekto redakcinė grupė
+REKOMENDUOJAMAS PARENGĖJAS: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 1
-Data: 2028-01-15
-Rubrika: Vystymasis
-Pavadinimas: Pradėta kryptingai pildyti BVK svetainę straipsniais apie Respublikos ateitį ir jos raidą
+Data: 2028-01-12
+Rubrika: Archyvas
+Pavadinimas: 2027 metų atviro skaitymo patirtis pradėta tvarkyti kaip atskiras sluoksnis
 
 STRAIPSNIS:
-Sausį prasidėjo kryptingesnis svetainės pildymas. Iki tol daug medžiagos buvo kaupiama fragmentiškai, tačiau nuo šio momento pradėta aiškiau planuoti straipsnių eigą, temų pasikartojimą ir bendrą skaitytojo kelią per Respublikos raidą.
+2028 metų pradžioje pirmiausia buvo sugrįžta prie to, ką parodė pirmieji atviro skaitymo metai. 2027-ieji atvėrė svetainę skaitytojui, bet kartu parodė, kad vien turėti tekstus nepakanka. Reikia suprasti, kaip žmogus juos skaito, kur pasimeta ir kokius klausimus kelia.
 
-Svarbiausia užduotis buvo ne publikacijų gausa, o jų tarpusavio ryšys. Straipsniai turėjo ne tik pristatyti temas, bet ir pamažu vesti link didesnės sistemos suvokimo.
+Todėl sausį pradėtas atskirai tvarkyti 2027 metų atviro skaitymo sluoksnis. Jame buvo svarbūs ne tik publikuoti tekstai, bet ir pirmos reakcijos: kas buvo neaišku, kur reikėjo papildomo paaiškinimo, kurie puslapiai veikė, o kurie tik kūrė daugiau painiavos.
 
-Ši publikacija žymi momentą, kai svetainė pirmą kartą pradėta traktuoti kaip nuosekliai augantis viešasis projektas.
+Šis darbas padėjo atskirti skaitymo patirtį nuo paties kanono. Kanonas saugo pasaulio logiką, o skaitymo patirtis parodo, kaip žmogus į tą pasaulį įeina. Jei įėjimas per sunkus, net gera struktūra gali likti nesuprasta.
+
+2028 metų pradžioje projektas dar neturėjo organizacijos, dalyvių ar veikiančios bendruomenės. Tačiau jis jau turėjo pirmą svarbų dalyką - kitą žmogų, kuris skaito. Todėl skaitytojo kelias tapo savarankišku darbo objektu.
+
+Šis įrašas žymi momentą, kai svetainė pradėjo mokytis ne tik kalbėti, bet ir būti suprantama. Tai dar ne dalyvavimo sistema, bet pirmas žingsnis link atsakingesnio viešo buvimo.
 
 SEO:
-SEO title: Pradėtas kryptingas BVK svetainės pildymas 2028 m.
-Meta description: 2028 m. pradėta kryptingai pildyti BVK svetainę straipsniais apie Respublikos ateitį ir raidą.
-Slug: kryptingas-bvk-svetaines-pildymas-2028
+SEO title: 2027 metų BVK skaitymo patirtis sutvarkyta
+Meta description: 2028 m. pradėta tvarkyti 2027 metų BVK atviro skaitymo patirtis kaip atskiras archyvinis sluoksnis.
+Slug: 2027-atviro-skaitymo-patirtis-2028
 
 IMAGE PROMPT:
-Photorealistic editorial photo of content calendar, article drafts and laptop on bright winter desk, realistic workflow, no readable text, clean documentary style.
+Photorealistic winter archive review scene, sorted 2027 folders, reader feedback notes, laptop with blurred page layout, no readable text, clean documentary realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2028-01-15
-Parengė: BVK skaitmeninio projekto redakcinė grupė
+Publikuota: 2028-01-12
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 2
-Data: 2028-02-28
-Rubrika: Technologijos
-Pavadinimas: Išbandytos pirmosios skaitmeninės sąveikos formos kuriant gyvesnį svetainės turinį
+Data: 2028-01-29
+Rubrika: Vystymasis
+Pavadinimas: Pirmą kartą aiškiau apibrėžta, kas yra ankstyvas BVK skaitytojas
 
 STRAIPSNIS:
-Vasario pabaigoje pradėti pirmieji bandymai, kaip svetainės turinį padaryti gyvesnį ir labiau įtraukiantį. Testuotos paprastos skaitmeninės sąveikos formos, leidžiančios skaitytojui ne tik perskaityti medžiagą, bet ir pajusti temų tarpusavio ryšį.
+Sausio pabaigoje buvo pabandyta aiškiau apibrėžti ankstyvą BVK skaitytoją. Tai nebuvo narys, dalyvis ar bendruomenės atstovas. 2028 metais toks žmogus pirmiausia buvo smalsus stebėtojas, kuris grįžta prie svetainės, bando suprasti jos laiką ir pamažu mokosi atskirti skirtingus sluoksnius.
 
-Šie bandymai dar buvo ankstyvi ir ne visi pasiteisino. Kai kurios formos pasirodė pernelyg dekoratyvios, kitos - per sunkiai prižiūrimos. Tačiau išryškėjo svarbi kryptis: ateityje Respublikos pasaulis turės būti ne tik skaitomas, bet ir tyrinėjamas.
+Šis apibrėžimas buvo svarbus, nes projektas neturėjo teisės per greitai priskirti žmonėms vaidmenų. Jeigu kas nors skaito, tai dar nereiškia, kad jis pritaria. Jeigu kas nors užduoda klausimą, tai dar nereiškia, kad jis tampa dalyviu. Tokios ribos saugo tiek žmogų, tiek patį projektą.
 
-Taip svetainė po truputį ėmė tolti nuo statinio archyvo modelio.
+Ankstyvas skaitytojas gali būti nepatogus. Jis gali klausti, abejoti, nesuprasti, ginčytis ar tiesiog išeiti. Tačiau būtent tokia laisvė leidžia svetainei augti be dirbtinio spaudimo. Projektui svarbu ne greitai suburti sekėjus, o išmokti būti perskaitomam.
+
+Todėl pirmasis skaitytojo apibrėžimas buvo sąmoningai kuklus. Skaitytojas - tai žmogus, kuris susiduria su ateities pasauliu ir turi teisę neskubėti. Jis dar nieko neprivalo, bet jo klausimai jau padeda gerinti pačią svetainę.
+
+Šis įrašas tapo vienu iš pamatinių 2028 metų tonų. Prieš kalbant apie dalyvavimą, reikia gerbti skaitymą. Prieš kalbant apie bendruomenę, reikia suprasti vieną žmogų, kuris pirmą kartą atveria puslapį.
 
 SEO:
-SEO title: Išbandytos pirmosios BVK skaitmeninės sąveikos formos
-Meta description: 2028 m. išbandytos pirmosios skaitmeninės sąveikos formos, skirtos gyvesniam BVK svetainės turiniui.
-Slug: pirmosios-bvk-skaitmenines-saveikos-formos-2028
+SEO title: Kas yra ankstyvas BVK skaitytojas
+Meta description: 2028 m. pirmą kartą aiškiau apibrėžta ankstyvo BVK skaitytojo sąvoka ir jos skirtumas nuo dalyvavimo.
+Slug: ankstyvas-bvk-skaitytojas-2028
 
 IMAGE PROMPT:
-Photorealistic modern desk photo with simple interactive mockups on tablet and laptop, notebooks nearby, late winter daylight, no readable text, natural realism.
+Photorealistic quiet reading scene, one person from behind at a desk with laptop and notebook, snowy January daylight, no readable text, natural realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2028-02-28
-Parengė: BVK skaitmeninio projekto redakcinė grupė
+Publikuota: 2028-01-29
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 3
-Data: 2028-03-17
-Rubrika: Archyvas
-Pavadinimas: Sukurtas pradinis Respublikos viešųjų tekstų, kronikų ir aiškinamųjų straipsnių karkasas
+Data: 2028-02-10
+Rubrika: Savęs tobulinimas
+Pavadinimas: Pradėta formuoti atsakingo skaitymo taisyklė
 
 STRAIPSNIS:
-Kovo mėnesį suformuotas ankstyvas karkasas, skiriantis tris pagrindinius būsimos svetainės sluoksnius: viešuosius tekstus, kroniką ir aiškinamuosius straipsnius. Šis atskyrimas padėjo sumažinti ankstesnį temų persidengimą ir aiškiau nustatyti kiekvienos publikacijos funkciją.
+Vasario pradžioje atsirado atsakingo skaitymo taisyklės užuomazga. Ji kilo ne iš noro kontroliuoti skaitytoją, o iš supratimo, kad BVK svetainės forma nėra įprasta. Čia susitinka ankstyvi užrašai, ateities naujienos, dokumentai, romanas ir ilga chronologija.
 
-Nuo šio momento projektas pradėjo kalbėti tikslesne redakcine kalba. Vieni tekstai buvo skirti istorinei eigai, kiti - pačios sistemos aiškinimui, treti - dokumentiniam pasaulio gilinimui.
+Atsakingas skaitymas reiškia gebėjimą neskubėti. Skaitytojas turi suprasti, kad 2026 metų tekstas nėra 2086 metų institucinis pranešimas, o romano užuomina nėra oficialus įstatymas. Kiekvienas sluoksnis turi savo vietą ir savo balsą.
 
-Taip buvo sukurta struktūra, kuri vėliau leis daug plačiau išplėsti svetainės turinį neprarandant krypties.
+Ši taisyklė taip pat saugo nuo paviršutiniško ginčo. Lengva ištraukti vieną tekstą iš konteksto ir apkaltinti jį tuo, ko jis dar negali būti. Sunkiau matyti kelią: nuo klausimo prie idėjos, nuo idėjos prie svetainės, nuo svetainės prie galimos praktikos.
+
+Todėl atsakingas skaitymas buvo apibrėžtas kaip pagarba laiko sluoksniams. Ankstyvas tekstas turi teisę būti ankstyvas. Brandus tekstas turi teisę skambėti kitaip. Skaitytojas turi teisę klausti, bet turi matyti, kokiam laikui tas klausimas priklauso.
+
+Šis įrašas pradėjo labai svarbią 2028 metų temą: dalyvavimas prasideda ne nuo pareiškimo, o nuo gebėjimo skaityti atsargiai. Kas nemoka skirti sluoksnių, tas vėliau sunkiai skirs ir atsakomybės ribas.
 
 SEO:
-SEO title: Sukurtas BVK tekstų ir kronikų karkasas
-Meta description: 2028 m. sukurtas pradinis Respublikos viešųjų tekstų, kronikų ir aiškinamųjų straipsnių karkasas.
-Slug: bvk-tekstu-ir-kroniku-karkasas-2028
+SEO title: Atsakingo BVK skaitymo taisyklė
+Meta description: 2028 m. pradėta formuoti atsakingo BVK svetainės skaitymo taisyklė, padedanti skirti laiko sluoksnius.
+Slug: atsakingo-bvk-skaitymo-taisykle-2028
 
 IMAGE PROMPT:
-Photorealistic overhead photo of three clearly grouped paper stacks labeled by function but unreadable, spring daylight, editorial organization scene, natural optics.
+Photorealistic desk with layered papers, bookmarks, reading glasses, soft February light, no readable text, reflective documentary mood.
 
 PABAIGOS BLOKAS:
-Publikuota: 2028-03-17
-Parengė: BVK skaitmeninio projekto redakcinė grupė
+Publikuota: 2028-02-10
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 4
-Data: 2028-04-10
-Rubrika: Technologijos
-Pavadinimas: Pradėti testuoti AI parengti straipsnių ciklai, skirti užpildyti svetainės istorinius laikotarpius
+Data: 2028-02-26
+Rubrika: Kultūra
+Pavadinimas: Romanas pradėtas suvokti kaip lėtas įėjimas į paslėptą Respublikos sluoksnį
 
 STRAIPSNIS:
-Balandį pradėti testuoti AI padedami straipsnių ciklai, skirti skirtingiems Respublikos istoriniams laikotarpiams. Buvo tikrinama, ar įmanoma išlaikyti skirtingų epochų toną, žodyną ir publikacijos ritmą taip, kad ankstyvieji metai neskambėtų kaip vėlyvoji institucijų kalba.
+Vasario pabaigoje romano reikšmė buvo patikslinta. Jis neturėjo būti nei svetainės reklama, nei paprastas priedas prie dokumentų. Romanas pradėtas suvokti kaip lėtas įėjimas į paslėptą Respublikos sluoksnį - ten, kur oficialios naujienos negali arba neturi kalbėti tiesiogiai.
 
-Bandymai atskleidė nemažai problemų: dalis tekstų buvo pernelyg vienodi, o kai kuriems laikotarpiams trūko savito balso. Vis dėlto paaiškėjo, kad su griežta redakcine kontrole toks metodas gali tapti labai stipriu kanono plėtros įrankiu.
+Tai buvo svarbu dėl kelių priežasčių. Ateities naujienos gali parodyti tvarką, veikiančias institucijas ir kasdienę sistemą. Dokumentai gali paaiškinti principus. Tačiau paslėpti klausimai - žmogaus kilmė, AI gelmė, archyvų spragos, vidinė abejonė - geriau atsiveria per pasakojimą.
 
-Ši publikacija pažymi pirmą rimtesnį žingsnį į didelio masto Respublikos chronologijos pildymą.
+2028 metais dar nebuvo siekiama atskleisti visų romano paslapčių. Priešingai, buvo svarbu išlaikyti jo atstumą nuo viešo kanono. Romanas turi turėti teisę klausti daugiau, bet negali sugriauti dokumentinio sluoksnio aiškumo.
+
+Šis požiūris padėjo sukurti dvi skaitymo kryptis. Viena kryptis veda per naujienas ir archyvą. Kita - per žmogaus vidinį kelią 2085 metais. Abi jos priklauso tam pačiam pasauliui, bet veikia skirtingai.
+
+Vasario 26 dienos įrašas įtvirtino romaną kaip giluminį vartą. Skaitytojas, kuris nori ne tik žinoti, bet ir jausti, turi eiti per pasakojimą.
 
 SEO:
-SEO title: Pradėti testuoti AI straipsnių ciklai BVK istorijai
-Meta description: 2028 m. pradėti testuoti AI padedami straipsnių ciklai Respublikos istoriniams laikotarpiams pildyti.
-Slug: ai-straipsniu-ciklai-bvk-istorijai-2028
+SEO title: Romanas kaip paslėpto Respublikos sluoksnio įėjimas
+Meta description: 2028 m. BVK romanas pradėtas suvokti kaip lėtas įėjimas į paslėptą brandžios Respublikos sluoksnį.
+Slug: romanas-kaip-paslepto-sluoksnio-iejimas-2028
 
 IMAGE PROMPT:
-Photorealistic workflow image with timeline drafts, printed article variations and laptop, spring daylight, serious editorial testing mood, no readable text.
+Photorealistic literary archive scene, manuscript pages beside sealed-looking blank folders, dim winter evening light, no readable text, subtle mystery, natural realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2028-04-10
-Parengė: BVK skaitmeninio projekto redakcinė grupė
+Publikuota: 2028-02-26
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 5
-Data: 2028-05-22
-Rubrika: Vystymasis
-Pavadinimas: Pirmą kartą iškelta mintis apie projekto vidinę socialinio tinklo ir žaidimo erdvę
+Data: 2028-03-09
+Rubrika: Archyvas
+Pavadinimas: Svetainės ankstyvieji tekstai pradėti žymėti pagal jų vaidmenį kanone
 
 STRAIPSNIS:
-Gegužės pabaigoje pirmą kartą rimčiau svarstyta, kad BVK projektas ateityje galėtų turėti ne tik svetainę, bet ir vidinę socialinio tinklo ar net žaidybinės erdvės formą. Toks svarstymas kilo iš supratimo, kad vien tekstais ne visada galima parodyti, kaip veikia dalyvavimas, atsakomybė ir miesto gyvenimo ritmas.
+Kovo pradžioje ankstyvieji svetainės tekstai pradėti žymėti ne tik pagal datą, bet ir pagal jų vaidmenį kanone. Kai kurie tekstai buvo kilmės įrašai, kiti - paaiškinimai, dar kiti - ateities naujienų formos bandymai arba narrative sluoksnio užuominos.
 
-Ankstyvieji svarstymai dar nebuvo techninis planas. Jie veikiau žymėjo kryptį: ateityje Respublikos pasaulis turėtų būti patiriamas ne tik skaitant, bet ir veikiant.
+Šis žymėjimas padėjo išvengti painiavos. Vienodai atrodantys tekstai gali atlikti labai skirtingas funkcijas. Vienas tekstas saugo pradinį klausimą, kitas bando paaiškinti skaitytojui svetainės formą, trečias ruošia būsimo romano toną.
 
-Ši idėja taps vienu iš svarbiausių ilgojo laikotarpio sluoksnių, nors šiame etape ji dar tebebuvo tik drąsus bandymas peržengti įprasto portalo ribas.
+Svarbu, kad šis darbas dar nebuvo pilna archyvinė sistema. Tai buvo ankstyva tvarka, padedanti svetainei nepaskęsti savo pačios augime. Kuo daugiau tekstų atsiranda, tuo sunkiau suprasti, kurie iš jų yra atraminiai, o kurie tik pagalbiniai.
+
+Žymėjimo principas taip pat padėjo ateičiai. Vėliau, kai kanone bus daugiau metų, reikės žinoti, kurie 2026-2028 tekstai turi būti laikomi kilmės dokumentais, o kurie tik redakciniais paaiškinimais. Be šio skirtumo archyvas taptų plokščias.
+
+Kovo 9 dienos įrašas įveda pirmą aiškesnę vidinę tekstų topografiją. Nuo šiol svarbu ne tik tai, kada tekstas parašytas, bet ir kokią vietą jis užima ilgame Respublikos gimimo kelyje.
 
 SEO:
-SEO title: Iškelta idėja apie BVK socialinę ir žaidybinę erdvę
-Meta description: 2028 m. pirmą kartą iškelta mintis apie vidinę BVK socialinio tinklo ir žaidimo erdvę.
-Slug: bvk-socialine-ir-zaidybine-erdve-2028
+SEO title: Ankstyvieji BVK tekstai pažymėti pagal vaidmenį
+Meta description: 2028 m. ankstyvieji BVK svetainės tekstai pradėti žymėti pagal jų vaidmenį kanone ir skaitymo kelyje.
+Slug: ankstyvieji-bvk-tekstai-pagal-vaidmeni-2028
 
 IMAGE PROMPT:
-Photorealistic concept-planning photo with notebook sketches of interfaces, map nodes and community features, late spring daylight, no readable text, natural desk scene.
+Photorealistic archive table with categorized blank cards and colored tabs, early spring daylight, no readable text, organized documentary style.
 
 PABAIGOS BLOKAS:
-Publikuota: 2028-05-22
-Parengė: BVK skaitmeninio projekto redakcinė grupė
+Publikuota: 2028-03-09
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 6
-Data: 2028-06-13
-Rubrika: Duomenys
-Pavadinimas: Sudarytas ankstyvas Respublikos miestų, datų ir institucijų vystymo žemėlapis
+Data: 2028-03-27
+Rubrika: Vystymasis
+Pavadinimas: Pirmą kartą išskirtas skirtumas tarp smalsumo ir dalyvavimo
 
 STRAIPSNIS:
-Birželį pradėtas sudarinėti išsamesnis Respublikos miestų, datų ir institucijų vystymo žemėlapis. Šis darbas buvo būtinas tam, kad vėlesnės publikacijos neatsirastų atsitiktinai, o remtųsi iš anksto numatyta bendra logika. Būtent šiame etape pirmą kartą aiškiau pradėta matyti, kad būsima sistema turi būti mąstoma ne vien per vieną vietovę, bet per bendrą Lietuvos, Latvijos ir Estijos erdvę.
+Kovo pabaigoje pirmą kartą aiškiau išskirtas skirtumas tarp smalsumo ir dalyvavimo. Šis skirtumas buvo būtinas, nes projektas pradėjo turėti nuolatinių skaitytojų, tačiau tai dar nereiškė, kad atsirado tikra bendruomenė ar organizacija.
 
-Žemėlapis leido pirmą kartą viename lauke matyti skirtingų miestų vaidmenis, pagrindinių institucijų atsiradimo seką ir tai, kaip viena sritis remia kitą. Nors modelis dar buvo ankstyvas, jis tapo svarbiu kanono inžinerijos įrankiu.
+Smalsumas yra laisvas. Žmogus gali ateiti, skaityti, domėtis, klausti, abejoti ir nieko neįsipareigoti. Dalyvavimas reiškia kitą lygmenį: atsakomybę, nuoseklumą, pagarbą bendram darbui ir gebėjimą ne tik vartoti tekstus, bet ir saugoti projekto kryptį.
 
-Nuo šio momento Respublikos pasaulis pradėtas valdyti ne vien idėjiškai, bet ir struktūriškai.
+2028 metais dar nebuvo laikas kurti dalyvio statuso. Tačiau buvo laikas pradėti ruoštis jo sampratai. Jei ateityje projektas turės žmonių ratą, reikia iš anksto suprasti, kad dalyvavimas negali būti vien emocinis pritarimas.
+
+Šis skirtumas taip pat saugojo nuo ankstyvo didybės jausmo. Keli skaitytojai nėra judėjimas. Kelios reakcijos nėra bendruomenė. Tačiau pirmas aiškus skirtumas tarp smalsumo ir atsakomybės leidžia ateityje nepasimesti.
+
+Kovo 27 dienos įrašas tapo pirmu tiltu link dalyvavimo kalbos. Nuo šiol projektas galėjo gerbti smalsų skaitytoją, bet kartu suprasti, kad tikras prisidėjimas turės reikalauti daugiau.
 
 SEO:
-SEO title: Sudarytas ankstyvas BVK miestų ir institucijų žemėlapis
-Meta description: 2028 m. sudarytas ankstyvas Respublikos miestų, datų ir institucijų vystymo žemėlapis.
-Slug: ankstyvas-bvk-miestu-ir-instituciju-zemelapis-2028
+SEO title: Skirtumas tarp smalsumo ir dalyvavimo BVK
+Meta description: 2028 m. pirmą kartą aiškiau išskirtas skirtumas tarp smalsaus BVK skaitytojo ir būsimo dalyvavimo.
+Slug: smalsumas-ir-dalyvavimas-bvk-2028
 
 IMAGE PROMPT:
-Photorealistic mapping table scene with regional map of Baltic area, pins, arrows and institutional cards, summer daylight, no readable text, documentary realism.
+Photorealistic symbolic desk scene with open reading material on one side and blank responsibility cards on the other, spring light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2028-06-13
-Parengė: BVK skaitmeninio projekto redakcinė grupė
+Publikuota: 2028-03-27
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 7
-Data: 2028-07-25
-Rubrika: Archyvas
-Pavadinimas: Pradėti rengti pirmieji būsimos Respublikos įstatymų, nuostatų ir taisymų juodraščiai kaip idėjiniai tekstai
+Data: 2028-04-10
+Rubrika: Savęs tobulinimas
+Pavadinimas: Suformuoti pagrindiniai dalyvavimo principai
 
 STRAIPSNIS:
-Liepos mėnesį pradėti rengti pirmieji teisinių tekstų juodraščiai. Tai dar nebuvo tikrieji įstatymai, o veikiau idėjiniai tekstai, skirti suprasti, kaip galėtų būti formuluojami būsimos Respublikos principai, nuostatos ir taisymų logika.
+Balandžio mėnesį buvo suformuoti pirmieji pagrindiniai dalyvavimo principai. Jie dar nereiškė narystės, organizacijos ar formalaus įsipareigojimo. Tai buvo ankstyvas bandymas suprasti, kokios laikysenos reikėtų žmogui, kuris kada nors norėtų ne tik skaityti, bet ir prisidėti.
 
-Didžiausias sunkumas buvo rasti tinkamą kalbos pusiausvyrą. Tekstai negalėjo būti pernelyg teisiniai, nes pati sistema dar neegzistavo, tačiau jie taip pat negalėjo skambėti kaip laisvos esė. Todėl pradėta ieškoti savito tarpinio formato.
+Pirmieji principai buvo paprasti: atsakomybė, skaidrumas, pagarba, nuoseklumas ir gebėjimas veikti be skuboto savinimosi. Dalyvavimas negali prasidėti nuo noro vadintis dalyviu. Jis turi prasidėti nuo gebėjimo elgtis taip, kad projektas dėl žmogaus įsitraukimo taptų aiškesnis, o ne chaotiškesnis.
 
-Šis etapas svarbus tuo, kad pirmą kartą Respublikos idėja pradėta versti į būsimos teisės kalbą.
+Šie principai buvo reikalingi dar ir todėl, kad ateities sistema negalėtų augti vien iš entuziazmo. Entuziazmas greitai užsidega ir greitai išnyksta. Atsakomybė lėtesnė, bet ji laiko ilgiau. Todėl 2028 metais pradėta kalbėti apie dalyvavimą kaip apie discipliną, o ne kaip apie emocinį prisijungimą.
+
+Tuo pačiu buvo pabrėžta, kad niekas dar nėra kviečiamas į organizaciją. Projektas lieka atviras skaitymui ir klausimams. Dalyvavimo principai čia veikia kaip būsimo sluoksnio paruošimas, ne kaip jau veikianti sistema.
+
+Balandžio 10 dienos įrašas tapo vienu svarbiausių 2028 metų tekstų. Jis pirmą kartą parodė, kad ateities bendruomenė negalės būti tik susižavėjusių žmonių grupė. Ji turės remtis laikysena, kuri saugo bendrą darbą nuo paviršutiniškumo.
 
 SEO:
-SEO title: Pradėti ankstyvieji BVK teisinių tekstų juodraščiai
-Meta description: 2028 m. pradėti rengti pirmieji būsimos Respublikos įstatymų ir nuostatų juodraščiai kaip idėjiniai tekstai.
-Slug: ankstyvieji-bvk-teisiniu-tekstu-juodrasciai-2028
+SEO title: Pagrindiniai BVK dalyvavimo principai
+Meta description: 2028 m. suformuoti pagrindiniai BVK dalyvavimo principai: atsakomybė, skaidrumas, pagarba ir nuoseklumas.
+Slug: pagrindiniai-dalyvavimo-principai-2028
 
 IMAGE PROMPT:
-Photorealistic legal-drafting photo with clipped pages, margin notes, ruler and folders on desk, midsummer daylight, no readable text, calm documentary style.
+Photorealistic horizontal editorial photo, clean table with grouped principle cards, notebook, warm spring light, no readable text, calm civic planning mood.
 
 PABAIGOS BLOKAS:
-Publikuota: 2028-07-25
-Parengė: BVK skaitmeninio projekto redakcinė grupė
+Publikuota: 2028-04-10
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 8
-Data: 2028-08-16
-Rubrika: Bendruomenė
-Pavadinimas: Aplink svetainę ėmė telktis pirmieji nuolatiniai skaitytojai ir idėjos sekėjai
-
-STRAIPSNIS:
-Rugpjūtį tapo matoma, kad projektas turi jau ne vien pavienius lankytojus, o sugrįžtančių žmonių sluoksnį. Pirmieji nuolatiniai skaitytojai pradėjo sekti atskiras temas, lyginti laikotarpius ir laukti naujų medžiagų.
-
-Nors šis ratas dar buvo nedidelis, jo reikšmė buvo didelė. Pirmą kartą atsirado auditorija, kuri ne tik stebėjo projektą, bet ir pamažu ėmė gyventi jo ritmu. Tai keitė ir redakcinę atsakomybę: nuo šio momento reikėjo galvoti ne tik apie medžiagos kūrimą, bet ir apie ilgalaikį skaitytojo pasitikėjimą.
-
-Taip prasidėjo lėtas perėjimas nuo vieno žmogaus kūrimo prie būsimos bendruomenės lauko.
-
-SEO:
-SEO title: Aplink BVK ėmė telktis pirmieji nuolatiniai skaitytojai
-Meta description: 2028 m. aplink svetainę ėmė telktis pirmieji nuolatiniai Respublikos idėjos skaitytojai ir sekėjai.
-Slug: pirmieji-nuolatiniai-bvk-skaitytojai-2028
-
-IMAGE PROMPT:
-Photorealistic candid scene of several people reading on laptops and printed pages in different quiet locations, late summer natural light, no readable text, authentic documentary tone.
-
-PABAIGOS BLOKAS:
-Publikuota: 2028-08-16
-Parengė: BVK skaitmeninio projekto redakcinė grupė
-
-========================================================================
-ĮРАŠAS 9
-Data: 2028-09-11
+Data: 2028-04-28
 Rubrika: Technologijos
-Pavadinimas: Aptartos galimybės ateityje sujungti svetainę, archyvą ir žaidybinę socialinę erdvę
+Pavadinimas: AI pagalba pradėta naudoti ankstyvų prieštaravimų paieškai kanone
 
 STRAIPSNIS:
-Rugsėjį pradėta svarstyti, kaip ateityje vienoje sistemoje galėtų veikti trys skirtingi sluoksniai: viešoji svetainė, gilus archyvas ir dalyvavimu grįsta žaidybinė socialinė erdvė. Šis klausimas buvo reikšmingas ne vien techniniu požiūriu, bet ir idėjiniu - reikėjo apsispręsti, ar visi šie sluoksniai iš tiesų gali remtis tuo pačiu kanonu.
+Balandžio pabaigoje AI naudojimas tapo konkretesnis. Jis pradėtas taikyti ne vien idėjoms plėsti ar tekstams rengti, bet ir ankstyviems prieštaravimams kanone ieškoti. Tai buvo svarbu, nes projektas per dvejus metus sukaupė daug skirtingų sluoksnių.
 
-Diskusijos parodė, kad toks sujungimas įmanomas tik tuo atveju, jei kiekviena erdvė turės savą funkciją, bet visos paklus bendrai istorinei logikai. Todėl pradėta aiškiau skirti, kas skirta skaitymui, kas - tyrinėjimui, o kas - dalyvavimo patirčiai.
+Prieštaravimų galėjo atsirasti įvairiose vietose: datos, terminai, svetainės forma, romano užuominos, 2026 metų kilmės logika, 2086 metų brandžios Respublikos tonas. Žmogui vienam visa tai stebėti buvo sunku, todėl AI tapo naudingu tikrinimo įrankiu.
 
-Šiuo etapu gimė viena iš ilgiausiai bręsiančių projekto krypčių.
+Tačiau ir čia buvo laikoma riba. AI neranda tiesos pats savaime. Jis tik padeda parodyti, kur gali būti silpna vieta. Sprendimas, ką keisti ir kaip aiškinti, vis tiek priklauso žmogui ir kanono logikai.
+
+Šis etapas padėjo sustiprinti redakcinę discipliną. Vietoje to, kad prieštaravimai būtų pastebėti tik vėliau, juos pradėta gaudyti anksčiau. Tai ypač svarbu projektui, kuris turi imituoti ilgą šešiasdešimties metų raidą.
+
+Balandžio 28 dienos įrašas parodo technologiją kaip kanono priežiūros įrankį, o ne valdžią. 2028 metais AI dar nėra sistemos šerdis. Jis yra pagalbininkas, kuris padeda nepasimesti sudėtingume.
 
 SEO:
-SEO title: Svarstytas BVK svetainės, archyvo ir žaidimo sujungimas
-Meta description: 2028 m. aptartos galimybės ateityje sujungti BVK svetainę, archyvą ir žaidybinę socialinę erdvę.
-Slug: bvk-svetaines-archyvo-ir-zaidimo-sujungimas-2028
+SEO title: AI naudojamas BVK kanono prieštaravimams tikrinti
+Meta description: 2028 m. AI pradėtas naudoti ankstyvų BVK kanono prieštaravimų paieškai ir redakcinei patikrai.
+Slug: ai-bvk-kanono-priestaravimu-patikra-2028
 
 IMAGE PROMPT:
-Photorealistic planning scene with website map, archive folders and gameplay wireframes side by side, early autumn daylight, realistic textures, no readable text.
+Photorealistic desk with laptop, timeline sheets and highlighted inconsistency markers but no readable text, April evening, clean analytical mood.
 
 PABAIGOS BLOKAS:
-Publikuota: 2028-09-11
-Parengė: BVK skaitmeninio projekto redakcinė grupė
+Publikuota: 2028-04-28
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
-ĮРАŠAS 10
-Data: 2028-10-23
+ĮRAŠAS 9
+Data: 2028-05-11
 Rubrika: Kultūra
-Pavadinimas: Romano ir svetainės pasaulis pradėtas vystyti kaip viena bendro kanono visuma
+Pavadinimas: Ateities istorijų sluoksnis pradėtas jungti su viešomis naujienomis
 
 STRAIPSNIS:
-Spalį aiškiai priimtas sprendimas romaną ir svetainės pasaulį plėtoti ne kaip du atskirus darbus, o kaip vieną bendro kanono visumą. Tai reiškė, kad literatūrinės detalės nebegalėjo gyventi savarankiškai, o dokumentiniai tekstai turėjo išlaikyti kultūrinį kvėpavimą.
+Gegužės pradžioje ateities istorijų sluoksnis pradėtas jungti su viešomis naujienomis. Iki tol pasakojimo fragmentai ir naujienų forma buvo laikomi gana atskirai. Tačiau vis aiškiau matėsi, kad vienas sluoksnis gali stiprinti kitą.
 
-Šis sujungimas pareikalavo griežtesnės kontrolės, tačiau kartu suteikė projektui didesnį svorį. Respublikos pasaulis tapo vientisesnis, o skaitytojas ateityje galės judėti tarp skirtingų formų neprarasdamas istorinio pagrindo.
+Viešos naujienos leidžia pamatyti, kaip brandi Respublika veikia iš išorės: kokie priimami sprendimai, kokios temos svarbios, kaip kalba institucinis pasaulis. Istorijų sluoksnis leidžia parodyti, ką tai reiškia žmogui: kaip jis jaučiasi, ką pastebi, ko bijo, ką nutyli.
 
-Būtent čia projektas dar labiau nutolo nuo paprasto internetinio eksperimento ir priartėjo prie ilgojo pasaulio kūrimo.
+Jungiant šiuos sluoksnius buvo svarbu jų nesumaišyti. Naujiena negali tapti romano scena, o pasakojimas neturi imituoti oficialaus pranešimo. Tačiau abu gali dalintis tais pačiais miestais, datomis, atmosferomis ir paslėptomis įtampomis.
 
-SEO:
-SEO title: Romano ir svetainės pasaulis sujungtas į bendrą kanoną
-Meta description: 2028 m. romano ir svetainės pasaulis pradėtas vystyti kaip viena bendro Respublikos kanono visuma.
-Slug: romano-ir-svetaines-pasaulis-bendras-kanonas-2028
+Šis darbas padėjo ateities pasauliui tapti gyvesniam. Jis nebebuvo vien dokumentinis ar vien literatūrinis. Jis pradėjo atrodyti kaip vieta, kurioje yra ir viešas balsas, ir privatus žmogaus kelias.
 
-IMAGE PROMPT:
-Photorealistic desk image showing manuscript pages flowing into document folders and site maps, autumn light, no readable text, unified-worldbuilding mood.
-
-PABAIGOS BLOKAS:
-Publikuota: 2028-10-23
-Parengė: BVK skaitmeninio projekto redakcinė grupė
-
-========================================================================
-ĮРАŠAS 11
-Data: 2028-11-14
-Rubrika: Vystymasis
-Pavadinimas: Patikslinta ilgalaikė linija, kaip idėja galėtų augti nuo skaitmeninio projekto iki visuomeninio modelio
-
-STRAIPSNIS:
-Lapkričio mėnesį buvo patikslinta ilgalaikė projekto linija. Pirmą kartą nuosekliau suformuluota, kaip skaitmeninis pasaulis, archyvas, kultūrinis sluoksnis ir bendruomenė galėtų po daugelio metų peraugti į realesnį visuomeninį modelį.
-
-Šiame etape dar nebuvo kalbama apie tiesioginę politiką. Daugiau dėmesio skirta tam, kaip idėja gali lėtai persikelti į žmonių vaizduotę, diskusijas, bendrą žodyną ir galiausiai - į pasitikėjimą alternatyvia socialine tvarka.
-
-Šis planas tapo svarbia pereinamąja ašimi tarp ankstyvojo skaitmeninio kūrimo ir vėlesnio platesnio idėjos veikimo.
+Gegužės 11 dienos įrašas žymi svarbų kultūrinį sujungimą. Respublika pradėjo turėti ne tik struktūrą, bet ir vidinį aidą, kuris gali skambėti tarp naujienos ir istorijos.
 
 SEO:
-SEO title: Patikslinta BVK ilgalaikė augimo linija
-Meta description: 2028 m. patikslinta ilgalaikė linija, kaip BVK galėtų augti nuo skaitmeninio projekto iki visuomeninio modelio.
-Slug: patikslinta-bvk-ilgalaike-augimo-linija-2028
+SEO title: Ateities istorijos jungiamos su BVK naujienomis
+Meta description: 2028 m. BVK ateities istorijų sluoksnis pradėtas jungti su viešomis ateities naujienomis ir jų pasauliu.
+Slug: ateities-istorijos-ir-bvk-naujienos-2028
 
 IMAGE PROMPT:
-Photorealistic strategic planning photo with layered roadmap charts, community notes and long-range milestones on a table, late autumn light, realistic documentary feel.
+Photorealistic editorial desk with news layout sketches and story fragments side by side, May sunlight, no readable text, natural realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2028-11-14
-Parengė: BVK skaitmeninio projekto redakcinė grupė
+Publikuota: 2028-05-11
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
-ĮРАŠAS 12
-Data: 2028-12-19
+ĮRAŠAS 10
+Data: 2028-05-30
 Rubrika: Archyvas
-Pavadinimas: Metų apžvalga: svetainė tapo pagrindine Respublikos idėjos, istorijos ir ateities bandymų erdve
+Pavadinimas: Pradėta kurti pirmoji terminų ir sąvokų tvarka
 
 STRAIPSNIS:
-2028 metai parodė, kad BVK svetainė jau tapo daugiau nei koncepcijos saugykla. Per šiuos mėnesius pradėtas kryptingas pildymas, testuotos skaitmeninės sąveikos formos, sukurtas tekstų karkasas, pradėti AI straipsnių ciklai, iškelta žaidybinės erdvės idėja, plėtotas miestų ir institucijų žemėlapis, pradėti pirmieji teisinių tekstų juodraščiai ir išryškėjo pirmasis nuolatinių skaitytojų sluoksnis.
+Gegužės pabaigoje pradėta kurti pirmoji terminų ir sąvokų tvarka. Projektas jau naudojo daug žodžių: Respublika, BVK, archyvas, skaitytojas, dalyvis, kanonas, ateities naujienos, pasakojimo sluoksnis, koordinavimas. Be aiškumo šie žodžiai galėjo pradėti reikšti per daug skirtingų dalykų.
 
-Kartu paaiškėjo ir nauji iššūkiai: projekto apimtis sparčiai augo, todėl vis svarbesnis tapo kanono vientisumas ir aiškus redakcinis darbas. Tačiau būtent ši įtampa liudijo, kad projektas įžengė į naują brandos pakopą.
+Pirmoji terminų tvarka dar nebuvo pilnas žodynas. Ji veikiau buvo bandymas pažymėti, kurių sąvokų negalima vartoti per laisvai. Pavyzdžiui, BVK negali būti vadinamas veikiančia valstybės sistema 2028 metais. Respublika ankstyvuose tekstuose turi būti ateities pasaulio kryptis, o ne dabartinė institucija.
 
-Metai užbaigiami kaip etapas, kai svetainė tapo pagrindine Respublikos idėjos, istorijos ir ateities bandymų erdve.
+Toks darbas atrodė smulkus, bet buvo labai svarbus. Kanonas griūva ne tik dėl didelių klaidų, bet ir dėl palaipsniui išsikraipančių žodžių. Jei viename faile tas pats terminas reiškia viena, o kitame - ką kita, skaitytojas praranda pasitikėjimą.
+
+Terminų tvarka taip pat padėjo pasiruošti vėlesniems metams. Kai projektas pradės kalbėti apie teisines formas, gamybą ir praktinį perėjimą, reikės dar tikslesnio žodyno. 2028 metai čia atliko paruošiamąjį darbą.
+
+Gegužės 30 dienos įrašas įtvirtino mintį, kad žodžiai turi būti prižiūrimi. Ateities pasaulis prasideda ne tik nuo įvykių, bet ir nuo to, kaip tiksliai jis pats save vadina.
 
 SEO:
-SEO title: 2028 m. BVK metų apžvalga
-Meta description: 2028 metų apžvalga: kaip BVK svetainė tapo pagrindine Respublikos idėjos ir ateities bandymų erdve.
-Slug: bvk-2028-metu-apzvalga
+SEO title: Pirmoji BVK terminų ir sąvokų tvarka
+Meta description: 2028 m. pradėta kurti pirmoji BVK terminų ir sąvokų tvarka, sauganti ankstyvą kanono aiškumą.
+Slug: pirmoji-bvk-terminu-tvarka-2028
 
 IMAGE PROMPT:
-Photorealistic end-of-year archive scene with sorted folders, mapped notes and neatly arranged planning materials, winter dusk light, no readable text, documentary realism.
+Photorealistic terminology planning scene, index cards, blank glossary sheets, pencil, late spring daylight, no readable text, archive mood.
 
 PABAIGOS BLOKAS:
-Publikuota: 2028-12-19
-Parengė: BVK skaitmeninio projekto redakcinė grupė
+Publikuota: 2028-05-30
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 11
+Data: 2028-06-12
+Rubrika: Vystymasis
+Pavadinimas: Projektas pirmą kartą aprašytas kaip ilgalaikė viešo skaitymo erdvė
+
+STRAIPSNIS:
+Birželio viduryje projektas pirmą kartą aiškiau aprašytas kaip ilgalaikė viešo skaitymo erdvė. Tai buvo svarbus posūkis, nes svetainė nebeturėjo būti suprantama tik kaip vieta, kur kartais įkeliami tekstai. Ji turėjo tapti erdve, į kurią žmogus gali grįžti, sekti metus ir matyti, kaip auga idėja.
+
+Viešo skaitymo erdvė nereiškė viešos organizacijos. Tai labai svarbus skirtumas. 2028 metais projektas dar nerenka narių, nekuria struktūros ir nepradeda praktinių veiksmų. Jis kuria vietą, kurioje galima suprasti, skaityti, klausti ir pamažu matyti ilgesnį kelią.
+
+Tokia forma leido nespausti įvykių. Jeigu projektas iškart bandytų tapti judėjimu, jis galėtų prarasti minties tikslumą. Viešo skaitymo erdvė leidžia pirmiausia ugdyti supratimą, o tik vėliau kalbėti apie gilesnį prisidėjimą.
+
+Šis apibrėžimas taip pat padėjo suformuoti ateities ritmą. Straipsniai turės būti skelbiami ne atsitiktinai, o taip, kad skaitytojas matytų metų logiką. Kiekvienas tekstas turi būti ne vien atskiras vienetas, bet ir didesnio kelio dalis.
+
+Birželio 12 dienos įrašas parodė, kad BVK projektas pradeda suprasti savo viešąją funkciją. Jis dar nekviečia veikti, bet jau kviečia skaityti nuosekliai.
+
+SEO:
+SEO title: BVK kaip ilgalaikė viešo skaitymo erdvė
+Meta description: 2028 m. BVK projektas pirmą kartą aprašytas kaip ilgalaikė viešo skaitymo erdvė, o ne organizacija.
+Slug: bvk-kaip-vieso-skaitymo-erdve-2028
+
+IMAGE PROMPT:
+Photorealistic calm public-reading concept scene, laptop, printed archive pages, bookshelf background, June daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-06-12
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 12
+Data: 2028-06-28
+Rubrika: Savęs tobulinimas
+Pavadinimas: Atsakomybė įvardyta kaip pirmoji būsimo dalyvavimo sąlyga
+
+STRAIPSNIS:
+Birželio pabaigoje atsakomybė buvo įvardyta kaip pirmoji būsimo dalyvavimo sąlyga. Ši mintis pratęsė ankstesnį skirtumą tarp skaitytojo ir dalyvio. Skaityti galima laisvai, bet dalyvauti ateityje būtų galima tik prisiimant atsakomybę už savo žodžius, veiksmus ir santykį su bendru darbu.
+
+Atsakomybė čia nereiškė paklusnumo. Ji reiškė gebėjimą suprasti, kad projektas nėra vieta asmeninei saviraiškai be ribų. Kiekvienas prisidėjimas gali arba padėti aiškumui, arba kurti triukšmą. Todėl svarbu ne vien norėti dalyvauti, bet ir suprasti, ką toks noras keičia.
+
+2028 metais ši sąlyga dar nebuvo taikoma kaip taisyklė. Nebuvo dalyvių sąrašo, pareigų ar procedūrų. Tačiau pati formuluotė leido pasiruošti ateičiai: jeigu kada nors atsiras dalyvavimo forma, ji turi prasidėti nuo atsakomybės, o ne nuo statuso.
+
+Šis principas taip pat saugo nuo greito augimo iliuzijos. Daug žmonių gali ateiti, bet jei nėra atsakomybės, jų kiekis tik padidina chaosą. Mažas atsakingas ratas ateityje gali būti vertingesnis už didelį neaiškų susidomėjimą.
+
+Birželio 28 dienos įrašas tapo moraliniu 2028 metų akcentu. Dalyvavimas negali prasidėti nuo teisės būti matomam. Jis turi prasidėti nuo gebėjimo nešti dalį bendro svorio.
+
+SEO:
+SEO title: Atsakomybė kaip BVK dalyvavimo sąlyga
+Meta description: 2028 m. atsakomybė įvardyta kaip pirmoji būsimo BVK dalyvavimo sąlyga ir pagrindinis principas.
+Slug: atsakomybe-kaip-bvk-dalyvavimo-salyga-2028
+
+IMAGE PROMPT:
+Photorealistic thoughtful desk scene, single blank responsibility card, notebook, warm June evening light, no readable text, minimal documentary style.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-06-28
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 13
+Data: 2028-07-09
+Rubrika: Archyvas
+Pavadinimas: Svetainėje pradėta atskirti idėjinė, dokumentinė ir pasakojimo medžiaga
+
+STRAIPSNIS:
+Liepos pradžioje svetainėje aiškiau pradėta skirti idėjinė, dokumentinė ir pasakojimo medžiaga. Tai buvo būtina, nes skirtingi tekstai vis dažniau atliko skirtingas funkcijas, o skaitytojui reikėjo aiškesnių orientyrų.
+
+Idėjinė medžiaga aiškino klausimus ir kryptis. Dokumentinė medžiaga laikė struktūrą, terminus ir kanono tvarką. Pasakojimo medžiaga leido pamatyti ateities pasaulį per žmogaus patirtį. Visi trys sluoksniai buvo reikalingi, tačiau jų negalima buvo maišyti.
+
+Šis atskyrimas padėjo išvengti klaidų. Pavyzdžiui, romano fragmentas negali būti laikomas oficialiu sprendimu, o darbo dokumentas neturi būti skaitomas kaip galutinė vieša pozicija. Kiekvienas tekstas turi turėti aiškią lentyną.
+
+Tuo metu dar nebuvo tobulo dizaino ar galutinės architektūros. Tačiau jau buvo aišku, kad svetainės ateitis priklausys nuo gebėjimo parodyti, kokios rūšies tekstą žmogus skaito. Tai yra ne tik techninis, bet ir pasitikėjimo klausimas.
+
+Liepos 9 dienos įrašas sustiprino archyvinę discipliną. Kai pasaulis turi daug balsų, kiekvienam balsui reikia vietos. Tik tada daugiabalsis kanonas nevirsta triukšmu.
+
+SEO:
+SEO title: Idėjinė, dokumentinė ir pasakojimo BVK medžiaga
+Meta description: 2028 m. BVK svetainėje pradėta atskirti idėjinė, dokumentinė ir pasakojimo medžiaga.
+Slug: idejine-dokumentine-pasakojimo-medziaga-2028
+
+IMAGE PROMPT:
+Photorealistic archive classification photo, three separate piles of blank papers with distinct visual styles, July daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-07-09
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 14
+Data: 2028-07-27
+Rubrika: Kultūra
+Pavadinimas: Romanas pradėtas sieti su klausimu, kaip žmogus mato brandžią sistemą iš vidaus
+
+STRAIPSNIS:
+Liepos pabaigoje romano kryptis dar labiau priartėjo prie žmogaus vidinio žvilgsnio. Buvo aiškiau suprasta, kad brandžią sistemą galima aprašyti iš išorės, bet iš tikrųjų ją patikrinti galima tik per žmogų, kuris joje gyvena ir pradeda matyti įtrūkimus.
+
+Tai nereiškė, kad romanas turi neigti ateities Respublikos idėją. Priešingai, jis turėjo padėti ją padaryti tikresnę. Jei sistema rodoma tik kaip tobula tvarka, ji greitai tampa negyva. Jei joje yra žmogaus abejonė, ji pradeda kvėpuoti.
+
+Romano veikėjas turėjo ne iš karto kovoti su sistema, o pamažu suprasti, kad už kasdienės tvarkos gali būti sluoksnių, kurių niekas paprastai nemato. Toks žvilgsnis leidžia skaitytojui patirti brandžią Respubliką ne kaip schemą, o kaip gyvenamą pasaulį.
+
+Šis sprendimas taip pat grąžino projektą prie atsakomybės temos. Kuo brandesnė sistema, tuo didesnis klausimas: kas ją laiko, kas už ją atsako ir kiek žmogus žino apie tai, kas saugo jo kasdienybę?
+
+Liepos 27 dienos įrašas įtvirtino romaną kaip vidinio patikrinimo formą. Dokumentai gali sukurti sistemą, bet tik žmogaus žvilgsnis parodo, ar ji turi sielą.
+
+SEO:
+SEO title: Romanas tikrina brandžią sistemą iš vidaus
+Meta description: 2028 m. BVK romanas pradėtas sieti su klausimu, kaip žmogus mato brandžią Respublikos sistemą iš vidaus.
+Slug: romanas-brandzia-sistema-is-vidaus-2028
+
+IMAGE PROMPT:
+Photorealistic moody writing scene, person from behind reviewing archive pages and city images, summer evening light, no readable text, no fantasy visuals.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-07-27
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 15
+Data: 2028-08-14
+Rubrika: Vystymasis
+Pavadinimas: Pirmieji skaitytojų klausimai parodė, kad projektui reikia aiškesnės pradžios istorijos
+
+STRAIPSNIS:
+Rugpjūčio viduryje pirmieji skaitytojų klausimai dar kartą parodė, kad projektui reikia aiškesnės pradžios istorijos. Žmonės galėjo suprasti ateities sluoksnį, bet ne visada matė, kaip visa tai prasidėjo nuo paprasto klausimo apie kooperatyvą prie Rūdiškių.
+
+Tai tapo svarbiu redakciniu signalu. Jei pradžia per mažai paaiškinta, ateitis atrodo pernelyg staigi. Skaitytojas mato didelę sistemą, bet nemato pirmo žingsnio. Todėl reikia ne tik skelbti naujus tekstus, bet ir nuolat grįžti prie kilmės.
+
+Pradžios istorija turi būti sąžininga. Joje negali atsirasti paruoštos Respublikos, herojinio judėjimo ar didelės komandos. 2026 metais buvo asmeninis klausimas, užrašai, AI pagalba, svetainės idėja ir daug nežinomybės. Būtent tai turi būti matoma.
+
+2028 metų skaitytojui tokia pradžia padeda geriau suprasti ir savo vietą. Jis nėra kviečiamas į jau paruoštą pasaulį. Jis mato, kad pasaulis dar tik mokosi aiškinti pats save.
+
+Rugpjūčio 14 dienos įrašas primena: be kilmės istorijos net gražiausia ateitis praranda svorį. Todėl projektas turi nuolat saugoti savo mažą, netobulą pradžią.
+
+SEO:
+SEO title: BVK reikia aiškesnės pradžios istorijos
+Meta description: 2028 m. pirmieji skaitytojų klausimai parodė, kad BVK projektui reikia aiškesnės pradžios istorijos.
+Slug: bvk-aiskesne-pradzios-istorija-2028
+
+IMAGE PROMPT:
+Photorealistic review scene, early notes and current website sketches connected on desk, August daylight, no readable text, reflective documentary tone.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-08-14
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 16
+Data: 2028-08-31
+Rubrika: Technologijos
+Pavadinimas: Svarstyta socialinio tinklo ir žaidimo idėja, bet pripažinta, kad ji per ankstyva ir per brangi
+
+STRAIPSNIS:
+Rugpjūčio pabaigoje buvo rimčiau svarstyta mintis, kad ateityje BVK galėtų turėti ne tik svetainę, bet ir savotišką socialinę ar žaidybinę erdvę. Joje žmogus galėtų susikurti avatarą, vaikščioti po būsimą miestą, išbandyti skirtingus vaidmenis ir geriau suprasti, kaip veiktų kooperatyvinė gyvenimo tvarka.
+
+Ši idėja buvo patraukli, nes tekstas turi ribas. Skaitydamas žmogus gali suprasti principą, bet žaidybinėje erdvėje jis galėtų patirti pasirinkimą: kur dirbti, kaip dalyvauti, ką reiškia atsakomybė, kaip veikia bendras fondas, ką keičia būstas, maistas, transportas ar taisyklės.
+
+Tačiau labai greitai paaiškėjo ir praktinė riba. Net paprasta tekstinė arba naršyklinė žaidimo versija reikalautų didelių lėšų, techninio darbo ir nuolatinės priežiūros. Ankstyvuose vertinimuose tokios krypties kūrimas atrodė galintis kainuoti nuo kelių iki dešimčių tūkstančių eurų, o realistiškesnis startas buvo siejamas bent su maždaug 10000 eurų riba.
+
+Todėl 2028 metais ši idėja nebuvo pradedama kaip realus projektas. Ji buvo užfiksuota kaip ateities galimybė ir kaip ženklas, kad BVK pasaulis kada nors galėtų būti ne tik skaitomas, bet ir patiriamas. Vietoj brangios plėtros buvo pasirinkta pirmiausia stiprinti svetainę, kanoną, tekstus ir aiškinamąją struktūrą.
+
+Rugpjūčio 31 dienos įrašas svarbus todėl, kad jame matomas ne tik noras, bet ir ribos pripažinimas. Geras projektas turi mokėti ne tik sugalvoti didelę idėją, bet ir pasakyti: dar per anksti.
+
+SEO:
+SEO title: BVK socialinio tinklo ir žaidimo idėja per ankstyva
+Meta description: 2028 m. svarstyta BVK socialinio tinklo ir žaidimo idėja, bet pripažinta, kad ji per ankstyva ir per brangi.
+Slug: bvk-socialinio-tinklo-ir-zaidimo-ideja-2028
+
+IMAGE PROMPT:
+Photorealistic concept planning desk with avatar sketches, simple game map mockups, cost notes blurred and unreadable, late summer evening light, realistic documentary style.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-08-31
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 17
+Data: 2028-09-13
+Rubrika: Archyvas
+Pavadinimas: Sukurtas pirmasis nuoseklesnis 2026-2028 metų įvykių peržiūros planas
+
+STRAIPSNIS:
+Rugsėjo viduryje pradėtas nuoseklesnis 2026-2028 metų įvykių peržiūros planas. Per trejus metus susikaupė pakankamai medžiagos, kad jau buvo galima matyti ne tik atskirus tekstus, bet ir ankstyvą kilmės grandinę.
+
+Peržiūra turėjo atsakyti į kelis klausimus. Ar 2026 metų pradžia pakankamai aiškiai parodo asmeninį klausimą? Ar 2027 metai suprantami kaip pirmo atviro skaitymo laikas? Ar 2028 metai logiškai veda prie dalyvavimo kalbos, o ne per anksti kuria organizaciją?
+
+Šis darbas buvo reikalingas prieš judant toliau. Jei ankstyvieji metai nebus sutvarkyti, vėlesnis praktinis posūkis į ekonomiką atrodys staigus. Todėl pirmoji trejų metų peržiūra tapo savotišku pagrindo patikrinimu.
+
+Peržiūros plane buvo svarbu ne perrašyti viską iš naujo, o rasti spragas: kur trūksta paaiškinimo, kur tonas per oficialus, kur sąvokos atsiranda per anksti, kur skaitytojui neaišku, kodėl vienas įvykis seka po kito.
+
+Rugsėjo 13 dienos įrašas žymi pirmą ilgesnį žvilgsnį atgal. Projektas pradeda suprasti, kad augti į priekį galima tik tada, kai pradžia laikosi pakankamai tvirtai.
+
+SEO:
+SEO title: 2026-2028 metų BVK įvykių peržiūros planas
+Meta description: 2028 m. sukurtas pirmasis nuoseklesnis 2026-2028 metų BVK įvykių peržiūros planas.
+Slug: 2026-2028-bvk-ivykiu-perziuros-planas
+
+IMAGE PROMPT:
+Photorealistic archive review table with three year folders, timeline cards and pencil, September daylight, no readable text, calm analytical mood.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-09-13
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 18
+Data: 2028-09-29
+Rubrika: Savęs tobulinimas
+Pavadinimas: Pagarba ir skaidrumas įrašyti kaip ankstyvos bendruomeninės laikysenos principai
+
+STRAIPSNIS:
+Rugsėjo pabaigoje dalyvavimo principai buvo papildyti dviem ypač svarbiais žodžiais: pagarba ir skaidrumas. Jie buvo įrašyti kaip ankstyvos bendruomeninės laikysenos principai, nors pati bendruomenė dar nebuvo susiformavusi.
+
+Pagarba reiškė gebėjimą nesavintis projekto, nespausti kito žmogaus ir neleisti, kad susidomėjimas virstų triukšmingu ginču. Skaitytojas, būsimas dalyvis ar pagalbininkas turi suprasti, kad projektas nėra scena asmeninei kovai dėl reikšmės.
+
+Skaidrumas reiškė, kad sprendimai, tekstų pakeitimai ir vaidmenys turi būti kuo aiškesni. Jeigu kada nors atsiras daugiau žmonių, pasitikėjimas priklausys ne vien nuo gražių žodžių, bet nuo to, ar matoma, kas daroma ir kodėl.
+
+2028 metais šie principai dar buvo moraliniai, ne teisiniai. Nebuvo taisyklių rinkinio, bet buvo suprasta, kad be pagarbos ir skaidrumo net mažas ratas gali greitai tapti uždaras, painus arba konfliktiškas.
+
+Rugsėjo 29 dienos įrašas sustiprino būsimą dalyvavimo kalbą. Jei projektas nori kada nors kalbėti apie kitokią visuomenę, jis turi pradėti nuo mažų elgesio principų dar gerokai prieš atsirandant tikrai struktūrai.
+
+SEO:
+SEO title: Pagarba ir skaidrumas BVK laikysenoje
+Meta description: 2028 m. pagarba ir skaidrumas įrašyti kaip ankstyvos BVK bendruomeninės laikysenos principai.
+Slug: pagarba-ir-skaidrumas-bvk-2028
+
+IMAGE PROMPT:
+Photorealistic simple meeting-preparation table, blank principle cards, clear glass of water, autumn light, no readable text, calm respectful atmosphere.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-09-29
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 19
+Data: 2028-10-12
+Rubrika: Kultūra
+Pavadinimas: Ateities Respublikos pasaulis pradėtas aiškinti ne per pažadą, o per pasakojimą
+
+STRAIPSNIS:
+Spalio pradžioje buvo dar aiškiau suformuluota, kad ateities Respublikos pasaulis turi būti aiškinamas ne per pažadą, o per pasakojimą. Pažadas greitai skamba kaip politinė reklama. Pasakojimas leidžia parodyti, kaip sistema galėtų atrodyti žmogaus kasdienybėje.
+
+Tai nereiškė, kad reikia atsisakyti dokumentų ar aiškinamųjų tekstų. Priešingai, jie lieka būtini. Tačiau vien dokumentinis paaiškinimas negali parodyti, kaip žmogus jaučia tvarką, saugumą, ribas, priklausomybę, laisvę ar paslėptą koordinavimo sluoksnį.
+
+Pasakojimas leidžia lėčiau atverti klausimus. Jis neprivalo iš karto atsakyti, ar sistema gera, ar bloga. Jis gali parodyti įtampą. Būtent dėl to romanas ir ateities istorijų sluoksnis 2028 metais tapo vis svarbesni.
+
+Šis sprendimas saugojo projektą nuo didaktikos. Skaitytojas neturi būti mokomas tikėti. Jam reikia duoti pasaulį, kuriame jis pats pradėtų klausti. Tokia forma yra lėtesnė, bet ji gali būti daug stipresnė.
+
+Spalio 12 dienos įrašas įtvirtino kultūrinę kryptį: ateities Respublika turi būti ne tik aprašoma, bet ir pasakojama. Tik tada ji gali tapti ne schema, o vidine skaitytojo patirtimi.
+
+SEO:
+SEO title: Respublika aiškinama per pasakojimą, ne pažadą
+Meta description: 2028 m. ateities Respublikos pasaulis pradėtas aiškinti ne per pažadą, o per pasakojimą ir žmogaus patirtį.
+Slug: respublika-per-pasakojima-ne-pazada-2028
+
+IMAGE PROMPT:
+Photorealistic editorial photo, story notebook over civic planning documents, October afternoon light, no readable text, literary-civic mood.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-10-12
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 20
+Data: 2028-10-30
+Rubrika: Vystymasis
+Pavadinimas: Pirmą kartą aptarta, kodėl projektas dar negali vadintis judėjimu
+
+STRAIPSNIS:
+Spalio pabaigoje pirmą kartą tiesiai aptarta, kodėl projektas dar negali vadintis judėjimu. Nors svetainė jau turėjo skaitytojų, tekstų, principų ir aiškesnį pasaulio karkasą, to vis dar nepakako, kad būtų galima kalbėti apie organizuotą visuomeninę jėgą.
+
+Judėjimas reikalauja žmonių, struktūros, atsakomybės, aiškių tikslų, veiksmų ir bendro sprendimų lauko. 2028 metais projektas turėjo tik viešo skaitymo erdvę ir ankstyvą dalyvavimo kalbą. Tai svarbu, bet tai dar nėra veikimas.
+
+Šis pripažinimas apsaugojo projektą nuo savęs pervertinimo. Kartais keli nuolatiniai skaitytojai gali sukurti iliuziją, kad jau gimsta platesnė bendruomenė. Tačiau jeigu žodžiai per dideli, jie pradeda ardyti pasitikėjimą. Geriau tiksliai įvardyti mažą etapą negu apsimesti dideliu.
+
+Todėl buvo nuspręsta 2028 metų tekstuose vengti žodžių, kurie reikštų organizuotą veikimą. Galima kalbėti apie skaitytojus, klausimus, principus, viešą erdvę, bet ne apie sąjūdį ar struktūrą.
+
+Spalio 30 dienos įrašas tapo svarbiu saugikliu. Projektas gali būti ambicingas, bet jo kalba turi likti sąžininga. Jei dar nėra judėjimo, reikia pasakyti: dar nėra.
+
+SEO:
+SEO title: Kodėl BVK dar nėra judėjimas
+Meta description: 2028 m. pirmą kartą aptarta, kodėl BVK projektas dar negali vadintis judėjimu ar organizuota struktūra.
+Slug: kodel-bvk-dar-nera-judejimas-2028
+
+IMAGE PROMPT:
+Photorealistic quiet civic planning scene, empty chairs, notes on a table, autumn evening light, no readable text, restrained documentary tone.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-10-30
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 21
+Data: 2028-11-11
+Rubrika: Archyvas
+Pavadinimas: Pradėtas ruošti pirmasis viešų ir darbo tekstų atskyrimo principas
+
+STRAIPSNIS:
+Lapkričio pradžioje pradėtas ruošti aiškesnis viešų ir darbo tekstų atskyrimo principas. Per metus tapo akivaizdu, kad ne kiekviena mintis turi iškart patekti į viešą svetainės sluoksnį. Kai kurioms reikia laiko, tikrinimo ir vidinio ginčo.
+
+Vieši tekstai turi būti suprantami skaitytojui ir pakankamai tvarkingi, kad negriautų projekto pasitikėjimo. Darbo tekstai gali būti nebaigti, prieštaringi, netikslūs, nes būtent ten vyksta tikras mąstymas. Sumaišius šiuos sluoksnius, skaitytojas gali palaikyti juodraštį galutine pozicija.
+
+Šis atskyrimas nebuvo kuriamas tam, kad ką nors nuslėptų. Jis buvo reikalingas tam, kad projektas galėtų augti nepaversdamas kiekvienos klaidos viešu painiavos šaltiniu. Atvirumas turi turėti tvarką, kitaip jis tampa triukšmu.
+
+2028 metais tai dar buvo tik principas, bet jis vėliau taps labai svarbus assistant-sluoksniui, PUBLIC dokumentams, SERVICE dokumentams ir uždaroms nuorodoms. Pradžia buvo kukli: tiesiog suprasti, kad tekstai turi skirtingą brandos laipsnį.
+
+Lapkričio 11 dienos įrašas pradėjo viešo ir darbo sluoksnio discipliną. Tai vienas iš tų nematomų sprendimų, be kurių didelis kanonas ilgainiui neišsilaiko.
+
+SEO:
+SEO title: Viešų ir darbo BVK tekstų atskyrimo principas
+Meta description: 2028 m. pradėtas ruošti pirmasis viešų ir darbo BVK tekstų atskyrimo principas.
+Slug: viesu-ir-darbo-tekstu-atskyrimas-2028
+
+IMAGE PROMPT:
+Photorealistic archive scene with public-looking clean stack and rough private working drafts separated on table, November light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-11-11
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 22
+Data: 2028-11-28
+Rubrika: Technologijos
+Pavadinimas: AI naudotas ne turiniui dauginti, o kanono nuoseklumui tikrinti
+
+STRAIPSNIS:
+Lapkričio pabaigoje dar kartą patikslinta AI vieta projekte. Jo naudojimas neturėjo būti suprantamas kaip mechaninis turinio dauginimas. Jei tekstų daugėja be vidinės kontrolės, svetainė tampa triukšminga ir praranda savo laiko pojūtį.
+
+Todėl AI vis labiau naudotas kanono nuoseklumui tikrinti. Jis padėjo matyti, ar 2026 metai neparašyti per oficialiai, ar 2028 metai neperšoka į organizaciją, ar romanas nesumaišytas su dokumentais, ar sąvokos vartojamos pakankamai tiksliai.
+
+Šis metodas buvo svarbus, nes projektas jau augo greičiau, negu vien rankiniu būdu būtų lengva prižiūrėti. Tačiau galutinis sprendimas vis tiek turėjo likti redakciniame žmogaus sluoksnyje. AI galėjo parodyti įtrūkimą, bet ne nuspręsti, kas yra tiesa.
+
+Kartu buvo aišku, kad ateityje AI gali turėti daug didesnį vaidmenį BVK pasaulyje. Tačiau 2028 metų realybėje jis vis dar buvo darbo įrankis, ne valdžia ir ne savarankiškas kontūras.
+
+Lapkričio 28 dienos įrašas įtvirtino technologinę drausmę: svarbu ne generuoti daugiau, o laikyti viską kartu. Didelis pasaulis gyvena ne nuo teksto kiekio, o nuo ryšių tarp tekstų tikslumo.
+
+SEO:
+SEO title: AI tikrina BVK kanono nuoseklumą
+Meta description: 2028 m. AI naudotas ne BVK turiniui dauginti, o kanono nuoseklumui, tonui ir prieštaravimams tikrinti.
+Slug: ai-tikrina-bvk-kanono-nuosekluma-2028
+
+IMAGE PROMPT:
+Photorealistic clean analytical workstation, laptop, printed timelines, thread connections between papers, late November night, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-11-28
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 23
+Data: 2028-12-12
+Rubrika: Vystymasis
+Pavadinimas: 2028 metai parodė, kad projektui reikia ne greičio, o nuoseklumo
+
+STRAIPSNIS:
+Gruodžio viduryje 2028 metų patirtis leido suformuluoti svarbią išvadą: projektui reikia ne greičio, o nuoseklumo. Per metus atsirado daug naujų minčių - dalyvavimo principai, terminų tvarka, viešų ir darbo tekstų skirtumas, AI patikra, romano ir naujienų ryšys, net žaidybinės erdvės vizija.
+
+Tačiau kiekviena nauja kryptis taip pat didino riziką. Jei viską būtų bandoma daryti iš karto, projektas prarastų aiškumą. Brangi žaidimo ar socialinio tinklo idėja galėjo atrodyti patraukli, bet ji būtų per ankstyva, jei dar nėra pakankamai tvirto kanono ir paaiškintos svetainės.
+
+Todėl 2028 metų pabaigoje vis labiau stiprėjo lėto augimo principas. Pirmiausia reikia tvarkingai paaiškinti, kas yra projektas. Tada - išlaikyti metus, terminus ir tekstų rūšis. Tik vėliau galima galvoti apie brangesnes ir sudėtingesnes formas.
+
+Ši išvada nebuvo atsitraukimas. Ji buvo brandos ženklas. Projektas, kuris moka laukti, turi daugiau šansų išlikti. Projektas, kuris skuba į kiekvieną patrauklią idėją, gali greitai išsekti.
+
+Gruodžio 12 dienos įrašas užfiksavo 2028 metų pamoką: ateities Respublika negali būti pastatyta ant skubėjimo. Ji turi augti taip, kad kiekvienas sluoksnis laikytų kitą.
+
+SEO:
+SEO title: Projektui reikia ne greičio, o nuoseklumo
+Meta description: 2028 m. BVK projektas įtvirtino išvadą, kad jam reikia ne greičio, o nuoseklaus kanono ir skaitymo kelio.
+Slug: bvk-reikia-ne-greicio-o-nuoseklumo-2028
+
+IMAGE PROMPT:
+Photorealistic year-end planning desk, slow roadmap, closed laptop, neat folders, December lamplight, no readable text, calm documentary style.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-12-12
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 24
+Data: 2028-12-29
+Rubrika: Archyvas
+Pavadinimas: Antrieji atviro skaitymo metai užbaigti kaip dalyvavimo kalbos pradžia
+
+STRAIPSNIS:
+2028 metų pabaigoje buvo galima aiškiau pasakyti, kuo šie metai skyrėsi nuo 2027-ųjų. 2027 metai atvėrė svetainę skaitytojui. 2028 metai pradėjo kalbėti apie tai, kaip skaitytojas kada nors galėtų tapti atsakingu dalyviu, nors tokios struktūros dar nebuvo.
+
+Per metus atsirado atsakingo skaitymo taisyklė, skirtumas tarp smalsumo ir dalyvavimo, pirmieji dalyvavimo principai, terminų tvarka, viešų ir darbo tekstų atskyrimas, AI patikra ir pripažinimas, kad socialinio tinklo ar žaidimo idėja kol kas per brangi ir per ankstyva. Visa tai rodė ne išorinį augimą, o vidinį brendimą.
+
+Svarbiausia, kad projektas nesupainiojo skaitytojo su nariu, smalsumo su įsipareigojimu ir idėjos su realia organizacija. Šios ribos leido 2028 metus užbaigti sąžiningai: projektas sustiprėjo, bet dar netapo judėjimu.
+
+Tai buvo būtinas žingsnis prieš 2029 metus. Kitais metais reikės dar labiau išlyginti kanoną, aiškiau susieti svetainę, romaną, terminus ir istorijos grandinę, o metų pabaigoje pasiruošti praktiniam klausimui: nuo ko prasidėtų realus ekonominis pagrindas?
+
+Gruodžio 29 dienos įrašas uždaro 2028 metus kaip dalyvavimo kalbos pradžią. Dar nėra dalyvių sistemos, bet jau yra pirmos sąlygos, be kurių tokia sistema vėliau negalėtų būti sveika.
+
+SEO:
+SEO title: 2028 metai kaip BVK dalyvavimo kalbos pradžia
+Meta description: 2028 m. BVK atviro skaitymo metai užbaigti kaip dalyvavimo kalbos, atsakomybės ir kanono tvarkos pradžia.
+Slug: 2028-bvk-dalyvavimo-kalbos-pradzia
+
+IMAGE PROMPT:
+Photorealistic end-of-year archive scene, folders for reading, participation and canon order, winter darkness outside, warm desk lamp, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2028-12-29
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
