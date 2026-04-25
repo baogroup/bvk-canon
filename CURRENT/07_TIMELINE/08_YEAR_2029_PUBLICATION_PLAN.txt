@@ -2,10 +2,10 @@ BVK CANON
 Годовой публикационный план 2029
 
 Статус: ACTIVE
-Версия: v1.0
+Версия: v1.1
 Дата первого принятия: 2026-04-23
-Текущая редакция: 2026-04-23
-История поправок: CHANGE-0065
+Текущая редакция: 2026-04-25
+История поправок: CHANGE-0065; CHANGE-0077
 Уровень доступа: SERVICE
 Историческая принадлежность: ранний идейный слой
 Связанные закрытые документы: нет
@@ -15,320 +15,738 @@ BVK CANON
 Этот файл закрепляет годовой публикационный план для 2029 года в рамках внутреннего SERVICE-слоя BVK Canon.
 
 Главный принцип:
-Файл задаёт тон года, 12 опорных публикаций, их рубрики, даты, заголовки, короткие тексты, SEO-поля и image prompts.
-Это внутренний редакционный и narrative-документ, а не официальный документ самой Республики.
+2029 год нельзя описывать как год организации, движения, действующего BVK, юридической структуры, предприятия, производства или Республики.
+
+2029 год является годом выравнивания канона и подготовки к практическому повороту 2030 года. После личного 2026 года, открытого чтения 2027 года и языка участия 2028 года проект должен укрепить начало, термины, хронологию, читательский путь и честно подвести себя к вопросу экономики: что именно может производить будущий практический контур и из каких доходов может возникнуть социальный слой.
+
+Задача публикационного плана:
+Показать, как проект не перескакивает сразу к производству, а аккуратно готовит переход: проверяет 2026-2028 годы, уточняет термины, возвращается к первому вопросу о производстве, отделяет сайт от романа и будущей практики, начинает говорить о правовых формах, реальных доходах, пищевом направлении, работнике-дальнейшем участнике и необходимости считать расходы.
+
+Редакционное правило 2029 года:
+- никакого голоса зрелого государства;
+- никакой действующей Республики;
+- никакой организации, движения или официального круга участников;
+- никакой начатой практической деятельности;
+- никаких обещаний производства, зарплат, жилья или социального пакета;
+- можно говорить о практическом основании только как о будущем вопросе;
+- можно вводить экономику, юридические формы и пищевое направление как подготовку к 2030 году;
+- тон должен быть спокойным, собранным, аналитическим и чуть более практичным, чем в 2028 году.
 
 Связь с другими файлами:
+- 01_TIMELINE_CORE_2026_2086.txt задаёт общую хронологическую ось
 - 02_CONTENT_PLAN_2026_2046.txt задаёт годовую историческую логику
+- 03_PHASE_2026_2045_FOUNDING_LAYER.txt задаёт смысл фазы основания
 - 04_ARTICLE_MATRIX_2026_2046.txt задаёт рубрики, типы материалов и допустимый тон эпох
-- данный файл переводит эту логику в конкретный годовой набор публикаций
+- 05_YEAR_2026_PUBLICATION_PLAN.txt задаёт личный идейный слой
+- 06_YEAR_2027_PUBLICATION_PLAN.txt задаёт год первого открытого чтения
+- 07_YEAR_2028_PUBLICATION_PLAN.txt задаёт год языка участия
+- 09_YEAR_2030_PUBLICATION_PLAN.txt должен продолжить эту логику практическими расчётами
+- 09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt задаёт ранний новостной слой
+- 09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt задаёт стиль 2027-2029 годов
 
 BVK METINIS PLANAS 2029
 
 METINIS STILIUS IR TONAS
-- Projektas tvirtėja ir įgauna kanoninį stuburą.
-- Tekstai turi būti ramesni, aiškesni, labiau sutelkti nei 2028 m.
-- Daugėja struktūros, vidaus drausmės, žemėlapių, sluoksnių, redakcinės kontrolės.
-- Tonas vis dar ankstyvas, bet jame jau juntama būsimos sistemos rimtis.
+- Treti atviro skaitymo metai: projektas jau turi svetainę, skaitytojus, romaną, dalyvavimo kalbą ir ankstyvą kanoną.
+- Tekstai turi būti ramesni, aiškesni, labiau sutelkti nei 2028 metais.
+- Pagrindinės temos: kanono peržiūra, pradžios istorija, terminai, praktinio pagrindo poreikis, maisto gamybos kryptis, teisinės formos, darbuotojo-dalyvio sąvoka, pasiruošimas skaičiuoti.
+- Vis dar negalima rašyti apie realią organizaciją, gamybą ar bendruomenę.
+- Pagrindinis metų klausimas: kaip pereiti nuo skaitymo ir kanono prie būsimos praktikos neperšokant per būtinas ribas?
 
-REKOMENDUOJAMAS PARENGĖJAS: BVK kanono ir chronologijos redakcija
+REKOMENDUOJAMAS PARENGĖJAS: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 1
-Data: 2029-01-16
+Data: 2029-01-10
 Rubrika: Archyvas
-Pavadinimas: Sutvarkytas pradinis BVK kanonas: datos, vietos, kryptys ir pagrindiniai raidos etapai
+Pavadinimas: Pradėta trečiųjų atviro projekto metų kanono peržiūra
 
 STRAIPSNIS:
-Sausio mėnesį pradėtas tvarkyti tai, be ko tolimesnis darbas būtų tapęs nepatikimas - pradinis BVK kanonas. Vienoje sistemoje imtos jungti datos, vietos, kryptys ir pagrindiniai Respublikos raidos etapai, kad skirtingi tekstai remtųsi tuo pačiu pagrindu.
+2029 metų pradžioje projektas įžengė į trečiuosius atviro skaitymo metus. Po 2027 metų pirmojo išėjimo į skaitytoją ir 2028 metų dalyvavimo kalbos pradžios tapo aišku, kad prieš judant toliau reikia peržiūrėti visą ankstyvą kanoną.
 
-Iki šiol dalis informacijos buvo išmėtyta tarp atskirų failų, užrašų ir darbo versijų. Todėl svarbiausia užduotis buvo ne kurti naują medžiagą, o sustiprinti tai, kas jau sukurta, ir pašalinti prieštaravimus.
+Ši peržiūra nebuvo skirta sukurti naują didelę kryptį. Jos tikslas buvo paprastesnis ir daug sunkesnis: patikrinti, ar 2026 metų pradžia, 2027 metų svetainės atvėrimas ir 2028 metų dalyvavimo principai dera tarpusavyje. Jeigu ankstyvieji metai nesilaiko vienoje grandinėje, vėlesnis praktinis posūkis atrodys netikras.
 
-Šis žingsnis žymi momentą, kai projektas pradėjo labiau panašėti į saugomą kanoną, o ne į laisvą kūrybinių medžiagų rinkinį.
+Peržiūros metu ypatingai svarbu buvo saugoti pradžios kuklumą. 2026 metais dar nėra nei Respublikos, nei BVK kaip veikiančio kontūro, nei organizacijos, nei gamybos. 2027 metais atsiranda skaitytojas. 2028 metais atsiranda dalyvavimo kalba. 2029 metais reikia ne šokti pirmyn, o sutvirtinti šį kelią.
+
+Šiame etape projektas jau turėjo daug daugiau tekstų, negu pradžioje. Tačiau kiekis pats savaime nėra stiprybė. Be atrankos ir ryšių jis gali virsti painiava. Todėl kanono peržiūra buvo suvokta kaip būtina disciplina prieš kitą etapą.
+
+Sausio 10 dienos įrašas žymi pirmą 2029 metų užduotį: ne kurti daugiau, o patikrinti, ar tai, kas jau sukurta, iš tiesų laiko ateities kelią.
 
 SEO:
-SEO title: Sutvarkytas pradinis BVK kanonas 2029 m.
-Meta description: 2029 m. sutvarkytas pradinis BVK kanonas: datos, vietos, kryptys ir pagrindiniai Respublikos raidos etapai.
-Slug: sutvarkytas-pradinis-bvk-kanonas-2029
+SEO title: Pradėta 2029 m. BVK kanono peržiūra
+Meta description: 2029 m. pradėta trečiųjų atviro BVK projekto metų kanono peržiūra, tikrinant 2026-2028 metų nuoseklumą.
+Slug: 2029-bvk-kanono-perziura
 
 IMAGE PROMPT:
-Photorealistic archival organization photo with neatly grouped timeline sheets, location cards and chronology binders, cold winter light, no readable text, realistic documentary mood.
+Photorealistic winter archive review scene, three year folders 2026 2027 2028 implied by blank tabs, timeline papers, no readable text, clean documentary realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2029-01-16
-Parengė: BVK kanono ir chronologijos redakcija
+Publikuota: 2029-01-10
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 2
-Data: 2029-02-06
+Data: 2029-01-27
 Rubrika: Vystymasis
-Pavadinimas: Svetainėje pradėta nuosekliai atskirti viešąją kroniką, archyvą ir aiškinamuosius tekstus
+Pavadinimas: Pirmą kartą aiškiai įvardyta, kad projektui reikės praktinio pagrindo
 
 STRAIPSNIS:
-Vasario pradžioje svetainės turinio modelis buvo peržiūrėtas taip, kad skirtingi sluoksniai pagaliau imtų veikti nuosekliai. Viešoji kronika, gilus archyvas ir aiškinamieji tekstai pradėti atskirti ne tik temomis, bet ir paskirtimi, ritmu bei kalba.
+Sausio pabaigoje vis aiškiau buvo pasakyta tai, kas iki tol kartojosi užrašuose tik kaip nuojauta: projektui reikės praktinio pagrindo. Svetainė, romanas, archyvas ir dalyvavimo principai gali sukurti prasmę, bet jie negali patys išlaikyti žmonių gyvenimo.
 
-Toks redakcinis sprendimas leido skaitytojui lengviau suvokti, kur jis skaito istorijos eigą, kur gilinasi į dokumentinį pagrindą, o kur susiduria su platesniu Respublikos modelio aiškinimu. Kartu tai sumažino stilistinį chaotiškumą.
+Ši mintis nebuvo nusivylimas kultūriniu sluoksniu. Priešingai, jis išliko būtinas. Tačiau vien skaitymo erdvė negali atsakyti į klausimą, iš ko atsiras atlyginimai, bendras fondas, maistas, transportas, būstas ar pagalba šeimai. Ateities Respublika negali likti tik tekstų sistema.
 
-Nuo šio momento projektas tapo daug aiškesnis tiek vidiniam darbui, tiek išoriniam skaitymui.
+Todėl 2029 metais pradėta ruoštis lėtam perėjimui nuo skaitymo prie praktinio mąstymo. Dar ne prie gamybos, dar ne prie įmonės ir ne prie teisinės struktūros. Tik prie aiškesnio supratimo, kad ateities etapas turės atsakyti į klausimą: kas iš tikrųjų gamins vertę?
+
+Šis klausimas buvo pavojingas, nes jis galėjo per greitai nutempti projektą į verslo planus. Tačiau jo vengti būtų dar pavojingiau. Be praktinio pagrindo visa ateities socialinė vizija liktų gražus pasakojimas.
+
+Sausio 27 dienos įrašas pradeda 2029 metų vidinį posūkį. Projektas dar lieka kultūrinis ir archyvinis, bet jau žino, kad netrukus jam reikės skaičiuoti.
 
 SEO:
-SEO title: BVK svetainėje aiškiau atskirti turinio sluoksniai
-Meta description: 2029 m. svetainėje pradėta nuosekliai atskirti viešąją kroniką, archyvą ir aiškinamuosius tekstus.
-Slug: aiskiau-atskirti-bvk-turinio-sluoksniai-2029
+SEO title: Projektui reikės praktinio pagrindo
+Meta description: 2029 m. pirmą kartą aiškiai įvardyta, kad BVK projektui reikės praktinio ekonominio pagrindo.
+Slug: bvk-reikes-praktinio-pagrindo-2029
 
 IMAGE PROMPT:
-Photorealistic editorial workflow image with three separate content boards or folders, winter daylight, clean layout, no readable text, realistic publishing environment.
+Photorealistic planning desk with archive folders on one side and calculator with blank cost sheets on the other, January light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2029-02-06
-Parengė: BVK kanono ir chronologijos redakcija
+Publikuota: 2029-01-27
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 3
-Data: 2029-03-20
-Rubrika: Duomenys
-Pavadinimas: Parengtas pirmasis Lietuvos, Latvijos ir Estijos erdvinės Respublikos raidos žemėlapio juodraštis
+Data: 2029-02-12
+Rubrika: Ekonomika
+Pavadinimas: Sugrįžta klausimas, kokia gamyba galėtų išlaikyti ateities socialinę idėją
 
 STRAIPSNIS:
-Kovą parengtas pirmasis erdvinis žemėlapio juodraštis, apimantis Lietuvą, Latviją ir Estiją kaip bendrą būsimos Respublikos geografinį lauką. Šis sprendimas buvo svarbus, nes leido anksti atsisakyti siauro vienos vietovės mąstymo ir pradėti projektą suvokti kaip platesnės Baltijos erdvės reiškinį.
+Vasario viduryje į pirmą planą vėl grįžo gamybos klausimas. Jis buvo užduotas dar 2026 metais, tačiau po svetainės, romano, skaitytojų ir kanono darbų laikinai liko antrame plane. 2029 metais tapo aišku, kad prie jo reikės sugrįžti daug rimčiau.
 
-Žemėlapis dar nebuvo galutinė schema. Jame daug kas liko atvira: vaidmenų paskirstymas miestams, regioninių centrų reikšmė, istorinės ašies stiprinimas. Tačiau jis sukūrė būtiną erdvinį mastelį.
+Klausimas skambėjo paprastai: kokia gamyba galėtų išlaikyti ateities socialinę idėją? Ne simboliškai, ne teoriškai, o taip, kad iš jos galėtų atsirasti realios pajamos, darbo vietos, bendras fondas ir pirmos labai kuklios pagalbos formos.
 
-Nuo šiol Respublikos chronologija pradėta tikrinti ne vien laike, bet ir geografijoje.
+Maisto kryptis vėl atrodė natūrali. Ji susijusi su kasdienybe, šeima, darbuotojų poreikiais ir galimu produktų paketu. Tačiau 2029 metais dar nebuvo laikas skelbti gamybos pradžią. Reikėjo tik aiškiai įrašyti, kad be tokio klausimo visas kitas darbas neturės žemės.
+
+Šiame etape pradėta svarstyti ne vien produktą, bet ir visą grandinę: žaliavos, patalpos, leidimai, kokybė, pardavimai, darbuotojai, transportas, apskaita ir fondas. Net labai mažas gamybos modelis pasirodė reikalaujantis daug atsargesnio pasiruošimo.
+
+Vasario 12 dienos įrašas yra pirmas rimtas 2029 metų ekonominis signalas. Ateities Respublika negali prasidėti nuo gražios formuluotės. Ji turės prasidėti nuo produkto, kurį kažkas tikrai pagamina ir kažkas tikrai perka.
 
 SEO:
-SEO title: Parengtas pirmasis BVK Baltijos erdvinis žemėlapis
-Meta description: 2029 m. parengtas pirmasis Lietuvos, Latvijos ir Estijos Respublikos raidos žemėlapio juodraštis.
-Slug: pirmasis-bvk-baltijos-erdvinis-zemelapis-2029
+SEO title: Kokia gamyba išlaikytų BVK socialinę idėją
+Meta description: 2029 m. vėl iškeltas klausimas, kokia gamyba galėtų išlaikyyti ateities BVK socialinę idėją.
+Slug: kokia-gamyba-islaikytu-bvk-ideja-2029
 
 IMAGE PROMPT:
-Photorealistic mapping scene with Baltic region map, city markers, colored strings and planning cards, early spring daylight, no readable text, documentary realism.
+Photorealistic sober food-production planning scene, bread tin, vegetable crate, calculator, cost papers blurred, February daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2029-03-20
-Parengė: BVK kanono ir chronologijos redakcija
+Publikuota: 2029-02-12
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 4
-Data: 2029-04-09
-Rubrika: Kultūra
-Pavadinimas: Romano pasaulio detalės pradėtos derinti prie bendros Respublikos istorinės linijos
+Data: 2029-02-28
+Rubrika: Archyvas
+Pavadinimas: Ankstyvieji 2026 metų tekstai pradėti vertinti kaip kilmės dokumentai
 
 STRAIPSNIS:
-Balandį toliau stiprintas bendras kanonas: romano pasaulio detalės pradėtos nuosekliau derinti prie visos Respublikos istorinės linijos. Tai reiškė, kad net mažiausi kultūriniai elementai turėjo derėti su miestų raida, institucijų atsiradimu ir viešųjų tekstų logika.
+Vasario pabaigoje 2026 metų tekstai pradėti vertinti ne tik kaip seni užrašai, bet kaip kilmės dokumentai. Jie buvo netobuli, kartais per paprasti, bet būtent juose matėsi tikras pradžios taškas: asmeninis klausimas apie kooperatyvą Rūdiškių apylinkėse.
 
-Šis žingsnis padėjo atsisakyti kelių gražių, bet bendrai chronologijai netinkančių sprendimų. Toks atsisakymas ne silpnino, o brandino projektą.
+Toks vertinimas pakeitė požiūrį į ankstyvą archyvą. Jo nereikėjo perrašyti taip, kad jis skambėtų brandžiau. Reikėjo jį saugoti su aiškiu paaiškinimu, kodėl jis toks yra. Kilmės dokumentas vertingas ne todėl, kad tobulas, o todėl, kad rodo pirmą minties formą.
 
-Nuo šiol literatūrinis pasaulis tapo ne laisva interpretacija, o gilesniu bendros istorijos atspindžiu.
+2029 metais tai tapo ypač svarbu, nes projektas pradėjo artėti prie praktinių klausimų. Jei bus pamiršta, nuo ko viskas prasidėjo, vėlesnė ekonomikos tema gali atrodyti atsitiktinė. Tačiau ji iš tikrųjų grįžta prie pirmojo klausimo: kaip gamyba gali pakeisti žmogaus kasdienybę?
+
+Todėl ankstyvieji tekstai pradėti žymėti ir skaityti kaip kilmės grandinės dalys. Vienas tekstas kalba apie produktą, kitas apie darbuotoją, trečias apie būstą, ketvirtas apie svetainę. Kartu jie rodo, kad projektas nuo pradžių nebuvo vien literatūrinis.
+
+Vasario 28 dienos įrašas padeda apsaugoti 2026 metus nuo vėlesnio perrašymo. Ateities kanonui reikės ne tik gražių dokumentų, bet ir sąžiningos pradžios atminties.
 
 SEO:
-SEO title: Romano detalės derintos prie bendros BVK linijos
-Meta description: 2029 m. romano pasaulio detalės pradėtos derinti prie bendros Respublikos istorinės linijos.
-Slug: romano-detales-prie-bvk-linijos-2029
+SEO title: 2026 tekstai kaip BVK kilmės dokumentai
+Meta description: 2029 m. ankstyvieji 2026 metų BVK tekstai pradėti vertinti kaip projekto kilmės dokumentai.
+Slug: 2026-tekstai-kaip-bvk-kilmes-dokumentai
 
 IMAGE PROMPT:
-Photorealistic writing-and-archive desk with manuscript notes aligned beside timeline cards and institutional maps, spring light, no readable text.
+Photorealistic archive preservation scene, older notebooks and early drafts in protective folders, late winter light, no readable text, documentary realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2029-04-09
-Parengė: BVK kanono ir chronologijos redakcija
+Publikuota: 2029-02-28
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 5
-Data: 2029-05-21
-Rubrika: Technologijos
-Pavadinimas: Išbandytos pirmosios pusiau automatinės turinio generavimo schemos pagal rubrikas ir laikotarpius
+Data: 2029-03-13
+Rubrika: Kultūra
+Pavadinimas: Romanas pradėtas naudoti kaip būdas patikrinti brandžios Respublikos žmogišką pusę
 
 STRAIPSNIS:
-Gegužę išbandytos pirmosios pusiau automatinės schemos, leidžiančios planuoti turinį pagal rubrikas, laikotarpius ir redakcinį toną. Tai buvo ne bandymas kurti automatinį portalą, o būdas pagreitinti didelės apimties planavimą neprarandant kanono kontrolės.
+Kovo viduryje romano vaidmuo buvo dar kartą patikslintas. Jis turi ne tik plėsti ateities pasaulį, bet ir tikrinti jo žmogišką pusę. Dokumentai gali pasakyti, kaip sistema turėtų veikti, tačiau tik pasakojimas gali parodyti, kaip žmogus joje jaučiasi.
 
-Bandymai parodė, kad vien techninis generavimas negali pakeisti žmogaus sprendimo, tačiau aiškios schemos labai padeda išlaikyti nuoseklumą ir ritmą. Ypač svarbu buvo suprasti, kad skirtingų metų stilius turi būti valdomas sąmoningai.
+Tai buvo svarbu, nes projektas artėjo prie rimtesnių ekonominių ir socialinių klausimų. Jei būsima sistema kalbės apie darbą, būstą, maistą ir atsakomybę, ji negali likti vien taisyklių rinkiniu. Reikia žmogaus, kuris patiria tos tvarkos naudą, ribas ir vidinę įtampą.
 
-Šiame etape pradėjo ryškėti būsimo ilgalaikio pildymo metodika.
+Romanas 2085 metų laike leido pamatyti brandesnę Respublikos būseną be ankstyvų metų ribotumo. Tačiau jis taip pat neleido pernelyg idealizuoti ateities. Net jeigu sistema išoriškai tvarkinga, žmogus gali jausti klausimų, kurių oficiali kalba neužduoda.
+
+Šis patikrinimas padėjo ir kanonui. Jeigu romane tam tikra institucija, socialinė norma ar technologinis sluoksnis atrodo negyvas, tai signalas, kad galbūt pati idėja dar per abstrakti. Pasakojimas tampa ne puošmena, o bandymų lauku.
+
+Kovo 13 dienos įrašas įtvirtino romaną kaip žmogišką veidrodį. Ateities Respublika turi būti patikrinama ne tik pagal įstatymus, bet ir pagal žmogaus vidinę būseną.
 
 SEO:
-SEO title: Išbandytos pusiau automatinės BVK turinio schemos
-Meta description: 2029 m. išbandytos pirmosios pusiau automatinės turinio generavimo schemos pagal rubrikas ir laikotarpius.
-Slug: pusiau-automatines-bvk-turinio-schemos-2029
+SEO title: Romanas tikrina žmogišką BVK pusę
+Meta description: 2029 m. BVK romanas pradėtas naudoti kaip būdas patikrinti brandžios Respublikos žmogišką pusę.
+Slug: romanas-tikrina-zmogiska-bvk-puse-2029
 
 IMAGE PROMPT:
-Photorealistic editorial tech scene with structured templates, checklist sheets and laptop workflow dashboard, late spring daylight, no readable text.
+Photorealistic writing desk with manuscript pages, human silhouette photo reference turned away, archive notes, March light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2029-05-21
-Parengė: BVK kanono ir chronologijos redakcija
+Publikuota: 2029-03-13
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 6
-Data: 2029-06-12
-Rubrika: Archyvas
-Pavadinimas: Sukurtas pradinis viešų dokumentų, vidinių nuorodų ir susijusių tekstų ryšių modelis
+Data: 2029-03-30
+Rubrika: Vystymasis
+Pavadinimas: Skaitytojų ratas išliko mažas, bet padėjo patikrinti projekto aiškumą
 
 STRAIPSNIS:
-Birželio mėnesį pradėtas formuoti svarbus vidinis ryšių sluoksnis: modelis, jungiantis viešus dokumentus, vidines nuorodas ir susijusius tekstus. Toks sprendimas leido projektą matyti ne kaip atskirų failų rinkinį, o kaip tarpusavyje susietą atminties sistemą.
+Kovo pabaigoje buvo sąžiningai įvertinta skaitytojų situacija. Projektas neturėjo didelio rato, nebuvo plačiai žinomas ir dar negalėjo kalbėti apie bendruomenę. Tačiau mažas nuolatinių skaitytojų sluoksnis jau atliko svarbų darbą: jis padėjo tikrinti aiškumą.
 
-Šis darbas turėjo ir praktinę, ir pasaulio kūrimo reikšmę. Praktiniu lygmeniu jis padėjo greičiau rasti medžiagą. Kanono lygmeniu - leido aiškiau matyti, kaip viena nuostata ar tema auga per skirtingas epochas.
+Mažas ratas turi privalumą. Jis leidžia neskubėti, nevaidinti masinio susidomėjimo ir ramiai žiūrėti, kur žmogus pasimeta. Keli klausimai kartais parodo daugiau negu didelė paviršutiniška auditorija. Būtent taip 2029 metais skaitytojai padėjo matyti svetainės silpnąsias vietas.
 
-Nuo šiol Respublikos archyvas pradėtas kurti kaip susieta visuma.
+Šis etapas taip pat saugojo nuo per ankstyvo žodžio "bendruomenė". Jei žmonės skaito, tai dar nereiškia, kad jie pasirengę veikti kartu. Projektas turėjo gerbti šį skirtumą ir nepaversti susidomėjimo organizacine iliuzija.
+
+Skaitytojų ratas buvo svarbus kaip veidrodis, ne kaip jėga. Jis rodė, ar svetainė suprantama, ar pradžios istorija aiški, ar ateities naujienos neatsiskiria nuo kilmės. Tai leido projektui taisytis be didelio viešo spaudimo.
+
+Kovo 30 dienos įrašas pabrėžia vieną 2029 metų tiesą: mažas skaitytojų ratas nėra silpnumas, jei jis padeda augti tiksliau.
 
 SEO:
-SEO title: Sukurtas BVK dokumentų ryšių modelis
-Meta description: 2029 m. sukurtas pradinis viešų dokumentų, vidinių nuorodų ir susijusių tekstų ryšių modelis.
-Slug: bvk-dokumentu-rysiu-modelis-2029
+SEO title: Mažas BVK skaitytojų ratas tikrina aiškumą
+Meta description: 2029 m. mažas BVK skaitytojų ratas padėjo tikrinti projekto aiškumą ir svetainės suprantamumą.
+Slug: mazas-bvk-skaitytoju-ratas-2029
 
 IMAGE PROMPT:
-Photorealistic document-linking scene with folders, cross-reference cards, tabs and connection strings on a desk, summer daylight, no readable text.
+Photorealistic small reading group scene, a few people around table with printed pages and laptops, soft spring daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2029-06-12
-Parengė: BVK kanono ir chronologijos redakcija
+Publikuota: 2029-03-30
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 7
-Data: 2029-07-24
-Rubrika: Vystymasis
-Pavadinimas: Išryškintas principas, kad Respublika pirmiausia kuriama kaip kultūrinė ir informacinė terpė
+Data: 2029-04-11
+Rubrika: Technologijos
+Pavadinimas: Svetainės struktūra pradėta ruošti ilgesnei metų chronologijai
 
 STRAIPSNIS:
-Liepos pabaigoje aiškiau suformuluotas principas, kuris vėliau taps vienu svarbiausių visai ankstyvajai fazei: Respublika pirmiausia kuriama kaip kultūrinė ir informacinė terpė. Tai reiškė, kad pradinis jos veikimas turi skleistis per kalbą, vaizduotę, dokumentus, idėjas ir lėtą sąmonės pokytį.
+Balandžio pradžioje svetainės struktūra pradėta ruošti ilgesnei metų chronologijai. Iki tol pakako kelių ankstyvų metų ir ateities sluoksnio, tačiau projektui augant tapo aišku, kad reikės tvarkyti dešimtmečius, o ne tik atskiras publikacijas.
 
-Šis apsisprendimas buvo svarbus todėl, kad apsaugojo projektą nuo skuboto politinio imitavimo. Vietoje ankstyvos deklaratyvios jėgos pasirinktas ilgas, lėtas, bet tvirtesnis visuomeninio vaizduotės lauko kūrimas.
+Šis pasiruošimas buvo techninis ir redakcinis vienu metu. Reikėjo galvoti, kaip skaitytojas ras metus, kaip matys laikotarpius, kaip pereis nuo 2026 prie 2027, nuo 2028 prie 2029, o vėliau prie 2030 ir praktinės krypties. Laiko ašis turėjo tapti viena iš pagrindinių svetainės atramų.
 
-Nuo šios dienos skaitmeninis sluoksnis imtas laikyti ne priedu, o pačia pradine Respublikos forma.
+Svarbu, kad svetainė vis dar nebuvo institucinis portalas. Ji buvo viešo skaitymo ir kanono kūrimo erdvė. Tačiau techninė struktūra jau turėjo numatyti ilgą augimą, nes kitaip ateityje kiekvienas naujas metinis planas tik didintų chaosą.
+
+Buvo pradėta mąstyti apie paprastesnius indeksus, aiškesnes rubrikas, metų grupavimą ir ryšius tarp publikacijų. Šie sprendimai dar nebuvo galutiniai, bet jie rodė, kad projektas mokosi planuoti ne mėnesiui, o dešimtmečiams.
+
+Balandžio 11 dienos įrašas žymi svetainės brandos ženklą. Kai projektas pradeda galvoti apie ilgą chronologiją, jis pripažįsta, kad jo istorija nebetelpa į vieną puslapį.
 
 SEO:
-SEO title: Išryškintas kultūrinės ir informacinės Respublikos principas
-Meta description: 2029 m. pabrėžta, kad BVK pirmiausia kuriama kaip kultūrinė ir informacinė terpė.
-Slug: kulturine-ir-informacine-respublikos-terpe-2029
+SEO title: Svetainė ruošiama ilgesnei BVK chronologijai
+Meta description: 2029 m. BVK svetainės struktūra pradėta ruošti ilgesnei metų chronologijai ir nuosekliam skaitymui.
+Slug: svetaine-ruosiama-ilgesnei-chronologijai-2029
 
 IMAGE PROMPT:
-Photorealistic calm summer photo of archive materials, website mockups and cultural notes on a large table, natural daylight, no readable text, reflective editorial mood.
+Photorealistic web planning scene, long chronological navigation mockups on paper, laptop, April daylight, no readable text, clean realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2029-07-24
-Parengė: BVK kanono ir chronologijos redakcija
+Publikuota: 2029-04-11
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 8
-Data: 2029-08-15
-Rubrika: Bendruomenė
-Pavadinimas: Pirmieji skaitytojai pradėjo siūlyti temas ir aptarti galimas svetainės kryptis
+Data: 2029-04-29
+Rubrika: Savęs tobulinimas
+Pavadinimas: Dalyvavimas pradėtas apibrėžti kaip atsakomybė, o ne priklausymas grupei
 
 STRAIPSNIS:
-Rugpjūtį pirmą kartą pastebėta, kad skaitytojai ne tik seka projektą, bet ir pradeda siūlyti temas, klausti apie kryptis bei aptarti galimus svetainės plėtros būdus. Tai buvo ankstyvas, tačiau labai svarbus ženklas, kad auditorija pamažu pereina iš stebėjimo į santykį.
+Balandžio pabaigoje dalyvavimo samprata buvo dar labiau susiaurinta ir išgryninta. Dalyvauti nereiškia tiesiog priklausyti grupei. Dalyvauti reiškia prisiimti atsakomybę už savo santykį su bendru darbu, tekstais, žmonėmis ir pačia idėja.
 
-Ši fazė dar nebuvo tikra bendrakūra, tačiau ji parodė, kad projektas pradeda veikti kitų žmonių mąstymą. Kartu tai atnešė ir naują atsakomybę - reikėjo aiškiau saugoti kanoną, kad išorinis susidomėjimas jo neišblaškytų.
+Tai buvo svarbus apsisaugojimas nuo įprasto organizacinio mąstymo. Ankstyvas projektas dažnai nori kuo greičiau turėti narius, rėmėjus ar sekėjus. Tačiau BVK logikoje svarbiau buvo ne skaičius, o laikysena. Jei žmogus prisideda be atsakomybės, jis gali daugiau ardyti negu padėti.
 
-Taip ėmė rastis pirmieji lėto dialogo su auditorija pavidalai.
+2029 metais dar nebuvo oficialaus dalyvio statuso. Tačiau buvo galima vis aiškiau apibrėžti, kokia vidinė nuostata kada nors būtų reikalinga. Tai: nuoseklumas, pagarba, gebėjimas tikrinti save, neperimti projekto savo ambicijoms ir laikytis bendros krypties.
+
+Ši mintis taip pat jungėsi su būsimu praktiniu etapu. Jei ateityje bus gamyba, darbas ir fondas, dalyvavimas negalės būti tik žodinė simpatija. Jis turės reikšti realų patikimumą. Todėl moralinė dalyvavimo kalba turėjo atsirasti anksčiau negu praktika.
+
+Balandžio 29 dienos įrašas patikslino svarbią ribą: priklausyti lengva, atsakyti sunku. Ateities dalyvavimas turi prasidėti nuo sunkesnio dalyko.
 
 SEO:
-SEO title: Pirmieji skaitytojai pradėjo siūlyti BVK temas
-Meta description: 2029 m. pirmieji skaitytojai pradėjo siūlyti temas ir aptarti galimas BVK svetainės kryptis.
-Slug: skaitytojai-pradejo-siulyti-bvk-temas-2029
+SEO title: Dalyvavimas kaip atsakomybė, ne priklausymas
+Meta description: 2029 m. BVK dalyvavimas pradėtas apibrėžti kaip atsakomybė, o ne paprastas priklausymas grupei.
+Slug: dalyvavimas-kaip-atsakomybe-2029
 
 IMAGE PROMPT:
-Photorealistic candid discussion scene with printed pages, notes and laptops around a small table, late summer light, natural gestures, no readable text.
+Photorealistic minimal civic desk scene, blank responsibility cards, one chair, spring evening light, no readable text, restrained mood.
 
 PABAIGOS BLOKAS:
-Publikuota: 2029-08-15
-Parengė: BVK kanono ir chronologijos redakcija
+Publikuota: 2029-04-29
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 9
-Data: 2029-09-10
-Rubrika: Kultūra
-Pavadinimas: Pradėtas rengti straipsnių ciklas apie būsimos Respublikos miestus, aplinką ir kasdienybę
+Data: 2029-05-14
+Rubrika: Archyvas
+Pavadinimas: Pirmą kartą sudarytas ankstyvų sąvokų tikslinimo sąrašas
 
 STRAIPSNIS:
-Rugsėjį pradėtas rengti naujas straipsnių ciklas, skirtas būsimos Respublikos miestams, aplinkai ir kasdieniam gyvenimui. Šis sprendimas buvo svarbus todėl, kad iki tol daug dėmesio teko principams ir struktūrai, o dabar imta aiškiau rodyti, kaip visa tai atrodytų žmogaus kasdienybėje.
+Gegužės viduryje buvo sudarytas pirmasis ankstyvų sąvokų tikslinimo sąrašas. Projektas jau turėjo daug žodžių, kuriuos reikėjo saugoti nuo per laisvo vartojimo: Respublika, BVK, skaitytojas, dalyvis, archyvas, kanonas, koordinavimas, socialinis paketas, gamyba.
 
-Straipsnių ciklo tikslas - parodyti miestą ne kaip dekoraciją, o kaip tvarkos, saugumo, darbo, poilsio ir kūrybos pusiausvyrą. Tokie tekstai vėliau taps vienu iš stipriausių būdų priartinti Respubliką prie skaitytojo vaizduotės.
+Šis sąrašas buvo reikalingas todėl, kad kai kurie žodžiai galėjo pradėti reikšti per daug. Pavyzdžiui, "Respublika" ankstyvuose tekstuose negali būti veikianti valstybė. "BVK" 2029 metais negali būti realus valdymo kontūras. "Dalyvis" dar negali būti oficialus narys. Tikslios ribos apsaugo nuo klaidingo tono.
 
-Būtent čia projektas dar labiau įžengė į gyvenamo pasaulio aprašymą.
+Sąvokų tikslinimas taip pat ruošė projektą 2030 metų posūkiui. Kai bus pradėta kalbėti apie juridines formas, gamybą ir realias pajamas, terminai turės būti dar griežtesni. Priešingu atveju tekstai gali atrodyti gražiai, bet reikšti neaiškiai.
+
+Šis darbas nebuvo matomas plačiam skaitytojui, tačiau jis buvo būtinas. Kiekvienas ilgalaikis pasaulis turi savo žodyną, o žodynas turi būti prižiūrimas taip pat rimtai kaip datos ar dokumentai.
+
+Gegužės 14 dienos įrašas įtvirtino terminologinę atsakomybę. Kuo didesnė ateities idėja, tuo mažiau ji gali sau leisti miglotus žodžius.
 
 SEO:
-SEO title: Pradėtas BVK miestų ir kasdienybės straipsnių ciklas
-Meta description: 2029 m. pradėtas rengti straipsnių ciklas apie būsimos Respublikos miestus, aplinką ir kasdienybę.
-Slug: bvk-miestu-ir-kasdienybes-ciklas-2029
+SEO title: Ankstyvų BVK sąvokų tikslinimo sąrašas
+Meta description: 2029 m. sudarytas pirmasis ankstyvų BVK sąvokų tikslinimo sąrašas, saugantis kanono aiškumą.
+Slug: ankstyvu-bvk-savoku-tikslinimas-2029
 
 IMAGE PROMPT:
-Photorealistic urban planning moodboard with street photos, green spaces, housing sketches and civic notes, early autumn light, no readable text.
+Photorealistic terminology archive scene, index cards and glossary folders, pencil marks, May daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2029-09-10
-Parengė: BVK kanono ir chronologijos redakcija
+Publikuota: 2029-05-14
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 10
-Data: 2029-10-22
-Rubrika: Archyvas
-Pavadinimas: Parengta pirmoji nuosekli darbinė 2026-2086 metų chronologijos redakcija
+Data: 2029-05-31
+Rubrika: Vystymasis
+Pavadinimas: Pradėta aiškiau atskirti viešą projektą, romaną ir būsimą praktinę kryptį
 
 STRAIPSNIS:
-Spalio mėnesį parengta pirmoji nuosekli darbinė Respublikos chronologijos redakcija, apimanti ilgą laikotarpį nuo ankstyvųjų užuomazgų iki brandesnių ateities etapų. Tai buvo vienas svarbiausių projekto struktūrinių laimėjimų per visą ankstyvąją fazę.
+Gegužės pabaigoje buvo aiškiau atskirti trys kryptys: viešas projektas, romanas ir būsima praktinė kryptis. Iki tol jos dažnai buvo aptariamos kartu, nes visos priklausė tam pačiam pasauliui. Tačiau 2029 metais tapo aišku, kad kiekviena turi turėti savo funkciją.
 
-Nors ši redakcija dar nebuvo galutinė, ji leido pirmą kartą matyti, kaip per dešimtmečius galėtų kisti tonas, institucijos, socialiniai santykiai ir viešasis gyvenimas. Taip atsirado pagrindas tolimesniam turinio planavimui.
+Viešas projektas skirtas skaityti, aiškinti ir kaupti archyvą. Romanas skirtas parodyti brandžios Respublikos žmogaus patirtį ir paslėptus klausimus. Būsima praktinė kryptis turės atsakyti į tai, kaip reali gamyba, pajamos ir organizacinės formos galėtų atsirasti tikrame pasaulyje.
 
-Nuo šiol Respublikos pasaulis jau turėjo savo ilgąją laiko ašį.
+Šis atskyrimas saugojo nuo painiavos. Jei romanas pradeda spręsti praktinius klausimus, jis tampa nebe romanu. Jei svetainė apsimeta veikiančia organizacija, ji praranda sąžiningumą. Jei praktinė kryptis pradeda remtis vien pasakojimu, ji lieka be pagrindo.
+
+Todėl 2029 metais buvo svarbu ne sujungti viską į vieną balsą, o tiksliai nubrėžti ribas. Visi trys keliai gali remtis bendru kanonu, tačiau jie negali pakeisti vienas kito.
+
+Gegužės 31 dienos įrašas parodė, kad projektas pradeda bręsti struktūriškai. Jis mokosi ne tik kurti sluoksnius, bet ir neleisti jiems susimaišyti.
 
 SEO:
-SEO title: Parengta pirmoji nuosekli darbinė BVK chronologijos redakcija
-Meta description: 2029 m. parengta pirmoji nuosekli darbinė 2026-2086 metų Respublikos chronologijos redakcija.
-Slug: pirmoji-darbine-bvk-chronologija-2029
+SEO title: Viešas projektas, romanas ir praktinė BVK kryptis
+Meta description: 2029 m. aiškiau atskirtas viešas BVK projektas, romanas ir būsima praktinė ekonominė kryptis.
+Slug: viesas-projektas-romanas-praktine-kryptis-2029
 
 IMAGE PROMPT:
-Photorealistic long-table timeline scene with decade markers, stacked revisions and archive materials, autumn daylight, no readable text, documentary realism.
+Photorealistic three-section planning scene, website sketches, manuscript pages, practical business notes, late May light, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2029-10-22
-Parengė: BVK kanono ir chronologijos redakcija
+Publikuota: 2029-05-31
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 11
-Data: 2029-11-13
-Rubrika: Vystymasis
-Pavadinimas: Patvirtinta kryptis, kad svetainė turi augti kaip būsimos visuomeninės sistemos simuliacinis modelis
+Data: 2029-06-12
+Rubrika: Ekonomika
+Pavadinimas: Ateities socialinis modelis pirmą kartą susietas su realių pajamų būtinybe
 
 STRAIPSNIS:
-Lapkričio mėnesį galutiniau įsitvirtino kryptis, kad svetainė turi augti ne kaip įprastas informacinis puslapis, o kaip būsimos visuomeninės sistemos simuliacinis modelis. Tai reiškė, kad jos turinys turi būti pakankamai nuoseklus, jog skaitytojas galėtų ne tik gauti informaciją, bet ir patirti kintančią tvarką.
+Birželio viduryje socialinis modelis pirmą kartą buvo tiesiogiai susietas su realių pajamų būtinybe. Iki tol dažnai buvo kalbama apie maistą, būstą, transportą, paramą šeimai ir saugesnę aplinką. Tačiau 2029 metais buvo aiškiau pasakyta: visa tai negali atsirasti be pajamų šaltinio.
 
-Šis sprendimas stipriai paveikė redakcinį mąstymą. Kiekviena publikacija nuo šiol turėjo būti vertinama pagal tai, ar ji stiprina bendrą pasaulį, o ne tik užpildo teminę spragą.
+Ši mintis atrodo paprasta, bet ji labai svarbi. Socialinis pažadas be ekonomikos tampa pažadu be pagrindo. Jei nėra produkto, pardavimo, darbo organizavimo ir fondo, nėra iš ko finansuoti net kukliausių lengvatų. Todėl ateities modelis turi prasidėti ne nuo teisių sąrašo, o nuo klausimo, kaip tos teisės bus išlaikomos.
 
-Taip buvo padėtas pagrindas daug rimtesniam ilgalaikės svetainės projektavimui.
+Tai nereiškė, kad žmogus tampa antraeilis. Priešingai, realios pajamos reikalingos tam, kad pagalba nebūtų tik žodis. Jei norima mažinti žmogaus naštą, reikia sukurti vertę, kuri tą naštą iš tikrųjų perima.
+
+2029 metais dar nebuvo skaičiuojamas konkretus verslo planas. Tačiau buvo padėtas principas: būsimas socialinis paketas turi augti tik iš patikrintos gamybos ir skaidraus fondo. Kitaip jis taps ne pagalba, o fikcija.
+
+Birželio 12 dienos įrašas yra vienas svarbiausių tiltų į 2030 metus. Jis pasako, kad nuo šiol ateities socialinė kalba turės išmokti skaičiuoti.
 
 SEO:
-SEO title: Patvirtintas BVK simuliacinio modelio principas
-Meta description: 2029 m. patvirtinta kryptis, kad svetainė turi augti kaip būsimos visuomeninės sistemos simuliacinis modelis.
-Slug: bvk-simuliacinio-modelio-principas-2029
+SEO title: Socialinis modelis susietas su realiomis pajamomis
+Meta description: 2029 m. BVK socialinis modelis pirmą kartą aiškiai susietas su realių pajamų ir gamybos būtinybe.
+Slug: socialinis-modelis-ir-realios-pajamos-2029
 
 IMAGE PROMPT:
-Photorealistic conceptual website planning scene with layered navigation maps and societal flow diagrams, late autumn light, no readable text.
+Photorealistic desk with family support notes, calculator, simple food items, blank budget sheets, June daylight, no readable text.
 
 PABAIGOS BLOKAS:
-Publikuota: 2029-11-13
-Parengė: BVK kanono ir chronologijos redakcija
+Publikuota: 2029-06-12
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
 
 ========================================================================
 ĮRAŠAS 12
-Data: 2029-12-18
-Rubrika: Archyvas
-Pavadinimas: Metų apžvalga: idėja įgavo tvirtesnį turinio karkasą ir istorinę ašį
+Data: 2029-06-27
+Rubrika: Teisė
+Pavadinimas: Pradėta svarstyti, kokių teisinių formų galėtų reikėti prieš bet kokią gamybą
 
 STRAIPSNIS:
-2029 metai tapo laikotarpiu, kai projektas įgijo tvirtesnį vidinį stuburą. Buvo tvarkomas pradinis kanonas, atskirti svetainės turinio sluoksniai, parengtas Baltijos erdvinis žemėlapis, sustiprinta romano ir dokumentinio pasaulio jungtis, išbandytos pusiau automatinės planavimo schemos, pradėtas susietas archyvas, pradėtas miestų ir kasdienybės ciklas, atsirado pirmoji nuosekli chronologijos redakcija.
+Birželio pabaigoje praktinis klausimas pasisuko į teisę. Jei ateityje norima pereiti prie gamybos, vien idėjos ir entuziazmo neužteks. Reikės teisinės formos, aiškių atsakomybės ribų, apskaitos, sutarčių ir supratimo, kas už ką atsako.
 
-Svarbiausia metų išvada - Respublikos idėja jau turi ne tik medžiagų masyvą, bet ir aiškią istorinio augimo ašį. Kartu tapo akivaizdu, kad tolimesnė plėtra reikalaus dar didesnės disciplinos.
+2029 metais dar nebuvo pasirenkama konkreti struktūra. Tačiau pradėta svarstyti, kokių formų galėtų reikėti: viešajam, švietimo ar informaciniam sluoksniui; skaitytojų ar būsimų dalyvių ratui; ir galimam ūkiniam branduoliui. Kiekviena forma turėtų atlikti savo funkciją.
 
-Metai užbaigiami kaip kanono sutvirtinimo etapas.
+Svarbiausia buvo nesumaišyti visko į vieną. Svetainė, romanas, viešas paaiškinimas ir būsima gamyba negali būti valdomi kaip viena miglota struktūra. Jei ateityje atsiras produkcija, darbuotojai ir pinigai, skaidrumas taps ne pasirinkimu, o būtinybe.
+
+Šis svarstymas taip pat saugojo nuo per ankstyvo veikimo. Prieš bet kokią gamybą reikia suprasti, kokios atsakomybės atsiranda. Gamyba nėra tik romantinis žingsnis į praktiką. Ji reiškia mokesčius, leidimus, darbo santykius ir riziką.
+
+Birželio 27 dienos įrašas pradeda teisinės atsargumo liniją. Ateities praktika turi būti ne tik įkvepianti, bet ir teisėtai švari.
 
 SEO:
-SEO title: 2029 m. BVK metų apžvalga
-Meta description: 2029 metų apžvalga: Respublikos idėja įgavo tvirtesnį turinio karkasą ir aiškesnę istorinę ašį.
-Slug: bvk-2029-metu-apzvalga
+SEO title: Kokių teisinių formų reikės prieš BVK gamybą
+Meta description: 2029 m. pradėta svarstyti, kokių teisinių formų reikėtų prieš bet kokią BVK gamybą ar praktinį etapą.
+Slug: teisines-formos-pries-bvk-gamyba-2029
 
 IMAGE PROMPT:
-Photorealistic end-of-year archive table with chronology volumes, maps and refined folders, winter evening light, no readable text.
+Photorealistic legal planning scene, blank forms, folders, calculator, simple desk, summer light, no readable text, documentary realism.
 
 PABAIGOS BLOKAS:
-Publikuota: 2029-12-18
-Parengė: BVK kanono ir chronologijos redakcija
+Publikuota: 2029-06-27
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 13
+Data: 2029-07-10
+Rubrika: Archyvas
+Pavadinimas: 2026-2029 metų tekstai pradėti jungti į pirmą nuoseklią kilmės grandinę
+
+STRAIPSNIS:
+Liepos pradžioje 2026-2029 metų tekstai pradėti jungti į pirmą nuoseklią kilmės grandinę. Tai buvo daugiau negu archyvinis darbas. Reikėjo parodyti, kaip vienas etapas gimdo kitą: asmeninis klausimas, svetainė, skaitytojas, dalyvavimo kalba, kanono tvarka ir praktinio pagrindo poreikis.
+
+Kilmės grandinė padėjo išvengti įspūdžio, kad ekonominė tema atsiranda staiga. Ji iš tikrųjų buvo pačioje pradžioje, bet po to kurį laiką slėpėsi po kultūriniu ir skaitmeniniu sluoksniu. 2029 metais ji sugrįžta brandesnė, nes jau turi svetainės, skaitytojo ir kanono patirtį.
+
+Šis jungimas taip pat leido aiškiau planuoti 2030 metus. Jeigu nuo 2030 metų bus pradėta kalbėti apie produktą, sąnaudas ir teisinę formą, skaitytojas turi matyti, kodėl tai logiška. Kilmės grandinė suteikia tokį pagrindą.
+
+Archyviniu požiūriu tai buvo pirmas bandymas ankstyvus metus skaityti ne pavieniui, o kaip kelią. Kiekvienas metų planas tampa ne atskiru dokumentu, o grandinės nare.
+
+Liepos 10 dienos įrašas sutvirtino 2029 metų užduotį: prieš pereinant prie skaičių, reikia surišti istoriją. Be istorijos skaičiai atrodys šalti, o be skaičių istorija liks be pagrindo.
+
+SEO:
+SEO title: 2026-2029 metų BVK kilmės grandinė
+Meta description: 2029 m. 2026-2029 metų BVK tekstai pradėti jungti į pirmą nuoseklią projekto kilmės grandinę.
+Slug: 2026-2029-bvk-kilmes-grandine
+
+IMAGE PROMPT:
+Photorealistic long archive table with four year sections connected by string, July daylight, no readable text, clear documentary mood.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-07-10
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 14
+Data: 2029-07-29
+Rubrika: Kultūra
+Pavadinimas: Ateities pasakojimas pradėjo ryškinti klausimą apie paslėptą koordinavimo sluoksnį
+
+STRAIPSNIS:
+Liepos pabaigoje ateities pasakojime dar aiškiau ėmė ryškėti paslėpto koordinavimo sluoksnio klausimas. Tai buvo ne viešas technologinis teiginys, o narrative kryptis, leidžianti romanui tirti tai, ko įprastos naujienos negali tiesiogiai atskleisti.
+
+Brandžios Respublikos paviršius gali atrodyti ramus: veikia paslaugos, miestas, fondai, archyvai, transportas, kasdienė tvarka. Tačiau romanas leidžia klausti, kas palaiko šį sudėtingumą. Ar žmonės mato visą sistemą? Ar jie žino, kokie sprendimai priimami už įprasto viešo lygmens?
+
+Ši tema buvo ypač jautri, nes AI ankstyvais metais negali būti pateikiamas kaip valdžia. 2029 metais jis vis dar yra įrankis kanonui, tekstams ir prieštaravimams tikrinti. Tačiau tolimame 2085 metų pasakojime jo šešėlis gali būti daug gilesnis.
+
+Todėl paslėpto koordinavimo sluoksnis buvo laikomas atsargiai. Jis neturi pavirsti pigia paslaptimi ar sąmokslo dekoracija. Jis turi kelti rimtą klausimą apie sudėtingos tvarkos kainą ir žmogaus santykį su nematoma pagalba.
+
+Liepos 29 dienos įrašas parodė, kad romano sluoksnis gali gilinti visą kanoną. Jis neatsako už praktinius 2030 metų klausimus, bet primena, kad bet kokia ateities sistema turės ir nematomą pusę.
+
+SEO:
+SEO title: Paslėpto koordinavimo sluoksnis BVK pasakojime
+Meta description: 2029 m. ateities BVK pasakojime ryškėjo paslėpto koordinavimo sluoksnio ir AI gelmės klausimas.
+Slug: pasleptas-koordinavimo-sluoksnis-bvk-2029
+
+IMAGE PROMPT:
+Photorealistic subtle archive-and-technology scene, dim desk, layered diagrams, natural laptop light, no neon, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-07-29
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 15
+Data: 2029-08-13
+Rubrika: Technologijos
+Pavadinimas: AI pagalba pradėti tikrinti ilgos chronologijos prieštaravimai
+
+STRAIPSNIS:
+Rugpjūčio viduryje AI pradėtas naudoti ilgos 2026-2086 metų chronologijos prieštaravimams tikrinti. Tai buvo natūralus žingsnis po kelių metų kanono plėtros, nes rankiniu būdu vis sunkiau buvo matyti, kur vienas laikotarpis pradeda prieštarauti kitam.
+
+Tikrinami buvo ne vien faktiniai dalykai. Svarbus buvo ir tonas. 2026 metai turi skambėti kaip pradžia, 2027 - kaip pirmas skaitymas, 2028 - kaip dalyvavimo kalbos pradžia, 2029 - kaip kanono išlyginimas ir pasiruošimas praktikai. Jei stilius susimaišo, istorija praranda tikrumą.
+
+AI čia veikė kaip redakcinis pagalbininkas. Jis galėjo parodyti galimą nesuderinamumą, bet negalėjo nuspręsti, kuris sprendimas teisingas. Galutinis pasirinkimas priklausė nuo kanono logikos ir žmogaus atsakomybės.
+
+Šis darbas buvo ypač reikalingas prieš 2030 metus. Kai į tekstus įžengs ekonomika, juridinės formos ir produktų skaičiavimai, klaidų kaina padidės. Todėl ilga chronologija turėjo būti kiek įmanoma tvirtesnė.
+
+Rugpjūčio 13 dienos įrašas rodo technologiją kaip drausmės priemonę. Kuo didesnė istorija, tuo daugiau reikia įrankių, kurie padeda jai nesubyrėti.
+
+SEO:
+SEO title: AI tikrina ilgą BVK chronologiją
+Meta description: 2029 m. AI pagalba pradėti tikrinti ilgos 2026-2086 metų BVK chronologijos prieštaravimai.
+Slug: ai-tikrina-ilga-bvk-chronologija-2029
+
+IMAGE PROMPT:
+Photorealistic analytical workspace with long chronology sheets, laptop, colored connection threads, August daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-08-13
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 16
+Data: 2029-08-30
+Rubrika: Vystymasis
+Pavadinimas: Vietinė Rūdiškių pradžia dar kartą susieta su platesne Baltijos erdve
+
+STRAIPSNIS:
+Rugpjūčio pabaigoje dar kartą buvo grįžta prie geografinės projekto logikos. Pradžia lieka Rūdiškės ir jų apylinkės. Tai svarbu, nes būtent čia atsirado pirmasis klausimas apie mažą kooperatyvą. Tačiau ateities pasaulis negali likti tik vienos vietos istorija.
+
+Todėl 2029 metais vietinė pradžia buvo dar kartą susieta su platesne Baltijos erdve: Lietuva, Latvija ir Estija. Tai nebuvo politinis pareiškimas ir ne veikiančios Respublikos teritorija. Tai buvo būsimos vaizduotės ir ilgalaikės chronologijos laukas.
+
+Šis ryšys padėjo išvengti dviejų klaidų. Pirmoji klaida - pamiršti Rūdiškes ir padaryti pradžią abstrakčią. Antroji - uždaryti visą ateities pasaulį vienoje vietoje. Tarp šių kraštutinumų reikėjo laikyti aiškią formulę: Rūdiškės kaip istorinis pradžios centras, Baltijos erdvė kaip ilgalaikis mastas.
+
+Šis geografijos patikslinimas taip pat bus svarbus praktiniam etapui. Gamybos pradžia gali būti vietinė, tačiau idėjos kalba ir ateities chronologija jau turi platesnį horizontą.
+
+Rugpjūčio 30 dienos įrašas sutvirtino erdvinę projekto atmintį. Didelis kelias gali prasidėti mažoje vietoje, bet jis neturi prarasti nei tos vietos, nei savo platesnio kvėpavimo.
+
+SEO:
+SEO title: Rūdiškės ir platesnė Baltijos BVK erdvė
+Meta description: 2029 m. vietinė Rūdiškių pradžia dar kartą susieta su platesne Lietuvos, Latvijos ir Estijos ateities erdve.
+Slug: rudiskes-ir-baltijos-bvk-erdve-2029
+
+IMAGE PROMPT:
+Photorealistic Baltic map planning scene, small local marker and wider regional outline, soft August light, no readable place names.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-08-30
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 17
+Data: 2029-09-12
+Rubrika: Ekonomika
+Pavadinimas: Pirmą kartą išskirta maisto kryptis kaip galimas būsimas pirmasis bandymas
+
+STRAIPSNIS:
+Rugsėjo viduryje maisto kryptis pirmą kartą buvo aiškiau išskirta kaip galimas būsimas pirmasis praktinis bandymas. Tai dar nebuvo sprendimas pradėti gamybą, bet jau buvo rimtesnis atrankos ženklas po kelerių metų svarstymų.
+
+Maistas pasirinktas ne dėl simbolikos, o dėl kasdienybės. Jis reikalingas kiekvieną dieną, gali būti parduodamas išorėje, gali būti naudojamas darbuotojų pietums, nuolaidoms, produktų rinkiniams ir ateityje - labai ankstyvam socialinio paketo pagrindui. Jis tiesiogiai jungia ekonomiką su žmogaus gyvenimu.
+
+Tačiau 2029 metais buvo pabrėžta, kad maisto kryptis reikalauja daug atsargumo. Reikia patalpų, higienos, leidimų, kokybės kontrolės, tiekimo, apskaitos, logistikos ir realios paklausos. Tai nėra romantiška duonos kepimo idėja, o sudėtingas mažos gamybos klausimas.
+
+Šiame etape pradėta kalbėti apie platesnę maisto dirbtuvę, o ne vieną produktą. Duona, paprasta kepykla, paruošti pietūs, sriubos, pusgaminiai, daržovių paruošos ir produktų rinkiniai galėtų sudaryti lankstesnę pradžią nei vienas siauras gaminys.
+
+Rugsėjo 12 dienos įrašas atveria tiesioginį tiltą į 2030 metus. Nuo šiol praktinis klausimas turi aiškesnį vardą: maisto gamybos kryptis.
+
+SEO:
+SEO title: Maisto kryptis kaip pirmasis BVK bandymas
+Meta description: 2029 m. maisto gamybos kryptis pirmą kartą aiškiau išskirta kaip galimas būsimas pirmasis BVK praktinis bandymas.
+Slug: maisto-kryptis-pirmasis-bvk-bandymas-2029
+
+IMAGE PROMPT:
+Photorealistic food workshop planning still life, bread tin, soup pot, vegetables, delivery boxes, cost papers blurred, September light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-09-12
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 18
+Data: 2029-09-28
+Rubrika: Darbas
+Pavadinimas: Darbuotojo-dalyvio sąvoka pradėta ruošti praktiniam paaiškinimui
+
+STRAIPSNIS:
+Rugsėjo pabaigoje darbuotojo-dalyvio sąvoka pradėta ruošti praktiniam paaiškinimui. Iki tol ji buvo daugiau moralinė ir teorinė: žmogus, kuris ne tik dirba, bet ir tam tikru būdu dalyvauja bendrame modelyje. Tačiau artėjant prie ekonominių klausimų reikėjo daugiau aiškumo.
+
+Jeigu ateityje atsiras mažas gamybos branduolys, žmogus negalės būti aprašomas vien gražiais žodžiais. Reikės suprasti, kas yra jo darbo sutartis, kas yra jo teisės, kokios pagalbos jis gali tikėtis, kokios atsakomybės turi laikytis ir kaip jis gali pasitraukti.
+
+Tai buvo ypač svarbu, nes kooperatyvinė kalba gali lengvai tapti miglota. Jei sakoma, kad žmogus dalyvauja, turi būti aišku, ar tai teisinė narystė, moralinė laikysena, darbo santykis ar būsimos sistemos kryptis. 2029 metais dar nebuvo galutinio atsakymo, bet klausimas jau buvo paruoštas.
+
+Darbuotojo-dalyvio sąvoka taip pat susiejo darbą su socialiniu pažadu. Jei žmogus prisideda prie gamybos, ateityje gali atsirasti maistas, mokymai, transporto parama ar fondas. Tačiau visa tai turi būti aprašyta skaidriai, kad pagalba nevirstų priklausomybe.
+
+Rugsėjo 28 dienos įrašas pradeda praktinį darbo kalbos valymą. Ateities modelis negalės kalbėti apie žmogų miglotai, kai prasidės reali gamyba.
+
+SEO:
+SEO title: Darbuotojo-dalyvio sąvoka ruošiama praktikai
+Meta description: 2029 m. darbuotojo-dalyvio sąvoka pradėta ruošti praktiniam BVK darbo ir gamybos paaiškinimui.
+Slug: darbuotojo-dalyvio-savoka-praktikai-2029
+
+IMAGE PROMPT:
+Photorealistic work planning scene, gloves, blank contract pages, lunch container, calculator, autumn light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-09-28
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 19
+Data: 2029-10-10
+Rubrika: Archyvas
+Pavadinimas: Svetainės ankstyvas sluoksnis pradėtas tvarkyti pagal metus, ne pagal atsitiktines temas
+
+STRAIPSNIS:
+Spalio pradžioje svetainės ankstyvas sluoksnis pradėtas tvarkyti pagal metus, o ne vien pagal atsitiktines temas. Šis sprendimas atrodė techninis, bet iš tikrųjų buvo labai svarbus chronologijos patikimumui.
+
+Iki tol skaitytojas galėjo susidurti su atskiromis temomis: svetainė, romanas, dalyvavimas, AI, gamyba. Tačiau be metų tvarkos ne visada aišku, kas atsirado anksčiau, kas vėliau ir kodėl viena tema ruošia kitą. Metų struktūra leidžia matyti raidą.
+
+2026 metai turi rodyti asmeninį klausimą. 2027 - pirmą atvirą skaitymą. 2028 - dalyvavimo kalbą. 2029 - kanono išlyginimą ir pasiruošimą praktikai. Tokia tvarka padeda skaitytojui nesupainioti ankstyvų idėjų su vėlesnėmis išvadomis.
+
+Metinė struktūra taip pat būtina vidiniam darbui. Kai ateityje bus kuriami 2030, 2031 ar 2033 metų planai, reikės matyti, iš ko jie išauga. Jei ankstyvas sluoksnis bus tvarkomas tik pagal temas, šis ryšys susilpnės.
+
+Spalio 10 dienos įrašas įtvirtino metų logiką kaip vieną iš pagrindinių BVK svetainės principų. Istorija turi būti skaitoma laike, kitaip ji praranda priežastis.
+
+SEO:
+SEO title: Svetainės ankstyvas sluoksnis tvarkomas pagal metus
+Meta description: 2029 m. BVK svetainės ankstyvas sluoksnis pradėtas tvarkyti pagal metus, o ne atsitiktines temas.
+Slug: ankstyvas-sluoksnis-pagal-metus-2029
+
+IMAGE PROMPT:
+Photorealistic archive shelving concept, year folders arranged in order, timeline cards, October daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-10-10
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 20
+Data: 2029-10-27
+Rubrika: Teisė
+Pavadinimas: Paaiškėjo, kad be aiškios teisinės formos praktinis etapas negalės prasidėti
+
+STRAIPSNIS:
+Spalio pabaigoje teisinis klausimas buvo suformuluotas dar griežčiau: be aiškios teisinės formos praktinis etapas negalės prasidėti. Tai buvo svarbus saugiklis prieš per greitą perėjimą nuo idėjos prie veiklos.
+
+Jeigu ateityje bus gamyba, bus ir atsakomybė. Reikės sąskaitų, sutarčių, darbuotojų santykių, mokesčių, leidimų, galbūt kooperatinės bendrovės ar kitos formos. Negalima gaminti, parduoti ir kurti fondo remiantis vien gražia ateities vizija.
+
+Tuo pačiu buvo aišku, kad skirtingi projekto sluoksniai gali reikalauti skirtingų formų. Viešas informacinis sluoksnis, skaitytojų ratas ir ūkinis branduolys nėra tas pats. Juos supainiojus, atsiras teisinė ir moralinė migla.
+
+2029 metais dar nebuvo priimtas konkretus sprendimas, bet jau buvo nustatyta sąlyga: prieš bet kokį praktinį etapą reikės teisės ir apskaitos švaros. Tai nėra biurokratinis smulkmeniškumas, o pasitikėjimo pagrindas.
+
+Spalio 27 dienos įrašas aiškiai pasako: būsima ekonomika turi prasidėti ne tik nuo produkto, bet ir nuo teisėto indo, kuriame tas produktas gali būti gaminamas.
+
+SEO:
+SEO title: Be teisinės formos BVK praktika negalės prasidėti
+Meta description: 2029 m. paaiškėjo, kad be aiškios teisinės formos BVK praktinis gamybos etapas negalės prasidėti.
+Slug: be-teisines-formos-bvk-praktika-2029
+
+IMAGE PROMPT:
+Photorealistic legal and business planning desk, blank registration forms, calculator, folders, autumn evening light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-10-27
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 21
+Data: 2029-11-12
+Rubrika: Vystymasis
+Pavadinimas: Pirmą kartą suformuluotas perėjimas nuo skaitymo prie būsimos praktikos
+
+STRAIPSNIS:
+Lapkričio viduryje pirmą kartą aiškiau suformuluotas perėjimas nuo skaitymo prie būsimos praktikos. 2027 metais projektas buvo atvertas skaitytojui. 2028 metais atsirado dalyvavimo kalba. 2029 metais reikėjo pripažinti, kad vien skaitymo neužteks, jei kada nors norima patikrinti socialinę idėją.
+
+Šis perėjimas dar nereiškė veiksmo. Nebuvo skelbiama gamybos pradžia, nebuvo renkama komanda ir nebuvo kuriama organizacija. Tačiau buvo pradėta aiškiai sakyti, kad kitas istorinis etapas turės užduoti praktinius klausimus: ką gaminti, kokia forma, už kokias lėšas, kokiai rinkai ir su kokia atsakomybe.
+
+Svarbu buvo išlaikyti lėtą ritmą. Per greitas šuolis į praktiką galėtų sugriauti visą ankstyvą pasitikėjimą. Tačiau per ilgas likimas tik tekstuose taip pat būtų pavojingas. Todėl perėjimas turi būti ruošiamas, o ne vaidinamas.
+
+Ši formuluotė paruošė 2030 metus kaip skaičiavimo, pasirinkimų ir juridinio atsargumo etapą. 2029 metai tampa tiltu: dar ne praktika, bet jau aiškus jos poreikis.
+
+Lapkričio 12 dienos įrašas įtvirtina naują horizontą. Skaitymas atvedė iki klausimo, kurį kada nors reikės patikrinti rankomis.
+
+SEO:
+SEO title: Perėjimas nuo skaitymo prie BVK praktikos
+Meta description: 2029 m. pirmą kartą suformuluotas perėjimas nuo BVK skaitymo erdvės prie būsimos praktinės krypties.
+Slug: nuo-skaitymo-prie-bvk-praktikos-2029
+
+IMAGE PROMPT:
+Photorealistic transition planning scene, website notes gradually leading to production cost sheets, November daylight, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-11-12
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 22
+Data: 2029-11-29
+Rubrika: Ekonomika
+Pavadinimas: 2030 metams pradėta ruošti pirmoji gamybos ir sąnaudų klausimų kryptis
+
+STRAIPSNIS:
+Lapkričio pabaigoje pradėta tiesiogiai ruoštis 2030 metų ekonominei krypčiai. Pirmą kartą buvo aiškiau numatyta, kad kitais metais reikės kalbėti nebe vien apie bendrą gamybos idėją, o apie konkretesnius sąnaudų, produktų, patalpų ir pardavimo klausimus.
+
+Šis pasiruošimas dar nebuvo verslo planas. Tai buvo klausimų kryptis: kokie maisto produktai galėtų būti pradėti mažiausia rizika? Kiek reikėtų įrangos? Kokie būtų higienos reikalavimai? Kas būtų pirmi pirkėjai? Kaip būtų skaičiuojama savikaina? Kokia dalis galėtų grįžti į fondą?
+
+Tokie klausimai pakeitė toną. Projektas vis dar išliko ankstyvas, bet jame pradėjo girdėtis daugiau praktinės kalbos. Tai natūralus perėjimas po kelių metų skaitymo, kanono ir dalyvavimo principų formavimo.
+
+Svarbu, kad 2029 metais dar nebuvo daromi pažadai. Nežadamas pelnas, darbo vietos ar socialinis paketas. Užduotis buvo tik paruošti klausimus taip, kad 2030 metais būtų galima pradėti sąžiningai skaičiuoti.
+
+Lapkričio 29 dienos įrašas yra tiesioginis vartas į kitą etapą. Ateities Respublikos kelias nuo šiol turi praeiti per sąnaudas, produktą ir realų rinkos patikrinimą.
+
+SEO:
+SEO title: Ruošiama BVK gamybos ir sąnaudų kryptis 2030 m.
+Meta description: 2029 m. pradėta ruošti 2030 metų BVK gamybos, sąnaudų, produktų ir pardavimo klausimų kryptis.
+Slug: bvk-gamybos-sanaudu-kryptis-2030-paruosa
+
+IMAGE PROMPT:
+Photorealistic cost planning desk, simple food samples, equipment sketches, calculator, blank spreadsheet pages, late November light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-11-29
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 23
+Data: 2029-12-12
+Rubrika: Archyvas
+Pavadinimas: 2029 metai užbaigti kaip kanono išlyginimo ir praktinio posūkio parengimas
+
+STRAIPSNIS:
+Gruodžio viduryje 2029 metai buvo apibendrinti kaip kanono išlyginimo ir praktinio posūkio parengimo laikotarpis. Per metus buvo peržiūrėta ankstyva grandinė, patikslintos sąvokos, išryškintas praktinio pagrindo poreikis, sustiprinta metų struktūra ir pradėta ruošti ekonominė kryptis.
+
+Svarbiausia metų reikšmė buvo ne nauja didelė idėja, o vidinių ryšių sutvirtinimas. Projektas suprato, kad prieš kalbant apie gamybą reikia turėti aiškią pradžios istoriją, terminus, skaitytojo kelią, dalyvavimo ribas ir teisinio atsargumo principą.
+
+Šie metai taip pat sugrąžino projektą prie pirmojo klausimo. Po svetainės, romano ir kanono darbų vėl tapo matoma, kad pradžioje buvo ne institucija, o gamybos ir žmogaus gyvenimo klausimas. 2030 metais šis klausimas turės būti nagrinėjamas rimčiau.
+
+2029 metų pabaigoje dar nebuvo praktikos. Tačiau jau buvo pagrindas suprasti, kodėl praktikos reikės. Tai labai svarbus skirtumas: projektas nešoka į veikimą, o sąmoningai paruošia jo vietą.
+
+Gruodžio 12 dienos įrašas uždaro metus kaip pasiruošimo etapą. Po jo 2030 metai gali prasidėti ne kaip staigus posūkis, o kaip logiškas kitas klausimas.
+
+SEO:
+SEO title: 2029 m. BVK kanono išlyginimas ir praktikos parengimas
+Meta description: 2029 m. BVK metai užbaigti kaip kanono išlyginimo ir praktinio ekonominio posūkio parengimas.
+Slug: 2029-kanono-islyginimas-praktikos-parengimas
+
+IMAGE PROMPT:
+Photorealistic year-end archive desk, completed year folders, practical planning sheets ready for next year, December light, no readable text.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-12-12
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
+
+========================================================================
+ĮRAŠAS 24
+Data: 2029-12-29
+Rubrika: Vystymasis
+Pavadinimas: Prieš 2030 metus įtvirtinta mintis, kad ateities Respublika turi pradėti skaičiuoti
+
+STRAIPSNIS:
+2029 metų pabaigoje buvo įtvirtinta mintis, kuri atvers kitą etapą: ateities Respublika turi pradėti skaičiuoti. Ne tam, kad prarastų savo kultūrinį, archyvinį ar pasakojimo sluoksnį, o tam, kad tie sluoksniai nepakibtų ore.
+
+Skaičiuoti reiškia klausti, kiek kainuoja žaliavos, patalpos, įranga, transportas, darbas, pakuotė, leidimai, apskaita ir klaidos. Skaičiuoti reiškia suprasti, kad socialinis pažadas turi turėti ekonominį pagrindą. Skaičiuoti reiškia gerbti žmogų ne žodžiais, o realiu pajėgumu padėti.
+
+Ši mintis buvo svarbi ir dėl to, kad ji keitė projekto brandą. Iki šiol buvo galima daug kur remtis vaizduote, struktūra ir klausimais. Nuo 2030 metų reikės daugiau blaivumo. Gamybos kryptis turės būti vertinama ne pagal grožį, o pagal tai, ar ji gali veikti.
+
+Tuo pačiu buvo aišku, kad skaičiavimas neturi sunaikinti svajonės. Jis turi ją apsaugoti. Tik tai, kas moka skaičiuoti, gali kada nors tapti pagalba, o ne vien gražiu tekstu.
+
+Gruodžio 29 dienos įrašas užbaigia 2029 metus kaip paskutinį pasiruošimą prieš praktinę kalbą. Nuo šiol ateities Respublikos kelias turės praeiti per labai paprastą, bet sunkų klausimą: ar tai iš tiesų gali išsilaikyti?
+
+SEO:
+SEO title: Prieš 2030 metus Respublika turi pradėti skaičiuoti
+Meta description: 2029 m. pabaigoje įtvirtinta mintis, kad ateities BVK Respublika turi pradėti skaičiuoti realias sąnaudas.
+Slug: respublika-turi-pradeti-skaiciuoti-2029
+
+IMAGE PROMPT:
+Photorealistic final year-end planning scene, calculator, blank cost sheets, archive folders, quiet winter night, no readable text, sober documentary realism.
+
+PABAIGOS BLOKAS:
+Publikuota: 2029-12-29
+Parengė: Ankstyvojo Respublikos pasaulio redakciniai užrašai
