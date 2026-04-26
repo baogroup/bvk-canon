@@ -1,0 +1,78 @@
+BVK CANON
+Pirmųjų metų kronika
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / pirmasis atminties sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Kronikos kodas:
+FC-2026-03
+
+Tipas:
+pirmųjų metų kronika / darbo atminties pastaba
+
+Pavadinimas:
+Kai pokalbiai pradėjo pamesti atmintį
+
+# FC-2026-03
+# Kai pokalbiai pradėjo pamesti atmintį
+
+Data: 2026 m. balandis
+Vieta: asmeninė darbo erdvė / skirtingi pokalbiai su DI
+Būsena: vieša archyvinė kronika
+
+## Pirminis balsas
+
+Kuo daugiau atsirado idėjų, tuo aiškiau pasimatė viena problema: pokalbiai pradėjo pamesti atmintį.
+Viename pokalbyje buvo sutariama dėl vienos taisyklės, kitame ji jau būdavo primiršta.
+Vienur buvo pataisytas pavadinimas, kitur vėl sugrįždavo sena forma.
+Viename tekste buvo nustatyta, kad 2026 metais dar nėra jokios veikiančios Respublikos, o kitame vėl atsirasdavo per daug oficialus tonas, lyg viskas jau būtų sukurta.
+
+Tai pradėjo trukdyti.
+Ne dėl to, kad trūko minčių, o dėl to, kad minčių buvo per daug ir jos neturėjo vienos vietos.
+Kiekvienas naujas pokalbis galėjo tapti nauja pradžia, bet kartu galėjo sugriauti tai, kas jau buvo sutvarkyta.
+
+Atsirado supratimas, kad kanonas negali gyventi tik pokalbiuose.
+Pokalbis tinka gimdyti mintį, ginčytis, taisyti, ieškoti pavadinimo, klausti ir bandyti.
+Bet pokalbis nėra pakankamai patikima atmintis, jeigu projektas turi augti dešimtmečius.
+
+## Pirmi pastebėti pavojai
+
+- seni pavadinimai sugrįžta į naujus tekstus;
+- ankstyvi metai pradedami rašyti per vėlyvu valstybiniu tonu;
+- naujienos kartais skamba kaip tarnybinės pažymos;
+- dokumentai gali dubliuotis;
+- LINK_MAP gali neparodyti visų prasminių ryšių;
+- viename pokalbyje priimtas sprendimas kitame gali būti pamirštas;
+- asistentas gali kurti gražų tekstą, bet ne pagal paskutinę kanono logiką;
+- be vieno šaltinio tiesos projektas pradeda skilti į versijas.
+
+## Darbinis klausimas
+
+Kaip išlaikyti ilgą projektą, jeigu jo atmintis negali priklausyti nuo vieno pokalbio lango?
+
+## Pirmi atsakymai
+
+- reikia turėti failus, o ne tik pokalbius;
+- reikia turėti indeksus;
+- reikia atskirti PUBLIC ir SERVICE sluoksnius;
+- reikia turėti aiškią CURRENT redakciją;
+- reikia matyti, kurie dokumentai yra pagrindiniai;
+- reikia taisyklių, kaip atkurti kontekstą naujame pokalbyje;
+- reikia vietos, kur istorija nedingsta po naujos žinutės.
+
+## Svarbiausias posūkis
+
+Atminties problema parodė, kad projektui reikia ne tik tekstų, bet ir architektūros.
+Idėja gali gimti pokalbyje, bet kanonas turi gyventi struktūroje.
+
+## Archyvinė pastaba
+
+Ši kronika laikoma vienu pirmųjų liudijimų, kad BVK Canon pradėjo suvokti atmintį kaip atskirą infrastruktūros klausimą.
+Ateities archyvo logika gimė ne iš patogumo, o iš būtinybės apsaugoti projektą nuo pamiršimo, dublikatų ir atsitiktinių nukrypimų.
