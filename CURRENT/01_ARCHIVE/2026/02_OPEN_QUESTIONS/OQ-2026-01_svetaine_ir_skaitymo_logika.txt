@@ -1,0 +1,114 @@
+BVK CANON
+Atviras klausimas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / klausimų ir spragų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Klausimo kodas:
+OQ-2026-01
+
+Tipas:
+QUESTION-LOG / svetainės skaitymo logikos pastaba
+
+Tema:
+Svetainė ir skaitymo logika
+
+# OQ-2026-01
+# Svetainė ir skaitymo logika
+
+Data: 2026 m. balandis-gegužė
+Būsena: atviras klausimas
+
+## Pagrindinis klausimas
+
+Kaip paaiškinti skaitytojui, kad BVK svetainė yra ne paprastas tinklaraštis, ne jau veikiančios valstybės puslapis ir ne vien romanas, o kelių sluoksnių ateities pasaulio, archyvo ir projekto erdvė?
+
+## Kodėl klausimas svarbus
+
+Svetainės forma gali suklaidinti skaitytoją, jeigu nebus aiškios skaitymo logikos.
+Viena dalis tekstų gali atrodyti kaip ateities naujienos.
+Kita dalis — kaip dokumentai.
+Trečia — kaip projekto užrašai.
+Ketvirta — kaip literatūrinio pasaulio fragmentai.
+Penkta — kaip ankstyvas archyvas.
+
+Jeigu skaitytojas nesupras šių sluoksnių skirtumo, jis gali manyti, kad projektas apsimeta jau veikiančia institucija arba bando pateikti ateities fikciją kaip dabarties faktą.
+
+Todėl reikalingas skaitymo raktas.
+
+## Pirmi galimi sluoksniai
+
+1. Dabartinis projektinis sluoksnis.
+Tai 2026 metų kūrimo procesas, pirmi užrašai, chronologija, klausimai, archyvas ir darbo pastabos.
+
+2. Ateities naujienų sluoksnis.
+Tai tekstai, parašyti taip, lyg skaitytojas žiūrėtų į brandesnės Respublikos pasaulį ateityje.
+
+3. Dokumentų sluoksnis.
+Tai įstatymai, modeliai, principai, archyvinės ištraukos, protokolai ir norminiai dokumentai, kurie gali priklausyti skirtingiems laikotarpiams.
+
+4. Kronikų sluoksnis.
+Tai pirmųjų metų atmintis: kaip gimė klausimai, svetainė, pavadinimai, simboliai, GitHub ir darbas su DI.
+
+5. Naratyvinis arba romano sluoksnis.
+Tai meninis būdas tyrinėti ateities pasaulį, žmogaus laisvę, paslėptą valdymą ir moralinius pasirinkimus.
+
+## Pirmi skaitymo principai
+
+- skaitytojas gali pradėti nuo naujienų, bet turi turėti kelią į archyvą;
+- kiekvienas svarbus viešas tekstas turi turėti dokumentinę atramą;
+- svetainė turi leisti skaityti paviršiuje ir giliau;
+- 2026 metų tekstai neturi apsimesti 2086 metų žiniomis;
+- ateities naujienos turi būti aiškiai atskiriamos nuo dabartinio projekto paaiškinimų;
+- dokumentų lygiai turi būti suprantami: PUBLIC, SERVICE, RESTRICTED, SEALED;
+- skaitytojui turi būti aišku, kad projektas yra pasaulio kūrimas, idėjinis archyvas ir ilgas eksperimentas, o ne jau egzistuojanti valstybės struktūra.
+
+## Galimas puslapis skaitytojui
+
+Ateityje svetainei gali prireikti puslapio:
+
+„Kaip skaityti šį projektą“
+
+Jame reikėtų paaiškinti:
+
+- kodėl svetainėje yra ateities datos;
+- kodėl yra 2026 metų archyvas;
+- kuo skiriasi naujiena, dokumentas, kronika ir romanas;
+- kaip skaityti 2086 metų publikacijas;
+- kodėl kai kurie dokumentai yra darbo sluoksnyje;
+- kodėl ne viskas skirta viešam skaitymui;
+- kaip projektas pildomas laikui bėgant.
+
+## Rizikos
+
+- per daug paaiškinimų gali sunaikinti atradimo jausmą;
+- per mažai paaiškinimų gali sukelti nepasitikėjimą;
+- netinkamas tonas gali atrodyti kaip politinė pretenzija;
+- svetainė gali atrodyti kaip žaidimas, nors projektas siekia rimtesnio socialinio ir kultūrinio sluoksnio;
+- dokumentai gali atrodyti per oficialūs ankstyvam etapui.
+
+## Laikinas atsakymas
+
+Svetainė turi turėti dvigubą skaitymo principą:
+
+1. skaitytojas gali pirmiausia patirti pasaulį per naujienas;
+2. skaitytojas turi turėti aiškų kelią į paaiškinimą, archyvą ir dokumentinį pagrindą.
+
+## Kas dar neaišku
+
+- ar puslapis „Kaip skaityti“ turi būti matomas pirmame meniu;
+- kiek atvirai reikia paaiškinti fikcinį / ateities sluoksnį;
+- ar 2086 metų naujienos turi būti rodomos prieš 2026 metų archyvą;
+- kaip vizualiai atskirti laikotarpius;
+- kaip išlaikyti paslaptį, bet nekurti klaidinančio įspūdžio.
+
+## Išvada
+
+Svetainės skaitymo logika yra vienas pirmųjų atvirų klausimų, nes nuo jos priklauso, ar skaitytojas projektą supras kaip gyvą ateities pasaulio archyvą, ar supainios jį su paprastu tinklaraščiu, politine deklaracija arba fikcine valstybės imitacija.
