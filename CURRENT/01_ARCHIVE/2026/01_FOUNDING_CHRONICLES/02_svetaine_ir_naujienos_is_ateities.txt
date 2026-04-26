@@ -1,0 +1,71 @@
+BVK CANON
+Pirmųjų metų kronika
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / pirmasis atminties sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Kronikos kodas:
+FC-2026-02
+
+Tipas:
+pirmųjų metų kronika / svetainės krypties pastaba
+
+Pavadinimas:
+Svetainė ir naujienos iš ateities
+
+# FC-2026-02
+# Svetainė ir naujienos iš ateities
+
+Data: 2026 m. balandžio pabaiga
+Vieta: Rūdiškės / asmeninė darbo erdvė
+Būsena: vieša archyvinė kronika
+
+## Pirminis balsas
+
+Atsirado mintis, kad svetainė neturėtų būti paprastas tinklaraštis apie idėją.
+Paprastas tinklaraštis per daug greitai pradėtų aiškinti, įrodinėti ir gintis.
+Jis kalbėtų apie projektą iš šalies, tarsi reikėtų įtikinti skaitytoją, kad kažkas kada nors galėtų būti įmanoma.
+
+Todėl kilo kitoks klausimas: kas būtų, jeigu skaitytojas pirmiausia pamatytų ne aiškinimą, o patį būsimą pasaulį?
+Ne manifestą, ne programą, ne pažadą, o naujieną iš laiko, kurio dar nėra.
+
+Tokiu atveju svetainė galėtų veikti kaip langas.
+Žmogus atsidaro puslapį ir ne iš karto supranta, kur pateko. Jis mato datas, miestus, dokumentus, socialinius sprendimus, kasdienius įvykius ir pradeda klausti: ar tai žaidimas, romanas, projektas, valstybės modelis, ar kažkas tarp jų?
+
+Ši forma pasirodė svarbi, nes ateities Respublikos neįmanoma paaiškinti vienu tekstu.
+Ji turėtų būti atrandama palaipsniui: per naujienas, archyvą, dokumentus, chronologiją, romaną, komentarus ir mažus pėdsakus.
+
+## Pirmi svetainės principai
+
+- svetainė turi atrodyti kaip gyva naujienų ir dokumentų erdvė;
+- skaitytojas turi galėti pradėti nuo ateities, o paskui grįžti į pradžią;
+- 2086 metų sluoksnis rodo brandesnį pasaulį, bet 2026 metų sluoksnis rodo gimimą;
+- naujienos neturi būti vien propaganda ar paaiškinimai;
+- dokumentai turi suteikti gylį ir patikimumą;
+- archyvas turi parodyti, kad idėja neatsirado iš tuštumos;
+- svetainė turi turėti kelis sluoksnius: viešą, dokumentinį, naratyvinį ir vidinį darbo sluoksnį.
+
+## Atviri klausimai
+
+1. Ar skaitytojas supras, kad tai pasaulio kūrimas, o ne bandymas apsimesti veikiančia valstybe?
+2. Kiek reikia paaiškinimo pradžioje, kad nepradingtų paslaptis?
+3. Ar ateities naujienos turi būti pirmos, ar reikia pradėti nuo 2026 metų pradžios?
+4. Kaip atskirti meninį sluoksnį nuo dokumentinio?
+5. Ar svetainėje turi būti aiškiai nurodyta, kaip skaityti projektą?
+6. Kaip išvengti per daug sauso biurokratinio tono?
+
+## Pirminė išvada
+
+Svetainė turi būti ne tik vieta tekstams.
+Ji turi tapti įėjimu į būsimą pasaulį, kuriame skaitytojas pats po truputį randa ryšį tarp naujienų, dokumentų, archyvo ir žmogaus kasdienybės.
+
+## Archyvinė pastaba
+
+Ši kronika saugo vieną svarbiausių ankstyvų sprendimų: projektas pasirinko ne tiesiogiai aiškinti ateities visuomenės modelį, o leisti jį pamatyti per naujienų ir archyvo formą.
