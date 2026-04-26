@@ -1,0 +1,153 @@
+BVK CANON
+Atviras klausimas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / klausimų ir spragų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Klausimo kodas:
+OQ-2026-10
+
+Tipas:
+QUESTION-LOG / pirmųjų sąvokų pastaba
+
+Tema:
+Pirmųjų sąvokų žodynas
+
+# OQ-2026-10
+# Pirmųjų sąvokų žodynas
+
+Data: 2026 m. balandis-gegužė
+Būsena: atviras klausimas
+
+## Pagrindinis klausimas
+
+Kokias sąvokas reikia apibrėžti pirmiausia, kad skaitytojas ir pats projektas nepainiotų BVK, Respublikos, archyvo, naujienų, kronikų, dokumentų, bendruomenės ir būsimos valstybės?
+
+## Kodėl klausimas svarbus
+
+Ankstyvame projekte tie patys žodžiai gali greitai pradėti reikšti per daug.
+Jeigu sąvokos nebus atskirtos, BVK gali būti supainiotas su valstybės pavadinimu, svetainė su institucija, naujienos su dabarties faktu, archyvas su paprastu tekstų sandėliu, o bendruomenė su organizacija ar politiniu judėjimu.
+
+Pirmasis žodynas reikalingas ne tam, kad uždarytų visas prasmes, o tam, kad nustatytų pirmas ribas.
+
+## Pirmos būtinos sąvokos
+
+### BVK
+
+BVK / Bendrasis Valdymo Kontūras — valdymo, koordinavimo ir sistemos karkaso sąvoka.
+2026 metais tai dar nėra veikiantis valdymo kontūras, valstybės organas ar institucija.
+Ankstyvame sluoksnyje BVK yra projekto ir būsimo pasaulio struktūrinė idėja.
+
+### Baltijos Kooperatinė Respublika
+
+Baltijos Kooperatinė Respublika — būsimos brandžios valstybės tapatybės pavadinimas.
+2026 metais ji dar neegzistuoja kaip valstybė.
+Sąvoka naudojama kaip ateities pasaulio ir ilgos chronologijos orientyras.
+
+### Respublika
+
+Respublika — sutrumpintas būsimos Baltijos Kooperatinės Respublikos pavadinimas, naudojamas tada, kai kontekstas aiškus.
+Ankstyvuose dokumentuose reikia saugotis, kad šis žodis neskambėtų taip, lyg valstybė jau veiktų.
+
+### Svetainė
+
+Svetainė — vieša skaitmeninė erdvė, kurioje skelbiamos naujienos, archyvas, dokumentai, chronologija, paaiškinimai ir pasakojimo sluoksnis.
+Ji nėra valstybės institucija.
+
+### Naujienos iš ateities
+
+Naujienos iš ateities — viešas pasakojimo ir pasaulio kūrimo formatas, leidžiantis skaitytojui pamatyti brandesnį ateities sluoksnį.
+Jos neturi būti painiojamos su realiomis dabarties institucijų naujienomis.
+
+### Archyvas
+
+Archyvas — dokumentų, kronikų, darbo užrašų, sprendimų, modelių ir istorinių sluoksnių sistema.
+Archyvas nėra tik failų rinkinys. Jis saugo projekto atmintį ir leidžia tikrinti, iš kur atsirado naujienos, sąvokos ir sprendimai.
+
+### Pirmųjų metų kronikos
+
+Pirmųjų metų kronikos — 2026 metų atminties sluoksnis, fiksuojantis, kaip gimė klausimai, svetainė, pavadinimai, simboliai, DI darbo principai, GitHub ir dokumentinė disciplina.
+Tai nėra vėlyvos Respublikos oficialus metraštis.
+
+### Dokumentinė atrama
+
+Dokumentinė atrama — pirminis dokumentas, kuriuo remiasi naujiena, straipsnis, sprendimas ar viešas teiginys.
+Jeigu naujiena kalba apie užrašą, sprendimą, projektą ar protokolą, toks dokumentas turi egzistuoti.
+
+### Bendruomenė
+
+2026 metais bendruomenė reiškia galimą skaitytojų, klausimų ir diskusijų ratą.
+Tai dar nėra organizacija, kooperatyvas, partija ar narių struktūra.
+
+### Dalyvis
+
+Dalyvis — žmogus, kuris ne tik skaito, bet ir prisideda klausimais, pastabomis, vertimais, pasiūlymais ar diskusija.
+Formalus dalyvio statusas ankstyvame etape dar neapibrėžtas.
+
+### Kanonas
+
+Kanonas — veikianti dokumentų, sąvokų, chronologijos, taisyklių ir pasaulio logikos sistema.
+Kanonas nėra vien literatūrinė enciklopedija. Jis yra atminties ir nuoseklumo mechanizmas.
+
+### CURRENT
+
+CURRENT — dabartinė veikianti kanono redakcija GitHub struktūroje.
+Joje laikomi aktualūs dokumentai.
+
+### PUBLIC
+
+PUBLIC — dokumentai, skirti atviram skaitymui arba viešam kanono sluoksniui.
+
+### SERVICE
+
+SERVICE — darbo dokumentai, indeksai, planai, taisyklės ir struktūriniai failai, reikalingi kanono tvarkymui.
+Jie gali būti matomi assistant-sluoksnyje, bet nėra viešo pasaulio dokumentai.
+
+### RESTRICTED ir SEALED
+
+RESTRICTED ir SEALED — riboto arba uždaro prieigos lygiai, naudojami tada, kai dokumentas turi būti fiksuojamas kanone, bet neturi būti atvirai publikuojamas.
+2026 metų viešame sluoksnyje tokios sąvokos turi būti naudojamos atsargiai.
+
+## Sąvokos, kurių reikia vengti ankstyvame sluoksnyje
+
+2026 metų dokumentuose reikia atsargiai naudoti šiuos žodžius:
+
+- ministerija;
+- valstybės institucija;
+- pilietis;
+- konstitucija;
+- įstatymas;
+- vyriausybė;
+- oficialus sprendimas;
+- kooperatyvo narys;
+- partija;
+- valstybinis biudžetas;
+- socialinis standartas kaip jau veikianti sistema.
+
+Šie žodžiai gali būti minimi tik kaip būsimi arba teoriniai klausimai, bet ne kaip 2026 metų realybė.
+
+## Pirmas darbo principas
+
+Kiekviena sąvoka turi atsakyti į du klausimus:
+
+1. Ką ji reiškia 2026 metų ankstyvame sluoksnyje?
+2. Kuo ji gali tapti vėlesnėje chronologijoje?
+
+Jeigu šie du lygiai sumaišomi, tekstas pradeda klaidinti.
+
+## Laikinas atsakymas
+
+Pirmasis sąvokų žodynas turi būti kuriamas palaipsniui.
+Jis neturi būti per daug ilgas, bet turi apibrėžti tuos žodžius, kurie gali sukelti didžiausią painiavą.
+
+## Išvada
+
+Pirmųjų sąvokų žodynas yra būtinas tam, kad projektas galėtų augti nuosekliai.
+Neaiškūs žodžiai vėliau tampa neaiškiais dokumentais, o neaiškūs dokumentai — kanono klaidomis.
