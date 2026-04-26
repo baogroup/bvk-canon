@@ -1,0 +1,152 @@
+BVK CANON
+Правила создания новостей BVK
+
+Статус: ACTIVE
+Версия: v1.0
+Дата первого принятия: 2026-04-26
+Текущая редакция: 2026-04-26
+История поправок: CHANGE-0089
+Уровень доступа: SERVICE
+Историческая принадлежность: служебный редакционный слой
+Связанные закрытые документы: нет
+Коды связанных закрытых документов: нет
+
+Назначение:
+Этот файл закрепляет правила создания новостей BVK для всех периодов канона.
+
+## 1. Основной принцип
+
+Новость BVK - это не архивная справка и не служебная записка.
+
+Новость должна звучать как публикация текущего дня или ближайших дней события. Если материал датирован
+2026, 2027, 2046 или 2086 годом, он должен быть написан изнутри своего времени, без знания будущего результата.
+
+Редакция в новости не должна говорить так, будто она уже знает, чем событие станет через годы.
+
+## 2. Что должна делать новость
+
+Каждая новость должна передавать ощущение текущего момента и отвечать на вопросы:
+
+1. Что произошло сейчас?
+2. Почему это важно именно сейчас?
+3. Что пока не является готовым решением?
+4. Какие вопросы остаются открытыми?
+5. Что планируется рассмотреть дальше?
+
+Для ранних лет проекта особенно важно подчёркивать незавершённость, осторожность и поисковый характер процесса.
+
+## 3. Разрешённые временные формулы
+
+Для новостей текущего дня допустимы такие формулы:
+
+- šiandien pirmą kartą užrašyta;
+- šiandien pradėta svarstyti;
+- šią savaitę pirmą kartą aptarta;
+- šiuo metu ieškoma atsakymo;
+- kol kas tai nėra parengtas projektas;
+- kol kas tai tik pirminė kryptis;
+- ši mintis dar nėra oficiali programa;
+- artimiausiu metu ketinama svarstyti toliau;
+- pagrindinis klausimas išlieka;
+- dar nėra aišku, kaip tai galėtų būti įgyvendinta;
+- pirmiausia siekiama suprasti, ar tokia kryptis apskritai įmanoma.
+
+Svarbu:
+šios atsargumo formulės turi būti naudojamos tik tada, kai jos natūraliai reikalingos.
+Negalima kiekvienos naujienos paversti pasiteisinimu, ko projektas dar nėra.
+
+## 4. Запрещённые ретроспективные формулы
+
+Если новость датирована днём события, нельзя писать так, будто редакция смотрит на событие из будущего.
+
+Запрещённые или нежелательные формулы:
+
+- tapo pirmu žingsniu;
+- šis įrašas tapo;
+- vėliau paaiškėjo;
+- tai nulėmė tolesnę raidą;
+- nuo šio momento prasidėjo;
+- ši mintis tapo būsimos sistemos pagrindu;
+- vėlesniais metais tai išaugo į;
+- istorija parodė;
+- šis sprendimas vėliau leido;
+- būtent nuo tada prasidėjo kelias į.
+
+Такие формулы допустимы только в текстах, которые по своему жанру являются более поздним обзором,
+аналитикой, хронологией или архивным комментарием.
+
+## 5. Новость не должна быть служебной запиской
+
+Не допускается стиль, в котором новость выглядит как внутренняя бюрократическая справка.
+
+Плохо:
+- „Buvo suformuota kryptis.“
+- „Įrašas pažymėjo procesą.“
+- „Dokumente apibrėžta raidos pradžia.“
+- „Šis etapas įtvirtino pagrindą.“
+
+Лучше:
+- „Šiandien pirmą kartą užrašyta mintis...“
+- „Šią savaitę pradėta lyginti...“
+- „Pirmame sąraše atsirado...“
+- „Artimiausiu metu šią kryptį ketinama svarstyti toliau.“
+
+## 6. Служебные страницы сайта не являются новостями
+
+Нельзя превращать технические действия сайта в новости, если они не имеют самостоятельной ценности для читателя.
+
+Не являются новостями сами по себе:
+- sukurtas puslapis „Apie projektą“;
+- pridėtas meniu;
+- parengtas DUK;
+- sukurta nuoroda;
+- atnaujintas mygtukas;
+- paaiškinta, kaip skaityti svetainę;
+- sutvarkyta navigacija;
+- pakeista vidinė struktūra.
+
+Новостью считается содержательный публичный материал:
+- paskelbta pirmoji naujiena iš 2086 metų pasaulio;
+- paskelbta Rūdiškių pradžios istorija;
+- pradėta publikacijų serija apie pirmuosius produktus;
+- paskelbta būsimos Konstitucijos ištrauka;
+- pristatytas pirmasis ženklas;
+- paskelbta romano pasaulio ištrauka;
+- paskelbtas 2026-2046 metų kelio žemėlapis;
+- pradėta praktinė produkto patikra;
+- paskelbti pirkėjų atsiliepimai;
+- parengta savikainos lentelė, jei ji yra turinio objektas.
+
+## 7. Для раннего периода 2026-2030
+
+Ранний период нельзя писать как зрелую государственную историю.
+
+В 2026-2030 годах BVK ещё не является действующим государством, муниципалитетом,
+официальным городом или готовой системой. Это путь от личной идеи, рабочих записей,
+первых проб, сайта, архива, осторожных публикаций и общественного интереса.
+
+Эти ограничения должны удерживаться в каноне, но не превращаться в постоянные публичные оправдания.
+
+Плохо:
+„Tai dar ne miestas ir ne valstybė.“
+
+Лучше:
+„Šiuo metu svarstoma, kaip darbo, būsto ir kasdienio saugumo klausimus būtų galima matyti kartu.“
+
+## 8. Обязательная проверка перед публикацией
+
+Перед публикацией новости нужно проверить:
+
+1. Событие сформулировано как происходящее сейчас.
+2. Текст не знает будущего результата.
+3. Нет поздней исторической оценки там, где должна быть новость текущего дня.
+4. Тон не похож на служебную записку.
+5. Текст показывает, что пока не готово или остаётся открытым, если это важно для события.
+6. Если есть ссылки на записи, решения, законы, проекты или архив, такие документы реально существуют.
+7. Если документ вводится впервые, он создан одновременно с новостью.
+8. Новость не является сообщением о служебной странице сайта, меню, кнопке или внутренней навигации.
+
+## 9. Короткая формула правила
+
+Новость сообщает о живом сегодняшнем событии.
+Архив подтверждает, что это событие имеет документальный след.
