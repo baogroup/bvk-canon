@@ -1,53 +1,81 @@
 BVK CANON
-Архивная запись
+Archyvo įrašas
 
-Статус: ACTIVE
-Версия: v1.0
-Дата первого принятия: 2026-04-26
-Текущая редакция: 2026-04-26
-История поправок: CHANGE-0089
-Уровень доступа: PUBLIC
-Историческая принадлежность: ранний идейный слой
-Связанные закрытые документы: нет
-Коды связанных закрытых документов: нет
+Statusas: ACTIVE
+Versija: v1.1
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: CHANGE-0089
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
 
-Код документа:
+Dokumento kodas:
 A-2026-01-12-01
 
-Предлагаемый путь:
-CURRENT/01_ARCHIVE/2026/A-2026-01-12-01_pirmasis_bendruomeninio_ukio_klausimas.txt
+Tipas:
+ankstyvasis darbo užrašas / pirminio svarstymo ištrauka
 
-Тип:
-ankstyvasis darbo užrašas / vieša archyvinė ištrauka
-
-Название:
+Pavadinimas:
 Pirmasis bendruomeninio ūkio klausimas Rūdiškių apylinkėse
 
-Связь с новостью:
-Связанный архивный документ к первой публикации от 2026 m. sausio 12 d.
+Susijusi publikacija:
+2026 m. sausio 12 d. – Rūdiškių apylinkėse užrašyta pirmoji bendruomeninio ūkio idėja
 
 # A-2026-01-12-01
 # Pirmasis bendruomeninio ūkio klausimas Rūdiškių apylinkėse
 
 Data: 2026 m. sausio 12 d.
-Tipas: ankstyvasis darbo užrašas
+Vieta: Rūdiškių apylinkės
+Tipas: pirminio svarstymo užrašas
 Būsena: vieša archyvinė ištrauka
 
-Šiame ankstyvajame užraše pirmą kartą suformuluotas klausimas, ar Rūdiškių apylinkėse būtų įmanoma kurti nedidelį bendruomeninį ūkį arba gamybos vietą, kuri tarnautų ne vien privačiam pelnui, bet ir kasdieniam žmonių saugumui.
+## Darbinis klausimas
 
-Pirminė mintis kilo iš paprasto pastebėjimo: net dirbantis žmogus dažnai lieka priklausomas nuo kainų, būsto išlaidų, transporto, darbdavio sprendimų ir nepastovių pajamų.
+Ar Rūdiškių apylinkėse būtų įmanoma sukurti mažą bendrą ūkį arba gamybos vietą, kuri gamintų realų kasdienį produktą ir dalį sukuriamos vertės grąžintų žmogaus kasdieniam saugumui?
 
-Užraše išskirtos kelios pirmosios kryptys:
+## Pirminės mintys
 
-- vietinė maisto gamyba;
-- mažas bendras ūkis;
-- darbo ir kasdienio saugumo ryšys;
-- dalies sukuriamos vertės grąžinimas bendram stiprėjimui;
-- klausimas, ar ekonominė veikla gali būti planuojama kartu su žmogaus gyvenimo poreikiais.
+- pradėti nuo paprasto produkto, kurio žmonėms reikia kasdien;
+- svarstyti duoną, raugintus arba marinuotus agurkus, konservuotas daržoves, sriubas, paruoštus pietus ir kitus vietinius produktus;
+- skaičiuoti ne tik žaliavas, bet ir žmogaus darbo laiką;
+- aiškiai matyti, kiek kainuoja maža produkto partija;
+- dalį sukuriamos vertės palikti bendram rezervui;
+- tikrinti, ar mažas ūkis gali mažinti žmogaus kasdienį nesaugumą;
+- vengti didelių pažadų, kol nėra patikrintas bent vienas paprastas produktas.
 
-Tai pirmas bandymas užrašyti problemą taip, kad ją būtų galima svarstyti toliau.
+## Pirmi galimi produktai
 
-Рекомендуемая связь в новости:
+- formine duona;
+- paprasti kepiniai;
+- rauginti agurkai;
+- marinuoti agurkai;
+- konservuotos daržovės;
+- sriubos stiklainiuose;
+- paruošti pietūs;
+- uogienės;
+- žolelių arbatos;
+- sezoniniai vietiniai produktai.
 
-Susijęs archyvo įrašas:
-A-2026-01-12-01 – Pirmasis bendruomeninio ūkio klausimas Rūdiškių apylinkėse
+## Pirmi klausimai
+
+1. Koks produktas tinkamiausias pirmai patikrai?
+2. Ar žmonėms svarbesnė kaina, kokybė ar bendro ūkio principas?
+3. Ar produktą galima gaminti mažomis partijomis?
+4. Kaip skaičiuoti žmogaus darbo laiką?
+5. Kiek kainuotų žaliavos, pakuotė ir energija?
+6. Ar produktą būtų galima kartoti kas savaitę?
+7. Ar po būtinos savikainos liktų bent maža dalis bendram rezervui?
+8. Kas valdytų bendrą rezervą?
+9. Kokia pagalba žmogui būtų svarbiausia pirmiausia: maistas, transportas, darbo saugumas ar būsto išlaidos?
+
+## Pirminė kryptis
+
+Pradėti ne nuo didelės sistemos, o nuo mažo klausimo:
+
+ar vienas paprastas produktas galėtų tapti pirmu būdu patikrinti, ar bendras ūkis gali kurti ne tik pajamas, bet ir daugiau kasdienio saugumo žmogui?
+
+## Pastaba
+
+Tai pirminė darbo ištrauka. Ji nėra sprendimas, programa, įstatymas ar veiklos planas.
