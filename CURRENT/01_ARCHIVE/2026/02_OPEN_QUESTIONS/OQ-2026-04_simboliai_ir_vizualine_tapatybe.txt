@@ -1,0 +1,99 @@
+BVK CANON
+Atviras klausimas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / klausimų ir spragų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Klausimo kodas:
+OQ-2026-04
+
+Tipas:
+QUESTION-LOG / simbolių ir vizualinės tapatybės pastaba
+
+Tema:
+Simboliai ir vizualinė tapatybė
+
+# OQ-2026-04
+# Simboliai ir vizualinė tapatybė
+
+Data: 2026 m. gegužė
+Būsena: atviras klausimas
+
+## Pagrindinis klausimas
+
+Kaip naudoti logotipus, ženklus, fлагus ir vizualinius simbolius taip, kad jie padėtų projektui turėti atpažįstamą veidą, bet neapsimestų jau patvirtinta valstybės simbolika?
+
+## Kodėl klausimas svarbus
+
+Vizualinė tapatybė gali labai greitai suteikti projektui rimtumo pojūtį.
+Tačiau 2026 metais tai pavojinga, jeigu ženklai pradeda atrodyti kaip jau veikiančios valstybės simboliai.
+
+Projektui reikia atpažįstamumo, bet nereikia melagingos oficialumo iliuzijos.
+Todėl ankstyvi logotipai, флагai ir ženklai turi būti saugomi kaip paieškos sluoksnis, o ne kaip galutinai patvirtinta Respublikos simbolika.
+
+## Pirmi simbolikos sluoksniai
+
+1. Projekto ženklas.
+Naudojamas svetainei, archyvui ir viešam pristatymui.
+
+2. BVK kontūro ženklas.
+Gali rodyti valdymo, koordinavimo ir struktūros idėją, bet 2026 metais dar nėra veikiančio valdymo organo ženklas.
+
+3. Būsimos Respublikos simbolika.
+Gali būti kuriama kaip ateities pasaulio vizualinis sluoksnis, bet negali būti pateikiama kaip dabartinė valstybės simbolika.
+
+4. Kompozicinis Baltijos флагas.
+Gali jungti Lietuvos, Latvijos ir Estijos spalvinę atmintį, bet turi būti aiškiai pažymėtas kaip ankstyvas projektinis variantas.
+
+5. Atmesti eskizai.
+Turi būti saugomi, jeigu jie padeda suprasti paieškos kelią.
+
+## Galima флаго idėja
+
+Ankstyvas флагas gali būti kuriamas kaip Балтийского пространства spalvinė kompozicija:
+
+- mėlynas sluoksnis — šiaurinis ir estiškas atminties pėdsakas;
+- geltonas sluoksnis — lietuviška šviesos, lauko ir derliaus atmintis;
+- žalias sluoksnis — žemė, miškas, gamyba ir vieta;
+- raudonas sluoksnis — darbas, gyvybė, istorinė kaina;
+- tamsiai raudonas / bordo sluoksnis — latviška istorinės atminties kryptis.
+
+Tai neturi būti mechaninė trijų dabartinių флагų suma.
+Tai turi būti ankstyvas bandymas parodyti bendrą Baltijos erdvę.
+
+## Atviri klausimai
+
+1. Ar ankstyvas флагas turi būti naudojamas svetainės šапkoje?
+2. Ar reikia atskiro BVK ženklo ir atskiro Respublikos ženklo?
+3. Ar logotipe turi būti tekstas, ar pakanka ženklo?
+4. Kaip žymėti senus / atmestus variantus?
+5. Ar флагas turi būti horizontalus, herbinis ar labiau projekto simbolis?
+6. Kaip išvengti агрессивной politinės эстетики?
+7. Ar reikia juodai balto varianto dokumentams?
+8. Kada simbolis laikomas aktyviu, o kada tik archyviniu?
+
+## Laikinas atsakymas
+
+2026 metais visi simboliai turi būti laikomi ankstyvais projekto arba pasaulio kūrimo variantais.
+Jie gali būti naudojami svetainėje, bet jų статусas turi būti aiškus: EARLY_DRAFT, ACTIVE_CONCEPT, PUBLIC_SITE_USE, ARCHIVED, REJECTED arba SUPERSEDED.
+
+## Galimi būsimi dokumentai
+
+- simbolių indeksas;
+- logotipo aprašymo kortelė;
+- флаго aprašymo kortelė;
+- atmestų eskizų registras;
+- viešo naudojimo taisyklės;
+- skirtumas tarp projekto ženklo ir būsimos valstybės simbolikos.
+
+## Išvada
+
+Simboliai padeda idėjai tapti atpažįstamai, bet ankstyvame etape jie turi būti naudojami atsargiai.
+2026 metų simbolika yra paieška, ne valstybinis patvirtinimas.
