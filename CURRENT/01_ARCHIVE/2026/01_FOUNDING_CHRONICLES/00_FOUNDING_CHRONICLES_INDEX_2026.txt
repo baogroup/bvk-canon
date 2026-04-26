@@ -1,0 +1,112 @@
+BVK CANON
+Pirmųjų metų kronikų indeksas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / pirmasis atminties sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Paskirtis:
+Šis indeksas registruoja 2026 metų Pirmųjų metų kronikas.
+Tai nėra naujienų planas, įstatymų rinkinys ar vėlyvas valstybės archyvas.
+Tai gyvas ankstyvojo projekto atminties sluoksnis: kaip gimė klausimai, svetainė, ateities naujienų formatas, pavadinimo paieška, ženklai, darbas su dirbtiniu intelektu, atminties problema pokalbiuose ir GitHub kaip kanono atmintis.
+
+Pagrindinis principas:
+2026 metais dar nėra Respublikos, veikiančio BVK, partijos, kooperatyvo, konstitucijos ar valstybės teisės.
+Yra tik pirmieji klausimai, darbo pokalbiai, užrašai, pavadinimų bandymai, svetainės sumanymas, ateities naujienų forma, archyvo poreikis ir pastanga neleisti idėjai išsisklaidyti.
+
+## Pirmasis atminties sluoksnis
+
+Pirmasis atminties sluoksnis — tai 2026 metų dokumentai, kuriuose projektas dar nėra institucija, bet jau pradeda įgyti kalbą, ženklus, struktūrą, atmintį ir viešą pasakojimo formą.
+
+Šis sluoksnis turi būti skaitomas kaip pradžios dirbtuvė, o ne kaip vėlesnės Respublikos oficialus metraštis.
+
+## Kronikų sąrašas
+
+FC-2026-01
+Failas: 01_pirmasis_klausimas_ir_vieta.txt
+Pavadinimas: Pirmasis klausimas ir Rūdiškių vieta
+Tipas: pirmųjų metų kronika
+Būsena: numatytas / kuriamas
+Paskirtis: užfiksuoti, kad pradžia buvo ne valstybės projektas, o klausimas apie mažą vietą ir žmogaus kasdienį saugumą.
+
+FC-2026-02
+Failas: 02_svetaine_ir_naujienos_is_ateities.txt
+Pavadinimas: Svetainė ir naujienos iš ateities
+Tipas: pirmųjų metų kronika
+Būsena: numatytas / kuriamas
+Paskirtis: užfiksuoti sprendimą projektą rodyti per būsimų metų naujienas, o ne per paprastą manifestą.
+
+FC-2026-03
+Failas: 03_atminties_problema_pokalbiuose.txt
+Pavadinimas: Kai pokalbiai pradėjo pamesti atmintį
+Tipas: pirmųjų metų kronika
+Būsena: numatytas / kuriamas
+Paskirtis: užfiksuoti vieną svarbiausių ankstyvų problemų — idėjų praradimą tarp skirtingų pokalbių su DI.
+
+FC-2026-04
+Failas: 04_github_kaip_kanono_atmintis.txt
+Pavadinimas: GitHub kaip kanono atmintis
+Tipas: pirmųjų metų kronika
+Būsena: numatytas / kuriamas
+Paskirtis: užfiksuoti perėjimą nuo pokalbių ir atsitiktinių tekstų prie repo-first kanono.
+
+FC-2026-05
+Failas: 05_pavadinimo_zenklo_ir_simboliu_paieska.txt
+Pavadinimas: Pavadinimo, ženklo ir simbolių paieška
+Tipas: pirmųjų metų kronika
+Būsena: numatytas / kuriamas
+Paskirtis: užfiksuoti, kaip ieškota pavadinimo, ženklo, vėliavos ir viešo projekto veido.
+
+FC-2026-06
+Failas: 06_di_kaip_darbo_pasalbininkas.txt
+Pavadinimas: Dirbtinis intelektas kaip darbo pašnekovas
+Tipas: pirmųjų metų kronika
+Būsena: numatytas
+Paskirtis: užfiksuoti DI vaidmenį kaip pokalbio, struktūros, kritikos ir atminties pagalbininko, o ne kaip valdžios.
+
+FC-2026-07
+Failas: 07_pirmasis_svetaines_strukturos_zemelapis.txt
+Pavadinimas: Pirmasis svetainės struktūros žemėlapis
+Tipas: pirmųjų metų kronika
+Būsena: numatytas
+Paskirtis: užfiksuoti pirmas svetainės rubrikas: naujienas, archyvą, dokumentus, chronologiją, paaiškinimus, kultūrinį sluoksnį.
+
+FC-2026-08
+Failas: 08_pirmoji_bendruomenes_mintis.txt
+Pavadinimas: Pirmoji bendruomenės mintis
+Tipas: pirmųjų metų kronika
+Būsena: numatytas
+Paskirtis: užfiksuoti, kad pirmoji bendruomenė buvo ne organizacija, o galimų skaitytojų, pokalbių ir dalyvavimo idėja.
+
+FC-2026-09
+Failas: 09_pirmieji_klaidinantys_zingsniai_ir_taisymas.txt
+Pavadinimas: Pirmieji klaidinantys žingsniai ir taisymas
+Tipas: pirmųjų metų kronika
+Būsena: numatytas
+Paskirtis: užfiksuoti, kad projektas mokėsi iš klaidų: per ankstyvų naujienų, netikslių dokumentų, per daug oficialaus tono ir atminties spragų.
+
+FC-2026-10
+Failas: 10_pirmiau_archyvas_o_tik_po_to_naujienos.txt
+Pavadinimas: Pirmiau archyvas, o tik po to naujienos
+Tipas: pirmųjų metų kronika
+Būsena: numatytas
+Paskirtis: užfiksuoti 2026 m. balandžio pabaigos posūkį: viešos naujienos turi remtis tikrais pirminiais dokumentais.
+
+## Redakcinė pastaba
+
+Pirmųjų metų kronikos gali turėti du balsus:
+
+1. 2026 metų pirminį balsą — be žinojimo, kuo viskas virs ateityje.
+2. Trumpą archyvinę pastabą — aiškiai atskirtą nuo pirminio teksto, skirtą vėlesniam tyrėjui.
+
+Pirminis balsas neturi skambėti kaip 2086 metų istoriko išvada.
+Archyvinė pastaba gali trumpai nurodyti, kodėl dokumentas svarbus kanono atminčiai.
+
+Išvada:
+Pirmųjų metų kronikos saugo ne jau veikiančios Respublikos faktus, o jos galimybės gimimą.
