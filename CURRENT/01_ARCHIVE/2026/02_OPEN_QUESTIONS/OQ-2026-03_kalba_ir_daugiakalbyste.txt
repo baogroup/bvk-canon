@@ -1,0 +1,95 @@
+BVK CANON
+Atviras klausimas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / klausimų ir spragų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Klausimo kodas:
+OQ-2026-03
+
+Tipas:
+QUESTION-LOG / kalbos ir daugiakalbystės pastaba
+
+Tema:
+Kalba ir daugiakalbystė
+
+# OQ-2026-03
+# Kalba ir daugiakalbystė
+
+Data: 2026 m. balandis-gegužė
+Būsena: atviras klausimas
+
+## Pagrindinis klausimas
+
+Kokiomis kalbomis ankstyvas BVK projektas turi kalbėti su skaitytoju ir kaip neperkelti būsimos Respublikos kalbos politikos į 2026 metus per anksti?
+
+## Kodėl klausimas svarbus
+
+Projektas gimsta lietuviškoje aplinkoje, bet jo pirmos mintys ir darbo procesas gali vykti keliomis kalbomis.
+Svetainė turi būti suprantama vietos skaitytojui, bet pats pasaulis ir jo knyginis, dokumentinis bei idėjinis sluoksnis gali turėti platesnę auditoriją.
+
+Jeigu kalbos klausimas nebus atskirtas, gali kilti painiava:
+
+- viena yra dabartinės svetainės kalba;
+- kita yra asmeninė darbo kalba;
+- trečia yra būsimos Respublikos kalbos politika;
+- ketvirta yra knygos, romano ir tarptautinio skaitymo kalba.
+
+## Pirmi kalbos sluoksniai
+
+1. Darbo kalba.
+Kalba, kuria patogiausia formuoti idėjas, ginčytis, taisyti ir kurti vidinius dokumentus.
+
+2. Svetainės kalba.
+Kalba, kuria projektas kalba su vietos skaitytoju ir vieša aplinka.
+
+3. Archyvo kalba.
+Kalba, kuria saugomi pirminiai dokumentai. Kai kurie dokumentai gali būti lietuvių, rusų ar kita kalba, jeigu taip jie atsirado.
+
+4. Ateities Respublikos kalbos politika.
+Tai vėlesnis kanono sluoksnis, kurio negalima pateikti kaip 2026 metų realybės.
+
+5. Tarptautinis skaitymo sluoksnis.
+Galima anglų ar kitų kalbų adaptacija, jeigu projektas išeis į platesnę auditoriją.
+
+## Pirmi atsargumo principai
+
+- 2026 metų svetainė gali turėti lietuvišką viešą veidą;
+- darbo archyvas gali saugoti tekstus ta kalba, kuria jie realiai gimė;
+- vertimai neturi keisti kanono esmės;
+- negalima ankstyvos svetainės kalbos painioti su būsimos valstybės oficialia kalbos politika;
+- kelių kalbų naudojimas turi būti paaiškintas kaip kūrimo ir skaitymo poreikis, o ne kaip ankstyva valstybinė norma.
+
+## Atviri klausimai
+
+1. Ar visi PUBLIC dokumentai turi būti lietuvių kalba?
+2. Ar SERVICE dokumentai gali likti rusų kalba, jeigu taip patogiau tiksliai dirbti?
+3. Kada reikia pradėti sistemingą anglų versiją?
+4. Ar ateities naujienos turi būti skelbiamos keliomis kalbomis nuo pradžių?
+5. Kaip pažymėti originalo kalbą ir vertimo statusą?
+6. Ar romanui ir archyvui reikia atskirų kalbos taisyklių?
+7. Kaip išsaugoti lietuvišką svetainės veidą, bet neuždaryti projekto tik vienai auditorijai?
+
+## Galimas laikinas atsakymas
+
+2026 metais pagrindinis viešas svetainės sluoksnis gali būti lietuvių kalba, tačiau kanono darbo sluoksnis gali naudoti tą kalbą, kuria tiksliausiai gimsta dokumentas.
+Svarbiausia — aiškiai žymėti sluoksnį, originalą, vertimą ir dokumento statusą.
+
+## Galimi būsimi dokumentai
+
+- ankstyvoji vertimo taisyklė;
+- originalo ir vertimo statuso taisyklė;
+- viešo svetainės kalbos principas;
+- būsimos Respublikos kalbos politikos atskyrimo nuo projekto kalbos taisyklė.
+
+## Išvada
+
+Kalbos klausimas turi būti sprendžiamas palaipsniui.
+Pirmaisiais metais svarbiausia не sukurti готовą valstybinę kalbos sistemą, o не prarasti tikslumo tarp darbo kalbos, svetainės kalbos, archyvo kalbos ir būsimos Respublikos kalbos politikos.
