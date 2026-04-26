@@ -903,3 +903,23 @@ BVK CANON
 Связанные документы: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, CURRENT/07_TIMELINE/05_YEAR_2026_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/07_YEAR_2028_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/02_CONTENT_PLAN_2026_2046.txt, CURRENT/07_TIMELINE/04_ARTICLE_MATRIX_2026_2046.txt, CURRENT/09_NEWS_AND_NARRATIVE/02_PERIODS/2026_2035_FOUNDING_LAYER.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0089]
+Дата: 2026-04-26
+Изменённый файл: CURRENT/00_INDEX/00_START_HERE.txt
+Старая версия: v1.2
+Новая версия: v1.3
+Причина: в стартовый файл добавлено обязательное правило создания новостей BVK и документальной опоры публикаций. Закреплено, что новости должны звучать как публикации текущего дня описываемого события, без позднего знания будущего результата, без служебного тона и без превращения внутренних технических страниц сайта в новости. Добавлено правило, что если публичный материал ссылается на запись, решение, закон, проект, протокол, архивный материал, служебный документ или закрытый источник, соответствующий документ должен реально существовать в каноне либо создаваться одновременно с публикацией.
+Связанные документы: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/02_NEWS_CREATION_RULES.txt, CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/03_ARCHIVE_AND_DOCUMENT_SUPPORT_RULES.txt, CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/04_NEWS_TEMPLATE_WORKING_BLOCK.txt, CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0090]
+Дата: 2026-04-26
+Изменённый файл: CURRENT/00_INDEX/00_START_HERE.txt
+Старая версия: v1.3
+Новая версия: v1.4
+Причина: в стартовый файл добавлена структура публичных слоёв сайта BVK. Закреплено, что новости являются открытой публичной лентой событий, законы, указы, решения, постановления, публичные правила и действующие редакции правовых документов являются открытым правовым слоем, а архив является отдельным слоем памяти и документальной опоры, который может быть PUBLIC, SERVICE, RESTRICTED или SEALED. Уточнено, что новости могут ссылаться на закрытые архивные документы, но открытый читатель должен видеть только карточку закрытого доступа с кодом, уровнем доступа и безопасным описанием, без раскрытия закрытого содержания.
+Связанные документы: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/05_PUBLIC_NEWS_LAWS_ARCHIVE_ACCESS_RULES.txt, CURRENT/00_INDEX/CLOSED_REFERENCE_REGISTRY.txt, CURRENT/00_INDEX/LINK_MAP.txt, CURRENT/00_INDEX/06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
