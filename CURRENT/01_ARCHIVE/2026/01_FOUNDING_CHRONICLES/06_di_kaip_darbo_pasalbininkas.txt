@@ -1,0 +1,77 @@
+BVK CANON
+Pirmųjų metų kronika
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / pirmasis atminties sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Kronikos kodas:
+FC-2026-06
+
+Tipas:
+pirmųjų metų kronika / DI darbo pastaba
+
+Pavadinimas:
+Dirbtinis intelektas kaip darbo pašnekovas
+
+# FC-2026-06
+# Dirbtinis intelektas kaip darbo pašnekovas
+
+Data: 2026 m. kovas-balandis
+Vieta: asmeninė darbo erdvė / skaitmeniniai pokalbiai
+Būsena: vieša archyvinė kronika
+
+## Pirminis balsas
+
+Dirbtinis intelektas pradėtas naudoti ne kaip valdžia ir ne kaip galutinis atsakymų šaltinis.
+Jis tapo darbo pašnekovu: vieta, kur galima garsiai mąstyti, ginčytis, perrašyti, išskaidyti, sujungti ir tikrinti, ar mintis neprieštarauja pati sau.
+
+Pradžioje svarbiausia buvo ne gauti tobulą tekstą.
+Svarbiau buvo pamatyti, kur idėja dar neaiški.
+Kartais DI padėdavo rasti struktūrą, kartais sukurdavo per daug oficialų tekstą, kartais per anksti rašydavo taip, lyg Respublika jau egzistuotų.
+Tada reikėdavo taisyti, grąžinti projektą į 2026 metų būseną ir priminti, kad pradžia turi būti atsargi.
+
+Taip DI tapo ne autoriumi vietoje žmogaus, o įrankiu, kuris leidžia greičiau pamatyti silpnas vietas.
+
+## Pirmi naudojimo būdai
+
+- grupuoti idėjas;
+- perrašyti neaiškias mintis;
+- sudaryti pirmus sąrašus;
+- ieškoti pavadinimų;
+- bandyti svetainės struktūrą;
+- formuoti būsimos chronologijos ašį;
+- tikrinti, ar tonas ne per vėlyvas;
+- kurti dokumentų šablonus;
+- matyti, kur atsiranda dublikatai;
+- kelti klausimus, kurių vienas žmogus galėjo nepastebėti.
+
+## Pirmi pavojai
+
+DI galėjo per greitai paversti idėją sistema.
+Galėjo sukurti per gražų, bet netikslų tekstą.
+Galėjo pamiršti, kad 2026 metais dar nėra valstybės, institucijų, kooperatyvo ar veikiančio BVK.
+Galėjo sugrąžinti senas formuluotes.
+Galėjo rašyti naujieną kaip archyvinę pažymą.
+
+Dėl to atsirado aiški taisyklė: DI padeda, bet sprendimas lieka žmogaus ir kanono pusėje.
+
+## Darbinis klausimas
+
+Kaip naudoti DI taip, kad jis stiprintų mintį, bet nepakeistų atsakomybės už ją?
+
+## Pirminė išvada
+
+DI gali būti naudingas tik tada, kai jis turi ribas.
+Jis tinka klausimams, struktūrai, redakcijai ir ginčui, bet neturi tapti slepiamu autoritetu, kuris pats nusprendžia projekto kryptį.
+
+## Archyvinė pastaba
+
+Ši kronika fiksuoja ankstyvą DI vaidmens supratimą.
+Vėlesniame BVK pasaulyje dirbtinio intelekto tema taps daug gilesnė, tačiau 2026 metų sluoksnyje DI pirmiausia yra darbo pašnekovas, o ne valdantis kontūras.
