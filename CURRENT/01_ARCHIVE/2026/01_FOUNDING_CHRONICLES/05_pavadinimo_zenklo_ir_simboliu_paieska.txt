@@ -1,0 +1,85 @@
+BVK CANON
+Pirmųjų metų kronika
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / pirmasis atminties sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Kronikos kodas:
+FC-2026-05
+
+Tipas:
+pirmųjų metų kronika / pavadinimo ir simbolių pastaba
+
+Pavadinimas:
+Pavadinimo, ženklo ir simbolių paieška
+
+# FC-2026-05
+# Pavadinimo, ženklo ir simbolių paieška
+
+Data: 2026 m. gegužė
+Vieta: skaitmeninė darbo erdvė / asmeninė darbo erdvė
+Būsena: vieša archyvinė kronika
+
+## Pirminis balsas
+
+Kai idėja pradėjo turėti daugiau krypčių, jai prireikė vardo.
+Iki tol buvo galima kalbėti apie bendrą ūkį, saugesnį darbą, ateities visuomenę, svetainę ar naujienas iš 2086 metų, bet be pavadinimo viskas liko per daug išsisklaidę.
+
+Pavadinimo paieška nebuvo tik gražaus žodžio paieška.
+Reikėjo rasti formą, kuri nebūtų agresyvi, partinė, reklaminė ar per daug techninė.
+Ji turėjo jungti Baltijos erdvę, kooperacijos mintį, bendrumą ir ilgo ateities projekto orumą.
+
+Tuo pačiu pradėti svarstyti ženklai, logotipai, vėliavos ir vizualinė tapatybė.
+Buvo aišku, kad ženklas neturi atrodyti kaip valdžios užgrobimo simbolis.
+Jis turi labiau priminti ramų tvarkos, darbo, bendros krypties ir atsakomybės ženklą.
+
+## Pirmi paieškos principai
+
+- pavadinimas turi būti pakankamai rimtas, bet ne sausas;
+- jis turi sietis su Baltijos erdve;
+- jis turi turėti kooperacinę prasmę;
+- jis neturi būti vien partijos ar judėjimo pavadinimas;
+- jis turi tikti ir svetainei, ir dokumentams, ir būsimam pasauliui;
+- ženklas neturi būti militaristinis;
+- simbolika neturi remtis priešiškumu;
+- vizualinis stilius turi būti švarus, ramus ir ilgalaikis.
+
+## Atsiskyrusi sąvoka
+
+Svarbus supratimas pradėjo ryškėti tada, kai tapo aišku, kad BVK neturėtų būti valstybės vardas.
+BVK labiau tinka kaip bendras valdymo kontūras, sistemos karkasas, koordinavimo principas.
+
+Valstybės tapatybei reikėjo kito vardo:
+Baltijos Kooperatinė Respublika.
+
+Taip pradėjo skirtis du sluoksniai:
+
+- Baltijos Kooperatinė Respublika — valstybės ir pasaulio tapatybė;
+- BVK / Bendrasis Valdymo Kontūras — valdymo, koordinavimo ir sisteminės struktūros pavadinimas.
+
+## Simbolių paieškos klausimai
+
+1. Ar ženklas turi būti apvalus, herbinis, techninis ar minimalistinis?
+2. Ar vėliava turi atrodyti kaip valstybės vėliava, ar kaip projekto simbolis?
+3. Kiek simbolikoje turi būti Baltijos, kiek kooperacijos, kiek ateities?
+4. Ar galima naudoti abstraktų ženklą be teksto?
+5. Kaip išvengti panašumo į partinę, karinę ar korporacinę simboliką?
+6. Ar pirmieji eskizai turi būti saugomi, net jeigu vėliau bus atmesti?
+
+## Pirminė išvada
+
+Pavadinimo ir simbolių paieška padėjo suprasti, kad projektui reikia ne tik idėjos, bet ir atpažįstamo veido.
+Tačiau tas veidas neturi užgožti turinio.
+Ženklas turi tarnauti minčiai, o ne pakeisti ją.
+
+## Archyvinė pastaba
+
+Ši kronika saugo ankstyvą tapatybės paieškos etapą.
+Vėlesnėse redakcijose bus aiškiau atskirta Respublikos valstybės tapatybė ir BVK kaip valdymo kontūras, bet pirmojoje paieškoje šios sąvokos dar formavosi per bandymus, klaidas ir vizualinius eskizus.
