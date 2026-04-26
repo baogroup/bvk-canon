@@ -132,9 +132,11 @@ Negalima kiekvienos naujienos paversti pasiteisinimu, ko projektas dar nėra.
 Эти ограничения должны удерживаться в каноне, но не превращаться в постоянные публичные оправдания.
 
 Плохо:
+
 „Tai dar ne miestas ir ne valstybė.“
 
 Лучше:
+
 „Šiuo metu svarstoma, kaip darbo, būsto ir kasdienio saugumo klausimus būtų galima matyti kartu.“
 
 ## 8. Обязательная проверка перед публикацией
