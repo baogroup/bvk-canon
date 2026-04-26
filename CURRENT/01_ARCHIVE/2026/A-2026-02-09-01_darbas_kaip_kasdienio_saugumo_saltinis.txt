@@ -1,0 +1,93 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Dokumento kodas:
+A-2026-02-09-01
+
+Tipas:
+darbo esė / socialinio paketo pastaba
+
+Pavadinimas:
+Darbas kaip kasdienio saugumo šaltinis
+
+Susijusi publikacija:
+2026 m. vasario 9 d. – Pirmą kartą užrašyta mintis apie darbą, kuris žmogui suteiktų daugiau saugumo
+
+# A-2026-02-09-01
+# Darbas kaip kasdienio saugumo šaltinis
+
+Data: 2026 m. vasario 9 d.
+Vieta: Rūdiškių apylinkės
+Tipas: darbo esė / socialinio paketo pastaba
+Būsena: vieša archyvinė ištrauka
+
+## Darbinis klausimas
+
+Ar darbas gali būti ne tik atlyginimo šaltinis, bet ir kasdienio žmogaus saugumo pagrindas?
+
+## Pradinė problema
+
+Įprastoje samdomo darbo schemoje žmogus gauna atlyginimą, bet po to vienas susiduria su dauguma gyvenimo išlaidų.
+Maistas, kelionė į darbą, nuoma, vaiko poreikiai, sveikata, netikėta nelaimė ir kasdienė įtampa lieka atskirti nuo darbo vietos, nors būtent darbas sukuria vertę, iš kurios galėtų būti stiprinamas žmogaus saugumas.
+
+## Pirminė mintis
+
+Jeigu mažas bendras ūkis ar gamybos vieta kada nors pradėtų veikti, jis neturėtų apsiriboti vien darbo užmokesčiu.
+Reikėtų ieškoti būdų, kaip dalis sukuriamos vertės galėtų palaipsniui grįžti žmogui per kasdienę atramą.
+
+Tai nereiškia iš karto sukurti pilną socialinę sistemą.
+Pirmas klausimas daug paprastesnis: nuo kokios mažos pagalbos verta pradėti, jei veikla dar tik būtų tikrinama?
+
+## Galimos pirmos atramos
+
+- paprasti pietūs darbo metu;
+- nuolaida pačių pagamintiems produktams;
+- dalinis kelionės į darbą kompensavimas;
+- mažas bendras rezervas nenumatytam atvejui;
+- galimybė mokytis darbo vietoje;
+- aiškus ir pagarbus darbo grafikas;
+- pagalba šeimai ypatingais atvejais;
+- vėlesnė galimybė svarstyti būsto klausimą.
+
+## Atsargumo taisyklė
+
+Negalima žadėti socialinio paketo anksčiau, nei atsiranda reali vertė, kuri jį galėtų išlaikyti.
+Pirmiausia turi būti produktas, darbas, pajamos, skaidri apskaita ir tik tada - bendras rezervas.
+
+## Esminis skirtumas
+
+Paprastas verslas dažnai klausia:
+kaip sumažinti darbo kainą ir padidinti pelną?
+
+Bendro ūkio klausimas turėtų būti kitoks:
+kaip sukurta vertė gali padėti žmogui gyventi saugiau, neprarandant darbo drausmės ir ekonominio aiškumo?
+
+## Atviri klausimai
+
+1. Kokia pagalba žmogui būtų svarbiausia pirmiausia?
+2. Ar bendras rezervas turėtų būti piniginis, produktinis ar mišrus?
+3. Kas prižiūrėtų rezervo naudojimą?
+4. Kaip atskirti pagalbą nuo priklausomybės?
+5. Kaip neleisti, kad bendras fondas virstų neaiškiu pinigų stalčiumi?
+6. Ar pirmas socialinis žingsnis turėtų būti maistas, transportas ar mokymas?
+7. Kaip išlaikyti žmogaus orumą, kad pagalba netaptų kontrole?
+
+## Pirminė išvada
+
+Darbo saugumas negali būti suprantamas tik kaip sutartis ir atlyginimas.
+Jeigu darbas kuria vertę, dalis tos vertės turėtų būti svarstoma kaip žmogaus kasdienio stabilumo šaltinis.
+
+## Pastaba dėl nebaigtumo
+
+Šis dokumentas nėra socialinės sistemos pažadas.
+Tai ankstyvas darbo klausimas apie tai, kaip ateityje galima būtų jungti darbą, vertę ir žmogaus kasdienį saugumą.
