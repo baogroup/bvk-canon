@@ -1,0 +1,95 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Dokumento kodas:
+A-2026-01-27-01
+
+Tipas:
+gamybos pastaba / pirminio svarstymo ištrauka
+
+Pavadinimas:
+Pirmųjų galimų produktų sąrašas būsimam bendram ūkiui
+
+Susijusi publikacija:
+2026 m. sausio 27 d. – Pradėta ieškoti pirmųjų produktų būsimam bendram ūkiui
+
+# A-2026-01-27-01
+# Pirmųjų galimų produktų sąrašas būsimam bendram ūkiui
+
+Data: 2026 m. sausio 27 d.
+Vieta: Rūdiškių apylinkės
+Tipas: gamybos pastaba / pirminio svarstymo ištrauka
+Būsena: vieša archyvinė ištrauka
+
+## Darbinis klausimas
+
+Kokius paprastus kasdienius produktus mažas bendras ūkis galėtų gaminti pirmiausia, kad idėja būtų tikrinama ne teorijoje, o realioje žmogaus kasdienybėje?
+
+## Pradinė prielaida
+
+Būsimo modelio negalima pradėti nuo didelių pažadų.
+Pirmiausia reikia patikrinti paprastą klausimą: ar galima nedideliu mastu pagaminti produktą, kurio žmonėms reikia nuolat, aiškiai suskaičiuoti savikainą ir palikti bent mažą dalį bendram rezervui.
+
+## Pirmasis galimų produktų sąrašas
+
+- formine duona;
+- paprasti kepiniai;
+- rauginti agurkai;
+- marinuoti agurkai;
+- konservuotos daržovės;
+- sriubos stiklainiuose;
+- paruošti pietūs;
+- uogienės;
+- žolelių arbatos;
+- sezoniniai vietiniai produktai;
+- paprasti pusgaminiai šeimai;
+- pietų rinkiniai darbo dienai.
+
+## Vertinimo kriterijai
+
+Kiekvieną produktą reikia vertinti pagal kelis klausimus:
+
+1. Ar šio produkto žmonėms reikia dažnai?
+2. Ar jį galima gaminti mažomis partijomis?
+3. Ar žaliavos prieinamos vietoje arba netoli?
+4. Ar savikainą galima suprasti be sudėtingos sistemos?
+5. Ar produktą galima pakartoti kas savaitę?
+6. Ar reikalinga brangi įranga?
+7. Ar produktas greitai genda?
+8. Ar jį galima saugiai pakuoti?
+9. Ar žmogus tokį produktą pirktų ne iš idėjos palaikymo, o todėl, kad jis jam reikalingas?
+10. Ar po būtinų išlaidų lieka bent maža dalis bendram rezervui?
+
+## Pirmas atsargus pasirinkimas
+
+Maisto kryptis atrodo tinkamiausia pirmai patikrai, nes ji yra arčiausiai kasdienio gyvenimo.
+Duona, agurkai, sriuba ar paruošti pietūs nėra įspūdingi simboliai, bet jie leidžia patikrinti svarbiausią dalyką: ar bendras ūkis gali prasidėti nuo realaus produkto.
+
+## Atviri klausimai
+
+- Ar pirmas produktas turėtų būti duona, konservuotos daržovės ar paruošti pietūs?
+- Ar verta pradėti nuo vieno produkto, ar nuo mažos sezoninės linijos?
+- Kiek žmonių galėtų dirbti pirmame bandyme?
+- Ar reikėtų pradėti nuo pardavimo, ar nuo uždaros bandomosios grupės?
+- Kas valdytų bendrą rezervą, jeigu jis atsirastų?
+- Kaip išvengti to, kad bendras ūkis taptų tiesiog paprastu privačiu verslu su gražiu pavadinimu?
+
+## Pirminė išvada
+
+Pirmasis produktų sąrašas dar nėra sprendimas.
+Jis tik parodo, kad bendro ūkio idėja turi būti tikrinama per paprastą, pakartojamą ir žmogui reikalingą produktą.
+
+## Pastaba dėl nebaigtumo
+
+Šis dokumentas nėra veiklos planas, įmonės projektas ar pažadas pradėti gamybą.
+Tai ankstyva darbo ištrauka, skirta išsaugoti pirmą praktinį klausimą.
