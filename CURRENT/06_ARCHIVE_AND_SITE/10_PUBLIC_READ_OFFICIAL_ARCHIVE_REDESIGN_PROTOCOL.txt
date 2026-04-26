@@ -1,0 +1,171 @@
+BVK CANON
+Viešojo GitHub Pages archyvo pertvarkymo protokolas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: tarnybinis svetainės ir archyvo sluoksnis / viešasis skaitymo sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Paskirtis:
+Šis dokumentas fiksuoja sprendimą pertvarkyti viešą GitHub Pages archyvą iš techninio failų sąrašo į aiškų, skaitomą ir instituciškai ramų archyvo sluoksnį.
+
+Pagrindinis principas:
+Viešasis GitHub Pages sluoksnis turi būti ne techninė repozitorijos vitrina, o skaitytojui suprantamas archyvas.
+GitHub išlieka kanono šaltinis ir istorijos saugykla, tačiau viešoji archyvo dalis turi padėti žmogui orientuotis dokumentuose, metais, skyriuose, statusuose ir dokumentų tipuose.
+
+## 1. Dabartinės būklės problema
+
+Dabartinis PUBLIC_READ sluoksnis atrodo kaip paprastas techninis failų sąrašas.
+Tai tinka greitam patikrinimui, bet netinka viešam skaitytojui.
+
+Pagrindinės problemos:
+
+- nėra oficialaus archyvo įspūdžio;
+- trūksta aiškaus paaiškinimo, kas yra atviras kanono sluoksnis;
+- dokumentai rodomi per daug techniškai;
+- nėra dokumentų kortelių;
+- nėra aiškaus kelio naujam skaitytojui;
+- techniniai pavadinimai užgožia turinį;
+- sunku suprasti, nuo ko pradėti;
+- PUBLIC_READ atrodo kaip automatinis failų sąrašas, o ne kaip viešas archyvinis įėjimas.
+
+## 2. Pertvarkymo tikslas
+
+Viešasis archyvas turi atrodyti kaip ramus ir aiškus dokumentų portalas.
+
+Jame turi būti:
+
+- archyvo antraštė;
+- trumpas paaiškinimas, kas čia saugoma;
+- pagrindinių skyrių navigacija;
+- dokumentų kortelės;
+- greitas įėjimas naujam skaitytojui;
+- atskiri blokai chronologijai, dokumentams, kronikoms ir archyvinėms ištraukoms;
+- aiškus dokumento statusas;
+- nuoroda į skaitomą HTML versiją;
+- nuoroda į kanoninį GitHub šaltinį tiems, kuriems reikia pirminio failo.
+
+## 3. Viešojo archyvo stilius
+
+Stilius turi būti:
+
+- oficialus, bet ne sunkus;
+- ramus;
+- šviesus;
+- be agresyvios politinės estetikos;
+- be perteklinio dekoratyvumo;
+- panašus į archyvinį arba viešųjų dokumentų portalą;
+- gerai skaitomas;
+- su aiškia tipografija ir patogiais tarpais.
+
+Tinkamas pobūdis:
+
+- viešųjų dokumentų archyvas;
+- pilietinės dokumentacijos biblioteka;
+- istorinio archyvo vartai;
+- projekto kanono skaitymo vieta.
+
+Netinkamas pobūdis:
+
+- reklaminis nukreipimo puslapis;
+- partinis puslapis;
+- žaidimo enciklopedija;
+- neapipavidalintas failų indeksas;
+- pernelyg futuristinis ar agresyvus dizainas.
+
+## 4. Rekomenduojama pagrindinio puslapio struktūra
+
+Pagrindinis viešo archyvo puslapis turėtų turėti:
+
+1. Viršutinę dalį:
+- Baltijos Kooperatinė Respublika / BVK Canon;
+- Viešasis archyvas;
+- trumpą paaiškinimą.
+
+2. Greitą įėjimą:
+- Pradėti čia;
+- Chronologija;
+- Pagrindai;
+- Archyvas ir svetainė;
+- Pirmųjų metų kronikos;
+- Atviri klausimai.
+
+3. Pagrindinius skyrius:
+- Pagrindai;
+- Valdymas;
+- Socialinė tvarka;
+- Ekonomika;
+- Technologijos ir infrastruktūra;
+- Archyvas ir svetainė;
+- Chronologija;
+- 2026 metų archyvas;
+- Naujienų ir pasakojimo sluoksnis.
+
+4. Dokumentų korteles:
+- dokumento pavadinimas;
+- kelias;
+- statusas;
+- prieigos lygis;
+- istorinė priklausomybė;
+- trumpas aprašymas, jeigu įmanoma;
+- nuoroda „Skaityti“.
+
+5. Apatinę dalį:
+- GitHub šaltinis;
+- repozitorijos istorija;
+- PUBLIC / SERVICE sluoksnių paaiškinimas.
+
+## 5. Dokumento puslapis
+
+Kiekviena HTML dokumento versija turi turėti:
+
+- kelio nuorodą / breadcrumb;
+- pavadinimą;
+- metaduomenų kortelę;
+- prieigos statusą;
+- dokumento tekstą patogiu skaitymo formatu;
+- nuorodą į pirminį txt failą;
+- nuorodą į failo istoriją GitHub;
+- nuorodą atgal į indeksą;
+- pastabą, jeigu dokumentas priklauso ankstyvam arba tarnybiniam sluoksniui.
+
+## 6. Ko nereikia daryti pirmame etape
+
+Pirmame etape nereikia:
+
+- visko rankiniu būdu perkelti į WordPress;
+- kurti PDF kiekvienam dokumentui;
+- kurti sudėtingos paieškos sistemos;
+- kurti naudotojų paskyrų;
+- imituoti veikiančio valstybės portalo;
+- slėpti GitHub kaip kanoninį šaltinį.
+
+## 7. Techninė logika
+
+Pertvarkymas turi būti daromas per generatorių:
+
+scripts/backup_and_build.py
+
+Generatorius turi surinkti HTML iš CURRENT ir PUBLIC dokumentų, sukurdamas aiškesnį PUBLIC_READ sluoksnį.
+
+Jeigu ateityje atsiras atskiras statinis generatorius, jis turi išlaikyti tą patį principą:
+
+- GitHub = kanoninis šaltinis;
+- PUBLIC_READ = skaitomas viešasis archyvas;
+- bvk.lt = įėjimas, naujienos, paaiškinimai ir dokumentų kortelės.
+
+## 8. Formulė
+
+Ne žalias failų sąrašas.
+Ne rankinė visų dokumentų kopija svetainėje.
+Ne PDF kiekvienam failui.
+
+O skaitomas viešasis archyvas, surenkamas iš GitHub.
+
+Išvada:
+PUBLIC_READ turi tapti pirmu viešu BVK Canon archyviniu veidu. Jis turi atrodyti pakankamai rimtai, kad skaitytojas matytų sisteminę projekto atmintį, bet pakankamai sąžiningai, kad 2026 metais neapsimestų jau veikiančia valstybės struktūra.
