@@ -1,0 +1,89 @@
+BVK CANON
+Pirmųjų metų kronika
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / pirmasis atminties sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Kronikos kodas:
+FC-2026-09
+
+Tipas:
+pirmųjų metų kronika / klaidų ir taisymo pastaba
+
+Pavadinimas:
+Pirmieji klaidinantys žingsniai ir taisymas
+
+# FC-2026-09
+# Pirmieji klaidinantys žingsniai ir taisymas
+
+Data: 2026 m. balandis
+Vieta: skaitmeninė darbo erdvė / kanono formavimo aplinka
+Būsena: vieša archyvinė kronika
+
+## Pirminis balsas
+
+Projektui augant pradėjo ryškėti ne tik sėkmingi sprendimai, bet ir pirmieji klaidinantys žingsniai.
+
+Kai kurios naujienos pradėdavo skambėti ne kaip gyvas to laiko tekstas, o kaip vėlyva tarnybinė pažyma.
+Kai kurie dokumentai buvo per daug oficialūs, tarsi 2026 metais jau veiktų susiformavusi Respublika.
+Kartais tekstuose per anksti atsirasdavo tonas, primenantis gatavą valstybės kalbą, nors tuo metu dar buvo tik pradžios klausimai, pirmi užrašai ir svetainės paieška.
+
+Kita problema buvo pasikartojimai.
+Kai atmintis nebuvo laikoma vienoje vietoje, dalis minčių pradėdavo grįžti kitu vardu.
+Viename sluoksnyje būdavo padaryta išvada, kitame ji vėl išsisklaidydavo.
+Kartais naujas tekstas atrodydavo gražiai, bet jis nebeturėdavo ryšio su tuo, kas jau buvo nuspręsta anksčiau.
+
+Tai parodė, kad projektui reikia ne tik kūrybos, bet ir disciplinos.
+
+## Pirmieji klaidinantys žingsniai
+
+- per ankstyvas oficialus tonas;
+- naujienų tekstai, skambantys kaip vėlyvos pažymos;
+- dokumentai, kurie neturėjo aiškios atramos archyve;
+- per greitas 2026 metų priartinimas prie valstybės logikos;
+- dublikuojamos idėjos;
+- nepakankamai aiškus skirtumas tarp viešo ir darbo sluoksnio;
+- per silpnas ryšys tarp naujienų, dokumentų ir pirminių užrašų;
+- rizika supainioti pasaulio kūrimą su tariama veikiančia tikrove.
+
+## Ką teko suprasti
+
+Paaiškėjo, kad ne kiekvienas gražus tekstas tinka kanonui.
+Ne kiekviena gera mintis turi iš karto virsti naujiena.
+Ne kiekviena formuluotė, kuri tinka 2086 metų pasauliui, tinka 2026 metų pradžiai.
+
+Projektui prireikė taisymo ne todėl, kad jis buvo silpnas, o todėl, kad jis pradėjo rimtai augti.
+Augantis projektas visada susiduria su momentu, kai vien kūrybinio impulso nebeužtenka.
+
+## Pirmi taisymo principai
+
+- ankstyvieji metai turi būti rašomi kaip pradžia, o ne kaip susiformavusi sistema;
+- naujiena turi skambėti kaip savo dienos publikacija;
+- dokumentas negali apsimesti tuo, kuo dar netapo;
+- svarbūs sprendimai turi būti fiksuojami archyve;
+- reikia aiškiai skirti PUBLIC ir SERVICE sluoksnius;
+- reikia vieno dabartinio kanono šaltinio;
+- reikia mažinti dublikatus;
+- reikia taisyti ne tik tekstus, bet ir pačią darbo logiką.
+
+## Darbinė išvada
+
+Pirmieji klaidinantys žingsniai nebuvo projekto nesėkmė.
+Jie buvo požymis, kad projektas pradėjo susidurti su savo paties mastu.
+
+Klaidos parodė, kur reikia ribų, taisyklių ir atminties.
+Be jų pasaulis būtų likęs tik įdomių tekstų krūva.
+Su jomis jis pradėjo virsti kanonu.
+
+## Archyvinė pastaba
+
+Ši kronika svarbi tuo, kad ji nefiksuoja vien klaidų.
+Ji rodo momentą, kai projektas pradėjo mokytis pats save taisyti.
+Vėlesniam tyrėjui tai yra vienas pirmųjų ženklų, kad BVK Canon tapo ne tik kūrybiniu, bet ir savikritišku archyviniu darbu.
