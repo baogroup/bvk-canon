@@ -1,0 +1,97 @@
+BVK CANON
+Pirmųjų metų kronika
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / pirmasis atminties sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Kronikos kodas:
+FC-2026-07
+
+Tipas:
+pirmųjų metų kronika / svetainės struktūros pastaba
+
+Pavadinimas:
+Pirmasis svetainės struktūros žemėlapis
+
+# FC-2026-07
+# Pirmasis svetainės struktūros žemėlapis
+
+Data: 2026 m. gegužė
+Vieta: skaitmeninė darbo erdvė
+Būsena: vieša archyvinė kronika
+
+## Pirminis balsas
+
+Kai svetainės idėja pradėjo aiškėti, iškilo kitas klausimas: iš ko ji turėtų būti sudaryta?
+Jeigu tai nėra paprastas tinklaraštis, tada vien naujienų skilties nepakanka.
+Reikia erdvės, kur skaitytojas galėtų matyti ne tik įvykius, bet ir jų pagrindus: dokumentus, chronologiją, paaiškinimus, sąvokas, archyvą ir būsimą pasakojimo sluoksnį.
+
+Pirmasis svetainės struktūros žemėlapis buvo dar netvarkingas.
+Jame maišėsi praktiniai puslapiai, būsimos Respublikos dokumentai, naujienos iš ateities, ankstyvi 2026 metų įrašai ir mintis apie romaną.
+Tačiau būtent šis maišymasis parodė, kad projektas nebetelpa į vieną formą.
+
+Jis turėjo tapti svetaine, archyvu, pasakojimu, dokumentų rinkiniu ir ateities pasaulio įėjimu vienu metu.
+
+## Pirmos galimos skiltys
+
+- naujienos;
+- archyvas;
+- dokumentai;
+- chronologija;
+- apie projektą;
+- kaip skaityti;
+- ateities visuomenė;
+- ekonomikos užrašai;
+- kultūrinis sluoksnis;
+- romanas arba pasakojimo kryptis;
+- simboliai;
+- dažniausi klausimai;
+- kontaktas arba dalyvavimo galimybė.
+
+## Pirmas struktūros sunkumas
+
+Buvo neaišku, kaip skaitytojui parodyti, kad dalis tekstų yra pasaulio vidaus dokumentai, dalis — projekto paaiškinimai, dalis — naujienos iš būsimo laiko, o dalis — ankstyvos kūrimo kronikos.
+
+Jeigu viskas bus sudėta vienodai, skaitytojas gali pasimesti.
+Jeigu viskas bus per daug paaiškinta, dings atradimo jausmas.
+
+Todėl struktūra turėjo spręsti dvi užduotis:
+
+1. padėti skaitytojui nepasiklysti;
+2. nepašalinti paslapties ir ateities pasaulio pojūčio.
+
+## Pirmi darbo principai
+
+- svetainės struktūra turi būti paprasta iš išorės ir gilesnė viduje;
+- naujienos turi vesti į dokumentus;
+- dokumentai turi vesti į archyvą;
+- archyvas turi parodyti projekto gimimą;
+- chronologija turi jungti 2026, 2046 ir 2086 metus;
+- skaitytojas turi galėti skaityti paviršiuje arba leistis giliau;
+- ankstyvas sluoksnis neturi apsimesti vėlyva Respublika.
+
+## Atviri klausimai
+
+1. Ar svetainėje pirmiausia rodyti 2086 metų naujienas, ar 2026 metų pradžią?
+2. Ar reikia atskiros skilties dokumentams?
+3. Kaip aiškiai parodyti, kurie tekstai yra pasaulio dokumentai, o kurie darbo dokumentai?
+4. Ar skaitytojui reikia atskiro puslapio „Kaip skaityti“?
+5. Kaip suderinti svetainę, archyvą ir romaną?
+
+## Pirminė išvada
+
+Pirmasis svetainės žemėlapis dar nebuvo galutinis.
+Tačiau jis parodė, kad BVK negali būti vien straipsnių rinkinys.
+Jam reikia struktūros, kurioje naujienos, dokumentai, archyvas, chronologija ir pasakojimas palaiko vienas kitą.
+
+## Archyvinė pastaba
+
+Ši kronika žymi ankstyvą svetainės architektūros gimimą.
+Vėliau būtent struktūros klausimas taps viena svarbiausių kanono išlikimo sąlygų: be aiškių skyrių ir sluoksnių projektas būtų virtęs padriku tekstų rinkiniu.
