@@ -1,0 +1,83 @@
+BVK CANON
+Pirmųjų metų kronika
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / pirmasis atminties sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Kronikos kodas:
+FC-2026-04
+
+Tipas:
+pirmųjų metų kronika / archyvo infrastruktūros pastaba
+
+Pavadinimas:
+GitHub kaip kanono atmintis
+
+# FC-2026-04
+# GitHub kaip kanono atmintis
+
+Data: 2026 m. balandis
+Vieta: skaitmeninė darbo aplinka
+Būsena: vieša archyvinė kronika
+
+## Pirminis balsas
+
+Po kelių bandymų tapo aišku, kad vien pokalbių ir pavienių tekstų neužteks.
+Projektui reikia vietos, kur dokumentai ne tik saugomi, bet ir turi istoriją.
+Reikia matyti, kas buvo pakeista, kada pakeista, kuris failas yra dabartinis ir kur yra ankstesni sluoksniai.
+
+Taip atsirado mintis naudoti GitHub kaip kanono atmintį.
+Ne kaip programuotojų žaislą ir ne kaip formalų archyvą dėl paties archyvavimo, o kaip vietą, kur projektas gali nustoti dingti tarp pokalbių.
+
+Pokalbis padeda sukurti mintį.
+GitHub turi padėti ją išlaikyti.
+
+## Pirmi poreikiai
+
+Reikėjo atskirti kelis dalykus:
+
+- kur yra dabartinė redakcija;
+- kur lieka ankstesnės versijos;
+- kurie dokumentai skirti viešam skaitymui;
+- kurie dokumentai reikalingi tik darbui su kanonu;
+- kaip pažymėti uždarus ryšius;
+- kaip neleisti asistentui kurti dublikatų;
+- kaip naujame pokalbyje atkurti kontekstą;
+- kaip ateityje tūkstančiai dokumentų netaptų netvarkingu stalčiumi.
+
+## Pirmoji struktūros mintis
+
+CURRENT turi laikyti dabartinį kanoną.
+PUBLIC_READ turi rodyti tai, kas skirta atviram skaitytojui.
+Assistant sluoksnis turi padėti atkurti kontekstą ir dirbti su platesne logika.
+GitHub History turi saugoti techninę visų pakeitimų istoriją.
+VERSIONS turi būti naudojamas tik didesnėms išsaugotoms redakcijoms.
+REPEALED turi saugoti tai, kas atšaukta, bet neturi būti ištrinta iš atminties.
+
+## Atviri klausimai
+
+1. Ar visi failai turi būti vieši?
+2. Kaip atskirti PUBLIC dokumentus nuo SERVICE dokumentų?
+3. Kiek reikia indeksų, kad sistema būtų aiški?
+4. Ar CHANGELOG turi fiksuoti kiekvieną dokumentą, ar tik didelius kanono posūkius?
+5. Kaip neleisti LINK_MAP tapti per silpnu arba per sunkiu įrankiu?
+6. Kaip ateities skaitytojas supras, kuris tekstas yra pasaulio dokumentas, o kuris — darbo dokumentas?
+
+## Darbinė išvada
+
+GitHub pasirinktas ne todėl, kad projektas yra techninis.
+Jis pasirinktas todėl, kad be patikimos atminties projektas pradėtų kartotis, skilti ir pamesti savo paaiškinimus.
+
+Jeigu pokalbis buvo vieta, kur mintis gimė, GitHub turėjo tapti vieta, kur mintis nustoja išnykti.
+
+## Archyvinė pastaba
+
+Ši kronika žymi perėjimą nuo pokalbinio projektavimo prie repo-first kanono.
+Nuo šio taško projekto atmintis pradeda remtis ne vien asmenine arba pokalbio atmintimi, bet failais, indeksais, istorija ir gyva dokumentų struktūra.
