@@ -1,0 +1,101 @@
+BVK CANON
+2026 metų atvirų klausimų indeksas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / klausimų ir spragų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Paskirtis:
+Šis indeksas registruoja 2026 metų atvirus klausimus, spragas ir būsimas dokumentų kryptis.
+Jis padeda BVK Canon augti ne dirbtinai kuriant tūkstančius dokumentų iš anksto, o nuosekliai fiksuojant klausimus ir užpildant spragas tada, kai jos tampa svarbios.
+
+Pagrindinis principas:
+2026 metais dauguma dalykų dar neturi galutinių atsakymų. Tai nėra silpnybė. Tai yra teisinga pradžios būsena.
+
+Pirmųjų metų užduotis — ne apsimesti, kad atsakymai jau yra, o tiksliai užrašyti, kokių atsakymų dar nėra.
+
+## Dokumentų tipai
+
+GAP-NOTE — spragos pastaba.
+QUESTION-LOG — klausimų sąrašas.
+DISCUSSION-NOTE — galimų atsakymų aptarimas.
+DRAFT — būsimo dokumento juodraštis.
+RULE / PROTOCOL / LAW — tik vėlesnėje stadijoje, kai klausimas subręsta.
+
+## Atvirų klausimų grupės
+
+OQ-2026-01
+Failas: OQ-2026-01_svetaine_ir_skaitymo_logika.txt
+Tema: Svetainė ir skaitymo logika
+Statusas: numatytas
+Klausimas: kaip paaiškinti skaitytojui, kad svetainė yra ateities pasaulio naujienų, archyvo ir projekto sluoksnių derinys?
+
+OQ-2026-02
+Failas: OQ-2026-02_bendruomenes_pradzia.txt
+Tema: Bendruomenės pradžia
+Statusas: numatytas
+Klausimas: kada paprastas skaitytojas tampa dalyviu ir kaip neper anksti kurti organizacijos įspūdžio?
+
+OQ-2026-03
+Failas: OQ-2026-03_kalba_ir_daugiakalbyste.txt
+Tema: Kalba ir daugiakalbystė
+Statusas: numatytas
+Klausimas: kokiomis kalbomis projektas turi kalbėti ankstyvame etape ir kaip nesupainioti svetainės kalbos su būsimos Respublikos kalbos politika?
+
+OQ-2026-04
+Failas: OQ-2026-04_simboliai_ir_vizualine_tapatybe.txt
+Tema: Simboliai ir vizualinė tapatybė
+Statusas: numatytas
+Klausimas: kaip naudoti logotipus, ženklus ir fлагus taip, kad jie rodytų projektą, bet neapsimestų jau patvirtinta valstybės simbolika?
+
+OQ-2026-05
+Failas: OQ-2026-05_archyvo_atmintis_ir_github.txt
+Tema: Archyvo atmintis ir GitHub
+Statusas: numatytas
+Klausimas: kaip sutvarkyti failus, indeksus ir sluoksnius, kad projektas nepasimestų tarp pokalbių, versijų ir dokumentų?
+
+OQ-2026-06
+Failas: OQ-2026-06_naujienos_ir_dokumentine_atrama.txt
+Tema: Naujienos ir dokumentinė atrama
+Statusas: numatytas
+Klausimas: kaip užtikrinti, kad kiekviena reikšminga naujiena turėtų tikrą pirminį dokumentą, o ne vėliau parašytą paaiškinimą?
+
+OQ-2026-07
+Failas: OQ-2026-07_rudiskiu_vieta.txt
+Tema: Rūdiškių vieta
+Statusas: numatytas
+Klausimas: kaip laikyti Rūdiškes istorine pradžios vieta, bet neperrašyti jų kaip jau veikiančio centro per anksti?
+
+OQ-2026-08
+Failas: OQ-2026-08_di_vaidmuo.txt
+Tema: DI vaidmuo
+Statusas: numatytas
+Klausimas: kaip naudoti dirbtinį intelektą kaip darbo pašnekovą ir struktūros pagalbininką, bet ne kaip galutinį autoritetą?
+
+OQ-2026-09
+Failas: OQ-2026-09_pirmieji_teisiniai_atsargumai.txt
+Tema: Pirmieji teisiniai atsargumai
+Statusas: numatytas
+Klausimas: kaip rašyti ateities pasaulį ir socialinę idėją taip, kad ankstyvas projektas neatrodytų kaip netikra veikianti institucija ar raginimas veikti dabar?
+
+OQ-2026-10
+Failas: OQ-2026-10_pirmuju_savoku_zodynas.txt
+Tema: Pirmųjų sąvokų žodynas
+Statusas: numatytas
+Klausimas: kokias sąvokas reikia apibrėžti pirmiausia, kad skaitytojas suprastų skirtumą tarp BVK, Respublikos, archyvo, naujienų ir projekto?
+
+## Darbo taisyklė
+
+Ne kiekvienas klausimas turi iš karto virsti taisykle.
+Kai kurie klausimai turi ilgai likti atviri, kol atsiras pakankamai medžiagos, patirties arba bendruomenės klausimų.
+
+## Išvada
+
+Atviri klausimai yra ne kanono silpnumas, o jo augimo mechanizmas.
+Pirmiausia reikia mokėti tiksliai paklausti. Tik po to galima atsakingai atsakyti.
