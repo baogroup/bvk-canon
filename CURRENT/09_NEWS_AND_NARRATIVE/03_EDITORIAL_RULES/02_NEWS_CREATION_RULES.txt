@@ -80,12 +80,14 @@ Negalima kiekvienos naujienos paversti pasiteisinimu, ko projektas dar nėra.
 Не допускается стиль, в котором новость выглядит как внутренняя бюрократическая справка.
 
 Плохо:
+
 - „Buvo suformuota kryptis.“
 - „Įrašas pažymėjo procesą.“
 - „Dokumente apibrėžta raidos pradžia.“
 - „Šis etapas įtvirtino pagrindą.“
 
 Лучше:
+
 - „Šiandien pirmą kartą užrašyta mintis...“
 - „Šią savaitę pradėta lyginti...“
 - „Pirmame sąraše atsirado...“
@@ -96,6 +98,7 @@ Negalima kiekvienos naujienos paversti pasiteisinimu, ko projektas dar nėra.
 Нельзя превращать технические действия сайта в новости, если они не имеют самостоятельной ценности для читателя.
 
 Не являются новостями сами по себе:
+
 - sukurtas puslapis „Apie projektą“;
 - pridėtas meniu;
 - parengtas DUK;
@@ -106,6 +109,7 @@ Negalima kiekvienos naujienos paversti pasiteisinimu, ko projektas dar nėra.
 - pakeista vidinė struktūra.
 
 Новостью считается содержательный публичный материал:
+
 - paskelbta pirmoji naujiena iš 2086 metų pasaulio;
 - paskelbta Rūdiškių pradžios istorija;
 - pradėta publikacijų serija apie pirmuosius produktus;
