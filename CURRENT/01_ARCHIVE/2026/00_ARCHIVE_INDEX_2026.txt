@@ -1,0 +1,108 @@
+BVK CANON
+2026 metų archyvo indeksas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Paskirtis:
+Šis indeksas skirtas 2026 metų pirminiams BVK archyvo dokumentams suregistruoti.
+Jis nėra naujienų planas. Tai dokumentų pagrindo sąrašas, iš kurio vėliau gali gimti viešos publikacijos.
+
+Pagrindinis principas:
+2026 metais dar nėra Respublikos, veikiančio BVK, miesto, valstybės institucijų ar parengtos kooperatinės sistemos.
+Yra pirmieji klausimai, darbo užrašai, svarstymai, eskizai, idėjos, abejonių sąrašai ir pirminiai bandymai suprasti, ar mažas praktinis modelis gali išaugti į platesnę tvarką.
+
+## Dokumentų tipai
+
+- ankstyvasis darbo užrašas;
+- pirminio svarstymo ištrauka;
+- klausimų žurnalas;
+- darbo esė;
+- idėjos protokolas;
+- modelio juodraštis;
+- svetainės krypties pastaba;
+- socialinio paketo pastaba;
+- gamybos pastaba;
+- saugumo krypties pastaba;
+- naratyvinė pastaba.
+
+## 2026 metų pirminių dokumentų sąrašas
+
+A-2026-01-12-01
+Pavadinimas: Pirmasis bendruomeninio ūkio klausimas Rūdiškių apylinkėse
+Failas: A-2026-01-12-01_pirmasis_bendruomeninio_ukio_klausimas.txt
+Tipas: ankstyvasis darbo užrašas / pirminio svarstymo ištrauka
+Statusas: PUBLIC
+Būsena: sukurtas
+Paskirtis: pirmasis klausimas apie mažą bendrą ūkį arba gamybos vietą Rūdiškių apylinkėse.
+
+A-2026-01-27-01
+Pavadinimas: Pirmųjų galimų produktų sąrašas būsimam bendram ūkiui
+Failas: A-2026-01-27-01_pirmuju_galimu_produktu_sarasas.txt
+Tipas: gamybos pastaba / pirminio svarstymo ištrauka
+Statusas: PUBLIC
+Būsena: numatytas kurti
+Paskirtis: užfiksuoti pirmus galimus produktus, kuriuos galėtų gaminti mažas bendras ūkis.
+
+A-2026-02-09-01
+Pavadinimas: Darbas kaip kasdienio saugumo šaltinis
+Failas: A-2026-02-09-01_darbas_kaip_kasdienio_saugumo_saltinis.txt
+Tipas: darbo esė / socialinio paketo pastaba
+Statusas: PUBLIC
+Būsena: numatytas kurti
+Paskirtis: susieti darbą, atlyginimą, žmogaus kasdienes išlaidas ir pirmą socialinio saugumo klausimą.
+
+A-2026-02-23-01
+Pavadinimas: Darbo, būsto ir kelionės iki darbo klausimų susiejimas
+Failas: A-2026-02-23-01_darbo_busto_ir_keliones_klausimu_susiejimas.txt
+Tipas: klausimų žurnalas / darbo esė
+Statusas: PUBLIC
+Būsena: numatytas kurti
+Paskirtis: užfiksuoti, kad būstas nėra atskiras nekilnojamojo turto klausimas, o žmogaus kasdienio saugumo dalis.
+
+A-2026-03-10-01
+Pavadinimas: Dirbtinio intelekto naudojimas projekto užrašams tvarkyti
+Failas: A-2026-03-10-01_di_naudojimas_projekto_uzrasams_tvarkyti.txt
+Tipas: svetainės krypties pastaba / darbo užrašas
+Statusas: PUBLIC
+Būsena: numatytas kurti
+Paskirtis: užfiksuoti pirmą aiškesnį DI naudojimą minčių grupavimui, chronologijai ir kanono struktūrai.
+
+A-2026-03-25-01
+Pavadinimas: Saugios ir blaivios darbo aplinkos principų sąrašas
+Failas: A-2026-03-25-01_saugios_ir_blaivios_darbo_aplinkos_principai.txt
+Tipas: saugumo krypties pastaba / principų sąrašas
+Statusas: PUBLIC
+Būsena: numatytas kurti
+Paskirtis: suformuoti pirmą darbo kultūros pagrindą: pagarba, blaivumas, saugumas, ramus konfliktų sprendimas.
+
+A-2026-04-07-01
+Pavadinimas: Knygos apie ateities visuomenę idėja
+Failas: A-2026-04-07-01_knygos_apie_ateities_visuomene_ideja.txt
+Tipas: naratyvinė pastaba
+Statusas: PUBLIC
+Būsena: numatytas kurti
+Paskirtis: atskirti dokumentinį projekto sluoksnį nuo būsimo meninio pasakojimo sluoksnio.
+
+A-2026-04-24-01
+Pavadinimas: Svetainės kaip naujienų iš ateities projekto kryptis
+Failas: A-2026-04-24-01_svetaine_kaip_naujienos_is_ateities.txt
+Tipas: svetainės krypties pastaba / idėjos protokolas
+Statusas: PUBLIC
+Būsena: numatytas kurti
+Paskirtis: užfiksuoti sprendimą svetainę kurti ne kaip paprastą tinklaraštį, o kaip būsimų naujienų ir archyvo pasaulį.
+
+## Darbo pastaba
+
+Šis indeksas bus plečiamas palaipsniui.
+Paprasti nauji archyviniai dokumentai registruojami čia ir per GitHub History, o ne per kiekvieną atskirą CHANGELOG įrašą.
+
+Išvada:
+2026 metų archyvas turi tapti ne publikacijų sąrašu, o tikru ankstyvų klausimų, minčių ir dokumentų sluoksniu.
