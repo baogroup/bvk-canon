@@ -1,0 +1,122 @@
+BVK CANON
+Atviras klausimas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / klausimų ir spragų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Klausimo kodas:
+OQ-2026-02
+
+Tipas:
+QUESTION-LOG / bendruomenės pradžios pastaba
+
+Tema:
+Bendruomenės pradžia
+
+# OQ-2026-02
+# Bendruomenės pradžia
+
+Data: 2026 m. antrasis ketvirtis
+Būsena: atviras klausimas
+
+## Pagrindinis klausimas
+
+Kada paprastas skaitytojas tampa dalyviu ir kaip neper anksti sukurti organizacijos, judėjimo ar politinės struktūros įspūdžio?
+
+## Kodėl klausimas svarbus
+
+Pirmųjų metų projektas dar neturi bendruomenės kaip formalios struktūros.
+Yra tik galimybė, kad aplink svetainę, ateities naujienas, archyvą ir idėją ims rastis skaitytojai, klausimai, diskusijos ir žmonės, norintys prisidėti.
+
+Jeigu bendruomenė bus paskelbta per anksti, ji gali atrodyti kaip dirbtinis judėjimas.
+Jeigu ji bus visiškai ignoruojama, projektas gali likti vieno žmogaus archyvu ir prarasti gyvo dialogo galimybę.
+
+Reikia rasti lėtą, atsargų kelią.
+
+## Pirmas bendruomenės apibrėžimas
+
+2026 metų sluoksnyje bendruomenė reiškia ne narius, ne organizaciją ir ne politinę jėgą.
+Ji reiškia galimą ratą žmonių, kurie:
+
+- skaito;
+- grįžta į svetainę;
+- klausia;
+- pastebi klaidas;
+- siūlo temas;
+- padeda suprasti, kur tekstas neaiškus;
+- diskutuoja apie ateities modelį;
+- domisi kronikomis, naujienomis ir dokumentais;
+- gali vėliau prisidėti prie vertimų, struktūros ar idėjų.
+
+## Galimi bendruomenės etapai
+
+1. Skaitytojas.
+Žmogus tiesiog skaito svetainę, naujienas ar archyvą.
+
+2. Grįžtantis skaitytojas.
+Žmogus seka naujus įrašus ir pradeda suprasti projekto sluoksnius.
+
+3. Klausimų dalyvis.
+Žmogus užduoda klausimus, pastebi spragas arba prašo paaiškinimo.
+
+4. Diskusijų dalyvis.
+Žmogus dalyvauja pokalbiuose, siūlo temų, ginčijasi, padeda tikrinti idėją.
+
+5. Pagalbininkas.
+Žmogus savanoriškai padeda su tekstais, vertimais, vaizdais, dokumentų paieška, struktūra ar technine puse.
+
+6. Būsimas narys.
+Tik daug vėliau, kai atsiras reali organizacinė ar praktinė forma, gali būti svarstoma formali narystė.
+
+## Ką reikia saugoti
+
+- negalima kurti įspūdžio, kad 2026 metais jau yra judėjimas;
+- negalima per anksti naudoti politinės narystės kalbos;
+- negalima žadėti dalyviams realios socialinės ar ekonominės naudos;
+- negalima painioti skaitytojų rato su kooperatyvu;
+- negalima bendruomenės paversti spaudimu pritarti;
+- reikia leisti žmonėms būti tik skaitytojais.
+
+## Pirmi praktiniai klausimai
+
+1. Ar reikia atskirų socialinių tinklų?
+2. Kada atidaryti komentarus arba diskusijas?
+3. Ar verta turėti naujienlaiškį?
+4. Kaip apsaugoti diskusiją nuo triukšmo?
+5. Ar reikia taisyklių, kaip žmonės gali siūlyti dokumentų spragas?
+6. Kaip atskirti kritiką nuo priešiško iškraipymo?
+7. Kada dalyvis įgyja teisę prisidėti prie kanono?
+8. Ar visi pasiūlymai turi būti saugomi archyve?
+
+## Laikinas atsakymas
+
+2026 metais bendruomenė turi būti suprantama kaip būsima skaitytojų ir klausimų erdvė, o ne kaip formali organizacija.
+Svarbiausias pirmas žingsnis — ne narių rinkimas, o aiškios dalyvavimo kultūros užuomazga.
+
+## Galimas būsimas dokumentas
+
+Vėliau gali reikėti dokumento:
+
+„Pirmieji dalyvavimo principai“
+
+Jame būtų galima apibrėžti:
+
+- pagarbų klausimą;
+- teisę nesutikti;
+- draudimą apsimesti oficialiu atstovu;
+- pasiūlymų teikimo tvarką;
+- atsargų santykį su politinėmis interpretacijomis;
+- skirtumą tarp skaitytojo, pagalbininko ir nario.
+
+## Išvada
+
+Bendruomenės pradžia turi būti lėta.
+Ji neturi gimti iš šūkio.
+Ji turi gimti iš skaitymo, klausimų, pasitikėjimo ir aiškaus supratimo, kad ankstyvas projektas dar nėra organizacija, bet jau gali turėti gyvą pašnekovų ratą.
