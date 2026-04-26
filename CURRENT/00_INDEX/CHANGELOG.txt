@@ -923,3 +923,12 @@ BVK CANON
 Связанные документы: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/05_PUBLIC_NEWS_LAWS_ARCHIVE_ACCESS_RULES.txt, CURRENT/00_INDEX/CLOSED_REFERENCE_REGISTRY.txt, CURRENT/00_INDEX/LINK_MAP.txt, CURRENT/00_INDEX/06_ACCESS_LEVELS_AND_DOCUMENT_STATUS.txt
 Нужно ли обновить VERSIONS: нет
 Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-0091]
+Дата: 2026-04-26
+Созданный файл: CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/02_NEWS_CREATION_RULES.txt
+Версия: v1.0
+Причина: создан отдельный служебный файл правил создания новостей BVK. Закреплено, что новость должна звучать как публикация текущего дня описываемого события, а не как архивная справка, служебная записка или поздний исторический пересказ. Уточнено, что новость не должна знать будущего результата события и не должна превращать служебные страницы сайта, меню, FAQ, кнопки, ссылки или внутреннюю навигацию в новостные публикации. Добавлены разрешённые и запрещённые временные формулы, правила для раннего периода 2026-2030 и обязательная проверка перед публикацией.
+Связанные документы: CURRENT/00_INDEX/00_START_HERE.txt, CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/01_PERIOD_STYLE_GUIDE.txt, CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/03_ARCHIVE_AND_DOCUMENT_SUPPORT_RULES.txt, CURRENT/09_NEWS_AND_NARRATIVE/03_EDITORIAL_RULES/04_NEWS_TEMPLATE_WORKING_BLOCK.txt, CURRENT/07_TIMELINE/05_YEAR_2026_PUBLICATION_PLAN.txt, CURRENT/07_TIMELINE/06_YEAR_2027_PUBLICATION_PLAN.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
