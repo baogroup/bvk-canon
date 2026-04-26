@@ -1,0 +1,112 @@
+BVK CANON
+Atviras klausimas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / klausimų ir spragų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Klausimo kodas:
+OQ-2026-09
+
+Tipas:
+QUESTION-LOG / teisinio atsargumo pastaba
+
+Tema:
+Pirmieji teisiniai atsargumai
+
+# OQ-2026-09
+# Pirmieji teisiniai atsargumai
+
+Data: 2026 m. balandis-gegužė
+Būsena: atviras klausimas
+
+## Pagrindinis klausimas
+
+Kaip rašyti ateities pasaulį, socialinę idėją, dokumentus ir naujienas taip, kad ankstyvas 2026 metų projektas neatrodytų kaip jau veikianti institucija, valstybės imitacija arba raginimas veikti dabar?
+
+## Kodėl klausimas svarbus
+
+BVK projektas naudoja ateities valstybės, dokumentų, naujienų, socialinės santvarkos ir kooperacinės ekonomikos kalbą.
+Tokie tekstai gali būti neteisingai suprasti, jeigu nebus aiškiai atskirta:
+
+- kas yra ateities pasaulio kūrimas;
+- kas yra archyvinis dokumentas;
+- kas yra dabartinis projektinis užrašas;
+- kas yra fikcinė / narrative forma;
+- kas yra realus praktinis ketinimas;
+- kas dar tik klausimas.
+
+Todėl ankstyvasis sluoksnis turi būti atsargus ir tikslus.
+
+## Pirmi rizikos taškai
+
+- per ankstyvas valstybės tonas;
+- žodžiai „įstatymas“, „ministerija“, „konstitucija“, „pilietis“ ankstyvame 2026 metų kontekste;
+- neaiškiai pažymėtos ateities naujienos;
+- dokumentai, kurie atrodo kaip jau priimti realios institucijos aktai;
+- simbolika, kuri gali sudaryti veikiančios valstybės įspūdį;
+- raginimai, kurie gali būti perskaityti kaip realaus politinio veikimo kvietimas;
+- socialinių pažadų kalba be praktinės bazės;
+- neatskirtas romanas, projektas ir pasaulio dokumentai.
+
+## Pirmi atsargumo principai
+
+- 2026 metais aiškiai nerašyti taip, lyg veiktų Respublika;
+- ankstyvus dokumentus vadinti užrašais, kronikomis, klausimais, pastabomis, idėjomis, o ne įstatymais;
+- ateities naujienų sluoksnį atskirti nuo dabartinio projekto sluoksnio;
+- vengti tiesioginių politinių raginimų;
+- не обещать praktinės socialinės naudos, kol nėra veikiančios ekonominės bazės;
+- nenaudoti valstybės simbolikos kaip realiai patvirtintos;
+- aiškiai žymėti, kai dokumentas yra projektinis, archyvinis arba narrative sluoksnio;
+- laikyti 2026 metus klausimų ir kūrimo metais.
+
+## Kas leidžiama
+
+Leidžiama:
+
+- kurti ateities pasaulį;
+- rašyti naujienas iš ateities kaip worldbuilding formą;
+- kurti archyvą;
+- svarstyti socialinius ir ekonominius modelius;
+- kelti klausimus apie kooperaciją, darbą, būstą ir saugumą;
+- kurti romaną;
+- formuoti dokumentų struktūrą;
+- svarstyti būsimus įstatymus kaip vėlesnės chronologijos elementus.
+
+## Kas draudžiama ankstyvame sluoksnyje
+
+Draudžiama rašyti taip, lyg 2026 metais:
+
+- jau veikia Baltijos Kooperatinė Respublika;
+- yra BVK valdymo kontūras kaip reali valdžia;
+- veikia ministerijos;
+- yra priimta konstitucija;
+- egzistuoja pilietybės sistema;
+- įsteigta partija;
+- veikia kooperatyvinis miestas;
+- socialinis paketas jau suteikiamas žmonėms;
+- kas nors privalo jungtis, veikti ar vykdyti nurodymus.
+
+## Laikinas atsakymas
+
+Ankstyvas projektas turi aiškiai laikytis kūrybinio, archyvinio ir idėjinio formato.
+Jeigu dokumentas kalba apie ateities instituciją, jis turi būti datuojamas ir įrėminamas taip, kad nebūtų painiojamas su dabarties realybe.
+
+## Galimi būsimi dokumentai
+
+- ankstyvojo teisinio atsargumo taisyklė;
+- disclaimers / skaitymo paaiškinimų taisyklė;
+- ateities naujienų žymėjimo taisyklė;
+- skirtumo tarp fiction, worldbuilding ir realaus projekto paaiškinimas;
+- simbolikos naudojimo ribos.
+
+## Išvada
+
+Teisinis atsargumas nereiškia atsisakyti drąsaus pasaulio kūrimo.
+Jis reiškia tiksliai žinoti, kuriame laiko ir statuso sluoksnyje kalba kiekvienas dokumentas.
