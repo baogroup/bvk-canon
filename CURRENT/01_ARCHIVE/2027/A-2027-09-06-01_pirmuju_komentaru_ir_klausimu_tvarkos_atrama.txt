@@ -1,0 +1,266 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2027-09-06
+Dabartinė redakcija: 2027-09-06
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis / skaitytojų reakcijų pradžia
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-09-06-01
+
+Tipas:
+skaitytojų komentarų ir klausimų tvarkos atramos dokumentas
+
+Pavadinimas:
+Pirmųjų komentarų ir klausimų tvarkos atrama
+
+Susijusi publikacija:
+2027 m. rugsėjo 6 d. – Pradėta formuoti pirmoji skaitytojų komentarų ir klausimų tvarka
+
+# A-2027-09-06-01
+# Pirmųjų komentarų ir klausimų tvarkos atrama
+
+Data: 2027 m. rugsėjo 6 d.
+Vieta: BVK svetainės viešasis sluoksnis / pirmųjų skaitytojų reakcijų aplinka
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Pradėta formuoti pirmoji skaitytojų komentarų ir klausimų tvarka.
+
+Iki šio taško BVK projektas jau turėjo pirmas ateities naujienas, Rūdiškių pradžios istoriją, produktų temos viešą tęsinį, simbolikos paaiškinimą, skaitymo puslapį, FAQ struktūrą ir pirmą viešojo archyvo tvarką.
+
+Tačiau rugsėjo pradžioje tampa aišku, kad vien skelbti tekstus nepakanka. Skaitytojas ne tik skaito. Jis klausia, abejoja, kartais nesupranta, kartais painioja ateities naujieną su dabarties politiniu pareiškimu, kartais nori prisidėti, nors dar nėra jokios dalyvavimo struktūros.
+
+Todėl pirmą kartą pradedama aiškiau apibrėžti, kaip priimami komentarai, klausimai ir pastabos.
+
+## Kodėl tai svarbu
+
+Pirmi komentarai nėra smulkmena.
+
+Jie rodo, kad projektas peržengė uždaro darbo stalo ribą. Iki tol klaidos galėjo likti tik viduje: netikslus terminas, per sausas tekstas, per ankstyvas oficialumas, neaiškus laikotarpis arba neteisinga nuoroda į dokumentą.
+
+Kai atsiranda skaitytojas, tos pačios klaidos tampa matomos iš išorės.
+
+Skaitytojo klausimas gali parodyti:
+
+- kad naujiena skamba per daug kaip realios valstybės pranešimas;
+- kad neaišku, kuo skiriasi BVK ir Baltijos Kooperatinė Respublika;
+- kad Rūdiškės gali būti klaidingai suprastos kaip paskelbta sostinė;
+- kad 2046 metų horizontas gali atrodyti kaip pažadas, o ne ilgalaikė kryptis;
+- kad 2086 metų naujiena gali būti perskaityta be paaiškinimo apie ateities sluoksnį;
+- kad archyvo dokumentas per sunkus paprastam skaitytojui;
+- kad dalyvavimo klausimas atsiranda anksčiau nei tam pasirengęs pats kanonas.
+
+Dėl to komentarai tampa ne triukšmu, o ankstyvu tikrovės patikrinimu.
+
+## Pagrindinis principas
+
+2027 metais skaitytojo klausimas dar nėra politinis pasiūlymas, nario paraiška, bendruomenės sprendimas ar organizacijos veiksmas.
+
+Jis pirmiausia yra signalas:
+
+- ką žmogus suprato;
+- ko nesuprato;
+- kur tekstas buvo per sausas;
+- kur archyvas per sudėtingas;
+- kur reikalingas FAQ atsakymas;
+- kur reikia pataisyti terminą;
+- kur reikia naujos dokumentinės atramos.
+
+Todėl pirmoji komentarų tvarka turi būti labai paprasta: priimti klausimus, saugoti vertingas pastabas, nekurti netikro dalyvavimo įspūdžio ir neperkelti projekto į organizacinį statusą per anksti.
+
+## Kas leidžiama šiame etape
+
+2027 metų rugsėjo sluoksnyje leidžiama:
+
+- klausti, kaip skaityti projektą;
+- klausti apie 2026, 2046 ir 2086 metų skirtumus;
+- klausti apie BVK sąvoką;
+- klausti apie Rūdiškių vaidmenį;
+- klausti, ar projektas yra romanas, archyvas, pasaulio modelis ar socialinė idėja;
+- siūlyti pataisyti neaiškią formuluotę;
+- pastebėti klaidą dokumento nuorodoje;
+- siūlyti temą FAQ atsakymui;
+- klausti, ar ateityje bus galima prisidėti;
+- siūlyti vertimo, kortelės ar skaitymo kelio patobulinimą.
+
+Tai dar nėra formalus dalyvavimas. Tai pirmas skaitytojo balsas.
+
+## Kas šiame etape neleidžiama
+
+2027 metų sluoksnyje negalima komentuoti taip, lyg jau egzistuotų veikiančios struktūros.
+
+Negalima kurti įspūdžio, kad komentarai:
+
+- priima sprendimus;
+- tvirtina dokumentus;
+- renka atstovus;
+- sukuria narius;
+- sudaro organizaciją;
+- pradeda politinę kampaniją;
+- įpareigoja projektą veikti realiame gyvenime;
+- paskelbia kooperatyvą;
+- nustato ekonomines ar socialines garantijas.
+
+Jeigu komentare atsiranda tokia kryptis, ji turi būti perrašoma kaip klausimas arba saugoma kaip neatidaryta būsimo svarstymo tema.
+
+## Pirmoji komentarų rūšiavimo schema
+
+Pirmi komentarai gali būti rūšiuojami ne pagal žmones, o pagal funkciją.
+
+### Skaitymo klausimas
+
+Klausimas rodo, kad žmogui neaišku, kaip suprasti tekstą.
+
+Galimas veiksmas:
+- papildyti FAQ;
+- patikslinti „Kaip skaityti“ puslapį;
+- pridėti trumpą paaiškinimą prie naujienos.
+
+### Terminų klausimas
+
+Klausimas rodo, kad painiojamos sąvokos.
+
+Galimas veiksmas:
+- papildyti sąvokų žodyną;
+- sukurti public-facing kortelę;
+- patikslinti terminą naujienoje.
+
+### Laiko sluoksnio klausimas
+
+Klausimas rodo, kad žmogui neaišku, ar tekstas priklauso 2026, 2027, 2046 ar 2086 metams.
+
+Galimas veiksmas:
+- pridėti laiko sluoksnio paaiškinimą;
+- patikrinti datą dokumento šапkoje;
+- patikrinti, ar naujiena neskamba retrospektyviai.
+
+### Dokumentinės atramos klausimas
+
+Klausimas rodo, kad naujiena mini dokumentą, kurio skaitytojas neranda.
+
+Galimas veiksmas:
+- sukurti trūkstamą atramos dokumentą, jeigu jis būtinas;
+- pataisyti nuorodą;
+- pašalinti nepagrįstą teiginį iš naujienos.
+
+### Dalyvavimo klausimas
+
+Klausimas rodo, kad žmogus nori padėti, bet dar nėra aiškios formos.
+
+Galimas veiksmas:
+- atsakyti, kad 2027 metais galima stebėti, klausti, siūlyti pastabas;
+- nepavadinti žmogaus nariu;
+- nefiksuoti jokio formalaus statuso;
+- vėliau grįžti prie dalyvavimo principų 2028 metų sluoksnyje.
+
+### Kritinė pastaba
+
+Pastaba rodo, kad tekstas kelia abejonių, atrodo per oficialus, per politinis, per abstraktus arba nepakankamai aiškus.
+
+Galimas veiksmas:
+- neatsakinėti gynybiškai;
+- patikrinti, ar kritika atskleidžia realią spragą;
+- jeigu reikia, sukurti GAP-NOTE;
+- jeigu kritika tik emocinė, nefiksuoti jos kaip kanono dokumento.
+
+## Realistinis apribojimas
+
+2027 metais komentarų ir klausimų tvarka turi būti labai lengva.
+
+Nėra prasmės kurti sudėtingos sistemos, jeigu skaitytojų dar nedaug. Per anksti sukurta biurokratija atrodytų dirbtinai ir kenktų projekto tikrumui.
+
+Todėl pirmame etape užtenka paprasto principo:
+
+- komentaras perskaitomas;
+- vertingas klausimas pažymimas;
+- pasikartojantis klausimas keliauja į FAQ;
+- spragą rodantis klausimas keliauja į GAP-NOTE;
+- siūlymas padėti lieka neformalus;
+- niekas negauna nario ar dalyvio statuso vien dėl komentaro.
+
+## Atsakymo tonas
+
+Atsakymai į skaitytojų klausimus turi būti:
+
+- ramūs;
+- trumpi;
+- aiškūs;
+- be pašaipos;
+- be gynybinio tono;
+- be pažadų, kurių projektas dar negali vykdyti;
+- be kvietimo į organizaciją;
+- be valstybinės ar partinės kalbos.
+
+Tinkamas atsakymo pobūdis:
+
+„Šiuo metu tai yra viešas archyvinis ir kūrybinis projektas. Galite skaityti, klausti ir siūlyti pastabas. Formalios dalyvavimo struktūros dar nėra.“
+
+Netinkamas atsakymo pobūdis:
+
+„Prisijunkite prie judėjimo“, „tapkite nariu“, „mes jau kuriame naują tvarką“, „bendruomenė nuspręs“, „BVK priėmė sprendimą“.
+
+## Ryšys su romano baze
+
+Šis dokumentas svarbus ne tik svetainei.
+
+Jis padeda būsimo romano pasauliui turėti tikrovišką kilmę. Dideli socialiniai pasauliai neatsiranda iš karto kaip tobula sistema. Jie prasideda nuo nepatogių klausimų, nesusipratimų, netikslių formuluočių, per anksti pasakytų žodžių ir poreikio atsakyti paprastai.
+
+Būsimame naratyviniame sluoksnyje tokia pradžia leidžia rodyti ne mitą apie staiga atsiradusią Respubliką, o ilgą procesą, kuriame kiekvienas viešas žodis turėjo pasekmes.
+
+Klausimas, užduotas skaitytojo 2027 metais, vėliau gali tapti:
+
+- FAQ atsakymu;
+- sąvokos patikslinimu;
+- naujos publikacijos priežastimi;
+- GAP-NOTE;
+- dalyvavimo principų pradžia;
+- būsimos scenos romano pasaulyje moraliniu pėdsaku.
+
+Tačiau 2027 metais tai vis dar tik klausimas.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2027-05-12-01 — Pirmųjų skaitytojų ir socialinių tinklų pradžios atrama;
+- A-2027-05-28-01 — Pirmosios „Kaip skaityti BVK projektą“ atramos dokumentas;
+- A-2027-06-14-01 — Pirmųjų skaitytojų klausimų atrama;
+- A-2027-06-30-01 — Pirmosios BVK FAQ struktūros atrama;
+- A-2027-08-14-01 — Pirmosios naujienų redakcinės drausmės atrama;
+- OQ-2026-01 — Svetainė ir skaitymo logika;
+- OQ-2026-02 — Bendruomenės pradžia;
+- OQ-2026-09 — Pirmieji teisiniai atsargumai;
+- 00_FIRST_CONCEPTS_2026 — pirmųjų sąvokų žodynas.
+
+## Atviri klausimai
+
+- ar komentarai turi būti rodomi viešai, ar tik naudojami redakciniam darbui;
+- ar reikia paprastos formos klausimams pateikti;
+- ar klausimus reikia saugoti pagal datas;
+- ar skaitytojų klausimai gali būti cituojami anonimiškai;
+- kada klausimas tampa FAQ dalimi;
+- kada klausimas tampa GAP-NOTE;
+- kaip atskirti naudingą kritiką nuo triukšmo;
+- ar komentarų tvarka turi būti viešai matoma bvk.lt svetainėje;
+- kaip vėliau perkelti šią patirtį į 2028 metų dalyvavimo principus.
+
+## Pirminė išvada
+
+Pirmųjų komentarų ir klausimų tvarka atsiranda tada, kai BVK projektas pradeda girdėti ne tik save.
+
+Tai dar nėra bendruomenė, organizacija ar dalyvavimo sistema.
+Tai pirmas atsargus būdas priimti skaitytojo balsą, neprarandant kanono ribų.
+
+Ateities Respublikos tikroviškumas prasideda ne nuo didelių pareiškimų, o nuo to, kaip ankstyvas projektas išmoksta atsakyti į paprastą klausimą ir nepaskubėti apsimesti tuo, kuo dar nėra.
