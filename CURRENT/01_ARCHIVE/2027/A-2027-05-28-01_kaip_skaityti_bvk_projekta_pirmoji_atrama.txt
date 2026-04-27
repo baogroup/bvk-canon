@@ -1,0 +1,134 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-05-28-01
+
+Tipas:
+skaitymo logikos atramos dokumentas
+
+Pavadinimas:
+Pirmosios „Kaip skaityti BVK projektą“ atramos dokumentas
+
+Susijusi publikacija:
+2027 m. gegužės 28 d. – Paskelbtas pirmasis paaiškinimas, kaip skaityti BVK projektą
+
+# A-2027-05-28-01
+# Pirmosios „Kaip skaityti BVK projektą“ atramos dokumentas
+
+Data: 2027 m. gegužės 28 d.
+Vieta: BVK svetainės viešasis sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Svetainėje paskelbtas pirmasis paaiškinimas, kaip skaityti BVK projektą.
+
+Šis tekstas reikalingas todėl, kad projektas nėra vienas paprastas formatas. Jame susitinka ateities naujienos, archyvas, dokumentai, kronikos, ekonominės idėjos, Rūdiškių pradžios linija ir būsimo romano pasaulis.
+
+Be skaitymo paaiškinimo naujas žmogus gali nesuprasti, ar jis pateko į tinklaraštį, romaną, politinį manifestą, valstybės imitaciją, dokumentų archyvą ar kūrybinį socialinės ateities projektą.
+
+## Kodėl tai svarbu
+
+Pirmieji 2027 metų tekstai jau parodė kelis skirtingus sluoksnius:
+
+- naujieną iš 2086 metų pasaulio;
+- Rūdiškių pradžios istoriją;
+- produktų temos viešą tęsinį;
+- simbolikos paiešką;
+- darbo ir kasdienio saugumo klausimą;
+- romano pasaulio ištrauką;
+- 2026-2046 metų kelio žemėlapį;
+- pirmą socialinių tinklų komunikaciją.
+
+Tai reiškia, kad skaitytojui reikia rakto.
+
+Paaiškinimas „Kaip skaityti BVK projektą“ neturi sunaikinti paslapties. Jis turi padėti žmogui nepasimesti.
+
+## Pagrindiniai skaitymo principai
+
+1. BVK projektas nėra vien tinklaraštis.
+Jis turi naujienų, archyvo, dokumentų, kronikų ir pasakojimo sluoksnius.
+
+2. Ateities naujienos rodo pasaulį iš vėlesnio laiko.
+Jos nėra 2027 metų realių institucijų pranešimai.
+
+3. 2026 metų archyvas rodo pradžią.
+Jame dar nėra valstybės, ministerijų, konstitucijos ar veikiančio kooperatyvo.
+
+4. Dokumentai turi skirtingus statusus.
+Kai kurie dokumentai yra PUBLIC, kai kurie SERVICE, kai kurie vėlesniuose sluoksniuose gali būti RESTRICTED arba SEALED.
+
+5. Romanas nėra oficialus dokumentas.
+Jis padeda pajusti pasaulį per žmogaus patirtį.
+
+6. GitHub yra kanoninis šaltinis.
+Svetainė ir PUBLIC_READ padeda skaityti, bet dokumentų istorija saugoma repozitorijoje.
+
+7. Skaitytojas gali rinktis gylį.
+Galima skaityti tik naujienas, galima eiti į archyvą, galima tyrinėti dokumentus ir chronologiją.
+
+## Ko paaiškinimas neturi daryti
+
+Šis tekstas neturi tapti gynybiniu pasiteisinimu.
+Jis neturi kartoti kiekviename sakinyje, kad projektas „dar nėra valstybė“ arba „dar nėra organizacija“.
+
+Pakanka aiškiai parodyti sluoksnius, laikotarpius ir skaitymo būdus.
+
+## Ryšys su 2026 metų sluoksniu
+
+Susijusios atramos:
+
+- OQ-2026-01 — Svetainė ir skaitymo logika;
+- OQ-2026-09 — Pirmieji teisiniai atsargumai;
+- FC-2026-02 — Svetainė ir naujienos iš ateities;
+- FC-2026-10 — Pirmiau archyvas, o tik po to naujienos;
+- 00_FIRST_CONCEPTS_2026 — pirmųjų sąvokų žodynas;
+- 09_SITE_ARCHIVE_PUBLICATION_MODEL — archyvo publikavimo modelis.
+
+## Redakcinis apribojimas
+
+2027 metų paaiškinimas turi būti parašytas ramiai ir skaitytojui draugiškai.
+
+Leistina:
+- aiškinti sluoksnius;
+- rodyti skaitymo kelią;
+- duoti pavyzdžius;
+- nukreipti į archyvą;
+- paaiškinti skirtumą tarp ateities naujienų, dokumentų ir romano.
+
+Neleistina:
+- rašyti kaip teisinį atsisakymą nuo atsakomybės;
+- paversti tekstą ilgu vidaus taisyklių sąrašu;
+- kalbėti per sausai;
+- naudoti valstybinį ar partinį toną;
+- slėpti, kad projektas yra kūrybinis, archyvinis ir idėjinis.
+
+## Atviri klausimai
+
+- ar puslapis „Kaip skaityti“ turi būti nuolat matomas pagrindiniame meniu;
+- ar reikia trumpos ir ilgos šio paaiškinimo versijos;
+- ar skaitymo paaiškinimas turi būti bvk.lt puslapis, ar archyvo dokumentas;
+- ar reikia atskirai aiškinti 2026, 2046 ir 2086 metų sluoksnius;
+- kaip paaiškinti projektą taip, kad liktų atradimo jausmas;
+- ar reikia atskiro vizualaus žemėlapio naujam skaitytojui.
+
+## Pirminė išvada
+
+Pirmasis paaiškinimas, kaip skaityti BVK projektą, tampa tiltu tarp paslapties ir aiškumo.
+
+Skaitytojas turi jausti, kad pateko į neįprastą ateities archyvą, bet kartu turi suprasti, kur baigiasi dabartinis projektas, kur prasideda ateities naujienos, kur yra archyvas, o kur - meninis pasakojimas.
