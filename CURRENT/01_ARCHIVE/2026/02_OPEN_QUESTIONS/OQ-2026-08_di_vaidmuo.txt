@@ -1,0 +1,91 @@
+BVK CANON
+Atviras klausimas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / klausimų ir spragų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Klausimo kodas:
+OQ-2026-08
+
+Tipas:
+QUESTION-LOG / DI vaidmens pastaba
+
+Tema:
+DI vaidmuo
+
+# OQ-2026-08
+# DI vaidmuo
+
+Data: 2026 m. kovas-balandis
+Būsena: atviras klausimas
+
+## Pagrindinis klausimas
+
+Kaip naudoti dirbtinį intelektą kaip darbo pašnekovą, redaktorių ir struktūros pagalbininką, bet neleisti jam tapti galutiniu autoritetu, kuris pats nustato kanono kryptį?
+
+## Kodėl klausimas svarbus
+
+DI labai pagreitina projekto augimą.
+Jis padeda kurti sąrašus, rasti ryšius, taisyti tekstus, siūlyti struktūrą, formuoti dokumentus ir tikrinti prieštaravimus.
+Tačiau DI taip pat gali pamiršti ankstesnius sprendimus, grąžinti senas formuluotes, per anksti oficialinti dokumentą arba sukurti gražų tekstą, kuris neatitinka kanono.
+
+Todėl ankstyvame sluoksnyje DI turi būti apibrėžtas atsargiai.
+
+## Galimi DI vaidmenys
+
+- darbo pašnekovas;
+- struktūros pagalbininkas;
+- redaktorius;
+- klausimų generatorius;
+- prieštaravimų tikrintojas;
+- santraukų rengėjas;
+- vertimo pagalbininkas;
+- archyvo tvarkymo pagalbininkas;
+- viešo teksto formos bandytojas.
+
+## Ko DI neturi daryti
+
+DI neturi:
+
+- pats priimti galutinių kanono sprendimų;
+- keisti istorinių ribų be patikrinimo;
+- painioti 2026 metų su 2086 metų sluoksniu;
+- kurti dokumentų be ryšio su indeksais;
+- sugalvoti ministerijų, įstatymų ar konstitucijos per anksti;
+- pakeisti žmogaus atsakomybės;
+- tapti slaptu autoritetu už teksto.
+
+## Pirmi darbo principai
+
+- kiekviena DI siūloma struktūra turi būti tikrinama pagal kanoną;
+- svarbūs sprendimai turi būti fiksuojami dokumentuose;
+- repo-first taisyklė turi būti stipresnė už pokalbio atmintį;
+- DI gali siūlyti, bet žmogus pasirenka;
+- DI klaidos turi būti fiksuojamos ne kaip gėda, o kaip mokymosi dalis;
+- viešas tekstas negali remtis vien DI уверением be dokumentinės atramos.
+
+## Atviri klausimai
+
+1. Kaip žymėti dokumentus, kuriuose DI atliko reikšmingą redakcinį vaidmenį?
+2. Ar reikia turėti DI darbo protokolą?
+3. Kaip atskirti žmogaus sprendimą nuo DI pasiūlymo?
+4. Ar ateities BVK pasaulyje DI turi būti aiškinamas per tą patį ankstyvą patyrimą?
+5. Kiek DI naudojimo istorijos turi likti viešame archyve?
+6. Kaip apsaugoti kanoną nuo DI haliucinacijų, переформулировок ir per didelio pasitikėjimo tekstu?
+
+## Laikinas atsakymas
+
+2026 metais DI yra darbo įrankis, o ne valdžia.
+Jis padeda mąstyti, bet negali pakeisti atsakomybės už galutinį tekstą, dokumento statusą ir kanono kryptį.
+
+## Išvada
+
+DI vaidmuo ankstyvame projekte yra vienas svarbiausių klausimų, nes jis tiesiogiai susijęs su kanono greičiu, atmintimi ir klaidomis.
+BVK Canon turi mokėti naudotis DI, bet neturi leisti jam tapti nepastebimu autoritetu.
