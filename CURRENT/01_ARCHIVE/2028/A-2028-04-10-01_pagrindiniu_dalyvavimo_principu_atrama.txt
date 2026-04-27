@@ -1,0 +1,155 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-04-10
+Dabartinė redakcija: 2028-04-10
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / pirmųjų dalyvavimo principų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-04-10-01
+
+Tipas:
+dalyvavimo principų atramos dokumentas
+
+Pavadinimas:
+Pagrindinių dalyvavimo principų atrama
+
+Susijusi publikacija:
+2028 m. balandžio 10 d. – Suformuluoti pirmieji pagrindiniai dalyvavimo principai
+
+# A-2028-04-10-01
+# Pagrindinių dalyvavimo principų atrama
+
+Data: 2028 m. balandžio 10 d.
+Vieta: BVK svetainės viešasis sluoksnis / pirmųjų dalyvavimo principų pradžia
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Suformuluoti pirmieji pagrindiniai dalyvavimo principai.
+
+Po pirmojo dalyvavimo klausimo, skaitytojo ir pagalbininko ribų aprašymo bei pirmųjų pagalbos formų tapo aišku, kad projektui reikia ne tik leistinų veiksmų sąrašo, bet ir laikysenos.
+
+2028 metų balandį pirmą kartą surašomi principai, pagal kuriuos žmogaus pagalba gali išlikti naudinga, o projektas neprarasti ribų.
+
+## Kodėl tai svarbu
+
+Be principų pagalba gali virsti triukšmu.
+
+Vienas žmogus gali norėti taisyti viską. Kitas gali manyti, kad jo pasiūlymas turi būti priimtas. Trečias gali supainioti pagalbą su teise spręsti. Ketvirtas gali norėti greitai paversti projektą organizacija.
+
+Pirmieji dalyvavimo principai reikalingi tam, kad pagalba būtų ne valdžios prašymas, o atsakingas prisidėjimas prie aiškumo.
+
+## Pirmieji principai
+
+### Atsakomybė
+
+Žmogus, kuris siūlo pataisą ar pagalbą, turi suprasti, kad kiekvienas pakeitimas gali keisti kanono prasmę.
+
+Atsakomybė reiškia ne teisę spręsti, o pareigą nekenkti tekstui, dokumentui ir laiko sluoksniui.
+
+### Skaidrumas
+
+Turi būti aišku, kas siūloma ir kodėl.
+
+Pagalba neturi būti spaudimas. Jeigu žmogus siūlo pataisą, turi būti matoma, ar tai kalbos klaida, prasmės patikslinimas, nuorodos problema ar asmeninė nuomonė.
+
+### Pagarba
+
+Projektas priima klausimus ir pastabas be pašaipos, bet taip pat neprivalo priimti kiekvieno pasiūlymo.
+
+Pagarba reiškia ramų toną abiem kryptimis: pagalbininkas nepuola projekto, projektas nepuola pagalbininko.
+
+### Nuoseklumas
+
+Vienkartinė pastaba yra vertinga, bet dalyvavimo kultūra atsiranda iš kartojamo, kantraus darbo.
+
+Nuoseklumas svarbesnis už garsų pareiškimą. Geriau viena tiksli pataisa kas mėnesį negu dešimt nepatikrintų idėjų per dieną.
+
+### Ribų supratimas
+
+Pagalba nėra narystė.
+Komentaras nėra sprendimas.
+Pasiūlymas nėra įpareigojimas.
+Klausimas nėra teisė keisti dokumentą.
+
+Ribų supratimas leidžia projektui priimti pagalbą, bet nesukurti netikros organizacijos.
+
+## Ko šie principai dar nesukuria
+
+Šie principai dar nesukuria:
+
+- dalyvių registro;
+- narių statuso;
+- oficialių pareigų;
+- balsavimo;
+- redakcinės tarybos;
+- organizacijos;
+- juridinės struktūros;
+- teisės kalbėti BVK vardu.
+
+Tai tik ankstyva laikysena, kuri padeda paruošti dirvą vėlesniam, aiškesniam dalyvavimui.
+
+## Praktinis naudojimas
+
+Jeigu žmogus siūlo pagalbą, galima patikrinti:
+
+1. Ar pasiūlymas atsakingas?
+2. Ar aišku, ką jis keičia?
+3. Ar tonas pagarbus?
+4. Ar žmogus supranta, kad galutinis sprendimas lieka kanono redakcijoje?
+5. Ar pasiūlymas kartojamas pakankamai nuosekliai, kad būtų galima kalbėti apie pagalbininko vaidmenį?
+6. Ar nesukuriamas klaidingas statusas?
+
+Jeigu šie klausimai neatsakyti, pagalba gali likti pastaba arba atviru klausimu.
+
+## Realistinis apribojimas
+
+2028 metų principai dar yra pirmi.
+
+Jie gali būti netobuli, per siauri arba vėliau papildomi. Tai normalu. Ankstyvam projektui svarbu ne apsimesti, kad jis turi brandžią dalyvavimo sistemą, o sąžiningai parodyti, kaip tokia sistema galėtų augti.
+
+## Ryšys su romano baze
+
+Šie principai yra vienas iš būsimos Respublikos moralinių pamatų.
+
+Romano pasaulyje dalyvavimas neturi atrodyti kaip dekoracija. Jis turi turėti ilgą istoriją, kurioje žmonės mokėsi: padėti be savinimosi, klausti be spaudimo, taisyti be puikybės, prisidėti be teisės valdyti.
+
+Tai leidžia ateities visuomenei atrodyti tikroviškai. Ji nėra tobula, bet turi anksti išmoktą įprotį - atskirti gerą valią nuo neatsakingos įtakos.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2028-01-18-01 — Pirmojo dalyvavimo klausimo atrama;
+- A-2028-02-12-01 — Skaitytojo, klausėjo ir pagalbininko ribos atrama;
+- A-2028-03-08-01 — Pirmųjų pagalbos formų atrama;
+- A-2027-12-05-01 — Pirmųjų savanoriškų pasiūlymų atrama;
+- 11_LANGUAGE_LAYER_AND_TRANSLATION_PROTOCOL — kalbų ir vertimų sluoksnių protokolas.
+
+## Atviri klausimai
+
+- ar šie principai turi būti rodomi viešai bvk.lt;
+- ar reikia trumpos skaitytojui skirtos versijos;
+- kada pagalbininkas gali būti vadinamas dalyviu;
+- ar dalyvavimo principai turi turėti atskirą kortelę;
+- kaip vėliau pridėti atsakomybės už konkrečią sritį modelį;
+- kada principai gali tapti formalia taisykle.
+
+## Pirminė išvada
+
+Pirmieji dalyvavimo principai dar nėra organizacijos taisyklės.
+
+Jie yra ankstyva etinė atrama: padėti galima, bet pagalba turi turėti atsakomybę, skaidrumą, pagarbą, nuoseklumą ir ribų supratimą.
+
+Tik tada žmogaus įsitraukimas gali tapti ne triukšmu, o lėtu pasitikėjimo darbu.
