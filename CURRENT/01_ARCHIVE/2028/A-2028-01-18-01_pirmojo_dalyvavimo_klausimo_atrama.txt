@@ -1,0 +1,156 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-01-18
+Dabartinė redakcija: 2028-01-18
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / pirmųjų dalyvavimo klausimų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-01-18-01
+
+Tipas:
+dalyvavimo klausimo atramos dokumentas
+
+Pavadinimas:
+Pirmojo dalyvavimo klausimo atrama
+
+Susijusi publikacija:
+2028 m. sausio 18 d. – Pirmą kartą aiškiau iškeltas klausimas, kuo pagalba skiriasi nuo dalyvavimo
+
+# A-2028-01-18-01
+# Pirmojo dalyvavimo klausimo atrama
+
+Data: 2028 m. sausio 18 d.
+Vieta: BVK svetainės viešasis sluoksnis / pirmųjų pagalbos pasiūlymų tęsinys
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Pirmą kartą aiškiau iškeltas klausimas, kuo pagalba BVK projektui skiriasi nuo dalyvavimo.
+
+2027 metų pabaigoje jau buvo užfiksuoti pirmi neformalūs pasiūlymai padėti: pataisyti tekstą, pasiūlyti aiškesnį terminą, pastebėti neveikiančią nuorodą, pasiūlyti FAQ klausimą arba kalbos kortelės papildymą.
+
+2028 metų sausį tampa aišku, kad šių pasiūlymų nebegalima laikyti vien atsitiktiniais komentarais. Jie dar nesukuria organizacijos, bet jau kelia naują klausimą: kada žmogaus pagalba tampa atsakomybe?
+
+## Kodėl tai svarbu
+
+Projektui pavojinga per greitai pavadinti žmogų dalyviu.
+
+Jeigu kiekvienas, parašęs komentarą, būtų laikomas dalyviu, atsirastų netikras mastas. Jeigu kiekvienas pataisęs sakinį būtų laikomas komandos nariu, projektas pradėtų atrodyti kaip organizacija, nors tokios struktūros dar nėra.
+
+Bet pavojinga ir priešingai - visą pagalbą laikyti nereikšminga. Tada pradingtų pirmieji pasitikėjimo ženklai.
+
+Todėl 2028 metų pradžioje reikia ne statuso, o klausimo.
+
+## Pagrindinis skirtumas
+
+Skaitytojas:
+- skaito;
+- grįžta prie tekstų;
+- dalijasi nuoroda;
+- gali užduoti klausimą.
+
+Klausėjas:
+- klausia, nes kažkas neaišku;
+- padeda pamatyti spragą;
+- gali paskatinti FAQ papildymą.
+
+Pastabų teikėjas:
+- pastebi klaidą;
+- pasiūlo taisymą;
+- gali padėti pagerinti vieną tekstą ar kortelę.
+
+Pagalbininkas:
+- padeda daugiau nei vieną kartą;
+- supranta, kad pagalba turi ribas;
+- nepriima sprendimų projekto vardu;
+- dar neturi formalaus statuso.
+
+Dalyvis:
+- dar nėra pilnai apibrėžtas;
+- turės būti siejamas su atsakomybe, nuoseklumu ir aiškiomis ribomis;
+- negali atsirasti tik iš noro padėti.
+
+## Realistinis apribojimas
+
+2028 metų pradžioje dar nėra nei pakankamai žmonių, nei pakankamai darbo, nei pakankamai aiškios tvarkos, kad būtų galima kurti formalią dalyvavimo sistemą.
+
+Todėl dalyvavimo klausimas turi likti atviras, bet ne beformis.
+
+Leistina:
+- klausti, kaip žmonės galėtų padėti;
+- atskirti skaitytoją nuo pagalbininko;
+- rinkti pasikartojančias pagalbos formas;
+- ruoštis dalyvavimo principams;
+- saugoti ribą tarp pagalbos ir statuso.
+
+Neleistina:
+- skelbti narių priėmimą;
+- kurti savanorių sąrašą;
+- priskirti pareigas;
+- leisti išoriniams žmonėms tvirtinti dokumentus;
+- kalbėti kaip organizacijai;
+- rašyti, kad bendruomenė jau suformuota.
+
+## Praktinė formulė
+
+2028 metų pradžioje pagalba gali būti priimama taip:
+
+- žmogus gali pateikti pastabą;
+- pastaba gali būti patikrinta;
+- jeigu ji tinkama, tekstas gali būti pataisytas;
+- jeigu klausimas pasikartoja, jis gali patekti į FAQ;
+- jeigu klausimas rodo spragą, jis gali tapti GAP-NOTE;
+- žmogui padėkojama, bet nesuteikiamas statusas.
+
+Tai apsaugo ir projektą, ir žmogų.
+
+## Ryšys su romano baze
+
+Šis dokumentas svarbus todėl, kad būsimoje Respublikoje dalyvavimas negali atrodyti kaip staiga atsiradusi teisė ar pareiga.
+
+Jo šaknys turi būti kuklios: pirmi žmonės, kurie ne reikalavo valdžios, o norėjo pataisyti sakinį, paaiškinti žodį, patikrinti nuorodą, padėti archyvui būti aiškesniam.
+
+Tokioje kilmėje dalyvavimas tampa ne lozungu, o pamažu augančiu pasitikėjimo įgūdžiu.
+
+Romanui tai leidžia rodyti ateities visuomenę ne kaip deklaraciją, o kaip kultūrą, kuri ilgai mokėsi atskirti norą padėti nuo teisės spręsti.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2027-09-06-01 — Pirmųjų komentarų ir klausimų tvarkos atrama;
+- A-2027-10-04-01 — Pirmųjų vertimų ir kalbos kortelių atrama;
+- A-2027-12-05-01 — Pirmųjų savanoriškų pasiūlymų atrama;
+- OQ-2026-02 — Bendruomenės pradžia;
+- 00_FIRST_CONCEPTS_2026 — pirmųjų sąvokų žodynas.
+
+## Atviri klausimai
+
+- kada pagalbininkas tampa dalyviu;
+- ar dalyviui reikės nuoseklumo laikotarpio;
+- ar dalyvis turi turėti aiškų vaidmenį;
+- ar užtenka vien noro padėti;
+- kaip išvengti statusų infliacijos;
+- kaip saugoti kanoną nuo per greito išorinio keitimo;
+- kaip vėliau suformuoti dalyvavimo principus neimituojant organizacijos.
+
+## Pirminė išvada
+
+Pirmasis dalyvavimo klausimas dar nesukuria dalyvavimo sistemos.
+
+Jis tik parodo, kad projektas pradeda susidurti su žmonių noru būti arčiau teksto.
+
+Tai jautri riba: jeigu ji peržengiama per greitai, atsiranda netikra organizacija; jeigu ji ignoruojama, prarandamas pirmas pasitikėjimo augimas.
+
+Todėl 2028 metų pradžioje BVK Canon pasirenka atsargų kelią: pirmiausia apibrėžti klausimą, o tik tada kurti principus.
