@@ -2,7 +2,7 @@ BVK CANON
 Archyvo įrašas
 
 Statusas: ACTIVE
-Versija: v1.0
+Versija: v1.1
 Pirmojo priėmimo data: 2026-04-26
 Dabartinė redakcija: 2026-04-26
 Pakeitimų istorija: GitHub History
@@ -22,13 +22,13 @@ Tipas:
 ekonominės publikacijos atramos dokumentas
 
 Pavadinimas:
-Pirmųjų bendro ūkio produktų publikacijų serijos atrama
+2026 metų produktų temos viešo tęsinio atrama
 
 Susijusi publikacija:
-2027 m. vasario 10 d. – Pradėta publikacijų serija apie pirmuosius bendro ūkio produktus
+2027 m. vasario 10 d. – Viešai pratęsta 2026 metais pradėta pirmųjų bendro ūkio produktų tema
 
 # A-2027-02-10-01
-# Pirmųjų bendro ūkio produktų publikacijų serijos atrama
+# 2026 metų produktų temos viešo tęsinio atrama
 
 Data: 2027 m. vasario 10 d.
 Vieta: BVK svetainės viešasis sluoksnis
@@ -36,18 +36,23 @@ Būsena: vieša archyvinė atrama
 
 ## Įvykis
 
-Svetainėje pradėta publikacijų serija apie pirmuosius bendro ūkio produktus.
-Pirmoje serijos dalyje kalbama apie paprastus kasdienius gaminius: duoną, raugintus agurkus, konservuotas daržoves, sriubas, paruoštus pietus ir sezoninius produktus.
+Svetainėje viešai pratęsta 2026 metais pradėta pirmųjų bendro ūkio produktų tema.
+
+Tai nėra pirmas kartas, kai kanone paminėti duona, rauginti agurkai, konservuotos daržovės, sriubos, paruošti pietūs ar sezoniniai produktai. Šie klausimai jau buvo keliami 2026 metų ankstyvame archyviniame sluoksnyje.
+
+2027 metų publikacijos užduotis kita: ne sukurti temą iš naujo, o paversti ją aiškesne skaitytojui, susieti su viešu svetainės turiniu ir parodyti, kodėl paprasti produktai yra svarbi BVK ekonominės minties pradžia.
 
 ## Kodėl tai svarbu
 
-Ši serija padeda ateities ekonomikos idėją nuleisti iki aiškių daiktų.
-Jeigu projektas kalba tik apie naują tvarką, socialinį saugumą ar būsimą Respubliką, skaitytojui gali trūkti konkretaus pagrindo.
-Produktai leidžia klausti praktiškai: ką žmonės perka kasdien, ką galima pagaminti mažame mastelyje, kaip skaičiuoti savikainą ir kodėl žmogus turėtų pirkti ne dėl gražios idėjos, o dėl realios naudos.
+2026 metais produktų klausimas atsirado kaip pirminė darbo ir gamybos paieška.
+2027 metais ši tema pradeda būti rodoma platesniam skaitytojui kaip turinio kryptis.
+
+Ši korekcija svarbi chronologijai: produktų linija neturi būti perkelta iš 2026 į 2027 taip, lyg ankstyvo produkto klausimo nebūtų buvę.
+2027 metai čia reiškia viešesnį paaiškinimą, o ne pačią idėjos kilmę.
 
 ## Pagrindinė kryptis
 
-Pirmųjų produktų serija turi rodyti, kad bendras ūkis neprasideda nuo abstrakčios ideologijos.
+Produktų tema turi rodyti, kad bendras ūkis neprasideda nuo abstrakčios ideologijos.
 Jis prasideda nuo klausimo, ar galima pagaminti pakartojamą, reikalingą ir suprantamą produktą.
 
 Pirmi produktai turi būti vertinami pagal:
@@ -63,7 +68,7 @@ Pirmi produktai turi būti vertinami pagal:
 
 ## Ryšys su 2026 metų sluoksniu
 
-Ši publikacijų serija remiasi pirmuoju 2026 metų produktų sąrašu.
+Ši 2027 metų publikacija remiasi 2026 metais jau pradėta produktų linija.
 Susijusios atramos:
 
 - A-2026-01-27-01 — Pirmųjų galimų produktų sąrašas būsimam bendram ūkiui;
@@ -73,16 +78,18 @@ Susijusios atramos:
 ## Redakcinis apribojimas
 
 2027 metais negalima rašyti taip, lyg gamyba jau veiktų.
-Ši serija yra viešas svarstymas ir ekonominės krypties pristatymas, ne ataskaita apie realiai veikiančią kooperatyvinę įmonę.
+Ši publikacija yra viešas 2026 metais pradėtos ekonominės temos paaiškinimas ir tęsinys, ne ataskaita apie realiai veikiančią kooperatyvinę įmonę.
 
 ## Atviri klausimai
 
-- ar produktų serija turi tapti atskira svetainės рубрика;
+- ar produktų tema turi tapti atskira svetainės рубрика;
 - ar prie kiekvieno produkto reikės atskiros skaičiavimo kortelės;
 - kada produktų svarstymas pereina iš idėjos į realų ekonominį testą;
-- kaip atskirti ankstyvą produktų kalbą nuo vėlesnių gamybos dokumentų.
+- kaip atskirti 2026 metų pirminius užrašus nuo 2027 metų viešų aiškinamųjų publikacijų;
+- kaip išlaikyti aiškią ribą tarp produkto temos ir dar neegzistuojančios gamybos.
 
 ## Pirminė išvada
 
-Pirmųjų produktų serija suteikia BVK ekonominei minčiai žemišką pradžią.
-Ateities modelis tampa aiškesnis tada, kai skaitytojas mato ne vien didelę idėją, bet ir duoną, sriubą, agurkus, stiklainį, kainą ir darbą.
+2027 metų produktų publikacija nėra produkto temos pradžia.
+Ji yra pirmo 2026 metų klausimo viešesnis, aiškesnis ir skaitytojui suprantamesnis tęsinys.
+Ateities modelis tampa įtikinamesnis tada, kai matyti jo kilmė: ne nuo didelių pažadų, o nuo duonos, sriubos, agurkų, stiklainio, kainos ir darbo.
