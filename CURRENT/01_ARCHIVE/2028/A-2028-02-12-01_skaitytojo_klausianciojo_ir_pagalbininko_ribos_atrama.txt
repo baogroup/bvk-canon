@@ -1,0 +1,177 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-02-12
+Dabartinė redakcija: 2028-02-12
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / pirmųjų dalyvavimo klausimų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-02-12-01
+
+Tipas:
+skaitytojo, klausėjo ir pagalbininko ribos atramos dokumentas
+
+Pavadinimas:
+Skaitytojo, klausėjo ir pagalbininko ribos atrama
+
+Susijusi publikacija:
+2028 m. vasario 12 d. – Paaiškinta, kuo skiriasi skaitytojas, klausėjas, pastabų teikėjas ir pagalbininkas
+
+# A-2028-02-12-01
+# Skaitytojo, klausėjo ir pagalbininko ribos atrama
+
+Data: 2028 m. vasario 12 d.
+Vieta: BVK svetainės viešasis sluoksnis / pirmųjų dalyvavimo klausimų tęsinys
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Paaiškinta, kuo skiriasi skaitytojas, klausėjas, pastabų teikėjas ir pagalbininkas.
+
+Po pirmojo dalyvavimo klausimo tapo aišku, kad projektui reikia paprastų ribų. Žmonės gali būti šalia projekto skirtingais būdais, bet ne kiekvienas ryšys su tekstu reiškia dalyvavimą.
+
+2028 metų vasarį pirmą kartą bandoma šias ribas suformuluoti aiškiau, kad projektas nepradėtų painioti dėmesio, klausimo, pagalbos ir atsakomybės.
+
+## Kodėl tai svarbu
+
+Ankstyvas projektas gali lengvai susikurti netikrą didelės bendruomenės įspūdį.
+
+Jeigu žmogus pasidalino nuoroda, tai dar ne reiškia, kad jis prisideda prie kanono. Jeigu jis paklausė, kas yra BVK, tai dar ne reiškia, kad jis dalyvauja. Jeigu jis pataisė lietuvišką sakinį, tai dar ne reiškia, kad jis turi sprendimo teisę.
+
+Tačiau šie veiksmai vis tiek svarbūs.
+
+Jie rodo, kad projektas pradeda būti matomas, kad tekstai kelia klausimus, kad archyvas turi būti aiškesnis, o kalba - tikslesnė.
+
+Todėl riba turi ne atmesti žmogų, o tiksliai parodyti, kokiame santykyje su projektu jis yra.
+
+## Pirmoji riba
+
+### Skaitytojas
+
+Skaitytojas yra žmogus, kuris susiduria su BVK tekstu.
+
+Jis gali:
+- perskaityti naujieną;
+- grįžti prie kito teksto;
+- pasidalinti nuoroda;
+- susidomėti archyvu;
+- nieko daugiau nedaryti.
+
+Skaitytojas neprisiima atsakomybės už projektą.
+
+### Klausėjas
+
+Klausėjas yra žmogus, kuris ne tik skaito, bet ir užduoda klausimą.
+
+Jis gali:
+- parodyti neaiškią vietą;
+- padėti pamatyti painią sąvoką;
+- parodyti, kad reikia FAQ atsakymo;
+- netyčia atskleisti kanono spragą.
+
+Klausimas dar nėra pasiūlymas dirbti.
+
+### Pastabų teikėjas
+
+Pastabų teikėjas pastebi konkrečią vietą, kurią galima pataisyti.
+
+Jis gali:
+- nurodyti klaidą;
+- pasiūlyti tikslesnį žodį;
+- pastebėti neveikiančią nuorodą;
+- parodyti, kad publikacija skamba per oficialiai;
+- padėti pagerinti vieną tekstą.
+
+Pastaba gali būti naudinga, bet ji nesukuria statuso.
+
+### Pagalbininkas
+
+Pagalbininkas yra žmogus, kuris padeda daugiau nei vieną kartą arba pasiūlo aiškią pagalbos kryptį.
+
+Jis gali:
+- tikrinti kalbos korteles;
+- padėti su nuorodomis;
+- siūlyti FAQ temas;
+- padėti aiškinti dokumentų korteles;
+- kartoti mažą, apibrėžtą pagalbos veiksmą.
+
+Pagalbininkas dar nėra formalus dalyvis. Jis neturi sprendimo teisės projekto vardu.
+
+## Ko ši riba nesukuria
+
+Šis dokumentas nesukuria:
+
+- narių;
+- savanorių tinklo;
+- darbo grupės;
+- organizacijos;
+- balsavimo;
+- atstovavimo;
+- teisės tvirtinti dokumentus;
+- teisės kalbėti BVK vardu.
+
+Tai yra tik pirmas bandymas sąžiningai pavadinti skirtingus ryšio su projektu lygius.
+
+## Praktinis naudojimas
+
+Kai žmogus parašo komentarą, reikia žiūrėti ne į jo vardą, o į veiksmą.
+
+- Jeigu jis tik perskaitė - jis skaitytojas.
+- Jeigu paklausė - jis klausėjas.
+- Jeigu pataisė klaidą - jis pastabų teikėjas.
+- Jeigu kartotinai padeda vienoje srityje - jis gali būti laikomas pagalbininku.
+- Jeigu norima kalbėti apie dalyvį - reikia atskiros taisyklės ir aiškios atsakomybės.
+
+## Realistinis apribojimas
+
+2028 metais šios ribos dar gali keistis.
+
+Jos nėra galutinis modelis. Jos reikalingos tam, kad projektas neišsipūstų nuo netikslių žodžių. Geriau turėti kuklų ir aiškų apibrėžimą negu didelį, bet tuščią statusą.
+
+## Ryšys su romano baze
+
+Būsimam romanui ši riba svarbi todėl, kad tikroviška visuomenė neatsiranda iš vieno žodžio „bendruomenė“.
+
+Ji formuojasi iš daugelio mažų skirtumų: kas tik stebi, kas klausia, kas pataiso, kas padeda, kas prisiima atsakomybę ir kas turi teisę spręsti.
+
+Jeigu šie skirtumai anksti neišmokstami, vėlesnė Respublika tampa ne pasitikėjimo kultūra, o minios iliuzija.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2027-12-05-01 — Pirmųjų savanoriškų pasiūlymų atrama;
+- A-2028-01-18-01 — Pirmojo dalyvavimo klausimo atrama;
+- A-2027-09-06-01 — Pirmųjų komentarų ir klausimų tvarkos atrama;
+- A-2027-10-04-01 — Pirmųjų vertimų ir kalbos kortelių atrama;
+- OQ-2026-02 — Bendruomenės pradžia.
+
+## Atviri klausimai
+
+- kada pagalbininkas tampa dalyviu;
+- ar pagalbininkas turi būti minimas viešai;
+- ar reikia atskiro padėkos principo;
+- ar pasikartojanti pagalba turi būti registruojama;
+- kas saugo galutinį sprendimą dėl teksto keitimo;
+- kaip neleisti statusams tapti svarbesniems už darbą.
+
+## Pirminė išvada
+
+Skaitytojo, klausėjo ir pagalbininko riba reikalinga tam, kad BVK projektas galėtų augti sąžiningai.
+
+Žmogaus dėmesys yra svarbus.
+Klausimas yra svarbus.
+Pastaba yra svarbi.
+Pagalba yra svarbi.
+
+Bet dalyvavimas prasideda tik ten, kur atsiranda aiški atsakomybė.
