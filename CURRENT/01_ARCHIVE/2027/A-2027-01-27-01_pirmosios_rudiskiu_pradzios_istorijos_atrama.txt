@@ -1,0 +1,79 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-01-27-01
+
+Tipas:
+publikacijos atramos dokumentas / vietos pradžios pastaba
+
+Pavadinimas:
+Pirmosios Rūdiškių pradžios istorijos atrama
+
+Susijusi publikacija:
+2027 m. sausio 27 d. – Paskelbta pirmoji Rūdiškių pradžios istorija
+
+# A-2027-01-27-01
+# Pirmosios Rūdiškių pradžios istorijos atrama
+
+Data: 2027 m. sausio 27 d.
+Vieta: Rūdiškės / BVK svetainės viešasis sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Svetainėje paskelbta pirmoji Rūdiškių pradžios istorija.
+Ši publikacija pristato Rūdiškes kaip realią vietą, kurioje pirmasis klausimas apie bendrą ūkį, darbą ir žmogaus kasdienį saugumą pradėjo įgyti žemę.
+
+## Kodėl tai svarbu
+
+BVK pasaulis negali prasidėti vien nuo abstrakčios ateities.
+Jeigu skaitytojas mato tik 2086 metų naujienas, jam gali atrodyti, kad pasaulis atsirado be pradžios.
+Rūdiškių istorija padeda grąžinti projektą prie konkrečios vietos, žmogaus kasdienybės ir mažo mastelio.
+
+Tai ne sostinės paskelbimas ir ne valstybinio centro įvardijimas.
+Tai pradžios vietos užfiksavimas.
+
+## Redakciniai principai
+
+Publikacija apie Rūdiškes turi:
+
+- kalbėti apie vietą, žmogų, kasdienybę ir pirmą klausimą;
+- nekurti įspūdžio, kad Rūdiškėse jau veikia Respublikos struktūra;
+- neperrašyti realaus miestelio kaip fikcinio valstybinio centro;
+- parodyti, kodėl mažas mastelis padeda suprasti būsimą modelį;
+- išlaikyti šiltą, dokumentinį, bet ne pompastišką toną.
+
+## Ryšys su 2026 metų sluoksniu
+
+Susijusios atramos:
+
+- FC-2026-01 — Pirmasis klausimas ir Rūdiškių vieta;
+- OQ-2026-07 — Rūdiškių vieta;
+- A-2026-01-12-01 — Pirmasis bendruomeninio ūkio klausimas Rūdiškių apylinkėse.
+
+## Kas dar neaišku
+
+- kada Rūdiškės virsta ne tik pradžios vieta, bet ir istoriniu centru;
+- kaip vėliau atskirti seną miestelį nuo būsimo gamybinio-gyvenamojo mazgo;
+- kiek vietos realijų galima įtraukti nepažeidžiant projekto ribų;
+- ar Rūdiškių linija turi būti atskira svetainės rubrika.
+
+## Pirminė išvada
+
+Rūdiškių pradžios istorija suteikia BVK projektui žmogišką kilmę.
+Ateities pasaulis prasideda ne nuo didelio centro, o nuo vietos, kurioje pirmą kartą buvo galima paklausti: ar kitokia kasdienė tvarka gali prasidėti mažai?
