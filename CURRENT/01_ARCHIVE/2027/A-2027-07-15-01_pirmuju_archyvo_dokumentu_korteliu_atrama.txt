@@ -1,0 +1,167 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-07-15-01
+
+Tipas:
+archyvo kortelių ir svetainės navigacijos atramos dokumentas
+
+Pavadinimas:
+Pirmųjų archyvo dokumentų kortelių atrama
+
+Susijusi publikacija:
+2027 m. liepos 15 d. – Svetainėje pradėtos naudoti pirmosios archyvo dokumentų kortelės
+
+# A-2027-07-15-01
+# Pirmųjų archyvo dokumentų kortelių atrama
+
+Data: 2027 m. liepos 15 d.
+Vieta: BVK svetainės viešasis sluoksnis / viešojo archyvo navigacija
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Svetainėje pradėtos naudoti pirmosios archyvo dokumentų kortelės.
+
+Šis sprendimas atsirado iš praktinio poreikio: naujienos, kronikos, klausimai ir dokumentai pradėjo jungtis tarpusavyje, bet paprastam skaitytojui nebuvo patogu eiti tiesiai į techninį GitHub failų sąrašą.
+
+Dokumentų kortelės turi tapti tarpine forma tarp svetainės publikacijos ir kanoninio archyvo.
+
+## Kodėl tai svarbu
+
+BVK projektas negali visų dokumentų rankiniu būdu kopijuoti į svetainę kaip atskirų publikacijų.
+
+Jeigu kiekvienas archyvinis dokumentas būtų perkeltas į WordPress ar kitą svetainės sistemą kaip pilnas tekstas, greitai atsirastų keli pavojai:
+
+- svetainės kopija pasentų;
+- GitHub ir bvk.lt pradėtų skirtis;
+- atsirastų antras tiesos šaltinis;
+- būtų sunku matyti dokumento istoriją;
+- rankinis darbas taptų per didelis;
+- skaitytojui būtų sunku suprasti, kur yra kanoninis failas.
+
+Todėl kortelė turi ne pakeisti dokumentą, o nuvesti prie jo.
+
+## Dokumento kortelės paskirtis
+
+Dokumento kortelė turi parodyti:
+
+- dokumento kodą;
+- pavadinimą;
+- datą;
+- tipą;
+- prieigos lygį;
+- istorinę priklausomybę;
+- trumpą santrauką;
+- susijusią publikaciją;
+- nuorodą į skaitomą archyvą;
+- nuorodą į kanoninį GitHub šaltinį, jeigu reikia.
+
+Kortelė neturi tapti pilnu dokumento pakaitalu.
+
+## Pirmas kortelės modelis
+
+Rekomenduojama kortelės struktūra:
+
+Dokumento kodas:
+A-2027-01-12-01
+
+Pavadinimas:
+Pirmosios ateities naujienos paskelbimo atrama
+
+Data:
+2027 m. sausio 12 d.
+
+Tipas:
+publikacijos atramos dokumentas
+
+Trumpai:
+Dokumentas paaiškina, kodėl pirmoji 2086 metų naujiena tapo pirmu viešu BVK pasaulio atvėrimu.
+
+Skaityti archyve:
+nuoroda į PUBLIC_READ HTML puslapį
+
+Kanoninis šaltinis:
+nuoroda į GitHub txt failą
+
+## Ryšys su naujienomis
+
+Kiekvienos svarbesnės naujienos pabaigoje gali atsirasti blokas:
+
+Susiję archyvo dokumentai:
+- A-2027-01-12-01 — Pirmosios ateities naujienos paskelbimo atrama
+- FC-2026-02 — Svetainė ir naujienos iš ateities
+- OQ-2026-06 — Naujienos ir dokumentinė atrama
+
+Tokiu būdu skaitytojas gali skaityti paprastą naujieną, bet turėti kelią į gilesnį dokumentinį sluoksnį.
+
+## Redakciniai principai
+
+Archyvo kortelės turi būti:
+
+- trumpos;
+- aiškios;
+- lietuvių kalba;
+- be perteklinio techninio žargono;
+- susietos su dokumento statusu;
+- susietos su PUBLIC_READ;
+- neperkrautos visais vidiniais SERVICE ryšiais;
+- pakankamai informatyvios, kad skaitytojas suprastų, kodėl dokumentas svarbus.
+
+## Ko kortelės neturi daryti
+
+Kortelės neturi:
+
+- dubliuoti viso dokumento;
+- rodyti uždarų dokumentų turinio;
+- viešinti RESTRICTED ar SEALED sluoksnio daugiau, negu leidžia taisyklės;
+- pakeisti GitHub istorijos;
+- tapti antru kanoniniu šaltiniu;
+- painioti PUBLIC dokumento su SERVICE dokumentu;
+- versti skaitytoją skaityti techninį failų medį.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- 09_SITE_ARCHIVE_PUBLICATION_MODEL — archyvo publikavimo modelis;
+- 10_PUBLIC_READ_OFFICIAL_ARCHIVE_REDESIGN_PROTOCOL — viešojo archyvo pertvarkymo protokolas;
+- 11_LANGUAGE_LAYER_AND_TRANSLATION_PROTOCOL — kalbų ir vertimų sluoksnių protokolas;
+- OQ-2026-05 — Archyvo atmintis ir GitHub;
+- OQ-2026-06 — Naujienos ir dokumentinė atrama;
+- A-2027-05-28-01 — Pirmosios „Kaip skaityti BVK projektą“ atramos dokumentas;
+- A-2027-06-30-01 — Pirmosios BVK FAQ struktūros atrama.
+
+## Atviri klausimai
+
+- ar kortelės turi būti kuriamos rankiniu būdu, ar generuojamos automatiškai;
+- ar kiekvienas PUBLIC dokumentas turi turėti kortelę bvk.lt svetainėje;
+- ar kortelės turi būti grupuojamos pagal metus, temas ar dokumentų tipus;
+- kaip rodyti dokumentą, kuris turi tik rusų originalą ir dar neturi lietuviškos public-facing versijos;
+- ar kortelė turi rodyti vertimo statusą;
+- ar skaitytojui reikia matyti GitHub istorijos nuorodą;
+- kaip kortelė turi atrodyti mobiliajame telefone;
+- ar kortelės turi tapti atskiru WordPress įrašo tipu.
+
+## Pirminė išvada
+
+Pirmosios archyvo dokumentų kortelės yra svarbus tiltas tarp svetainės ir GitHub kanono.
+
+Svetainė neturi dubliuoti viso archyvo.
+GitHub neturi būti vienintelis skaitytojo įėjimas.
+Kortelė leidžia išlaikyti abu principus: kanoninis šaltinis lieka GitHub, o skaitytojas gauna aiškų, lietuvišką ir patogų kelią į dokumentą.
