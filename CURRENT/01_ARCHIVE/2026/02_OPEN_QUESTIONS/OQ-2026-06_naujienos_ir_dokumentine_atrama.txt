@@ -1,0 +1,89 @@
+BVK CANON
+Atviras klausimas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / klausimų ir spragų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Klausimo kodas:
+OQ-2026-06
+
+Tipas:
+QUESTION-LOG / naujienų dokumentinės atramos pastaba
+
+Tema:
+Naujienos ir dokumentinė atrama
+
+# OQ-2026-06
+# Naujienos ir dokumentinė atrama
+
+Data: 2026 m. balandžio pabaiga
+Būsena: atviras klausimas
+
+## Pagrindinis klausimas
+
+Kaip užtikrinti, kad kiekviena reikšminga BVK naujiena turėtų tikrą pirminį dokumentą, o ne vėliau parašytą paaiškinimą?
+
+## Kodėl klausimas svarbus
+
+Naujienų iš ateities formatas yra stiprus, bet jis gali tapti paviršutiniškas, jeigu naujienos neturi dokumentinės atramos.
+Jeigu naujiena kalba apie užrašą, sąrašą, sprendimą, protokolą ar projektą, toks dokumentas turi egzistuoti.
+Kitaip skaitytojas matys gražų tekstą, bet negalės patikrinti, iš kur jis išaugo.
+
+## Dokumentinės atramos tipai
+
+Naujieną gali paremti:
+
+- pirmųjų metų kronika;
+- darbo užrašas;
+- klausimų sąrašas;
+- idėjos protokolas;
+- svarstymo ištrauka;
+- modelio juodraštis;
+- simbolio aprašymas;
+- svetainės struktūros pastaba;
+- archyvinė kortelė;
+- vėlesniais metais — taisyklė, protokolas, projektas, ataskaita ar įstatymas.
+
+## Pirmi principai
+
+- pirma dokumentas, tada naujiena;
+- jeigu dokumento nėra, naujiena neturi remtis neegzistuojančiu pagrindu;
+- naujiena gali pirmą kartą pristatyti dokumentą, bet dokumentas turi būti sukurtas tuo pačiu metu;
+- naujiena turi skambėti kaip savo dienos tekstas, o ne kaip vėlyva istoriko pažyma;
+- archyvinės nuorodos turi būti aiškios ir neperkrauti pagrindinio teksto;
+- viešas skaitytojas turi matyti lietuvišką dokumento kortelę arba santrauką.
+
+## Rizikos
+
+- naujienos pradeda kurti kanoną be dokumentų;
+- dokumentai rašomi tik tam, kad pateisintų jau sukurtą naujieną;
+- viešas tekstas tampa gražus, bet nepatikrinamas;
+- vienas įvykis turi kelias skirtingas atramas;
+- dokumentai ir naujienos nesutaria datomis;
+- naujiena per anksti žino, kuo įvykis taps ateityje.
+
+## Laikinas atsakymas
+
+Kiekvienai reikšmingai naujienai reikia bent vieno susijusio archyvinio dokumento.
+Mažai naujienai gali užtekti vienos darbo pastabos.
+Svarbesnei naujienai reikia platesnės atramos: kronikos, klausimų įrašo, modelio arba protokolo.
+
+## Galimas naujienos pabaigos blokas
+
+Susiję archyvo dokumentai:
+- dokumento kodas;
+- dokumento pavadinimas;
+- trumpas paaiškinimas;
+- nuoroda į skaitomą archyvą.
+
+## Išvada
+
+Dokumentinė atrama apsaugo BVK naujienas nuo tuščio gražumo.
+Jeigu ateities pasaulis turi būti tyrinėjamas, skaitytojas turi turėti kelią nuo publikacijos prie jos pirminio pėdsako.
