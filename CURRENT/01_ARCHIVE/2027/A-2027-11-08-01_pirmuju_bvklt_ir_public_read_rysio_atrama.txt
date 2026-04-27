@@ -1,0 +1,123 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2027-11-08
+Dabartinė redakcija: 2027-11-08
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis / svetainės ir viešojo archyvo ryšys
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-11-08-01
+
+Tipas:
+bvk.lt ir PUBLIC_READ ryšio atramos dokumentas
+
+Pavadinimas:
+Pirmojo bvk.lt ir PUBLIC_READ ryšio atrama
+
+Susijusi publikacija:
+2027 m. lapkričio 8 d. – Pradėtos jungti pirmosios bvk.lt publikacijos su viešojo archyvo dokumentais
+
+# A-2027-11-08-01
+# Pirmojo bvk.lt ir PUBLIC_READ ryšio atrama
+
+Data: 2027 m. lapkričio 8 d.
+Vieta: bvk.lt viešasis sluoksnis / PUBLIC_READ archyvas
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Pradėtos jungti pirmosios bvk.lt publikacijos su PUBLIC_READ archyvo dokumentais.
+
+Iki šio momento svetainė jau turėjo pirmas naujienas, paaiškinimus, FAQ, dokumentų kortelių logiką ir viešojo archyvo struktūros pradžią. Tačiau skaitytojo kelias vis dar galėjo nutrūkti: žmogus perskaito naujieną, bet ne visada aiškiai mato, kokiu dokumentu ji remiasi ir kur yra kanoninis šaltinis.
+
+Todėl lapkričio pradžioje pradedamas pirmas aiškesnis ryšys tarp bvk.lt kaip skaitytojo įėjimo ir PUBLIC_READ kaip viešojo archyvo.
+
+## Kodėl tai svarbu
+
+BVK projektui reikia dviejų skirtingų, bet susijusių erdvių.
+
+bvk.lt turi būti gyvas įėjimas: naujienos, straipsniai, paaiškinimai, skaitymo keliai ir tekstai, kurie žmogų įtraukia.
+
+PUBLIC_READ turi būti ramesnis archyvinis sluoksnis: dokumentai, kortelės, metaduomenys, nuorodos ir kanono atmintis.
+
+Jeigu šios erdvės nesujungiamos, atsiranda dvi problemos:
+
+- svetainės tekstai gali atrodyti nepagrįsti;
+- archyvas gali likti tik techniniu failų sąrašu, į kurį skaitytojas nenueina.
+
+Pirmasis ryšys tarp jų padeda parodyti, kad naujiena nėra vien įspūdis, o archyvu paremtas tekstas.
+
+## Pirmoji ryšio schema
+
+Svarbesnė bvk.lt publikacija gali turėti bloką:
+
+Susiję archyvo dokumentai:
+- dokumento kodas;
+- dokumento pavadinimas;
+- trumpas paaiškinimas;
+- nuoroda į PUBLIC_READ;
+- prireikus nuoroda į GitHub kanoninį failą.
+
+Šis blokas neturi apkrauti naujienos. Jis turi būti kaip tiltas skaitytojui, kuris nori eiti giliau.
+
+## Realistinis apribojimas
+
+2027 metais šis ryšys dar negali būti visiškai automatinis.
+
+Tikėtina, kad dalis nuorodų bus dedama rankiniu būdu, dalis kortelių bus nepilnos, o kai kurie dokumentai dar neturės patogios public-facing versijos. Tai nėra klaida, jeigu statusai nurodomi sąžiningai.
+
+Svarbu ne sukurti tobulą sistemą iš karto, o pradėti nuoseklų įprotį: kiekviena rimtesnė publikacija turi turėti kelią į atramą.
+
+## Ko reikia vengti
+
+Negalima paversti bvk.lt pilna GitHub kopija.
+Negalima versti paprasto skaitytojo naršyti techninį failų medį.
+Negalima slėpti, kad GitHub lieka kanoninis šaltinis.
+Negalima kurti įspūdžio, kad PUBLIC_READ jau yra valstybės archyvas.
+
+2027 metais tai vis dar yra projekto viešasis archyvas, ne veikiančios institucijos dokumentų portalas.
+
+## Ryšys su romano baze
+
+Šis ryšys svarbus būsimam romanui, nes jis parodo, kaip ateities pasaulio tikrovė gimsta iš dokumentų, nuorodų ir atminties disciplinos.
+
+Romanui tai duoda labai svarbų sluoksnį: vėlyvoje Respublikoje dokumentas gali atrodyti savaime suprantamas, bet jo kilmėje buvo paprastas klausimas - kaip padaryti, kad skaitytojas pasitikėtų tekstu ir galėtų patikrinti, kuo jis remiasi.
+
+Ateities tvarka prasideda ne nuo didelių portalų, o nuo pirmos sąžiningos nuorodos.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- 09_SITE_ARCHIVE_PUBLICATION_MODEL — archyvo publikavimo modelis;
+- 10_PUBLIC_READ_OFFICIAL_ARCHIVE_REDESIGN_PROTOCOL — viešojo archyvo pertvarkymo protokolas;
+- A-2027-07-15-01 — Pirmųjų archyvo dokumentų kortelių atrama;
+- A-2027-07-31-01 — Pirmosios viešojo archyvo struktūros atrama;
+- A-2027-08-14-01 — Pirmosios naujienų redakcinės drausmės atrama.
+
+## Atviri klausimai
+
+- ar nuorodų blokai turi būti vienodi visose naujienose;
+- ar bvk.lt turi rodyti tik PUBLIC dokumentus;
+- kaip žymėti dokumentus, kurie dar turi tik kortelę;
+- ar reikės automatinio kortelių generatoriaus;
+- kaip išvengti pasenusių nuorodų;
+- kaip skaitytojui parodyti skirtumą tarp PUBLIC_READ ir GitHub source.
+
+## Pirminė išvada
+
+Pirmasis bvk.lt ir PUBLIC_READ ryšys pradeda kurti skaitytojo pasitikėjimo kelią.
+
+Naujiena atveda žmogų į pasaulį.
+Archyvas parodo, kad pasaulis turi atmintį.
+Nuoroda tarp jų yra mažas, bet būtinas kanono sąžiningumo veiksmas.
