@@ -1,0 +1,111 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-04-24-01
+
+Tipas:
+chronologijos atramos dokumentas
+
+Pavadinimas:
+Pirmojo 2026-2046 metų kelio žemėlapio atrama
+
+Susijusi publikacija:
+2027 m. balandžio 24 d. – Paskelbtas pirmasis 2026-2046 metų kelio žemėlapis
+
+# A-2027-04-24-01
+# Pirmojo 2026-2046 metų kelio žemėlapio atrama
+
+Data: 2027 m. balandžio 24 d.
+Vieta: BVK svetainės viešasis sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Svetainėje paskelbtas pirmasis 2026-2046 metų kelio žemėlapis.
+
+Šis dokumentas ir susijusi publikacija turi parodyti skaitytojui, kad 2046 metų kooperatyvinės miesto formos horizontas neatsiranda staiga. Jis turi augti per ilgą kelią: nuo pirmųjų klausimų, svetainės, archyvo ir bendruomenės iki skaičiavimų, praktikos, mažos gamybos, kooperatyvinės įmonės ir tik vėliau - platesnio socialinio modelio.
+
+## Kodėl tai svarbu
+
+Be kelio žemėlapio skaitytojas gali matyti tik du kraštus:
+2026 metų pradžios klausimus ir 2086 metų brandžios Respublikos pasaulį.
+
+Tarp jų reikia tilto.
+
+2026-2046 metų kelio žemėlapis turi paaiškinti, kad projektas nėra vien šuolis iš idėjos į valstybę. Jis turi turėti ilgesnę tarpinę raidą, kur kiekvienas etapas turi savo logiką, ribas ir dokumentus.
+
+## Pagrindiniai kelio etapai
+
+1. 2026-2027:
+pirmi klausimai, svetainė, archyvas, naujienos iš ateities, pirmieji skaitytojai, sąvokos ir pirmos viešos publikacijos.
+
+2. 2028-2029:
+aiškesnė skaitytojų ir bendruomenės pradžia, dalyvavimo principai, pirmos diskusijos, kalbos, vertimai, simbolikos ir archyvo tvarkymas.
+
+3. 2030-2032:
+atsargūs skaičiavimai, pirmos praktinės kryptys, produktų savikaina, galimos teisinės formos, higienos, apskaitos ir rizikos klausimai.
+
+4. 2033-2039:
+pirmas mažas хозяйственный testas, produktas, pardavimas, darbo grupė, transparenti apskaita, pirmi maži socialiniai sprendimai.
+
+5. 2040-2045:
+gamybos ir gyvenimo mazgo idėja, būsto, transporto, medicinos kabineto, vaikų centro, kooperatyvinės parduotuvės ir platesnio socialinio paketo užuomazgos.
+
+6. 2046:
+pirmoji kooperatyvinės miesto formos riba, kai praktika jau gali būti aprašoma ne tik kaip idėja, bet kaip veikiantis socialinis ir хозяйственный modelis.
+
+## Redakcinis apribojimas
+
+Kelio žemėlapis negali rašyti taip, lyg visi etapai jau būtų įvykę.
+
+2027 metų publikacijoje jis turi būti rodomas kaip kryptis, planavimo ašis ir skaitymo rėmas, o ne kaip atgaline data žinoma garantuota istorija.
+
+Ypač svarbu:
+- nerašyti, kad 2046 metų rezultatas jau neišvengiamas;
+- nerašyti, kad 2027 metais jau veikia кооперативная įmonė;
+- nerašyti, kad socialinis paketas jau egzistuoja;
+- neperkelti konstitucijos, ministerijų ar valstybės kalbos į ankstyvą laikotarpį.
+
+## Ryšys su 2026 metų sluoksniu
+
+Susijusios atramos:
+
+- FC-2026-01 — Pirmasis klausimas ir Rūdiškių vieta;
+- FC-2026-02 — Svetainė ir naujienos iš ateities;
+- FC-2026-10 — Pirmiau archyvas, o tik po to naujienos;
+- OQ-2026-01 — Svetainė ir skaitymo logika;
+- OQ-2026-05 — Archyvo atmintis ir GitHub;
+- OQ-2026-06 — Naujienos ir dokumentinė atrama;
+- 00_FIRST_CONCEPTS_2026 — pirmųjų sąvokų žodynas.
+
+## Atviri klausimai
+
+- kiek detaliai reikia rodyti 2030-2032 metų skaičiavimus;
+- ar kelio žemėlapis turi būti interaktyvus svetainėje;
+- ar kiekvienas etapas turi turėti atskirą dokumentų rinkinį;
+- kada roadmap tampa nebe planu, o istoriniu dokumentu;
+- kaip pažymėti, kurie etapai yra kryptys, o kurie jau archyve turi įvykio atramą;
+- kaip vėliau įtraukti bendruomenės klausimus į kelio žemėlapio taisymus.
+
+## Pirminė išvada
+
+Pirmasis 2026-2046 metų kelio žemėlapis reikalingas tam, kad BVK kanonas turėtų vidurinį kelią tarp pirmos minties ir brandžios ateities.
+
+Pradžia negali iškart tapti valstybe.
+Ateitis negali kabėti be kelio.
+Kelio žemėlapis parodo, kad tarp jų turi būti daug metų darbo, klaidų, skaičiavimų, viešų klausimų ir mažų patikrinimų.
