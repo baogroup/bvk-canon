@@ -1,0 +1,155 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-06-30-01
+
+Tipas:
+FAQ struktūros ir skaitymo paaiškinimo atramos dokumentas
+
+Pavadinimas:
+Pirmosios BVK FAQ struktūros atrama
+
+Susijusi publikacija:
+2027 m. birželio 30 d. – Parengta pirmoji dažniausių klausimų apie BVK projektą struktūra
+
+# A-2027-06-30-01
+# Pirmosios BVK FAQ struktūros atrama
+
+Data: 2027 m. birželio 30 d.
+Vieta: BVK svetainės viešasis sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Parengta pirmoji dažniausių klausimų apie BVK projektą struktūra.
+
+Ši struktūra atsiranda po pirmųjų skaitytojų klausimų ir pirmojo paaiškinimo, kaip skaityti projektą. Ji nėra bendruomenės taisyklės, organizacijos dokumentas ar oficialus dalyvavimo reglamentas.
+
+Tai praktinis skaitymo pagalbininkas žmogui, kuris pirmą kartą patenka į BVK svetainę ir bando suprasti, kur jis atsidūrė.
+
+## Kodėl tai svarbu
+
+BVK projektas turi kelis sluoksnius:
+
+- ateities naujienas;
+- 2026 metų archyvą;
+- Rūdiškių pradžios istoriją;
+- dokumentų sistemą;
+- pirmųjų metų kronikas;
+- ekonomines idėjas;
+- romano pasaulį;
+- GitHub archyvą;
+- viešą ir tarnybinį sluoksnį.
+
+Naujam skaitytojui tai gali būti per daug vienu metu.
+
+FAQ struktūra turi padėti atsakyti į pirmus klausimus paprastai, be perteklinio teorinio aiškinimo ir be gynybinio tono.
+
+## Pirmos FAQ temos
+
+### Kas yra BVK?
+
+Trumpas paaiškinimas, kad BVK reiškia Bendrasis Valdymo Kontūras, bet 2027 metais tai dar nėra veikianti institucija.
+
+### Kas yra Baltijos Kooperatinė Respublika?
+
+Paaiškinimas, kad tai būsimos Respublikos pasaulio ir ilgos chronologijos pavadinimas, o ne 2027 metais veikianti valstybė.
+
+### Kodėl svetainėje yra 2086 metų naujienos?
+
+Paaiškinimas, kad naujienos iš ateities yra būdas parodyti brandesnį pasaulį per jo kasdienybę.
+
+### Nuo ko pradėti skaityti?
+
+Pasiūlyti kelis kelius:
+- nuo naujienų;
+- nuo Rūdiškių pradžios;
+- nuo 2026 metų archyvo;
+- nuo kelio žemėlapio;
+- nuo romano ištraukos.
+
+### Ar tai politinis judėjimas?
+
+Atsakymas turi būti atsargus: 2027 metų sluoksnyje projektas nėra politinė organizacija, partija ar veikianti struktūra. Tai idėjinis, archyvinis, kūrybinis ir socialinės ateities projektas.
+
+### Ar galima prisidėti?
+
+Atsakymas turi neskubėti. Galima stebėti, skaityti, klausti, siūlyti pastabas, bet formalios dalyvavimo struktūros dar nėra.
+
+### Kur saugomi dokumentai?
+
+Paaiškinti GitHub kaip kanoninį šaltinį, PUBLIC_READ kaip skaitomą archyvą ir bvk.lt kaip viešą įėjimą.
+
+### Kodėl dalis dokumentų atrodo kaip oficialūs?
+
+Paaiškinti, kad dalis tekstų priklauso ateities pasaulio sluoksniui arba dokumentiniam modeliavimui, bet reikia žiūrėti į datą, statusą ir istorinę priklausomybę.
+
+## Redakciniai principai
+
+FAQ turi būti:
+
+- trumpas;
+- aiškus;
+- draugiškas naujam skaitytojui;
+- be perdėto oficialumo;
+- be ilgos teisinės gynybos;
+- susietas su archyvu;
+- parašytas lietuvių kalba;
+- atnaujinamas pagal realius klausimus.
+
+## Ko FAQ neturi daryti
+
+FAQ neturi:
+
+- žadėti narystės;
+- kviesti į organizaciją;
+- pristatyti BVK kaip veikiančios struktūros;
+- aiškinti visų kanono detalių iš karto;
+- pakeisti archyvo;
+- pakeisti dokumentų;
+- būti politiniu manifestu;
+- sunaikinti atradimo jausmo.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2027-05-28-01 — Pirmosios „Kaip skaityti BVK projektą“ atramos dokumentas;
+- A-2027-06-14-01 — Pirmųjų skaitytojų klausimų atrama;
+- OQ-2026-01 — Svetainė ir skaitymo logika;
+- OQ-2026-02 — Bendruomenės pradžia;
+- OQ-2026-09 — Pirmieji teisiniai atsargumai;
+- 00_FIRST_CONCEPTS_2026 — pirmųjų sąvokų žodynas;
+- 09_SITE_ARCHIVE_PUBLICATION_MODEL — archyvo publikavimo modelis.
+
+## Atviri klausimai
+
+- ar FAQ turi būti viena puslapio skiltis, ar atskira rubrika;
+- ar FAQ turi turėti trumpą ir išplėstinę versiją;
+- ar atsakymai turi turėti nuorodas į archyvinius dokumentus;
+- kaip dažnai FAQ atnaujinti;
+- ar skaitytojų klausimai turi būti anonimiškai cituojami;
+- kada FAQ klausimas tampa GAP-NOTE;
+- ar FAQ turi būti verčiamas į rusų ir anglų kalbas;
+- kaip išlaikyti balansą tarp aiškumo ir paslapties.
+
+## Pirminė išvada
+
+Pirmoji BVK FAQ struktūra atsiranda ne tam, kad viską užbaigtų, o tam, kad padėtų naujam skaitytojui įeiti į projektą.
+
+Ji turi būti tarsi raktas prie durų: pakankamai aiški, kad žmogus nepasimestų, bet ne tokia sunki, kad uždarytų visą ateities pasaulio atradimą viename paaiškinime.
