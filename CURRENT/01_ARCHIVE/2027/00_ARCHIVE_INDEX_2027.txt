@@ -2,9 +2,9 @@ BVK CANON
 2027 metų archyvo indeksas
 
 Statusas: ACTIVE
-Versija: v1.0
+Versija: v1.1
 Pirmojo priėmimo data: 2026-04-26
-Dabartinė redakcija: 2026-04-26
+Dabartinė redakcija: 2027-08-14
 Pakeitimų istorija: GitHub History
 Prieigos lygis: SERVICE
 Istorinė priklausomybė: ankstyvasis publikacijų sluoksnis / pirmųjų atvirų metų archyvas
@@ -17,7 +17,7 @@ Viešas rodymas: CARD_ONLY
 
 Paskirtis:
 Šis indeksas registruoja 2027 metų pirminius BVK archyvo dokumentus.
-2027 metai laikomi pirmųjų atvirų publikacijų metais: svetainė pradeda rodyti skaitytojui ateities naujienas, Rūdiškių pradžios istoriją, pirmus ekonominius tekstus, simbolikos paiešką, romano sluoksnį ir pirmą viešą paaiškinimą, kaip skaityti projektą.
+2027 metai laikomi pirmųjų atvirų publikacijų metais: svetainė pradeda rodyti skaitytojui ateities naujienas, Rūdiškių pradžios istoriją, pirmus ekonominius tekstus, simbolikos paiešką, romano sluoksnį, skaitymo paaiškinimus, pirmus skaitytojų klausimus, archyvo korteles ir pirmą naujienų redakcinės drausmės taisyklę.
 
 Pagrindinis principas:
 2027 metais dar nėra organizacijos, partijos, kooperatyvo, juridinės struktūros, veikiančio BVK, ministerijų, konstitucijos ar Respublikos.
@@ -29,13 +29,18 @@ Yra viešas projektas, svetainė, archyvas, pirmos publikacijos, pirmi skaitytoj
 
 - pirmą ateities naujieną;
 - pirmą Rūdiškių pradžios istoriją;
-- pirmą produktų seriją;
+- pirmą viešą 2026 metų produktų temos tęsinį;
 - pirmą darbo ir žmogaus saugumo publikaciją;
 - pirmą simbolikos paaiškinimą;
 - pirmą romano / pasakojimo sluoksnį;
-- pirmą skaitymo logikos paaiškinimą;
-- pirmas skaitytojų ir socialinių tinklų reakcijas;
-- pirmus klausimus apie dalyvavimą.
+- pirmą 2026-2046 metų kelio žemėlapį;
+- pirmus skaitytojus ir socialinių tinklų komunikaciją;
+- pirmą paaiškinimą, kaip skaityti projektą;
+- pirmus skaitytojų klausimus;
+- pirmą FAQ struktūrą;
+- pirmas archyvo dokumentų korteles;
+- pirmą viešojo archyvo struktūrą;
+- pirmą naujienų redakcinės drausmės atramą.
 
 ## Dokumentų tipai
 
@@ -47,7 +52,9 @@ Yra viešas projektas, svetainė, archyvas, pirmos publikacijos, pirmi skaitytoj
 - pirmo bendruomenės rato klausimas;
 - simbolikos viešo naudojimo pastaba;
 - romano sluoksnio pastaba;
-- vertimo / kalbos statuso pastaba.
+- vertimo / kalbos statuso pastaba;
+- viešojo archyvo struktūros atrama;
+- redakcinės drausmės atrama.
 
 ## Pagrindinių dokumentų sąrašas
 
@@ -55,55 +62,116 @@ A-2027-01-12-01
 Pavadinimas: Pirmosios ateities naujienos paskelbimo atrama
 Failas: A-2027-01-12-01_pirmosios_ateities_naujienos_paskelbimo_atrama.txt
 Tipas: publikacijos atramos dokumentas
-Statusas: numatytas kurti
+Statusas: ACTIVE
 Paskirtis: užfiksuoti pirmą turinio įvykį, kai svetainėje pasirodo naujiena iš 2086 metų pasaulio.
 
 A-2027-01-27-01
 Pavadinimas: Pirmosios Rūdiškių pradžios istorijos atrama
 Failas: A-2027-01-27-01_pirmosios_rudiskiu_pradzios_istorijos_atrama.txt
-Tipas: publikacijos atramos dokumentas
-Statusas: numatytas kurti
+Tipas: publikacijos atramos dokumentas / vietos pradžios pastaba
+Statusas: ACTIVE
 Paskirtis: parodyti Rūdiškes kaip pradžios vietą, bet ne kaip ankstyvą valstybės centrą.
 
 A-2027-02-10-01
-Pavadinimas: Pirmųjų bendro ūkio produktų publikacijų serijos atrama
+Pavadinimas: 2026 metų produktų temos viešo tęsinio atrama
 Failas: A-2027-02-10-01_pirmuju_bendro_ukio_produktu_serijos_atrama.txt
 Tipas: ekonominės publikacijos atramos dokumentas
-Statusas: numatytas kurti
+Statusas: ACTIVE
 Paskirtis: susieti 2027 metų viešą produktų seriją su 2026 metų pirminiu produktų sąrašu.
 
 A-2027-02-24-01
 Pavadinimas: Pirmojo ženklo ir simbolikos viešo pristatymo atrama
 Failas: A-2027-02-24-01_pirmojo_zenklo_ir_simbolikos_pristatymo_atrama.txt
 Tipas: simbolikos atramos dokumentas
-Statusas: numatytas kurti
-Paskirtis: paaiškinti, kad ženklai ir флагai 2027 metais yra projekto simbolika, ne patvirtinta valstybės atributika.
+Statusas: ACTIVE
+Paskirtis: paaiškinti, kad ženklai ir vėliavos 2027 metais yra projekto simbolika, ne patvirtinta valstybės atributika.
 
 A-2027-03-09-01
-Pavadinimas: Darbo, kuris grąžina daugiau nei atlyginimą, publikacijos atrama
+Pavadinimas: Darbo ir kasdienio saugumo publikacijos atrama
 Failas: A-2027-03-09-01_darbo_ir_kasdienio_saugumo_publikacijos_atrama.txt
 Tipas: socialinės ekonomikos atramos dokumentas
-Statusas: numatytas kurti
+Statusas: ACTIVE
 Paskirtis: susieti viešą darbo temą su 2026 metų darbo saugumo užrašais.
 
 A-2027-03-26-01
 Pavadinimas: Pirmosios romano pasaulio ištraukos atrama
 Failas: A-2027-03-26-01_pirmosios_romano_pasaulio_istraukos_atrama.txt
-Tipas: naratyvinio sluoksnio pastaba
-Statusas: numatytas kurti
+Tipas: naratyvinio sluoksnio atramos dokumentas
+Statusas: ACTIVE
 Paskirtis: užfiksuoti romano sluoksnį kaip meninį įėjimą į ateities pasaulį, o ne kaip oficialų dokumentą.
 
 A-2027-04-24-01
 Pavadinimas: Pirmojo 2026-2046 metų kelio žemėlapio atrama
 Failas: A-2027-04-24-01_pirmojo_2026_2046_kelio_zemelapio_atrama.txt
 Tipas: chronologijos atramos dokumentas
-Statusas: numatytas kurti
+Statusas: ACTIVE
 Paskirtis: parodyti perėjimą nuo pirmųjų užrašų prie ilgo praktinio horizonto be valstybės imitacijos.
+
+A-2027-05-12-01
+Pavadinimas: Pirmųjų skaitytojų ir socialinių tinklų pradžios atrama
+Failas: A-2027-05-12-01_pirmuju_skaitytoju_ir_socialiniu_tinklu_pradzios_atrama.txt
+Tipas: bendruomenės pradžios ir viešos komunikacijos atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: užfiksuoti pirmą viešą komunikaciją socialiniuose tinkluose kaip skaitytojo atsiradimą, ne organizacijos pradžią.
+
+A-2027-05-28-01
+Pavadinimas: Pirmosios „Kaip skaityti BVK projektą“ atramos dokumentas
+Failas: A-2027-05-28-01_kaip_skaityti_bvk_projekta_pirmoji_atrama.txt
+Tipas: skaitymo logikos atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: paaiškinti skaitytojui, kaip atskirti ateities naujienas, archyvą, dokumentus, romaną ir dabartinį projektą.
+
+A-2027-06-14-01
+Pavadinimas: Pirmųjų skaitytojų klausimų atrama
+Failas: A-2027-06-14-01_pirmuju_skaitytoju_klausimu_atrama.txt
+Tipas: skaitytojų klausimų ir GAP-NOTE mechanizmo atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: užfiksuoti pirmus klausimus kaip būdą rasti kanono spragas, ne kaip bendruomenės ar organizacijos sprendimus.
+
+A-2027-06-30-01
+Pavadinimas: Pirmosios BVK FAQ struktūros atrama
+Failas: A-2027-06-30-01_pirmosios_bvk_faq_strukturos_atrama.txt
+Tipas: FAQ struktūros ir skaitymo paaiškinimo atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: sukurti pirmą dažniausių klausimų struktūrą naujam skaitytojui.
+
+A-2027-07-15-01
+Pavadinimas: Pirmųjų archyvo dokumentų kortelių atrama
+Failas: A-2027-07-15-01_pirmuju_archyvo_dokumentu_korteliu_atrama.txt
+Tipas: archyvo kortelių ir svetainės navigacijos atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: sukurti tarpinę formą tarp bvk.lt publikacijos ir kanoninio GitHub dokumento.
+
+A-2027-07-31-01
+Pavadinimas: Pirmosios viešojo archyvo struktūros atrama
+Failas: A-2027-07-31-01_pirmosios_viesojo_archyvo_strukturos_atrama.txt
+Tipas: viešojo archyvo struktūros atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: pereiti nuo pavienių kortelių prie aiškesnio PUBLIC_READ ir bvk.lt archyvinio įėjimo.
+
+A-2027-08-14-01
+Pavadinimas: Pirmosios naujienų redakcinės drausmės atrama
+Failas: A-2027-08-14-01_pirmosios_naujienu_redakcines_drausmes_atrama.txt
+Tipas: redakcinės drausmės ir naujienų tono atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: įtvirtinti principą, kad naujiena turi skambėti kaip tos dienos publikacija, be tarnybinės kalbos ir be žinojimo apie ateitį.
 
 ## Darbo taisyklė
 
 2027 metų dokumentai turi kalbėti apie publikavimą, skaitymą, paaiškinimą ir pirmą viešą reakciją.
 Jie neturi per anksti virsti kooperatyvo, partijos, ministerijų ar valstybės teisės dokumentais.
 
+Kiekviena naujiena, kuri mini dokumentą, sprendimą, taisyklę, užrašą, protokolą ar archyvinį įrašą, turi turėti dokumentinę atramą.
+
+## Redakcinė pastaba
+
+Nuo A-2027-08-14-01 į 2027 metų sluoksnį įtraukiama naujienų tono taisyklė:
+
+- naujiena turi skambėti kaip savo dienos publikacija;
+- negalima rašyti su vėlesnio istoriko žinojimu;
+- negalima paversti naujienos tarnybine pažyma;
+- pirmoje pastraipoje turi būti aišku, kas įvyko dabar;
+- pabaigoje turi būti artimiausias klausimas arba kitas žingsnis, o ne galutinė istorinė išvada.
+
 Išvada:
-2027 metų archyvas yra viešo atsidarymo sluoksnis. Jo tikslas — parodyti, kaip privatus 2026 metų klausimas pradeda tapti skaitomu, aiškinamu ir palaipsniui bendru pasauliu.
+2027 metų archyvas yra viešo atsidarymo sluoksnis. Jo tikslas — parodyti, kaip privatus 2026 metų klausimas pradeda tapti skaitomu, aiškinamu ir palaipsniui bendru pasauliu, dar nevirsdamas nei organizacija, nei veikiančia valstybe.
