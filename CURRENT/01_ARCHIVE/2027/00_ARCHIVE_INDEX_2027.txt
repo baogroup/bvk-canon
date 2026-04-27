@@ -2,9 +2,9 @@ BVK CANON
 2027 metų archyvo indeksas
 
 Statusas: ACTIVE
-Versija: v1.3
+Versija: v1.4
 Pirmojo priėmimo data: 2026-04-26
-Dabartinė redakcija: 2027-10-04
+Dabartinė redakcija: 2027-12-05
 Pakeitimų istorija: GitHub History
 Prieigos lygis: SERVICE
 Istorinė priklausomybė: ankstyvasis publikacijų sluoksnis / pirmųjų atvirų metų archyvas
@@ -17,7 +17,7 @@ Viešas rodymas: CARD_ONLY
 
 Paskirtis:
 Šis indeksas registruoja 2027 metų pirminius BVK archyvo dokumentus.
-2027 metai laikomi pirmųjų atvirų publikacijų metais: svetainė pradeda rodyti skaitytojui ateities naujienas, Rūdiškių pradžios istoriją, pirmus ekonominius tekstus, simbolikos paiešką, romano sluoksnį, skaitymo paaiškinimus, pirmus skaitytojų klausimus, archyvo korteles, pirmą naujienų redakcinės drausmės taisyklę, pirmą komentarų bei klausimų tvarką ir pirmas kalbos korteles.
+2027 metai laikomi pirmųjų atvirų publikacijų metais: svetainė pradeda rodyti skaitytojui ateities naujienas, Rūdiškių pradžios istoriją, pirmus ekonominius tekstus, simbolikos paiešką, romano sluoksnį, skaitymo paaiškinimus, pirmus skaitytojų klausimus, archyvo korteles, naujienų redakcinės drausmės taisyklę, komentarų bei klausimų tvarką, kalbos korteles, bvk.lt ir PUBLIC_READ ryšį bei pirmus neformalius pagalbos pasiūlymus.
 
 Pagrindinis principas:
 2027 metais dar nėra organizacijos, partijos, kooperatyvo, juridinės struktūros, veikiančio BVK, ministerijų, konstitucijos ar Respublikos.
@@ -42,7 +42,9 @@ Yra viešas projektas, svetainė, archyvas, pirmos publikacijos, pirmi skaitytoj
 - pirmą viešojo archyvo struktūrą;
 - pirmą naujienų redakcinės drausmės atramą;
 - pirmą komentarų ir klausimų tvarkos atramą;
-- pirmą vertimų ir kalbos kortelių atramą.
+- pirmą vertimų ir kalbos kortelių atramą;
+- pirmą bvk.lt ir PUBLIC_READ ryšio atramą;
+- pirmą savanoriškų pasiūlymų atramą.
 
 ## Dokumentų tipai
 
@@ -58,7 +60,9 @@ Yra viešas projektas, svetainė, archyvas, pirmos publikacijos, pirmi skaitytoj
 - viešojo archyvo struktūros atrama;
 - redakcinės drausmės atrama;
 - komentarų ir klausimų tvarkos atrama;
-- vertimų ir kalbos kortelių atrama.
+- vertimų ir kalbos kortelių atrama;
+- svetainės ir viešojo archyvo ryšio atrama;
+- neformalių pagalbos pasiūlymų atrama.
 
 ## Pagrindinių dokumentų sąrašas
 
@@ -174,6 +178,20 @@ Tipas: vertimų ir kalbos kortelių atramos dokumentas
 Statusas: ACTIVE
 Paskirtis: pradėti saugoti svarbiausias sąvokas tarp darbo kalbos ir lietuviško viešo sluoksnio, kad vertimas nekeistų kanono prasmės.
 
+A-2027-11-08-01
+Pavadinimas: Pirmojo bvk.lt ir PUBLIC_READ ryšio atrama
+Failas: A-2027-11-08-01_pirmuju_bvklt_ir_public_read_rysio_atrama.txt
+Tipas: bvk.lt ir PUBLIC_READ ryšio atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: pradėti jungti viešas publikacijas su PUBLIC_READ archyvo dokumentais, kad skaitytojas matytų atramos kelią.
+
+A-2027-12-05-01
+Pavadinimas: Pirmųjų savanoriškų pasiūlymų atrama
+Failas: A-2027-12-05-01_pirmuju_savanorisku_pasiulymu_atrama.txt
+Tipas: pirmųjų savanoriškų pasiūlymų atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: užfiksuoti pirmus neformalius pagalbos signalus, dar nesukuriant narystės, organizacijos ar savanorių tinklo.
+
 ## Darbo taisyklė
 
 2027 metų dokumentai turi kalbėti apie publikavimą, skaitymą, paaiškinimą ir pirmą viešą reakciją.
@@ -183,30 +201,13 @@ Kiekviena naujiena, kuri mini dokumentą, sprendimą, taisyklę, užrašą, prot
 
 ## Redakcinė pastaba
 
-Nuo A-2027-08-14-01 į 2027 metų sluoksnį įtraukiama naujienų tono taisyklė:
+Nuo A-2027-08-14-01 į 2027 metų sluoksnį įtraukiama naujienų tono taisyklė.
+Nuo A-2027-09-06-01 įtraukiama pirmųjų komentarų ir klausimų tvarka.
+Nuo A-2027-10-04-01 įtraukiama pirmoji kalbos kortelių logika.
+Nuo A-2027-11-08-01 įtraukiamas bvk.lt ir PUBLIC_READ ryšys.
+Nuo A-2027-12-05-01 įtraukiama pirmųjų neformalių pagalbos pasiūlymų logika.
 
-- naujiena turi skambėti kaip savo dienos publikacija;
-- negalima rašyti su vėlesnio istoriko žinojimu;
-- negalima paversti naujienos tarnybine pažyma;
-- pirmoje pastraipoje turi būti aišku, kas įvyko dabar;
-- pabaigoje turi būti artimiausias klausimas arba kitas žingsnis, o ne galutinė istorinė išvada.
-
-Nuo A-2027-09-06-01 į 2027 metų sluoksnį įtraukiama pirmųjų komentarų ir klausimų tvarka:
-
-- skaitytojo klausimas dar nėra dalyvavimas;
-- komentaras dar nėra bendruomenės sprendimas;
-- siūlymas padėti dar nėra narystė;
-- pasikartojantys klausimai gali virsti FAQ;
-- spragą rodantys klausimai gali virsti GAP-NOTE;
-- visos reakcijos turi būti priimamos ramiai, be valstybinės, partinės ar organizacinės kalbos.
-
-Nuo A-2027-10-04-01 į 2027 metų sluoksnį įtraukiama pirmoji kalbos kortelių logika:
-
-- vertimas negali keisti kanono prasmės;
-- lietuviškas viešas tekstas turi saugoti darbo sluoksnio tikslumą;
-- svarbiausios sąvokos turi turėti paprastus public-facing paaiškinimus;
-- kalbos kortelės dar nėra valstybinis terminų registras;
-- rusų darbo originalai gali būti saugomi, bet viešas skaitymo sluoksnis turi būti lietuviškas.
+Visais atvejais išlieka riba: skaitytojas dar nėra narys, komentaras dar nėra sprendimas, pagalbos pasiūlymas dar nėra organizacinis statusas, o PUBLIC_READ dar nėra valstybės archyvas.
 
 Išvada:
 2027 metų archyvas yra viešo atsidarymo sluoksnis. Jo tikslas — parodyti, kaip privatus 2026 metų klausimas pradeda tapti skaitomu, aiškinamu ir palaipsniui bendru pasauliu, dar nevirsdamas nei organizacija, nei veikiančia valstybe.
