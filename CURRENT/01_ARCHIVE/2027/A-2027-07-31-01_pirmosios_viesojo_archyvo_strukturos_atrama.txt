@@ -1,0 +1,207 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-07-31-01
+
+Tipas:
+viešojo archyvo struktūros atramos dokumentas
+
+Pavadinimas:
+Pirmosios viešojo archyvo struktūros atrama
+
+Susijusi publikacija:
+2027 m. liepos 31 d. – Parengta pirmoji viešojo BVK archyvo struktūra
+
+# A-2027-07-31-01
+# Pirmosios viešojo archyvo struktūros atrama
+
+Data: 2027 m. liepos 31 d.
+Vieta: BVK svetainės viešasis sluoksnis / PUBLIC_READ archyvas
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Parengta pirmoji viešojo BVK archyvo struktūra.
+
+Iki šio taško svetainėje jau pradėjo rastis naujienos, dokumentų atramos, skaitymo paaiškinimai, FAQ struktūra ir archyvo dokumentų kortelės. Tačiau vien kortelių nepakanka. Skaitytojui reikia matyti, kaip visas atviras archyvas suskirstytas ir kaip nuo vieno dokumento pereiti prie kito.
+
+Todėl pradėta formuoti pirmoji viešojo archyvo struktūra.
+
+## Kodėl tai svarbu
+
+BVK Canon negali būti tik failų medis.
+
+Failų medis tinka kūrėjui, bet skaitytojui reikia kitos logikos:
+- metų;
+- temų;
+- dokumentų tipų;
+- pradžios taškų;
+- viešų paaiškinimų;
+- aiškių kelių tarp naujienų ir archyvo.
+
+Viešasis archyvas turi padėti žmogui suprasti ne tik atskirą dokumentą, bet ir dokumentų tarpusavio santykį.
+
+## Pirmoji archyvo struktūra
+
+Viešasis archyvas gali būti skirstomas į šiuos skyrius:
+
+### Pradėti čia
+
+Trumpas įėjimas naujam skaitytojui:
+- kas yra BVK;
+- kaip skaityti projektą;
+- kuo skiriasi ateities naujienos, archyvas, dokumentai ir romanas;
+- kur rasti pagrindinę chronologiją.
+
+### 2026 metų archyvas
+
+Pirmųjų metų sluoksnis:
+- pirmieji klausimai;
+- pirmųjų metų kronikos;
+- atviri klausimai;
+- pirmųjų sąvokų žodynas;
+- pirmos produktų, darbo, svetainės ir atminties temos.
+
+### 2027 metų archyvas
+
+Pirmųjų atvirų publikacijų sluoksnis:
+- pirmoji ateities naujiena;
+- Rūdiškių pradžios istorija;
+- produktų temos viešas tęsinys;
+- simbolikos pristatymas;
+- darbo ir kasdienio saugumo publikacija;
+- romano pasaulio ištrauka;
+- kelio žemėlapis;
+- socialinių tinklų ir skaitytojų klausimų pradžia;
+- FAQ ir dokumentų kortelės.
+
+### Chronologija
+
+Kelias nuo 2026 iki 2086 metų:
+- ankstyvas idėjinis sluoksnis;
+- viešas publikacijų sluoksnis;
+- bendruomenės pradžia;
+- praktiniai skaičiavimai;
+- pirmas gospodarinis bandymas;
+- kooperatyvinės miesto formos riba;
+- brandžios Respublikos laikotarpis.
+
+### Dokumentai
+
+Pagrindiniai dokumentų tipai:
+- kronikos;
+- atviri klausimai;
+- atramos dokumentai;
+- sąvokų žodynai;
+- protokolai;
+- modeliai;
+- taisyklės;
+- vėlesni teisės dokumentai.
+
+### Naujienų atramos
+
+Vieta, kur skaitytojas gali matyti, kokiais dokumentais remiasi viešos publikacijos.
+
+### Pasakojimo sluoksnis
+
+Romano, veikėjų, ateities atmosferos ir naratyvinio pasaulio dokumentai.
+
+## Ryšys tarp bvk.lt ir GitHub Pages
+
+Pirmoji struktūra turi laikytis šios schemos:
+
+- GitHub saugo kanoninį šaltinį ir failų istoriją;
+- PUBLIC_READ rodo skaitomą viešą archyvą;
+- bvk.lt rodo naujienas, straipsnius, korteles ir įėjimo puslapius;
+- PDF naudojamas tik svarbiems rinkiniams, ne kiekvienam dokumentui.
+
+## Pirmas viešo archyvo meniu
+
+Galimas pirmas meniu:
+
+- Pradėti čia
+- Naujienos
+- 2026 metų archyvas
+- 2027 metų archyvas
+- Chronologija
+- Dokumentai
+- Pirmųjų metų kronikos
+- Atviri klausimai
+- Kaip skaityti
+- GitHub šaltinis
+
+## Redakciniai principai
+
+Viešasis archyvas turi būti:
+
+- lietuvių kalba;
+- ramus ir oficialus;
+- patogus skaityti;
+- ne per daug techninis;
+- ne imituojantis veikiančios valstybės portalą;
+- ne partinis;
+- ne reklaminis;
+- paremtas GitHub kaip kanoniniu šaltiniu;
+- aiškiai atskiriantis PUBLIC ir SERVICE sluoksnius.
+
+## Ko viešasis archyvas neturi daryti
+
+Viešasis archyvas neturi:
+
+- rodyti visų SERVICE dokumentų paprastam skaitytojui;
+- painioti darbo dokumentų su pasaulio dokumentais;
+- rodyti RESTRICTED ar SEALED turinio;
+- dubliuoti viso GitHub rankiniu būdu;
+- tapti antru kanoniniu šaltiniu;
+- slėpti dokumentų kilmės;
+- apsimesti veikiančios valstybės archyvu 2027 metais.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- 09_SITE_ARCHIVE_PUBLICATION_MODEL — archyvo publikavimo modelis;
+- 10_PUBLIC_READ_OFFICIAL_ARCHIVE_REDESIGN_PROTOCOL — viešojo archyvo pertvarkymo protokolas;
+- 11_LANGUAGE_LAYER_AND_TRANSLATION_PROTOCOL — kalbų ir vertimų sluoksnių protokolas;
+- A-2027-07-15-01 — Pirmųjų archyvo dokumentų kortelių atrama;
+- A-2027-05-28-01 — Pirmosios „Kaip skaityti BVK projektą“ atramos dokumentas;
+- A-2027-06-30-01 — Pirmosios BVK FAQ struktūros atrama;
+- OQ-2026-05 — Archyvo atmintis ir GitHub;
+- OQ-2026-06 — Naujienos ir dokumentinė atrama.
+
+## Atviri klausimai
+
+- ar PUBLIC_READ turi būti pagrindinis viešasis archyvas, ar tik techninis skaitymo sluoksnis;
+- kiek bvk.lt turi dubliuoti archyvo turinį;
+- ar 2026 ir 2027 metų archyvai turi turėti atskirus puslapius;
+- ar dokumentai turi būti filtruojami pagal metus, tipą ir prieigos lygį;
+- ar reikia paieškos;
+- kaip rodyti dokumentus, kurie dar neturi lietuviškos public-facing versijos;
+- ar ateityje reikės automatinės sinchronizacijos su WordPress;
+- kaip archyvas turėtų atrodyti mobiliajame telefone.
+
+## Pirminė išvada
+
+Pirmoji viešojo archyvo struktūra padeda BVK projektui pereiti nuo pavienių publikacijų prie sisteminės skaitymo erdvės.
+
+Naujienos atveda žmogų į pasaulį.
+Dokumentų kortelės nuveda į atramas.
+Viešasis archyvas leidžia suprasti visą kelią.
+
+Tai dar nėra valstybės archyvas.
+Tai pirmas tvarkingas viešas projekto atminties įėjimas.
