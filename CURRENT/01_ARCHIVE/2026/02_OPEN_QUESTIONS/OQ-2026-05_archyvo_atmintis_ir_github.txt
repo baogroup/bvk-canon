@@ -1,0 +1,80 @@
+BVK CANON
+Atviras klausimas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis idėjinis sluoksnis / klausimų ir spragų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+
+Klausimo kodas:
+OQ-2026-05
+
+Tipas:
+QUESTION-LOG / archyvo atminties pastaba
+
+Tema:
+Archyvo atmintis ir GitHub
+
+# OQ-2026-05
+# Archyvo atmintis ir GitHub
+
+Data: 2026 m. balandis
+Būsena: atviras klausimas
+
+## Pagrindinis klausimas
+
+Kaip sutvarkyti failus, indeksus, istoriją ir skaitymo sluoksnius taip, kad BVK Canon nepasimestų tarp pokalbių, versijų, dokumentų ir ateities publikacijų?
+
+## Kodėl klausimas svarbus
+
+Projektas greitai pradeda gaminti daug skirtingų tekstų: kronikas, užrašus, naujienas, planus, taisykles, modelius, klausimus, simbolių aprašymus ir būsimus dokumentus.
+Jeigu nėra vienos atminties sistemos, tie tekstai pradeda kartotis, prieštarauti vienas kitam arba dingti pokalbių istorijoje.
+
+GitHub pasirinktas kaip kanoninė atminties vieta, bet pats GitHub dar nėra pakankamas atsakymas.
+Reikia aiškių taisyklių, kaip dokumentai atsiranda, kur jie gyvena, kaip skaitomi ir kaip atskiriamas darbo sluoksnis nuo viešo.
+
+## Pirmi būtini sluoksniai
+
+- CURRENT — dabartinė aktyvi kanono redakcija;
+- PUBLIC_READ — viešasis skaitymo sluoksnis;
+- assistant sluoksnis — išplėstas darbo ir konteksto atkūrimo sluoksnis;
+- GitHub History — techninė visų pakeitimų istorija;
+- VERSIONS — didesnės išsaugotos redakcijos;
+- REPEALED — atšaukti, bet neištrinti dokumentai;
+- indeksai pagal metus, temas ir dokumentų tipus.
+
+## Pirmi pavojai
+
+- vienas dokumentas atsiranda keliais pavadinimais;
+- viešas skaitytojas mato per daug techninio sluoksnio;
+- assistant gauna per mažai konteksto;
+- LINK_MAP tampa neišsamus;
+- dokumentai neturi kalbos ir vertimo statuso;
+- GitHub Pages rodo сырой failų sąrašą;
+- bvk.lt pradeda kopijuoti dokumentus rankiniu būdu ir sukuria antrą tiesos šaltinį.
+
+## Laikinas atsakymas
+
+GitHub turi likti kanoniniu šaltiniu, bet viešasis skaitymas turi vykti per suformuotą archyvo sluoksnį.
+Dokumentai turi būti registruojami indeksuose, o ne vien matomi failų medyje.
+Kiekvienas svarbus dokumentas turi turėti statusą, prieigos lygį, istorinę priklausomybę ir, jei reikia, kalbos / vertimo statusą.
+
+## Atviri klausimai
+
+1. Ar kiekvienas metų archyvas turi turėti savo indeksą?
+2. Kada dokumentas patenka į PUBLIC_READ, o kada lieka assistant sluoksnyje?
+3. Kaip žymėti dokumentus, kuriems dar reikia lietuviškos versijos?
+4. Ar reikia automatinio dokumentų kortelių generavimo?
+5. Kokia turi būti minimali dokumento šапка?
+6. Kaip išvengti dublikatų?
+7. Kaip ateityje ieškoti dokumentų pagal temą, metus, prieigos lygį ir statusą?
+
+## Išvada
+
+Archyvo atmintis yra ne techninė smulkmena, o viena pagrindinių BVK Canon išlikimo sąlygų.
+Jeigu projektas nori augti iki tūkstančių dokumentų, jis turi turėti не tik tekstus, bet ir atminties tvarką.
