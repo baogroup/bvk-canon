@@ -1,0 +1,174 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-03-08
+Dabartinė redakcija: 2028-03-08
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / pirmųjų pagalbos formų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-03-08-01
+
+Tipas:
+pirmųjų pagalbos formų atramos dokumentas
+
+Pavadinimas:
+Pirmųjų pagalbos formų atrama
+
+Susijusi publikacija:
+2028 m. kovo 8 d. – Aprašytos pirmosios paprastos pagalbos BVK projektui formos
+
+# A-2028-03-08-01
+# Pirmųjų pagalbos formų atrama
+
+Data: 2028 m. kovo 8 d.
+Vieta: BVK svetainės viešasis sluoksnis / pirmųjų pagalbos pasiūlymų tęsinys
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Aprašytos pirmosios paprastos pagalbos BVK projektui formos.
+
+Po to, kai buvo atskirti skaitytojas, klausėjas, pastabų teikėjas ir pagalbininkas, tapo įmanoma kalbėti ne tik apie žmogaus santykį su projektu, bet ir apie konkrečius mažus veiksmus, kurie gali būti naudingi.
+
+2028 metų kovą pirmą kartą bandoma surašyti, kokia pagalba gali būti priimama neperžengiant ankstyvo projekto ribų.
+
+## Kodėl tai svarbu
+
+Pagalba turi būti tokia, kurią projektas gali realiai patikrinti ir atlaikyti.
+
+Jeigu pagalba per didelė, neaiški arba susijusi su sprendimų priėmimu, ankstyvas projektas gali prarasti kontrolę. Jeigu pagalba per daug formalizuojama, atsiranda organizacijos įspūdis. Jeigu pagalba visai nepriimama, prarandamas pirmas žmonių pasitikėjimas.
+
+Todėl pirmosios pagalbos formos turi būti mažos, aiškios ir tikrinamos.
+
+## Pirmos priimtinos formos
+
+### Kalbos pataisa
+
+Žmogus pastebi netikslų lietuvišką sakinį, klaidą, per sunkų žodį arba neaiškią sąvoką.
+
+Galimas veiksmas:
+- patikrinti pataisą;
+- prireikus pataisyti tekstą;
+- jeigu klausimas kartojasi, papildyti kalbos kortelę.
+
+### Nuorodos patikrinimas
+
+Žmogus pastebi neveikiančią, pasenusią arba painią nuorodą tarp bvk.lt, PUBLIC_READ ir GitHub.
+
+Galimas veiksmas:
+- pataisyti nuorodą;
+- papildyti dokumento kortelę;
+- pažymėti, kad ryšys dar nebaigtas.
+
+### FAQ klausimas
+
+Žmogus užduoda klausimą, kuris gali būti naudingas ir kitiems skaitytojams.
+
+Galimas veiksmas:
+- įtraukti klausimą į FAQ juodraštį;
+- parengti trumpą atsakymą;
+- patikrinti, ar klausimas rodo platesnę kanono spragą.
+
+### Dokumento kortelės pastaba
+
+Žmogus pastebi, kad dokumento kortelė neaiški, trūksta datos, santraukos arba nuorodos.
+
+Galimas veiksmas:
+- papildyti kortelę;
+- patikrinti metaduomenis;
+- atnaujinti viešo archyvo navigaciją.
+
+### Tono pastaba
+
+Žmogus pastebi, kad tekstas skamba per oficialiai, per sausai arba per daug kaip valstybės pranešimas.
+
+Galimas veiksmas:
+- patikrinti tekstą pagal naujienų redakcinės drausmės taisyklę;
+- pataisyti pirmą pastraipą;
+- pašalinti retrospektyvų ar per ankstyvą toną.
+
+### Paprastas pasidalijimas
+
+Žmogus pasidalija publikacija ar nuoroda.
+
+Galimas veiksmas:
+- nelaikyti to dalyvavimu;
+- nefiksuoti žmogaus kaip pagalbininko;
+- vertinti tai kaip skaitytojo dėmesio ženklą.
+
+## Kas dar nepriimtina
+
+2028 metų kovą dar nepriimtina:
+
+- perduoti išoriniam žmogui dokumentų tvirtinimą;
+- suteikti viešą projekto atstovo statusą;
+- kurti redakcijos narių sąrašą;
+- leisti keisti kanoną be peržiūros;
+- kurti užduočių sistemą kaip organizacijoje;
+- skelbti, kad renkama komanda;
+- vadinti pagalbininkus nariais.
+
+## Pirmas tikrinimo principas
+
+Kiekviena pagalba turi praeiti paprastą patikrinimą:
+
+1. Ar pasiūlymas mažas ir aiškus?
+2. Ar jis susijęs su viešu sluoksniu?
+3. Ar jis nekeičia kanono prasmės be peržiūros?
+4. Ar jį galima patikrinti?
+5. Ar priėmus pasiūlymą nesukuriamas klaidingas statusas?
+6. Ar žmogui nereikia žadėti daugiau, negu projektas gali išlaikyti?
+
+Jeigu atsakymas neaiškus, pasiūlymas turi likti atviras klausimas, o ne iš karto tapti veiksmas.
+
+## Realistinis apribojimas
+
+Pagalba 2028 metais gali būti nelygi.
+
+Vienas žmogus gali pataisyti svarbų žodį, bet daugiau niekada nebegrįžti. Kitas gali siūlyti daug, bet netiksliai. Trečias gali norėti padėti, bet nesuprasti projekto ribų.
+
+Todėl pagalbos sistema turi būti kantri, bet atsargi.
+
+## Ryšys su romano baze
+
+Šis dokumentas parodo, kaip ateities dalyvavimo kultūra galėtų augti iš mažų veiksmų.
+
+Romane vėliau galima rodyti visuomenę, kurioje žmonės moka padėti be valdžios troškimo, pastebėti klaidą be pažeminimo, taisyti tekstą be savinimosi, siūlyti darbą be teisės valdyti.
+
+Tokiai kultūrai reikia ilgos pradžios. 2028 metų mažos pagalbos formos yra vienas iš jos pirmųjų pėdsakų.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2027-12-05-01 — Pirmųjų savanoriškų pasiūlymų atrama;
+- A-2028-01-18-01 — Pirmojo dalyvavimo klausimo atrama;
+- A-2028-02-12-01 — Skaitytojo, klausėjo ir pagalbininko ribos atrama;
+- A-2027-08-14-01 — Pirmosios naujienų redakcinės drausmės atrama;
+- A-2027-10-04-01 — Pirmųjų vertimų ir kalbos kortelių atrama;
+- A-2027-11-08-01 — Pirmojo bvk.lt ir PUBLIC_READ ryšio atrama.
+
+## Atviri klausimai
+
+- ar reikia viešo puslapio „Kaip padėti“;
+- ar pagalbos pasiūlymai turi būti registruojami;
+- ar pataisą pasiūlęs žmogus turi būti minimas;
+- kas tikrina kalbos pataisas;
+- kaip atskirti naudingą pagalbą nuo spaudimo keisti kryptį;
+- kada galima pereiti prie dalyvavimo principų.
+
+## Pirminė išvada
+
+Pirmosios pagalbos formos turi būti mažos, aiškios ir patikrinamos.
+
+BVK projektas dar nekuria organizacijos, bet jau mokosi priimti žmogaus gerą valią taip, kad ji netaptų nei tuščiu statusu, nei nevaldoma įtaka.
