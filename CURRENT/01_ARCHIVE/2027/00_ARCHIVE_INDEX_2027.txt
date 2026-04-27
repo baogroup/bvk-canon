@@ -1,0 +1,109 @@
+BVK CANON
+2027 metų archyvo indeksas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis publikacijų sluoksnis / pirmųjų atvirų metų archyvas
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: CARD_ONLY
+
+Paskirtis:
+Šis indeksas registruoja 2027 metų pirminius BVK archyvo dokumentus.
+2027 metai laikomi pirmųjų atvirų publikacijų metais: svetainė pradeda rodyti skaitytojui ateities naujienas, Rūdiškių pradžios istoriją, pirmus ekonominius tekstus, simbolikos paiešką, romano sluoksnį ir pirmą viešą paaiškinimą, kaip skaityti projektą.
+
+Pagrindinis principas:
+2027 metais dar nėra organizacijos, partijos, kooperatyvo, juridinės struktūros, veikiančio BVK, ministerijų, konstitucijos ar Respublikos.
+Yra viešas projektas, svetainė, archyvas, pirmos publikacijos, pirmi skaitytojai, pirmos reakcijos ir pirmi bandymai paaiškinti sudėtingą ateities pasaulį be per ankstyvo oficialumo.
+
+## Metų užduotis
+
+2027 metų archyvas turi saugoti ne techninius svetainės darbus, o pirmus turinio įvykius:
+
+- pirmą ateities naujieną;
+- pirmą Rūdiškių pradžios istoriją;
+- pirmą produktų seriją;
+- pirmą darbo ir žmogaus saugumo publikaciją;
+- pirmą simbolikos paaiškinimą;
+- pirmą romano / pasakojimo sluoksnį;
+- pirmą skaitymo logikos paaiškinimą;
+- pirmas skaitytojų ir socialinių tinklų reakcijas;
+- pirmus klausimus apie dalyvavimą.
+
+## Dokumentų tipai
+
+- publikacijos atramos dokumentas;
+- viešos publikacijos kortelė;
+- skaitymo logikos pastaba;
+- pirmųjų skaitytojų reakcijų pastaba;
+- socialinių tinklų pradžios pastaba;
+- pirmo bendruomenės rato klausimas;
+- simbolikos viešo naudojimo pastaba;
+- romano sluoksnio pastaba;
+- vertimo / kalbos statuso pastaba.
+
+## Pagrindinių dokumentų sąrašas
+
+A-2027-01-12-01
+Pavadinimas: Pirmosios ateities naujienos paskelbimo atrama
+Failas: A-2027-01-12-01_pirmosios_ateities_naujienos_paskelbimo_atrama.txt
+Tipas: publikacijos atramos dokumentas
+Statusas: numatytas kurti
+Paskirtis: užfiksuoti pirmą turinio įvykį, kai svetainėje pasirodo naujiena iš 2086 metų pasaulio.
+
+A-2027-01-27-01
+Pavadinimas: Pirmosios Rūdiškių pradžios istorijos atrama
+Failas: A-2027-01-27-01_pirmosios_rudiskiu_pradzios_istorijos_atrama.txt
+Tipas: publikacijos atramos dokumentas
+Statusas: numatytas kurti
+Paskirtis: parodyti Rūdiškes kaip pradžios vietą, bet ne kaip ankstyvą valstybės centrą.
+
+A-2027-02-10-01
+Pavadinimas: Pirmųjų bendro ūkio produktų publikacijų serijos atrama
+Failas: A-2027-02-10-01_pirmuju_bendro_ukio_produktu_serijos_atrama.txt
+Tipas: ekonominės publikacijos atramos dokumentas
+Statusas: numatytas kurti
+Paskirtis: susieti 2027 metų viešą produktų seriją su 2026 metų pirminiu produktų sąrašu.
+
+A-2027-02-24-01
+Pavadinimas: Pirmojo ženklo ir simbolikos viešo pristatymo atrama
+Failas: A-2027-02-24-01_pirmojo_zenklo_ir_simbolikos_pristatymo_atrama.txt
+Tipas: simbolikos atramos dokumentas
+Statusas: numatytas kurti
+Paskirtis: paaiškinti, kad ženklai ir флагai 2027 metais yra projekto simbolika, ne patvirtinta valstybės atributika.
+
+A-2027-03-09-01
+Pavadinimas: Darbo, kuris grąžina daugiau nei atlyginimą, publikacijos atrama
+Failas: A-2027-03-09-01_darbo_ir_kasdienio_saugumo_publikacijos_atrama.txt
+Tipas: socialinės ekonomikos atramos dokumentas
+Statusas: numatytas kurti
+Paskirtis: susieti viešą darbo temą su 2026 metų darbo saugumo užrašais.
+
+A-2027-03-26-01
+Pavadinimas: Pirmosios romano pasaulio ištraukos atrama
+Failas: A-2027-03-26-01_pirmosios_romano_pasaulio_istraukos_atrama.txt
+Tipas: naratyvinio sluoksnio pastaba
+Statusas: numatytas kurti
+Paskirtis: užfiksuoti romano sluoksnį kaip meninį įėjimą į ateities pasaulį, o ne kaip oficialų dokumentą.
+
+A-2027-04-24-01
+Pavadinimas: Pirmojo 2026-2046 metų kelio žemėlapio atrama
+Failas: A-2027-04-24-01_pirmojo_2026_2046_kelio_zemelapio_atrama.txt
+Tipas: chronologijos atramos dokumentas
+Statusas: numatytas kurti
+Paskirtis: parodyti perėjimą nuo pirmųjų užrašų prie ilgo praktinio horizonto be valstybės imitacijos.
+
+## Darbo taisyklė
+
+2027 metų dokumentai turi kalbėti apie publikavimą, skaitymą, paaiškinimą ir pirmą viešą reakciją.
+Jie neturi per anksti virsti kooperatyvo, partijos, ministerijų ar valstybės teisės dokumentais.
+
+Išvada:
+2027 metų archyvas yra viešo atsidarymo sluoksnis. Jo tikslas — parodyti, kaip privatus 2026 metų klausimas pradeda tapti skaitomu, aiškinamu ir palaipsniui bendru pasauliu.
