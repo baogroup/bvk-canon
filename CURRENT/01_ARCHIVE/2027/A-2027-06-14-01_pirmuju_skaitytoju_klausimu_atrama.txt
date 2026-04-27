@@ -1,0 +1,159 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-06-14-01
+
+Tipas:
+skaitytojų klausimų ir GAP-NOTE mechanizmo atramos dokumentas
+
+Pavadinimas:
+Pirmųjų skaitytojų klausimų atrama
+
+Susijusi publikacija:
+2027 m. birželio 14 d. – Pradėti fiksuoti pirmieji skaitytojų klausimai apie BVK projektą
+
+# A-2027-06-14-01
+# Pirmųjų skaitytojų klausimų atrama
+
+Data: 2027 m. birželio 14 d.
+Vieta: BVK svetainės viešasis sluoksnis / pirmoji skaitytojų reakcijų aplinka
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Pradėti fiksuoti pirmieji skaitytojų klausimai apie BVK projektą.
+
+Šie klausimai dar nereiškia susiformavusios bendruomenės, organizacijos ar dalyvių rato. Jie žymi paprastesnį ir labai svarbų momentą: projektas pirmą kartą gauna išorinį žvilgsnį.
+
+Nuo šio taško tampa aišku, kad kanonas turi mokėti ne tik skelbti tekstus, bet ir priimti klausimus.
+
+## Kodėl tai svarbu
+
+Iki pirmųjų skaitytojų klausimų projektas daugiausia kūrė savo vidinę tvarką: archyvą, sąvokas, publikacijas, kelio žemėlapį, simboliką ir skaitymo paaiškinimą.
+
+Tačiau skaitytojas gali pamatyti tai, ko pats projektas nemato.
+
+Jis gali paklausti:
+- kas yra BVK;
+- ar tai romanas, projektas, archyvas ar ateities valstybės modelis;
+- kodėl svetainėje yra 2086 metų naujienos;
+- ar Rūdiškės yra tikra vieta ar fikcinis centras;
+- ar projektas kviečia veikti dabar;
+- ar yra bendruomenė;
+- kur rasti dokumentus;
+- kodėl dalis dokumentų atrodo kaip būsimos valstybės tekstai;
+- kaip skiriasi 2026, 2046 ir 2086 metų sluoksniai.
+
+Tokie klausimai neturi būti laikomi trukdžiu. Jie yra būdas rasti kanono spragas.
+
+## Pirmas klausimų fiksavimo principas
+
+Klausimas gali virsti dokumentu tik palaipsniui.
+
+Galima seka:
+
+1. Skaitytojo klausimas.
+2. Vidinė pastaba.
+3. GAP-NOTE, jeigu klausimas rodo tikrą spragą.
+4. DISCUSSION-NOTE, jeigu reikia aptarti kelis atsakymus.
+5. DRAFT, jeigu pradeda formuotis dokumentas.
+6. RULE, PROTOCOL arba LAW tik tada, kai klausimas subręsta daug vėliau.
+
+2027 metais daugumai klausimų dar nereikia taisyklių.
+Daug svarbiau juos teisingai užrašyti.
+
+## Galimos pirmųjų klausimų grupės
+
+### Skaitymo klausimai
+
+- Kaip skaityti ateities naujienas?
+- Ar 2086 metų tekstai yra fikcija, prognozė ar pasaulio dokumentai?
+- Nuo ko pradėti skaityti projektą?
+
+### Projekto statuso klausimai
+
+- Ar BVK yra organizacija?
+- Ar tai politinis projektas?
+- Ar tai valstybė?
+- Ar galima prisidėti?
+
+### Archyvo klausimai
+
+- Kur saugomi pirminiai dokumentai?
+- Kodėl dalis dokumentų yra darbo sluoksnyje?
+- Kas yra PUBLIC, SERVICE, RESTRICTED ir SEALED?
+
+### Rūdiškių klausimai
+
+- Kodėl pradžia siejama su Rūdiškėmis?
+- Ar Rūdiškės yra būsimos Respublikos centras?
+- Kaip reali vieta susijusi su ateities pasauliu?
+
+### Praktikos klausimai
+
+- Kada prasidėtų realus kooperatyvinis bandymas?
+- Ar jau kas nors gaminama?
+- Kokia būtų pirmoji praktinė kryptis?
+
+## Redakcinis apribojimas
+
+2027 metais negalima rašyti taip, lyg skaitytojų klausimai jau sukūrė bendruomenę arba oficialią dalyvavimo struktūrą.
+
+Leistina rašyti:
+- pirmieji klausimai;
+- pirmos reakcijos;
+- poreikis aiškiau paaiškinti projektą;
+- pirmos spragos;
+- būsimi dokumentai pagal klausimus.
+
+Negalima rašyti:
+- bendruomenė nusprendė;
+- dalyviai patvirtino;
+- nariai pasiūlė;
+- organizacija pradėjo;
+- visuomenė palaikė;
+- judėjimas susiformavo.
+
+## Ryšys su 2026 metų sluoksniu
+
+Susijusios atramos:
+
+- OQ-2026-01 — Svetainė ir skaitymo logika;
+- OQ-2026-02 — Bendruomenės pradžia;
+- OQ-2026-05 — Archyvo atmintis ir GitHub;
+- OQ-2026-09 — Pirmieji teisiniai atsargumai;
+- FC-2026-08 — Pirmoji bendruomenės mintis;
+- 00_FIRST_CONCEPTS_2026 — pirmųjų sąvokų žodynas.
+
+## Atviri klausimai
+
+- ar skaitytojų klausimai turi būti viešinami;
+- ar reikia atskiros FAQ rubrikos;
+- ar kiekvienas klausimas turi gauti archyvinį kodą;
+- kaip atskirti paprastą nesusipratimą nuo tikros kanono spragos;
+- kas turi teisę siūlyti GAP-NOTE;
+- kaip išsaugoti klausimus neperkraunant archyvo;
+- kada klausimas tampa dokumento pagrindu;
+- ar skaitytojų klausimų santraukos turi būti lietuvių kalba, net jeigu klausimas gautas kita kalba.
+
+## Pirminė išvada
+
+Pirmieji skaitytojų klausimai yra svarbūs ne dėl jų skaičiaus, o dėl jų funkcijos.
+
+Jie parodo, kad projektas pradeda būti matomas iš išorės.
+Nuo šio taško BVK Canon turi mokėti ne tik kurti atsakymus, bet ir saugoti klausimus, nes būtent klausimai vėliau padeda rasti, kur pasaulis dar nėra pakankamai aiškus.
