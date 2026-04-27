@@ -1,0 +1,227 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2027-10-04
+Dabartinė redakcija: 2027-10-04
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis / kalbos ir vertimų pradžia
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-10-04-01
+
+Tipas:
+vertimų ir kalbos kortelių atramos dokumentas
+
+Pavadinimas:
+Pirmųjų vertimų ir kalbos kortelių atrama
+
+Susijusi publikacija:
+2027 m. spalio 4 d. – Pradėtos rengti pirmosios BVK sąvokų ir kalbos kortelės
+
+# A-2027-10-04-01
+# Pirmųjų vertimų ir kalbos kortelių atrama
+
+Data: 2027 m. spalio 4 d.
+Vieta: BVK svetainės viešasis sluoksnis / kalbos ir vertimų darbo sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Pradėtos rengti pirmosios BVK sąvokų ir kalbos kortelės.
+
+Šis žingsnis atsirado po pirmųjų skaitytojų klausimų ir komentarų. Paaiškėjo, kad dalis projekto prasmių gimsta darbo kalba, bet skaitytojui turi būti aiškinamos lietuviškai. Jeigu šis perėjimas nebus tvarkomas atsargiai, projektas gali prarasti tikslumą arba pradėti skambėti svetimai.
+
+2027 metų spalio pradžioje kalbos klausimas tampa ne techniniu vertimo darbu, o kanono tikslumo klausimu.
+
+## Kodėl tai svarbu
+
+BVK projektas nuo pradžios turi kelis kalbos sluoksnius.
+
+Kai kurios mintys atsiranda rusiškame darbo sluoksnyje, nes taip lengviau greitai mąstyti, ginčytis, taisyti ir statyti struktūrą. Tačiau viešas bvk.lt skaitytojas pirmiausia mato lietuvišką tekstą. Tai reiškia, kad vertimas negali būti tik žodžių pakeitimas.
+
+Reikia išsaugoti:
+
+- sąvokos tikslumą;
+- istorinio laiko sluoksnį;
+- skirtumą tarp projekto ir būsimos valstybės;
+- skirtumą tarp BVK ir Baltijos Kooperatinės Respublikos;
+- skirtumą tarp skaitytojo, dalyvio, pagalbininko ir nario;
+- skirtumą tarp naujienos, atramos dokumento, kronikos ir romano sluoksnio;
+- ramų viešą toną be dirbtinio oficialumo.
+
+## Pagrindinė problema
+
+Kai projektas turi daugiau nei vieną kalbą, atsiranda pavojus sukurti kelias skirtingas versijas to paties pasaulio.
+
+Pavyzdžiui, rusiškame darbo sluoksnyje BVK gali būti aiškiai suprantamas kaip valdymo kontūras, bet lietuviškame tekste skaitytojas gali palaikyti jį valstybės pavadinimu. Žodis „bendruomenė“ gali nuskambėti per stipriai, lyg jau egzistuotų organizuota struktūra. Žodis „dalyvis“ gali būti klaidingai suprastas kaip formalaus statuso žmogus. „Respublika“ 2027 metų tekste gali skambėti taip, lyg ji jau veiktų.
+
+Todėl pirmosios kalbos kortelės turi padėti ne tik versti, bet ir saugoti ribas.
+
+## Kalbos kortelės paskirtis
+
+Kalbos kortelė yra trumpas public-facing paaiškinimas, kaip vartoti svarbią sąvoką.
+
+Ji turi parodyti:
+
+- sąvokos pavadinimą lietuviškai;
+- galimą darbo kalbos atitikmenį;
+- trumpą reikšmę;
+- kokiame laikotarpyje sąvoka vartojama;
+- ko sąvoka dar nereiškia;
+- kokios klaidos reikia vengti;
+- susijusius dokumentus.
+
+Kalbos kortelė neturi būti akademinis žodyno straipsnis. Ji turi padėti skaitytojui ir redaktoriui neprarasti prasmės.
+
+## Pirmosios reikalingos kortelės
+
+### BVK
+
+BVK reiškia Bendrasis Valdymo Kontūras.
+2027 metais tai dar nėra veikianti institucija, valdžia ar valstybės organas. Tai projekto ir būsimos sistemos karkaso sąvoka.
+
+Klaida, kurios reikia vengti: nerašyti taip, lyg BVK jau priimtų sprendimus arba valdytų.
+
+### Baltijos Kooperatinė Respublika
+
+Tai būsimos brandžios Respublikos pavadinimas ir ateities pasaulio tapatybė.
+2027 metais ji dar neegzistuoja kaip valstybė.
+
+Klaida, kurios reikia vengti: 2027 metų publikacijose nevadinti jos veikiančia valstybe.
+
+### Rūdiškės
+
+Rūdiškės yra pradžios vieta ir istorinis taškas, susijęs su pirmu klausimu.
+2027 metais tai nėra sostinė, valdymo centras ar kooperatyvinis miestas.
+
+Klaida, kurios reikia vengti: nekurti įspūdžio, kad realus miestelis jau perrašytas kaip būsimos Respublikos centras.
+
+### Skaitytojas
+
+Skaitytojas yra žmogus, kuris skaito, klausia, reaguoja arba grįžta prie projekto.
+2027 metais skaitytojas dar nėra narys ar formalus dalyvis.
+
+Klaida, kurios reikia vengti: nevadinti skaitytojo bendruomenės nariu vien dėl komentaro.
+
+### Dalyvis
+
+Dalyvis yra būsimas arba vėliau aiškiau apibrėžiamas žmogus, kuris prisideda klausimu, pastaba, vertimu, dokumentu ar darbu.
+2027 metais ši sąvoka dar turi būti vartojama atsargiai.
+
+Klaida, kurios reikia vengti: nekurti formalios dalyvavimo struktūros anksčiau, nei ji aprašyta kanone.
+
+### Ateities naujiena
+
+Ateities naujiena yra pasaulio parodymo forma, rašoma iš vėlesnio laiko sluoksnio.
+Ji nėra 2027 metų realios institucijos pranešimas.
+
+Klaida, kurios reikia vengti: nepalikti naujienos be aiškaus laiko konteksto.
+
+### Archyvinė atrama
+
+Archyvinė atrama yra dokumentas, kuris paaiškina, kuo remiasi naujiena, straipsnis ar viešas teiginys.
+
+Klaida, kurios reikia vengti: nerašyti naujienos apie dokumentą, kurio nėra kanone.
+
+## Vertimo principai
+
+Pirmame vertimų etape svarbu ne versti viską iš karto, o išversti tai, kas matoma skaitytojui.
+
+Prioritetas:
+
+1. Sąvokos, kurios dažnai kartojasi viešuose tekstuose.
+2. Tekstai, kurie aiškina, kaip skaityti projektą.
+3. Dokumentų kortelės.
+4. FAQ atsakymai.
+5. Viešos naujienos.
+6. Archyvo įėjimo puslapiai.
+7. Vėliau - didesni dokumentų rinkiniai.
+
+Darbo dokumentai gali likti rusų kalba, jeigu jie nėra skirti paprastam skaitytojui. Tačiau jų viešas paaiškinimas turi būti lietuviškas.
+
+## Realistinis apribojimas
+
+2027 metais negalima sukurti tobulos daugiakalbės sistemos.
+
+Projektas dar mažas, rankinis, jautrus klaidoms ir priklausomas nuo nuoseklaus darbo. Todėl kalbos kortelės turi būti paprastos, praktiškos ir plečiamos palaipsniui.
+
+Svarbu nepradėti nuo per didelio pažado, kad visas kanonas iš karto bus pilnai lietuviškas, rusiškas ir angliškas.
+
+Teisingesnis kelias:
+
+- pirmiausia aiškiai lietuviškai paaiškinti svarbiausias sąvokas;
+- išsaugoti rusų darbo originalus;
+- nurodyti vertimo statusą;
+- neslėpti, kad projektas dar mokosi kalbėti keliomis kalbomis;
+- neleisti vertimui sugadinti laiko sluoksnio.
+
+## Kalbos ir romano ryšys
+
+Kalbos kortelės svarbios ir būsimam romano sluoksniui.
+
+Romano pasaulyje žodžiai turi istoriją. Jeigu 2086 metų žmogus vartoja sąvoką ramiai ir savaime suprantamai, jos ankstyvas kelias vis tiek turėjo būti sunkus: kažkas pirmą kartą ją vertė, aiškino, taisė, bijojo netikslaus skambesio, keitė formuluotę, ieškojo, kaip pasakyti paprastai.
+
+Tai suteikia pasauliui tikroviškumo.
+
+Ateities Respublika neturi atrodyti taip, lyg visi žodžiai gimė iš karto tobuli. Jos kalba turi turėti randus: ankstyvų paaiškinimų, klaidų, perrašymų, atsargių kortelių ir pirmų skaitytojų nesusipratimų pėdsakus.
+
+## Redakcinis apribojimas
+
+Kalbos kortelės neturi skambėti kaip valstybinis terminų registras.
+
+2027 metais tai dar nėra oficiali valstybinė terminija. Tai yra projekto paaiškinimo priemonė, skirta išvengti painiavos.
+
+Leistina:
+
+- aiškinti sąvoką paprastai;
+- parodyti, ko ji dar nereiškia;
+- susieti su dokumentais;
+- taisyti viešą tekstą pagal kortelę;
+- žymėti vertimo statusą.
+
+Neleistina:
+
+- skelbti terminus kaip valstybės patvirtintą kalbą;
+- kurti institucinio registro įspūdį;
+- versti darbo kalbos žodžius pažodžiui, jeigu lietuviškai jie skamba netiksliai;
+- slėpti, kad kai kurie tekstai dar turi tik darbo sluoksnio originalą;
+- vadinti vertimo pastabas teisinėmis normomis.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- 11_LANGUAGE_LAYER_AND_TRANSLATION_PROTOCOL — kalbų ir vertimų sluoksnių protokolas;
+- 00_FIRST_CONCEPTS_2026 — pirmųjų sąvokų žodynas;
+- A-2027-05-28-01 — Pirmosios „Kaip skaityti BVK projektą“ atramos dokumentas;
+- A-2027-06-30-01 — Pirmosios BVK FAQ struktūros atrama;
+- A-2027-07-15-01 — Pirmųjų archyvo dokumentų kortelių atrama;
+- A-2027-09-06-01 — Pirmųjų komentarų ir klausimų tvarkos atrama.
+
+## Atviri klausimai
+
+- ar kalbos kortelės turi būti atskiras bvk.lt puslapis;
+- ar jos turi būti rodomos PUBLIC_READ archyve;
+- ar kiekviena kortelė turi turėti kodą;
+- kaip žymėti rusų darbo originalą;
+- kada verta kurti anglišką paaiškinimą;
+- ar skaitytojai gali siūlyti kalbos pataisas;
+- kaip atskirti kalbos pataisą nuo prasmės pakeitimo;
+- kas laikoma galutine public-facing lietuviška formuluote.
+
+## Pirminė išvada
+
+Pirmosios vertimų ir kalbos kortelės atsiranda tada, kai BVK projektas pradeda suprasti, kad pasaulis laikosi ne tik dokumentais, bet ir žodžiais.
+
+Jeigu žodis išverstas netiksliai, gali pasikeisti visas sluoksnis. Jeigu sąvoka paaiškinta per anksti oficialiai, projektas pradeda atrodyti kaip tai, kuo dar nėra. Jeigu kalba per daug sausa, skaitytojas nebejaučia gyvo kelio.
+
+Todėl 2027 metų kalbos darbas yra tylus, bet būtinas žingsnis: prieš kuriant didelį pasaulį reikia išmokti tiksliai vadinti jo pradžią.
