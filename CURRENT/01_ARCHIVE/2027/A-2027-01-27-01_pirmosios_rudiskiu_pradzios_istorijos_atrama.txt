@@ -3,8 +3,8 @@ Archyvo įrašas
 
 Statusas: ACTIVE
 Versija: v1.0
-Pirmojo priėmimo data: 2026-04-26
-Dabartinė redakcija: 2026-04-26
+Pirmojo priėmimo data: 2027-01-27
+Dabartinė redakcija: 2027-01-27
 Pakeitimų istorija: GitHub History
 Prieigos lygis: PUBLIC
 Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
