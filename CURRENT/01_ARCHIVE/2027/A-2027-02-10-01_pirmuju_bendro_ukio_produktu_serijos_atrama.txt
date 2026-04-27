@@ -1,0 +1,88 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-02-10-01
+
+Tipas:
+ekonominės publikacijos atramos dokumentas
+
+Pavadinimas:
+Pirmųjų bendro ūkio produktų publikacijų serijos atrama
+
+Susijusi publikacija:
+2027 m. vasario 10 d. – Pradėta publikacijų serija apie pirmuosius bendro ūkio produktus
+
+# A-2027-02-10-01
+# Pirmųjų bendro ūkio produktų publikacijų serijos atrama
+
+Data: 2027 m. vasario 10 d.
+Vieta: BVK svetainės viešasis sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Svetainėje pradėta publikacijų serija apie pirmuosius bendro ūkio produktus.
+Pirmoje serijos dalyje kalbama apie paprastus kasdienius gaminius: duoną, raugintus agurkus, konservuotas daržoves, sriubas, paruoštus pietus ir sezoninius produktus.
+
+## Kodėl tai svarbu
+
+Ši serija padeda ateities ekonomikos idėją nuleisti iki aiškių daiktų.
+Jeigu projektas kalba tik apie naują tvarką, socialinį saugumą ar būsimą Respubliką, skaitytojui gali trūkti konkretaus pagrindo.
+Produktai leidžia klausti praktiškai: ką žmonės perka kasdien, ką galima pagaminti mažame mastelyje, kaip skaičiuoti savikainą ir kodėl žmogus turėtų pirkti ne dėl gražios idėjos, o dėl realios naudos.
+
+## Pagrindinė kryptis
+
+Pirmųjų produktų serija turi rodyti, kad bendras ūkis neprasideda nuo abstrakčios ideologijos.
+Jis prasideda nuo klausimo, ar galima pagaminti pakartojamą, reikalingą ir suprantamą produktą.
+
+Pirmi produktai turi būti vertinami pagal:
+
+- poreikį kasdienybėje;
+- žaliavų prieinamumą;
+- mažos gamybos galimybę;
+- savikainos aiškumą;
+- higienos ir saugumo reikalavimus;
+- pakuotę;
+- pakartotinio pirkimo tikimybę;
+- galimybę palikti dalį bendram rezervui.
+
+## Ryšys su 2026 metų sluoksniu
+
+Ši publikacijų serija remiasi pirmuoju 2026 metų produktų sąrašu.
+Susijusios atramos:
+
+- A-2026-01-27-01 — Pirmųjų galimų produktų sąrašas būsimam bendram ūkiui;
+- A-2026-02-09-01 — Darbas kaip kasdienio saugumo šaltinis;
+- OQ-2026-06 — Naujienos ir dokumentinė atrama.
+
+## Redakcinis apribojimas
+
+2027 metais negalima rašyti taip, lyg gamyba jau veiktų.
+Ši serija yra viešas svarstymas ir ekonominės krypties pristatymas, ne ataskaita apie realiai veikiančią kooperatyvinę įmonę.
+
+## Atviri klausimai
+
+- ar produktų serija turi tapti atskira svetainės рубрика;
+- ar prie kiekvieno produkto reikės atskiros skaičiavimo kortelės;
+- kada produktų svarstymas pereina iš idėjos į realų ekonominį testą;
+- kaip atskirti ankstyvą produktų kalbą nuo vėlesnių gamybos dokumentų.
+
+## Pirminė išvada
+
+Pirmųjų produktų serija suteikia BVK ekonominei minčiai žemišką pradžią.
+Ateities modelis tampa aiškesnis tada, kai skaitytojas mato ne vien didelę idėją, bet ir duoną, sriubą, agurkus, stiklainį, kainą ir darbą.
