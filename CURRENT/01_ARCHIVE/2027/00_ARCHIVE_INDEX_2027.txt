@@ -2,9 +2,9 @@ BVK CANON
 2027 metų archyvo indeksas
 
 Statusas: ACTIVE
-Versija: v1.1
+Versija: v1.2
 Pirmojo priėmimo data: 2026-04-26
-Dabartinė redakcija: 2027-08-14
+Dabartinė redakcija: 2027-09-06
 Pakeitimų istorija: GitHub History
 Prieigos lygis: SERVICE
 Istorinė priklausomybė: ankstyvasis publikacijų sluoksnis / pirmųjų atvirų metų archyvas
@@ -17,7 +17,7 @@ Viešas rodymas: CARD_ONLY
 
 Paskirtis:
 Šis indeksas registruoja 2027 metų pirminius BVK archyvo dokumentus.
-2027 metai laikomi pirmųjų atvirų publikacijų metais: svetainė pradeda rodyti skaitytojui ateities naujienas, Rūdiškių pradžios istoriją, pirmus ekonominius tekstus, simbolikos paiešką, romano sluoksnį, skaitymo paaiškinimus, pirmus skaitytojų klausimus, archyvo korteles ir pirmą naujienų redakcinės drausmės taisyklę.
+2027 metai laikomi pirmųjų atvirų publikacijų metais: svetainė pradeda rodyti skaitytojui ateities naujienas, Rūdiškių pradžios istoriją, pirmus ekonominius tekstus, simbolikos paiešką, romano sluoksnį, skaitymo paaiškinimus, pirmus skaitytojų klausimus, archyvo korteles, pirmą naujienų redakcinės drausmės taisyklę ir pirmą komentarų bei klausimų tvarką.
 
 Pagrindinis principas:
 2027 metais dar nėra organizacijos, partijos, kooperatyvo, juridinės struktūros, veikiančio BVK, ministerijų, konstitucijos ar Respublikos.
@@ -40,7 +40,8 @@ Yra viešas projektas, svetainė, archyvas, pirmos publikacijos, pirmi skaitytoj
 - pirmą FAQ struktūrą;
 - pirmas archyvo dokumentų korteles;
 - pirmą viešojo archyvo struktūrą;
-- pirmą naujienų redakcinės drausmės atramą.
+- pirmą naujienų redakcinės drausmės atramą;
+- pirmą komentarų ir klausimų tvarkos atramą.
 
 ## Dokumentų tipai
 
@@ -54,7 +55,8 @@ Yra viešas projektas, svetainė, archyvas, pirmos publikacijos, pirmi skaitytoj
 - romano sluoksnio pastaba;
 - vertimo / kalbos statuso pastaba;
 - viešojo archyvo struktūros atrama;
-- redakcinės drausmės atrama.
+- redakcinės drausmės atrama;
+- komentarų ir klausimų tvarkos atrama.
 
 ## Pagrindinių dokumentų sąrašas
 
@@ -156,6 +158,13 @@ Tipas: redakcinės drausmės ir naujienų tono atramos dokumentas
 Statusas: ACTIVE
 Paskirtis: įtvirtinti principą, kad naujiena turi skambėti kaip tos dienos publikacija, be tarnybinės kalbos ir be žinojimo apie ateitį.
 
+A-2027-09-06-01
+Pavadinimas: Pirmųjų komentarų ir klausimų tvarkos atrama
+Failas: A-2027-09-06-01_pirmuju_komentaru_ir_klausimu_tvarkos_atrama.txt
+Tipas: skaitytojų komentarų ir klausimų tvarkos atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: apibrėžti pirmą realistišką skaitytojų reakcijų priėmimo tvarką, neperverčiant klausimų į narystę, organizaciją ar politinį veiksmą.
+
 ## Darbo taisyklė
 
 2027 metų dokumentai turi kalbėti apie publikavimą, skaitymą, paaiškinimą ir pirmą viešą reakciją.
@@ -172,6 +181,15 @@ Nuo A-2027-08-14-01 į 2027 metų sluoksnį įtraukiama naujienų tono taisyklė
 - negalima paversti naujienos tarnybine pažyma;
 - pirmoje pastraipoje turi būti aišku, kas įvyko dabar;
 - pabaigoje turi būti artimiausias klausimas arba kitas žingsnis, o ne galutinė istorinė išvada.
+
+Nuo A-2027-09-06-01 į 2027 metų sluoksnį įtraukiama pirmųjų komentarų ir klausimų tvarka:
+
+- skaitytojo klausimas dar nėra dalyvavimas;
+- komentaras dar nėra bendruomenės sprendimas;
+- siūlymas padėti dar nėra narystė;
+- pasikartojantys klausimai gali virsti FAQ;
+- spragą rodantys klausimai gali virsti GAP-NOTE;
+- visos reakcijos turi būti priimamos ramiai, be valstybinės, partinės ar organizacinės kalbos.
 
 Išvada:
 2027 metų archyvas yra viešo atsidarymo sluoksnis. Jo tikslas — parodyti, kaip privatus 2026 metų klausimas pradeda tapti skaitomu, aiškinamu ir palaipsniui bendru pasauliu, dar nevirsdamas nei organizacija, nei veikiančia valstybe.
