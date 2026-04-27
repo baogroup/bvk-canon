@@ -1,0 +1,95 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-03-26-01
+
+Tipas:
+naratyvinio sluoksnio atramos dokumentas
+
+Pavadinimas:
+Pirmosios romano pasaulio ištraukos atrama
+
+Susijusi publikacija:
+2027 m. kovo 26 d. – Paskelbta pirmoji būsimo romano pasaulio ištrauka
+
+# A-2027-03-26-01
+# Pirmosios romano pasaulio ištraukos atrama
+
+Data: 2027 m. kovo 26 d.
+Vieta: BVK svetainės viešasis sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Svetainėje paskelbta pirmoji būsimo romano pasaulio ištrauka.
+
+Ši publikacija atveria ne teisės, ekonomikos ar archyvo dokumentą, o meninį BVK pasaulio sluoksnį. Ji leidžia skaitytojui pamatyti ateities Respubliką ne per paaiškinimą, o per žmogaus pojūtį, atmosferą ir vidinę įtampą.
+
+## Kodėl tai svarbu
+
+BVK pasaulis neturi būti vien dokumentų rinkinys.
+Jeigu skaitytojas mato tik planus, sąvokas, kronikas ir naujienas, jam gali trūkti žmogaus patirties.
+
+Romano sluoksnis leidžia parodyti tai, ko negalima pilnai paaiškinti dokumentu:
+- kaip žmogus jaučiasi sutvarkytame pasaulyje;
+- kokie klausimai lieka net tada, kai kasdienybė atrodo saugi;
+- kur slypi įtampa tarp tvarkos, laisvės, kontrolės ir pasitikėjimo;
+- kaip ateities Respublika atrodo ne iš valdžios, o iš žmogaus vidaus.
+
+## Pirmo naratyvinio sluoksnio principai
+
+Romano pasaulio ištrauka turi:
+- būti aiškiai atskirta nuo oficialaus dokumento;
+- nerodyti 2027 metų projekto kaip veikiančios Respublikos;
+- priklausyti meniniam / naratyviniam sluoksniui;
+- padėti pajusti 2085–2086 metų pasaulį;
+- kelti klausimus, o ne duoti vien techninius atsakymus;
+- negriauti dokumentinio kanono, bet jį papildyti kitu patyrimo būdu.
+
+## Ryšys su kitais sluoksniais
+
+Susijusios atramos:
+
+- FC-2026-02 — Svetainė ir naujienos iš ateities;
+- OQ-2026-01 — Svetainė ir skaitymo logika;
+- OQ-2026-10 — Pirmųjų sąvokų žodynas;
+- 00_FIRST_CONCEPTS_2026 — pirmųjų sąvokų žodynas.
+
+## Redakcinis apribojimas
+
+Romano ištrauka neturi būti pristatoma kaip oficialus Respublikos dokumentas.
+Ji taip pat neturi pakeisti archyvinių ar norminių dokumentų.
+
+Jeigu ištraukoje atsiranda ateities institucijos, technologijos, socialinės normos ar paslėpti valdymo elementai, vėliau jiems gali prireikti atskiros dokumentinės atramos. Tačiau pirmame etape literatūrinis sluoksnis gali veikti kaip klausimo, atmosferos ir pasaulio pojūčio šaltinis.
+
+## Atviri klausimai
+
+- ar romano sluoksnis turi būti atskira svetainės rubrika;
+- ar romano ištraukos turi turėti ryšius su dokumentais;
+- kaip atskirti meninį pasakojimą nuo oficialaus kanono dokumento;
+- ar skaitytojas turi iš anksto žinoti, kad romanas vyksta ateities Respublikos pasaulyje;
+- kiek paslėptų sisteminių užuominų galima rodyti ankstyvose ištraukose;
+- ar 2085 metų romano pasaulis turi būti laikomas atskiru pereinamuoju naratyviniu laikotarpiu prieš 2086 metų brandų naujienų sluoksnį.
+
+## Pirminė išvada
+
+Pirmosios romano pasaulio ištraukos paskelbimas suteikia BVK kanonui žmogišką ir meninį gylį.
+
+Dokumentai parodo, kaip pasaulis sutvarkytas.
+Naujienos parodo, kas jame vyksta.
+Romano sluoksnis parodo, kaip tame pasaulyje jaučiasi žmogus.
