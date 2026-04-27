@@ -1,0 +1,108 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-03-09-01
+
+Tipas:
+socialinės ekonomikos atramos dokumentas
+
+Pavadinimas:
+Darbo ir kasdienio saugumo publikacijos atrama
+
+Susijusi publikacija:
+2027 m. kovo 9 d. – Paskelbta pirmoji publikacija apie darbą, kuris žmogui grąžina daugiau nei atlyginimą
+
+# A-2027-03-09-01
+# Darbo ir kasdienio saugumo publikacijos atrama
+
+Data: 2027 m. kovo 9 d.
+Vieta: BVK svetainės viešasis sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Svetainėje paskelbta publikacija apie darbą, kuris žmogui galėtų grąžinti daugiau nei vien atlyginimą.
+
+Tai nėra pranešimas apie jau veikiančią socialinę sistemą.
+Tai viešas 2026 metais pradėto darbo ir kasdienio saugumo klausimo paaiškinimas skaitytojui.
+
+## Kodėl tai svarbu
+
+2026 metais darbas buvo pirmą kartą susietas su žmogaus kasdieniu saugumu: maistu, kelione, išlaidomis, orumu, bendru rezervu ir galimybe nepalikti žmogaus vieno su visais gyvenimo rūpesčiais.
+
+2027 metų publikacija šią temą iškelia į viešą svetainės sluoksnį.
+Ji turi parodyti, kad būsima BVK ekonominė mintis nėra vien apie gamybą ar skaičius.
+Ji pirmiausia klausia, kaip darbas gali mažinti žmogaus nesaugumą.
+
+## Pagrindinė mintis
+
+Darbo vieta gali būti daugiau negu sutartis ir atlyginimas.
+
+Ji gali tapti aplinka, kurioje žmogus gauna:
+- aiškesnį darbo laiką;
+- pagarbą;
+- saugesnes sąlygas;
+- galimybę mokytis;
+- dalinę kasdienę atramą;
+- mažesnę įtampą dėl maisto, kelionės ar nenumatytų situacijų.
+
+Tačiau 2027 metais tai dar nėra pažadas.
+Tai yra kryptis, kurią reikia skaičiuoti, tikrinti ir ateityje pagrįsti realia ekonomine baze.
+
+## Ryšys su 2026 metų sluoksniu
+
+Susijusios atramos:
+
+- A-2026-02-09-01 — Darbas kaip kasdienio saugumo šaltinis;
+- A-2026-01-27-01 — Pirmųjų galimų produktų sąrašas būsimam bendram ūkiui;
+- OQ-2026-02 — Bendruomenės pradžia;
+- OQ-2026-06 — Naujienos ir dokumentinė atrama;
+- 00_FIRST_CONCEPTS_2026 — pirmųjų sąvokų žodynas.
+
+## Redakcinis apribojimas
+
+2027 metais negalima rašyti taip, lyg socialinis paketas jau veiktų.
+
+Leistina kalbėti apie:
+- klausimą;
+- kryptį;
+- galimą ateities principą;
+- darbo ir žmogaus saugumo ryšį;
+- tai, ką vėliau reikės skaičiuoti.
+
+Negalima rašyti taip, lyg jau būtų:
+- veikiantis kooperatyvas;
+- darbuotojų socialinis fondas;
+- realiai mokamos išmokos;
+- garantuotas maitinimas;
+- valstybės ar Respublikos socialinis standartas.
+
+## Atviri klausimai
+
+- kokia pirmoji reali atrama darbuotojui būtų prasmingiausia;
+- ar pirmas žingsnis turėtų būti maistas, transportas, mokymas ar fondas;
+- kaip išvengti tuščių pažadų;
+- kada socialinė kryptis pereina į ekonominį skaičiavimą;
+- kokia riba tarp pagalbos ir priklausomybės;
+- kaip išlaikyti žmogaus orumą, jeigu pagalba ateityje tampa sistemos dalimi.
+
+## Pirminė išvada
+
+2027 metų publikacija apie darbą ir kasdienį saugumą yra ne socialinės sistemos paskelbimas, o pirmas viešas paaiškinimas, kodėl BVK idėja prasideda nuo žmogaus darbo dienos.
+
+Darbas čia suprantamas ne tik kaip pajamų šaltinis, bet kaip vieta, kur ateityje gali būti kuriama daugiau kasdienės ramybės.
