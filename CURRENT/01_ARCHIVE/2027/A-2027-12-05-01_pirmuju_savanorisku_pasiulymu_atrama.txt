@@ -1,0 +1,148 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2027-12-05
+Dabartinė redakcija: 2027-12-05
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis / pirmųjų pagalbos pasiūlymų pradžia
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-12-05-01
+
+Tipas:
+pirmųjų savanoriškų pasiūlymų atramos dokumentas
+
+Pavadinimas:
+Pirmųjų savanoriškų pasiūlymų atrama
+
+Susijusi publikacija:
+2027 m. gruodžio 5 d. – Užfiksuoti pirmieji neformalūs pasiūlymai padėti BVK projektui
+
+# A-2027-12-05-01
+# Pirmųjų savanoriškų pasiūlymų atrama
+
+Data: 2027 m. gruodžio 5 d.
+Vieta: BVK svetainės viešasis sluoksnis / pirmųjų skaitytojų reakcijų aplinka
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Užfiksuoti pirmieji neformalūs pasiūlymai padėti BVK projektui.
+
+Tai nėra organizacijos, narių grupės, savanorių tinklo ar judėjimo pradžia. 2027 metų pabaigoje tai dar tik pavieniai žmonių signalai: kažkas pasiūlo pataisyti tekstą, kažkas pastebi vertimo klaidą, kažkas nori pasidalinti publikacija, kažkas klausia, ar ateityje bus galima prisidėti prie archyvo, dizaino, kalbos ar idėjų tikrinimo.
+
+Šis momentas svarbus todėl, kad skaitytojas pirmą kartą pasirodo ne tik kaip klausėjas, bet ir kaip galimas pagalbininkas.
+
+## Kodėl tai svarbu
+
+Pirmas pagalbos pasiūlymas gali atrodyti mažas, bet kanonui jis sukuria naują ribą.
+
+Iki šiol skaitytojas galėjo skaityti, klausti ir komentuoti. Dabar atsiranda kitas klausimas: ką daryti, kai žmogus nori padėti, bet projektas dar neturi jokios dalyvavimo tvarkos?
+
+Per anksti pavadinti tokį žmogų nariu būtų klaida.
+Per anksti kurti savanorių struktūrą būtų dirbtina.
+Ignoruoti pasiūlymą irgi būtų neteisinga.
+
+Todėl 2027 metų pabaigoje reikia labai paprastos laikysenos: padėkoti, užfiksuoti, neįsipareigoti daugiau, negu projektas gali išlaikyti, ir pasiruošti 2028 metų dalyvavimo principams.
+
+## Kokie pasiūlymai galimi
+
+Pirmieji pasiūlymai gali būti labai paprasti:
+
+- pataisyti lietuvišką sakinį;
+- pasiūlyti aiškesnį terminą;
+- pastebėti neveikiančią nuorodą;
+- pasiūlyti FAQ klausimą;
+- pasiūlyti iliustracijos arba kortelės idėją;
+- pasidalinti publikacija;
+- patikrinti, ar naujiena skamba per oficialiai;
+- padėti versti trumpą viešą paaiškinimą;
+- pasiūlyti skaitymo kelio patobulinimą.
+
+Tai dar nėra darbas projekte. Tai pagalbos signalai.
+
+## Ko negalima daryti
+
+2027 metais negalima:
+
+- skelbti savanorių priėmimo;
+- kurti narių sąrašo;
+- žadėti pareigų ar vaidmenų;
+- leisti žmonėms tvirtinti dokumentus;
+- priskirti atsakomybės už kanono dalis;
+- kalbėti kaip organizacijai;
+- rašyti, kad susiformavo bendruomenė;
+- priimti sprendimų skaitytojų vardu.
+
+Jeigu žmogus pasiūlo pagalbą, atsakymas turi būti ramus ir ribotas: galima priimti pastabą, galima padėkoti, galima užfiksuoti klausimą, bet negalima sukurti netikro statuso.
+
+## Pirmoji pagalbos priėmimo logika
+
+Praktinis 2027 metų modelis:
+
+1. Pasiūlymas gaunamas.
+2. Patikrinama, ar jis susijęs su viešu sluoksniu.
+3. Jeigu tai klaida - ji taisoma.
+4. Jeigu tai sąvokos klausimas - jis perduodamas kalbos kortelėms.
+5. Jeigu tai spraga - galima sukurti GAP-NOTE.
+6. Jeigu tai platesnis dalyvavimo noras - jis saugomas kaip būsimos 2028 metų dalyvavimo temos medžiaga.
+7. Žmogui nesuteikiamas formalus statusas.
+
+## Realistinis apribojimas
+
+Pirmieji pasiūlymai gali būti nereguliarūs, nepilni ir kartais nepatogūs.
+
+Vienas žmogus gali norėti padėti, bet neturėti laiko. Kitas gali pasiūlyti netikslų terminą. Trečias gali manyti, kad projektas jau kviečia jungtis. Ketvirtas gali klaidingai suprasti ateities naujienas kaip dabarties pažadą.
+
+Tai nėra problema. Tai normali ankstyvo viešo projekto būsena.
+
+Svarbiausia - nepaskubėti sukurti gražios, bet netikros struktūros.
+
+## Ryšys su romano baze
+
+Šis dokumentas ypač svarbus būsimam romanui.
+
+Jeigu 2086 metų pasaulis turi veikiančias institucijas, pasitikėjimo formas ir pagalbos kultūrą, jų šaknys negali būti vien dideliuose įstatymuose. Jos turi prasidėti nuo mažų, beveik nematomų veiksmų: žmogus pastebėjo klaidą, pasiūlė pataisą, padėjo išversti sakinį, nusiuntė nuorodą kitam skaitytojui.
+
+Vėliau tokie dalykai gali atrodyti kaip smulkmenos, bet tikroviškas pasaulis statomas būtent iš smulkmenų.
+
+Būsimo romano sluoksnyje tai leidžia rodyti Respubliką ne kaip staiga sukurtą sistemą, o kaip ilgą pasitikėjimo kaupimą: nuo skaitytojo pastabos iki kultūros, kurioje pagalba tampa natūrali, bet ne priverstinė.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2027-05-12-01 — Pirmųjų skaitytojų ir socialinių tinklų pradžios atrama;
+- A-2027-06-14-01 — Pirmųjų skaitytojų klausimų atrama;
+- A-2027-09-06-01 — Pirmųjų komentarų ir klausimų tvarkos atrama;
+- A-2027-10-04-01 — Pirmųjų vertimų ir kalbos kortelių atrama;
+- A-2027-11-08-01 — Pirmojo bvk.lt ir PUBLIC_READ ryšio atrama;
+- OQ-2026-02 — Bendruomenės pradžia.
+
+## Atviri klausimai
+
+- kada pagalbos pasiūlymas tampa dalyvavimu;
+- ar reikės atskiros formos pastaboms;
+- ar reikia viešai dėkoti už pataisas;
+- ar pagalbininkų vardai turėtų būti minimi;
+- kaip apsaugoti kanoną nuo netikslių išorinių pataisų;
+- kada galima pradėti kalbėti apie dalyvavimo principus;
+- kaip neperkrauti projekto pažadais, jeigu atsiranda daugiau norinčių padėti.
+
+## Pirminė išvada
+
+Pirmieji savanoriški pasiūlymai dar nesukuria bendruomenės.
+Jie sukuria atsakomybės klausimą.
+
+Projektas turi išmokti priimti pagalbą taip, kad neprarastų kanono ribų ir nesukurtų netikro organizacijos įspūdžio.
+
+Tai pirmas labai tylus žingsnis nuo skaitytojo prie būsimo dalyvavimo, bet 2027 metais jis dar turi likti neformalus, atsargus ir sąžiningas.
