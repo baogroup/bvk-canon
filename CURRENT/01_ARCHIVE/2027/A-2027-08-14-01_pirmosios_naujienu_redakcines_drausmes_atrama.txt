@@ -1,0 +1,201 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2027-08-14
+Dabartinė redakcija: 2027-08-14
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-08-14-01
+
+Tipas:
+redakcinės drausmės ir naujienų tono atramos dokumentas
+
+Pavadinimas:
+Pirmosios naujienų redakcinės drausmės atrama
+
+Susijusi publikacija:
+2027 m. rugpjūčio 14 d. – Pradėta formuoti pirmoji BVK naujienų redakcinė drausmė
+
+# A-2027-08-14-01
+# Pirmosios naujienų redakcinės drausmės atrama
+
+Data: 2027 m. rugpjūčio 14 d.
+Vieta: BVK svetainės viešasis sluoksnis / redakcinis darbo sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Pradėta formuoti pirmoji BVK naujienų redakcinė drausmė.
+
+Šis žingsnis atsirado po pirmųjų 2027 metų publikacijų, kai tapo aišku, kad vien dokumentinės atramos neužtenka. Naujiena turi turėti ne tik teisingą kanoninį pagrindą, bet ir tinkamą balsą.
+
+BVK svetainės tekstai negali skambėti kaip vėlyvas istorinis komentaras, tarnybinė pažyma ar sausas archyvo apibendrinimas, jeigu jie datuojami konkrečia įvykio diena.
+
+## Kodėl tai svarbu
+
+Pirmųjų metų tekstuose lengva padaryti klaidą: rašyti apie 2027 metų įvykį taip, lyg redakcija jau žinotų visą vėlesnį kelią iki 2046 ar 2086 metų.
+
+Toks tonas sugadina laiko sluoksnį.
+Skaitytojas turi jausti, kad publikacija priklauso savo dienai, o ne vėlesniam archyvininkui, kuris jau žino rezultatą.
+
+Todėl 2027 metų naujienų sluoksnyje įvedamas principas: naujiena turi kalbėti iš įvykio laiko.
+
+## Pagrindinė taisyklė
+
+Naujiena turi atsakyti į keturis klausimus:
+
+- kas įvyko dabar;
+- kodėl tai svarbu dabar;
+- kas dar neaišku arba nebaigta;
+- koks artimiausias kitas žingsnis.
+
+Ji neturi kalbėti taip, lyg ateitis jau būtų įvykusi ir patvirtinusi šio įvykio reikšmę.
+
+## Leistinas tonas
+
+Leistina rašyti:
+
+- šiandien paskelbta;
+- pradėta svarstyti;
+- parengtas pirmasis paaiškinimas;
+- svetainėje atsirado nauja kortelė;
+- skaitytojams pristatyta;
+- kol kas lieka neaišku;
+- artimiausiu metu bus tikrinama;
+- ši publikacija padeda suprasti dabartinį projekto etapą.
+
+Toks tonas išlaiko dabarties pojūtį ir neapsimeta, kad įvykis jau tapo istorine legenda.
+
+## Vengtinos formulės
+
+Ankstyvose naujienose reikia vengti formulių, kurios skamba kaip vėlyva istorinė santrauka:
+
+- tapo pirmu žingsniu;
+- vėliau paaiškėjo;
+- šis įrašas tapo;
+- būtent nuo čia prasidėjo;
+- istorija parodė;
+- ši publikacija įtvirtino;
+- buvo nubrėžta galutinė kryptis;
+- tai nulėmė vėlesnę raidą.
+
+Tokios formuluotės gali būti tinkamos vėlesnei retrospektyvai, bet ne tos dienos naujienai.
+
+## Skirtumas tarp naujienos ir atramos dokumento
+
+Naujiena turi būti gyva, aiški ir suprantama skaitytojui.
+Ji neturi atrodyti kaip vidinis dokumentas.
+
+Atramos dokumentas gali būti ramesnis, išsamesnis ir labiau struktūruotas.
+Jis paaiškina, kuo remiasi naujiena, kokios jos ribos, kokie susiję dokumentai ir ko dar trūksta.
+
+Todėl naujiena ir atrama neturi kartoti viena kitos tono.
+
+Naujiena kviečia skaityti.
+Atrama saugo kanoną.
+
+## Dokumentinės atramos taisyklė
+
+Redakcinė drausmė nepakeičia dokumentinės atramos taisyklės.
+
+Jeigu naujiena mini:
+
+- pirmą užrašą;
+- sprendimą;
+- sąrašą;
+- kelių etapų planą;
+- viešo archyvo struktūrą;
+- taisyklę;
+- protokolą;
+- ateities dokumentą;
+- uždarą arba ribotą sluoksnį,
+
+toks dokumentas turi egzistuoti kanone arba kartu su naujiena turi būti sukuriama atitinkama atrama.
+
+Negalima rašyti naujienos apie dokumentą, kurio nėra.
+
+## Santykis su 2027 metų sluoksniu
+
+2027 metais naujienos dar priklauso pirmųjų atvirų publikacijų etapui.
+Jos neturi skambėti kaip veikiančios organizacijos, partijos, valstybės, ministerijos ar kooperatyvinio miesto pranešimai.
+
+Leistina kalbėti apie:
+
+- svetainę;
+- skaitytoją;
+- archyvą;
+- publikaciją;
+- klausimą;
+- pirmą paaiškinimą;
+- dokumento kortelę;
+- viešą teksto pristatymą;
+- būsimą kryptį.
+
+Negalima rašyti taip, lyg jau egzistuotų:
+
+- Respublikos institucija;
+- oficialus BVK valdymo kontūras;
+- nariai;
+- ministerija;
+- piliečiai;
+- veikiantis kooperatyvinis miestas;
+- patvirtinta konstitucinė tvarka;
+- privalomi sprendimai.
+
+## Praktinis redagavimo patikrinimas
+
+Prieš publikuojant naujieną reikia paklausti:
+
+1. Ar tekstas skamba kaip tos dienos publikacija?
+2. Ar jame nėra žinojimo apie ateitį, kurios tos dienos redakcija dar negalėtų žinoti?
+3. Ar naujiena remiasi jau esančiu dokumentu?
+4. Ar tekstas nevirto tarnybine pažyma?
+5. Ar pirmoje pastraipoje aišku, kas įvyko?
+6. Ar skaitytojui aišku, kodėl tai svarbu dabar?
+7. Ar nėra per ankstyvos valstybės, organizacijos arba kooperatyvo kalbos?
+8. Ar pabaigoje matyti artimiausias kitas žingsnis, o ne galutinė istorinė išvada?
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- FC-2026-10 — Pirmiau archyvas, o tik po to naujienos;
+- OQ-2026-06 — Naujienos ir dokumentinė atrama;
+- A-2027-01-12-01 — Pirmosios ateities naujienos paskelbimo atrama;
+- A-2027-05-28-01 — Pirmosios „Kaip skaityti BVK projektą“ atramos dokumentas;
+- A-2027-06-30-01 — Pirmosios BVK FAQ struktūros atrama;
+- A-2027-07-15-01 — Pirmųjų archyvo dokumentų kortelių atrama;
+- A-2027-07-31-01 — Pirmosios viešojo archyvo struktūros atrama;
+- 09_SITE_ARCHIVE_PUBLICATION_MODEL — archyvo publikavimo modelis;
+- 12_DOCUMENT_DATE_LAYER_RULES — dokumentų datavimo pagal laiko sluoksnį taisyklės.
+
+## Atviri klausimai
+
+- ar redakcinė drausmė turi tapti atskiru SERVICE protokolu;
+- ar kiekvienai naujienai reikia trumpo patikros sąrašo;
+- ar bvk.lt redaktorius turi matyti dokumentinės atramos būseną prieš publikavimą;
+- kaip atskirti naujieną, straipsnį, archyvinę kortelę ir kronikos įrašą;
+- ar skirtingi laikotarpiai turi turėti skirtingą naujienų toną;
+- kada retrospektyvinis tonas tampa leistinas;
+- kaip išlaikyti gyvą kalbą nepažeidžiant kanono tikslumo.
+
+## Pirminė išvada
+
+Pirmoji naujienų redakcinė drausmė reikalinga tam, kad BVK svetainės tekstai neprarastų laiko pojūčio.
+
+Naujiena turi būti gyva savo dieną.
+Atrama turi saugoti jos kanoninį pagrindą.
+Ateities žinojimas negali kalbėti vietoje dabarties įvykio.
+
+Tik taip 2027 metų viešas sluoksnis gali likti sąžiningas: jis dar nekuria valstybės, bet jau mokosi rašyti apie pasaulį taip, kad skaitytojas matytų kelią, o ne sausą ataskaitą iš ateities.
