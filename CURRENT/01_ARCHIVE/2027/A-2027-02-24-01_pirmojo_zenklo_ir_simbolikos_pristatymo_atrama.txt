@@ -1,0 +1,94 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-02-24-01
+
+Tipas:
+simbolikos atramos dokumentas
+
+Pavadinimas:
+Pirmojo ženklo ir simbolikos viešo pristatymo atrama
+
+Susijusi publikacija:
+2027 m. vasario 24 d. – Pristatytas pirmasis Baltijos Kooperatinės Respublikos ženklo eskizas
+
+# A-2027-02-24-01
+# Pirmojo ženklo ir simbolikos viešo pristatymo atrama
+
+Data: 2027 m. vasario 24 d.
+Vieta: BVK svetainės viešasis sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Svetainėje pristatytas pirmasis Baltijos Kooperatinės Respublikos ženklo eskizas ir ankstyva vizualinės tapatybės kryptis.
+
+Šis pristatymas nėra valstybinės simbolikos patvirtinimas.
+Tai ankstyvas projekto ir ateities pasaulio vizualinis bandymas, skirtas padėti skaitytojui atpažinti BVK kanono erdvę.
+
+## Kodėl tai svarbu
+
+Projektui reikalingas ne tik tekstas, bet ir atpažįstamas veidas.
+Ženklas, spalvos ir vėliava padeda skaitytojui prisiminti pasaulį, tačiau ankstyvame etape jie turi būti naudojami atsargiai.
+
+2027 metais simbolika dar priklauso paieškai.
+Ji neturi sudaryti įspūdžio, kad egzistuoja veikianti valstybė su patvirtintais atributais.
+
+## Pirmi simbolikos principai
+
+- ženklas turi būti ramus ir neagresyvus;
+- simbolika neturi atrodyti kaip partinė ar militaristinė;
+- BVK ženklas turi būti atskirtas nuo būsimos Respublikos valstybės simbolikos;
+- vėliava gali jungti Baltijos spalvinę atmintį, bet lieka projekto simboliu;
+- atmesti eskizai gali būti saugomi kaip paieškos istorija;
+- kiekvienas svarbus simbolis turi turėti statusą.
+
+## Galimi statusai
+
+- EARLY_DRAFT;
+- ACTIVE_CONCEPT;
+- PUBLIC_SITE_USE;
+- ARCHIVED;
+- REJECTED;
+- SUPERSEDED.
+
+## Ryšys su 2026 metų sluoksniu
+
+Susijusios atramos:
+
+- FC-2026-05 — Pavadinimo, ženklo ir simbolių paieška;
+- OQ-2026-04 — Simboliai ir vizualinė tapatybė;
+- 00_FIRST_CONCEPTS_2026 — pirmųjų sąvokų žodynas.
+
+## Redakcinis apribojimas
+
+2027 metais negalima rašyti taip, lyg ženklas jau būtų oficialiai patvirtinta valstybės simbolika.
+Jis gali būti pristatomas kaip projektinis, vizualinis ir kanono skaitymo ženklas, bet ne kaip veikiančios Respublikos antspaudas.
+
+## Atviri klausimai
+
+- kada ankstyvas ženklas tampa aktyviu projekto ženklu;
+- ar reikalingas atskiras BVK ženklas ir atskiras Respublikos ženklas;
+- ar vėliava turi būti naudojama svetainės antraštėje;
+- kaip saugoti senus ir atmestus variantus;
+- kaip ateityje atskirti projektinę simboliką nuo valstybės simbolikos.
+
+## Pirminė išvada
+
+Pirmasis ženklo pristatymas suteikia projektui matomą formą, bet nekuria valstybinio statuso.
+Simboliai 2027 metais yra kelio ženklai, o ne galutiniai antspaudai.
