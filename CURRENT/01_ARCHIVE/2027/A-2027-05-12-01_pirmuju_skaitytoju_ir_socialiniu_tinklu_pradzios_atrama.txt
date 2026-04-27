@@ -1,0 +1,140 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-05-12-01
+
+Tipas:
+bendruomenės pradžios ir viešos komunikacijos atramos dokumentas
+
+Pavadinimas:
+Pirmųjų skaitytojų ir socialinių tinklų pradžios atrama
+
+Susijusi publikacija:
+2027 m. gegužės 12 d. – Pradėta pirmoji vieša BVK projekto komunikacija socialiniuose tinkluose
+
+# A-2027-05-12-01
+# Pirmųjų skaitytojų ir socialinių tinklų pradžios atrama
+
+Data: 2027 m. gegužės 12 d.
+Vieta: BVK svetainės viešasis sluoksnis / socialinių tinklų pradžia
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Pradėta pirmoji vieša BVK projekto komunikacija socialiniuose tinkluose.
+
+Tai nėra bendruomenės, organizacijos, judėjimo ar politinės struktūros paskelbimas.
+Tai pirmas bandymas išvesti svetainės turinį į platesnį viešą lauką ir patikrinti, ar skaitytojams suprantamas naujienų iš ateities, archyvo ir dokumentų formatas.
+
+## Kodėl tai svarbu
+
+Iki šio etapo projektas daugiausia kūrė vidinę struktūrą: archyvą, sąvokas, kronikas, pirmas publikacijas ir dokumentų atramas.
+
+Socialiniai tinklai keičia situaciją.
+Atsiranda ne tik tekstas, bet ir skaitytojo žvilgsnis.
+
+Nuo šiol svarbu ne vien tai, ką projektas nori pasakyti, bet ir tai, kaip žmogus pirmą kartą tai supranta:
+- ar jis mato ateities pasaulį;
+- ar supranta, kad tai nėra veikianti valstybė;
+- ar jam įdomu grįžti;
+- ar jis klausia, kas tai yra;
+- ar jis painioja naujienas su realiais dabarties pranešimais;
+- ar jam reikia paprastesnio paaiškinimo.
+
+## Pirmieji komunikacijos principai
+
+Socialinių tinklų pradžioje reikia vengti per didelio triukšmo ir skambių pažadų.
+
+Leistina:
+- pristatyti naujas publikacijas;
+- paaiškinti, kaip skaityti projektą;
+- rodyti Rūdiškių pradžios liniją;
+- rodyti ateities naujienų formatą;
+- kviesti skaityti, klausti ir stebėti;
+- dalintis dokumentų kortelėmis;
+- paaiškinti archyvo sluoksnius.
+
+Neleistina:
+- skelbti, kad kuriama organizacija;
+- rinkti narius kaip į judėjimą;
+- žadėti ekonominę ar socialinę naudą;
+- naudoti valstybės ar partijos toną;
+- rašyti taip, lyg BVK jau veiktų kaip institucija;
+- dirbtinai kurti masinio palaikymo įspūdį.
+
+## Pirmasis skaitytojas
+
+2027 metų sluoksnyje skaitytojas dar nėra dalyvis.
+
+Pirmasis skaitytojas gali:
+- perskaityti naujieną;
+- pasidalinti tekstu;
+- paklausti, kas tai yra;
+- pastebėti klaidą;
+- grįžti prie kito įrašo;
+- pamatyti, kad svetainė turi gilesnį archyvą.
+
+Tik vėliau skaitytojas gali tapti klausimų dalyviu, diskusijų dalyviu arba pagalbininku.
+
+## Ryšys su 2026 metų sluoksniu
+
+Susijusios atramos:
+
+- OQ-2026-02 — Bendruomenės pradžia;
+- OQ-2026-01 — Svetainė ir skaitymo logika;
+- OQ-2026-09 — Pirmieji teisiniai atsargumai;
+- FC-2026-08 — Pirmoji bendruomenės mintis;
+- 00_FIRST_CONCEPTS_2026 — pirmųjų sąvokų žodynas.
+
+## Redakcinis apribojimas
+
+2027 metais negalima rašyti taip, lyg socialiniuose tinkluose jau susiformavo bendruomenė.
+
+Galima rašyti apie:
+- pirmus skaitytojus;
+- pirmą viešą komunikaciją;
+- pirmus klausimus;
+- pirmas reakcijas;
+- pirmą paaiškinimo poreikį.
+
+Negalima rašyti apie:
+- narius;
+- organizaciją;
+- oficialų atstovavimą;
+- judėjimą;
+- partiją;
+- kooperatyvą;
+- visuomeninę struktūrą.
+
+## Atviri klausimai
+
+- kuri socialinių tinklų platforma tinkamiausia pirmai komunikacijai;
+- ar reikia atskiro puslapio „Kaip skaityti projektą“;
+- kaip reaguoti į painiavą dėl ateities naujienų;
+- ar verta leisti komentarus;
+- kaip rinkti skaitytojų klausimus;
+- ar pirmi klausimai turi tapti atskirais GAP-NOTE dokumentais;
+- kada skaitytojas tampa dalyviu;
+- kaip išlaikyti ramų toną, jeigu projektas sulauks kritikos.
+
+## Pirminė išvada
+
+Pirmoji komunikacija socialiniuose tinkluose yra ne organizacijos pradžia, o skaitytojo atsiradimas.
+
+Nuo šio momento BVK projektas pradeda mokytis ne tik kalbėti, bet ir būti suprastas.
+Tai mažas, bet svarbus žingsnis nuo uždaro darbo stalo prie viešo klausimo.
