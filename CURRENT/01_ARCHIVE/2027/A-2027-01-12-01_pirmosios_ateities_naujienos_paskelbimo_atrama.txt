@@ -1,0 +1,82 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2026-04-26
+Dabartinė redakcija: 2026-04-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2027 / pirmųjų atvirų publikacijų sluoksnis
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-01-12-01
+
+Tipas:
+publikacijos atramos dokumentas
+
+Pavadinimas:
+Pirmosios ateities naujienos paskelbimo atrama
+
+Susijusi publikacija:
+2027 m. sausio 12 d. – Svetainėje paskelbta pirmoji naujiena iš 2086 metų Respublikos pasaulio
+
+# A-2027-01-12-01
+# Pirmosios ateities naujienos paskelbimo atrama
+
+Data: 2027 m. sausio 12 d.
+Vieta: BVK svetainės viešasis sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Svetainėje paskelbta pirmoji naujiena iš 2086 metų Baltijos Kooperatinės Respublikos pasaulio.
+
+Tai nėra techninis svetainės įrašas ir ne tarnybinė pastaba apie puslapio paleidimą.
+Tai pirmas turinio įvykis, kuriuo skaitytojui parodytas ateities pasaulis per naujienos formą.
+
+## Kodėl tai svarbu
+
+Iki šio taško projektas galėjo būti suprantamas kaip idėjų, užrašų ir darbo dokumentų rinkinys.
+Pirmoji ateities naujiena suteikė svetainei kitą pobūdį: skaitytojas ne tik skaito paaiškinimą, bet patenka į laiką, kuris dar nėra dabartis.
+
+Šis sprendimas padeda projektui išvengti vien tiesioginio manifesto tono.
+Ateities pasaulis rodomas ne kaip pažadas, o kaip skaitymo patirtis.
+
+## Redakciniai principai
+
+Pirmoji ateities naujiena turi:
+
+- skambėti kaip publikacija iš savo laiko;
+- nerodyti 2027 metų redakcijos žinojimo apie visą ateitį;
+- nesiaiškinti per daug, kodėl tokia forma pasirinkta;
+- turėti aiškų ateities laiką;
+- neapsimesti realia dabarties institucijos naujiena;
+- turėti kelią į archyvą ir paaiškinimus.
+
+## Ryšys su 2026 metų sluoksniu
+
+Ši publikacija remiasi 2026 metų sprendimu, kad svetainė turi būti ne vien tinklaraštis, o langas į būsimą pasaulį.
+Susijusios atramos:
+
+- FC-2026-02 — Svetainė ir naujienos iš ateities;
+- OQ-2026-01 — Svetainė ir skaitymo logika;
+- OQ-2026-06 — Naujienos ir dokumentinė atrama.
+
+## Kas dar neaišku
+
+- kiek ateities naujienų turi būti rodoma prieš paaiškinant 2026 metų pradžią;
+- ar skaitytojas iš karto supras, kad tai worldbuilding ir archyvinis projektas;
+- kaip vizualiai atskirti 2086 metų naujienas nuo 2027 metų svetainės įvykių;
+- ar prie kiekvienos ateities naujienos reikia susijusių dokumentų bloko.
+
+## Pirminė išvada
+
+Pirmoji ateities naujiena atveria svetainės skaitymo metodą.
+Nuo šio taško BVK pasaulis pradedamas rodyti ne tik aiškinant, bet ir leidžiant skaitytojui jį patirti kaip gyvą naujienų erdvę.
