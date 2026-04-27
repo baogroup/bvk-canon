@@ -1,0 +1,89 @@
+BVK CANON
+2028 metų archyvo indeksas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-01-18
+Dabartinė redakcija: 2028-01-18
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis dalyvavimo sluoksnis / antrųjų atvirų metų archyvas
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: CARD_ONLY
+
+Paskirtis:
+Šis indeksas registruoja 2028 metų pirminius BVK archyvo dokumentus.
+2028 metai laikomi pirmųjų dalyvavimo klausimų ir atsargių pagalbos formų metais. Po 2027 metų viešo atsidarymo projektas pradeda aiškiau skirti skaitytoją, klausėją, pastabų teikėją, pagalbininką ir būsimą dalyvį.
+
+Pagrindinis principas:
+2028 metais dar nėra organizacijos, partijos, kooperatyvo, juridinės struktūros, veikiančio BVK, ministerijų, konstitucijos ar Respublikos.
+Yra viešas projektas, archyvas, svetainė, pirmi skaitytojai, pirmos pastabos, pirmi pagalbos signalai ir poreikis suformuluoti labai atsargius dalyvavimo principus.
+
+## Metų užduotis
+
+2028 metų archyvas turi saugoti perėjimą nuo pasyvaus skaitymo prie atsargesnio įsitraukimo:
+
+- pirmą aiškesnį dalyvavimo klausimą;
+- pirmą skaitytojo ir pagalbininko ribos aprašymą;
+- pirmą pagalbos formų sąrašą;
+- pirmą dalyvavimo principų juodraštį;
+- pagrindinių dalyvavimo principų suformavimą;
+- pirmas kalbos, archyvo, kortelių ir klausimų pagalbos kryptis;
+- ribą tarp pagalbos projektui ir formalios narystės;
+- ribą tarp viešos reakcijos ir sprendimo priėmimo.
+
+## Dokumentų tipai
+
+- dalyvavimo klausimo atrama;
+- skaitytojo ir pagalbininko ribos atrama;
+- pagalbos formų atrama;
+- dalyvavimo principų atrama;
+- klausimų ir pastabų darbo atrama;
+- kalbos ir vertimų pagalbos atrama;
+- archyvo kortelių pagalbos atrama;
+- redakcinės saugos pastaba.
+
+## Numatoma 2028 metų linija
+
+A-2028-01-18-01
+Pavadinimas: Pirmojo dalyvavimo klausimo atrama
+Failas: A-2028-01-18-01_pirmojo_dalyvavimo_klausimo_atrama.txt
+Tipas: dalyvavimo klausimo atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: užfiksuoti pirmą aiškų klausimą, kuo skaitytojo pagalba skiriasi nuo dalyvavimo.
+
+A-2028-02-12-01
+Pavadinimas: Skaitytojo, klausėjo ir pagalbininko ribos atrama
+Failas: A-2028-02-12-01_skaitytojo_klausianciojo_ir_pagalbininko_ribos_atrama.txt
+Tipas: skaitytojo ir pagalbininko ribos atrama
+Statusas: planuojama
+Paskirtis: paaiškinti, kad skaitytojas, klausėjas, pastabų teikėjas ir pagalbininkas nėra tas pats kaip narys ar oficialus dalyvis.
+
+A-2028-03-08-01
+Pavadinimas: Pirmųjų pagalbos formų atrama
+Failas: A-2028-03-08-01_pirmuju_pagaldos_formu_atrama.txt
+Tipas: pagalbos formų atramos dokumentas
+Statusas: planuojama
+Paskirtis: aprašyti pirmas realistiškas pagalbos formas: kalbos pataisas, nuorodų tikrinimą, FAQ klausimus, kortelių pasiūlymus.
+
+A-2028-04-10-01
+Pavadinimas: Pagrindinių dalyvavimo principų atrama
+Failas: A-2028-04-10-01_pagrindiniu_dalyvavimo_principu_atrama.txt
+Tipas: dalyvavimo principų atramos dokumentas
+Statusas: planuojama
+Paskirtis: suformuoti pirmus pagrindinius dalyvavimo principus: atsakomybę, skaidrumą, pagarbą, nuoseklumą ir ribų supratimą.
+
+## Darbo taisyklė
+
+2028 metų dokumentai turi kalbėti apie atsargų įsitraukimą, o ne apie struktūros paskelbimą.
+Jie neturi per anksti kurti narių, savanorių tinklo, organizacijos, judėjimo ar kooperatyvo įspūdžio.
+
+Pirmiausia turi atsirasti kalba ir ribos.
+Tik vėliau gali atsirasti aiškesnės dalyvavimo formos.
+
+Išvada:
+2028 metų archyvas yra pirmas žingsnis nuo skaitytojo prie būsimo dalyvavimo. Jo tikslas — neprarasti gyvo žmonių įsitraukimo, bet kartu neleisti projektui apsimesti organizacija anksčiau, nei atsiranda reali atsakomybės ir darbo struktūra.
