@@ -1,0 +1,48 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2027-04-08
+Dabartinė redakcija: 2027-04-08
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-04-08-02
+
+Pavadinimas:
+Pirmosios publikacijų paruošimo grandinės atrama
+
+# A-2027-04-08-02
+# Pirmosios publikacijų paruošimo grandinės atrama
+
+Data: 2027 m. balandžio 8 d.
+
+## Įvykis
+
+Parengta pirmoji paprasta BVK publikacijų paruošimo grandinė.
+
+Iki šio momento tekstai buvo ruošiami kaip atskiros publikacijos. 2027 m. balandį pirmą kartą nustatyta darbo seka: tema, archyvinė atrama, juodraštis, datos patikrinimas, tono patikrinimas, kortelė, paskelbimas.
+
+## Darbo seka
+
+1. Pasirenkama tema.
+2. Patikrinama, ar yra archyvinė atrama.
+3. Parengiamas juodraštis.
+4. Patikrinama data ir laikotarpis.
+5. Patikrinamas viešas tonas.
+6. Parengiama dokumento arba publikacijos kortelė.
+7. Tekstas skelbiamas svetainėje.
+
+## Reikšmė
+
+Šis žingsnis pavertė svetainę ne atsitiktinių tekstų vieta, o valdomu publikavimo procesu.
+
+Pagrindinė taisyklė: viešas tekstas negali remtis dokumentu, kurio kanone dar nėra.
+
+## Išvada
+
+Pirmoji publikacijų paruošimo grandinė tapo ankstyvu BVK archyvinės drausmės pagrindu.
