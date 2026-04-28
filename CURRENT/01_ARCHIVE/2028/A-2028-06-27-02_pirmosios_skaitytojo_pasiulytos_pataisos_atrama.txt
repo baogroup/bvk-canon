@@ -1,0 +1,64 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-06-27
+Dabartinė redakcija: 2028-06-27
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / sutankintos veiklos sluoksnis / pirmos skaitytojo pasiūlytos pataisos
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-06-27-02
+
+Tipas:
+skaitytojo pasiūlytos pataisos atramos dokumentas
+
+Pavadinimas:
+Pirmosios skaitytojo pasiūlytos pataisos atrama
+
+# A-2028-06-27-02
+# Pirmosios skaitytojo pasiūlytos pataisos atrama
+
+Data: 2028 m. birželio 27 d.
+
+## Įvykis
+
+Pirmą kartą viena skaitytojo pastaba virto konkrečia viešo teksto pataisa.
+
+Iki šiol skaitytojų pagalba dažniausiai reiškė klausimus, nuorodų pastebėjimus arba bendras pastabas. Šį kartą buvo pasiūlyta aiškesnė formuluotė, kuri po peržiūros buvo pripažinta tinkama ir įtraukta į tekstą.
+
+Tai nebuvo tiesioginis redagavimas. Skaitytojas nepakeitė kanono pats. Pataisa buvo priimta tik po patikrinimo.
+
+## Kodėl tai svarbu
+
+Šis įvykis parodė, kad skaitytojo pagalba gali tapti realiu teksto pagerinimu.
+
+Kartu buvo patvirtinta svarbi riba: pasiūlyti pataisą galima, bet galutinis sprendimas lieka kanono peržiūros sluoksnyje.
+
+Tai apsaugo projektą nuo chaoso ir kartu leidžia žmonių pastaboms turėti praktinę vertę.
+
+## Pagrindinė mintis
+
+Pataisa nėra valdžia.
+
+Skaitytojas gali padėti tekstui tapti aiškesniam, bet vienas pasiūlymas dar nesukuria nei statuso, nei teisės keisti kitus dokumentus.
+
+## Ryšys su sutankinta 2028 metų logika
+
+Šis dokumentas patvirtina, kad 2028 metų įvykiai vyksta ne lėtai ir ne kartą per mėnesį.
+
+Klausimai, pastabos, pataisos ir spragos atsiranda greitai, dažnai viena iš kitos. Vienas klausimas gali sukelti diskusiją, diskusija gali parodyti spragą, o spraga gali paskatinti pataisą.
+
+## Pirminė išvada
+
+Pirmosios skaitytojo pasiūlytos pataisos priėmimas tapo mažu, bet svarbiu pasitikėjimo veiksmu.
+
+Projektas parodė, kad gali priimti pagalbą, bet neatsisakyti savo kanoninės atsakomybės.
