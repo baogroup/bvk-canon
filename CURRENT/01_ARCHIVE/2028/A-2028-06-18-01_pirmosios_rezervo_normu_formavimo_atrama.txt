@@ -1,0 +1,76 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-06-18
+Dabartinė redakcija: 2028-06-18
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-06-18-01
+
+Pavadinimas:
+Pirmosios rezervo normų formavimo atrama
+
+# A-2028-06-18-01
+# Pirmosios rezervo normų formavimo atrama
+
+Data: 2028 m. birželio 18 d.
+
+## Įvykis
+
+Po perkrovos taškų identifikavimo pradėtas formuoti pirmasis rezervų normų modelis.
+
+Iki šio momento dauguma skaičiavimų buvo orientuoti į optimalias sąlygas. 2028 m. birželį pirmą kartą pradėta sistemingai skaičiuoti, kiek atsargų reikia ne idealiam, o realiam veikimui.
+
+## Rezervų tipai
+
+Modelyje išskirti keli pagrindiniai rezervų tipai:
+
+- žaliavų rezervas;
+- gatavo produkto rezervas;
+- laiko rezervas;
+- transporto rezervas;
+- sandėliavimo rezervas;
+- darbo pajėgumo rezervas.
+
+## Pagrindiniai principai
+
+Nustatyta, kad rezervas negali būti atsitiktinis.
+
+Kiekvienas rezervas turi būti pagrįstas realia rizika:
+
+- galimu transporto vėlavimu;
+- galimu įrangos sustojimu;
+- galimu darbo jėgos trūkumu;
+- galimu broko padidėjimu.
+
+## Pirmasis pastebėjimas
+
+Per mažas rezervas sukuria nestabilumą.
+
+Per didelis rezervas sukuria nuostolius.
+
+Todėl rezervų normos turi būti apskaičiuotos kaip kompromisas tarp saugumo ir efektyvumo.
+
+## Reikšmė
+
+Rezervų normų nustatymas pavertė modelį artimesniu realiai veikiančiai sistemai.
+
+Sistema pradėjo būti vertinama ne tik pagal tai, kiek ji gali pagaminti, bet ir pagal tai, kiek ji gali išgyventi sutrikimų metu.
+
+## Darbo principas
+
+Kiekviena nauja modelio versija turi būti tikrinama su rezervais.
+
+Modelis be rezervų laikomas teoriškai įmanomu, bet praktiškai nepatikimu.
+
+## Išvada
+
+Pirmosios rezervų normos tapo svarbiu žingsniu kuriant atsparią sistemą.
+
+Nuo šio momento BVK modeliavimas pradėjo orientuotis ne tik į efektyvumą, bet ir į išlikimą.
