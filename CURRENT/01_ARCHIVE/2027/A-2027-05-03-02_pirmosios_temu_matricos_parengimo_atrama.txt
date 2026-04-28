@@ -1,0 +1,63 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2027-05-03
+Dabartinė redakcija: 2027-05-03
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-05-03-02
+
+Pavadinimas:
+Pirmosios temų matricos parengimo atrama
+
+# A-2027-05-03-02
+# Pirmosios temų matricos parengimo atrama
+
+Data: 2027 m. gegužės 3 d.
+
+## Įvykis
+
+Parengta pirmoji BVK viešų publikacijų temų matrica.
+
+Iki šio momento temos buvo renkamos pagal atskirus tekstus. 2027 m. gegužę pirmą kartą sudarytas bazinis temų sąrašas, kuris leido planuoti ne pavienes publikacijas, o kryptingą turinio sistemą.
+
+## Pirmoji temų matrica
+
+Pirminės kryptys:
+
+- maistas ir vietinė gamyba;
+- darbas ir kasdienis saugumas;
+- būstas ir gyvenamoji aplinka;
+- bendras fondas;
+- transportas;
+- sveikatos priežiūros minimumas;
+- vaikų ir šeimų palaikymas;
+- mokymasis ir įgūdžiai;
+- archyvas ir dokumentų kortelės;
+- ateities naujienų skaitymo logika;
+- romano / pasakojimo sluoksnis;
+- kalba ir sąvokos.
+
+## Reikšmė
+
+Temų matrica leido matyti, kurios sritys jau turi tekstų, o kurios dar lieka tuščios.
+
+Tai buvo pirmas žingsnis nuo atsitiktinio turinio prie planuojamos sistemos.
+
+## Darbo principas
+
+Kiekviena nauja publikacija turėjo būti priskiriama bent vienai temų matricos krypčiai.
+
+Jeigu tekstas nepriklausė jokiai krypčiai, reikėjo spręsti, ar tai nauja kryptis, ar perteklinis tekstas.
+
+## Išvada
+
+Pirmoji temų matrica tapo ankstyvu BVK turinio valdymo įrankiu.
+
+Ji padėjo formuoti archyvą ne kaip straipsnių sąrašą, o kaip tarpusavyje susijusių sričių sistemą.
