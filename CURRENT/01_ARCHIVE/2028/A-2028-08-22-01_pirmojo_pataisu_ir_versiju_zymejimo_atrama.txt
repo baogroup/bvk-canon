@@ -1,0 +1,139 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-08-22
+Dabartinė redakcija: 2028-08-22
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / pirmųjų pagalbos formų sluoksnis / pataisų ir versijų žymėjimo pradžia
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-08-22-01
+
+Tipas:
+pataisų ir versijų žymėjimo atramos dokumentas
+
+Pavadinimas:
+Pirmojo pataisų ir versijų žymėjimo atrama
+
+Susijusi publikacija:
+2028 m. rugpjūčio 22 d. – Pradėta aiškiau žymėti viešų tekstų pataisas ir versijas
+
+# A-2028-08-22-01
+# Pirmojo pataisų ir versijų žymėjimo atrama
+
+Data: 2028 m. rugpjūčio 22 d.
+Vieta: BVK svetainės viešasis sluoksnis / archyvo ir pataisų darbo sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Pradėta aiškiau žymėti viešų BVK tekstų pataisas ir versijas.
+
+Po pirmųjų pastabų peržiūros ir GAP-NOTE įrašų tapo aišku, kad kai kurie tekstai turi būti tikslinami. Tačiau pataisa negali atrodyti taip, lyg tekstas visada toks ir buvo. Skaitytojas turi matyti, kad projektas mokosi, bet ne slepia savo ankstesnius netikslumus.
+
+Todėl 2028 metų rugpjūtį pirmą kartą aprašomas paprastas viešų pataisų ir versijų žymėjimo principas.
+
+## Kodėl tai svarbu
+
+BVK Canon remiasi pasitikėjimu archyvu.
+
+Jeigu tekstai tyliai keičiami, pasitikėjimas silpnėja. Jeigu kiekviena smulki kalbos klaida paverčiama dideliu istoriniu įvykiu, archyvas tampa per sunkus.
+
+Reikia vidurio:
+
+- smulkios kalbos pataisos gali būti tvarkomos paprastai;
+- prasmės pataisos turi būti pažymimos aiškiau;
+- dokumentų datų, statusų ir ryšių pataisos turi likti matomos;
+- GitHub History lieka techninė pakeitimų istorija;
+- public-facing kortelės gali rodyti tik svarbiausius pakeitimus.
+
+## Pirmasis pataisų skirstymas
+
+### Smulki kalbos pataisa
+
+Rašybos, skyrybos, linksnio ar sakinio aiškumo pataisa, kuri nekeičia prasmės.
+
+Galimas žymėjimas:
+nebūtina viešai aiškinti kiekvienos smulkmenos, bet GitHub History saugo pakeitimą.
+
+### Viešo aiškumo pataisa
+
+Pataisa, kuri padeda skaitytojui geriau suprasti sąvoką, laikotarpį arba dokumento ryšį.
+
+Galimas žymėjimas:
+trumpa pastaba kortelėje arba dokumento metaduomenyse.
+
+### Kanono prasmės pataisa
+
+Pataisa, kuri keičia sąvokos, datos, ryšio arba istorinio sluoksnio supratimą.
+
+Galimas žymėjimas:
+versijos pakeitimas, aiški redakcijos data ir trumpas paaiškinimas.
+
+### Statuso pataisa
+
+Pakeičiamas dokumento statusas, prieigos lygis, vertimo būsena arba viešo rodymo principas.
+
+Galimas žymėjimas:
+privaloma palikti aiškią metaduomenų žymą.
+
+## Pirmas versijų principas
+
+v1.0 — pirmoji priimta dokumento versija.
+
+v1.1, v1.2 — nedideli papildymai arba struktūriniai pataisymai.
+
+v2.0 — reikšminga prasmės, statuso, laikotarpio arba kanoninio vaidmens peržiūra.
+
+Tai nėra griežta teisinė sistema. Tai ankstyvas darbo principas, kuris padeda nepasimesti.
+
+## Ko ši tvarka nesukuria
+
+Ši tvarka nesukuria:
+
+- pilnos redakcinės tarybos;
+- oficialios institucijos;
+- privalomos viešos ataskaitos už kiekvieną kablelį;
+- teisės skaitytojams reikalauti pataisos;
+- pareigos priimti visus pasiūlymus.
+
+Ji tik padeda parodyti, kad kanonas taisomas ne slaptai, o su atmintimi.
+
+## Ryšys su romano baze
+
+Vėlesnėje Respublikoje archyvų tikslumas gali atrodyti savaime suprantamas. Tačiau šis tikslumas turėjo prasidėti nuo paprasto įpročio: pataisai reikia pėdsako.
+
+Tai svarbu romanui, nes brandi sistema, kuri vėliau tvarkys skausmingus ir uždarus dokumentus, turi išmokti sąžiningai žymėti net mažus ankstyvus pakeitimus.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2028-06-20-01 — Pirmųjų pastabų peržiūros tvarkos atrama;
+- A-2028-07-18-01 — Pirmųjų GAP-NOTE įrašų atrama;
+- A-2027-07-15-01 — Pirmųjų archyvo dokumentų kortelių atrama;
+- A-2027-07-31-01 — Pirmosios viešojo archyvo struktūros atrama;
+- 12_DOCUMENT_DATE_LAYER_RULES — dokumentų datavimo pagal laiko sluoksnį taisyklės.
+
+## Atviri klausimai
+
+- ar reikia atskiro viešo pataisų sąrašo;
+- ar smulkios kalbos pataisos turi būti matomos skaitytojui;
+- kada v1.1 tampa v2.0;
+- ar bvk.lt publikacijos turi rodyti redakcijos datą;
+- kaip sinchronizuoti GitHub History ir public-facing korteles.
+
+## Pirminė išvada
+
+Pirmasis pataisų ir versijų žymėjimo principas reikalingas tam, kad BVK Canon galėtų taisytis neprarasdamas atminties.
+
+Kanonas stiprėja ne tada, kai niekada neklysta, o tada, kai moka sąžiningai parodyti, kaip taisė savo klaidas.
