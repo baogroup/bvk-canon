@@ -1,0 +1,75 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-03-19
+Dabartinė redakcija: 2028-03-19
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-03-19-01
+
+Pavadinimas:
+Pirmosios modelio palyginimo scenarijų atrama
+
+# A-2028-03-19-01
+# Pirmosios modelio palyginimo scenarijų atrama
+
+Data: 2028 m. kovo 19 d.
+
+## Įvykis
+
+Parengtas pirmasis bendro ūkio modelio mastelio palyginimas.
+
+Iki šio momento skaičiavimai daugiausia tikrino vieno produkto arba vienos mažos grupės poreikius. 2028 m. kovą pirmą kartą palyginti keli skirtingi masteliai, kad būtų matyti, kada modelis dar lieka paprastas, o kada pradeda reikalauti atskiros logistikos ir valdymo.
+
+## Pirmieji scenarijai
+
+Pirminiam palyginimui pasirinkti trys scenarijai:
+
+- 10 žmonių bandomoji grupė;
+- 20 žmonių mažas darbo ratas;
+- 50 žmonių išplėstas maisto ir darbo modelis.
+
+## Vertinimo laukai
+
+Kiekvienam scenarijui numatyta vertinti:
+
+- dienos maisto poreikį;
+- savaitės žaliavų kiekį;
+- darbo valandas;
+- pakavimo laiką;
+- transporto poreikį;
+- įrangos apkrovą;
+- broko ir nuostolio riziką;
+- bendro rezervo galimybę.
+
+## Pirmasis pastebėjimas
+
+10 žmonių modelis gali būti tikrinamas beveik rankiniu būdu.
+
+20 žmonių modelis jau reikalauja aiškesnio darbo paskirstymo.
+
+50 žmonių modelis nebegali būti laikomas paprastu bandymu. Jam reikia atskiro planavimo, tiekimo ir atsargų kontrolės.
+
+## Reikšmė
+
+Šis palyginimas parodė, kad mastelis keičia ne tik kiekius, bet ir pačią sistemos prigimtį.
+
+Didesnis žmonių skaičius nėra tik padauginta mažesnio modelio versija. Jis sukuria naujus valdymo, logistikos ir atsakomybės klausimus.
+
+## Darbo principas
+
+Kiekvienas būsimas modelis turi būti vertinamas pagal mastelį.
+
+Jeigu sprendimas veikia 10 žmonių grupei, tai dar nereiškia, kad jis veiks 50 žmonių grupei.
+
+## Išvada
+
+Pirmieji mastelio scenarijai tapo svarbiu žingsniu nuo paprastos lentelės prie sisteminio modelio.
+
+Nuo šio momento BVK pradeda vertinti ne tik produktą, bet ir žmonių skaičiaus poveikį visai struktūrai.
