@@ -1,0 +1,121 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-09-19
+Dabartinė redakcija: 2028-09-19
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / pirmųjų pagalbos formų sluoksnis / pagalbos pripažinimo pradžia
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-09-19-01
+
+Tipas:
+pagalbos pripažinimo principo atramos dokumentas
+
+Pavadinimas:
+Pirmojo pagalbos pripažinimo principo atrama
+
+Susijusi publikacija:
+2028 m. rugsėjo 19 d. – Pradėtas formuoti pirmasis pagalbos pripažinimo principas
+
+# A-2028-09-19-01
+# Pirmojo pagalbos pripažinimo principo atrama
+
+Data: 2028 m. rugsėjo 19 d.
+Vieta: BVK svetainės viešasis sluoksnis / pagalbos ir padėkos darbo sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Pradėtas formuoti pirmasis pagalbos pripažinimo principas.
+
+Kai skaitytojai pradeda siųsti pastabas, siūlyti pataisas, tikrinti nuorodas ir padėti aiškinti sąvokas, atsiranda naujas klausimas: kaip padėkoti žmogui taip, kad padėka nepavirstų statusu?
+
+2028 metų rugsėjį pirmą kartą aprašoma riba tarp pagalbos pripažinimo ir narystės įspūdžio.
+
+## Kodėl tai svarbu
+
+Pagalba neturi dingti be pėdsako.
+
+Jeigu žmogus pastebėjo klaidą ar padėjo patikslinti tekstą, projektas turi gebėti tai įvertinti. Tačiau per ankstyvas viešas vardų, vaidmenų ar padėkų sąrašas gali sukurti neteisingą įspūdį, kad jau veikia komanda, narystė arba savanorių struktūra.
+
+Todėl pirmas pagalbos pripažinimo principas turi būti atsargus.
+
+## Pagrindinė riba
+
+Padėka nėra statusas.
+
+Viešas paminėjimas nėra narystė.
+
+Pataisa nėra teisė spręsti.
+
+Pasikartojanti pagalba dar nėra atstovavimas projektui.
+
+Ši riba leidžia projektui būti dėkingam, bet nekurti netikros organizacinės formos.
+
+## Galimos pripažinimo formos
+
+2028 metais tinka tik lengvos formos:
+
+- asmeninė padėka atsakant į pastabą;
+- bendras viešas sakinys, kad tekstai tikslinami pagal skaitytojų pastabas;
+- pataisos įtraukimas be vardo;
+- anoniminis klausimo įtraukimas į FAQ;
+- vėlesnis padėkos principų svarstymas, jeigu pagalba kartojasi.
+
+Netinka:
+
+- viešas pagalbininkų sąrašas;
+- titulų suteikimas;
+- komandos pristatymas;
+- narystės pažymėjimai;
+- teisė kalbėti projekto vardu;
+- pažadas, kad pagalbininkas taps dalyviu.
+
+## Realistinis apribojimas
+
+Kai pagalba dar nereguliari, padėkos sistema turi būti labai paprasta.
+
+Jeigu ji bus per iškilminga, atrodys kaip dirbtinė bendruomenė. Jeigu jos nebus visai, žmonės gali jausti, kad jų pastangos nematomos.
+
+Todėl reikia laikyti vidurį: matyti pagalbą, bet neperdėti jos statuso.
+
+## Ryšys su romano baze
+
+Vėlesnėje Respublikoje pripažinimas gali tapti svarbia kultūros dalimi. Tačiau jo pradžioje buvo paprasta problema: kaip padėkoti žmogui, nepadarant jo tuo, kuo jis dar nėra?
+
+Tai leidžia romanui rodyti dalyvavimo kultūrą kaip lėtą, atsargų ir žmogišką augimą, o ne kaip iškart sukurtą sistemą.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2028-02-12-01 — Skaitytojo, klausėjo ir pagalbininko ribos atrama;
+- A-2028-03-08-01 — Pirmųjų pagalbos formų atrama;
+- A-2028-05-16-01 — Pirmojo „Kaip galima padėti“ puslapio atrama;
+- A-2028-06-20-01 — Pirmųjų pastabų peržiūros tvarkos atrama;
+- A-2028-08-22-01 — Pirmojo pataisų ir versijų žymėjimo atrama.
+
+## Atviri klausimai
+
+- ar padėkos turi būti viešos;
+- ar pagalbininkų vardai turi būti saugomi;
+- kaip elgtis, jei žmogus nenori būti minimas;
+- kada pasikartojanti pagalba tampa pagalbininko vaidmeniu;
+- ar reikia atskiro padėkos registro;
+- ar viešas pripažinimas gali pakenkti projekto teisiniam atsargumui.
+
+## Pirminė išvada
+
+Pirmasis pagalbos pripažinimo principas leidžia BVK projektui matyti žmonių indėlį, bet dar nekurti struktūros, kurios nėra.
+
+Padėka turi būti žmogiška, o statusas — atsargus.
