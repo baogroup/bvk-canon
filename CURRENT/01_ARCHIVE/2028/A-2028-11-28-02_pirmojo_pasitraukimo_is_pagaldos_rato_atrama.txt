@@ -1,0 +1,83 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-11-28
+Dabartinė redakcija: 2028-11-28
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / sutankintos veiklos sluoksnis / pirmasis pasitraukimas
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-11-28-02
+
+Tipas:
+pirmojo pasitraukimo atramos dokumentas
+
+Pavadinimas:
+Pirmojo pasitraukimo iš pagalbos rato atrama
+
+# A-2028-11-28-02
+# Pirmojo pasitraukimo iš pagalbos rato atrama
+
+Data: 2028 m. lapkričio 28 d.
+
+## Įvykis
+
+Pirmą kartą pastebėta, kad vienas iš anksčiau aktyviau pastabas teikusių žmonių nustojo grįžti prie projekto.
+
+Nebuvo konflikto.
+Nebuvo viešo pareiškimo.
+Nebuvo aiškaus atsisakymo.
+
+Žmogus tiesiog kurį laiką padėjo, kelis kartus sugrįžo, o vėliau dingo iš aktyvesnio pagalbos lauko.
+
+## Kodėl tai svarbu
+
+Gyvas projektas auga ne tik per prisijungimus, bet ir per pasitraukimus.
+
+Jeigu archyvas fiksuotų tik augimą, jis atrodytų netikroviškai. Ankstyvuose projektuose žmonės ateina, padeda, pavargsta, praranda laiką, pakeičia prioritetus arba tiesiog nebegrįžta.
+
+Toks pasitraukimas nėra nesėkmė. Tai normali gyvo interneto projekto būsena.
+
+## Pagrindinė mintis
+
+Pagalba negali būti laikoma nuolatine vien todėl, kad žmogus padėjo kelis kartus.
+
+Kol nėra aiškios atsakomybės, nėra ir įsipareigojimo likti.
+
+Tai saugo ir projektą, ir žmogų.
+
+## Ryšys su pagalbos pripažinimu
+
+Šis įvykis parodė, kodėl nereikia per anksti kurti viešų pagalbininkų sąrašų ar statusų.
+
+Jeigu žmogus paminimas kaip pagalbininkas per anksti, jo vėlesnis pasitraukimas gali atrodyti kaip lūžis, nors realybėje tai tik natūralus ankstyvos veiklos svyravimas.
+
+## Ryšys su sutankinta 2028 metų logika
+
+2028 metais vienu metu vyksta keli dalykai:
+
+- atsiranda pagalba;
+- atsiranda pataisos;
+- atsiranda diskusijos;
+- atsiranda nesutarimai;
+- atsiranda pasikartojantys žmonės;
+- ir atsiranda pirmi pasitraukimai.
+
+Tai patvirtina, kad metų dinamika yra tanki ir žmogiška, o ne lėta administracinė seka.
+
+## Pirminė išvada
+
+Pirmasis pasitraukimas iš pagalbos rato padeda kanonui išlikti tikroviškam.
+
+Žmonių dalyvavimas nėra tiesi augimo linija. Jis yra pulsas: vieni ateina, kiti nutyla, treti grįžta vėliau.
+
+BVK projektas turi mokėti priimti ne tik pagalbą, bet ir tylų žmogaus pasitraukimą.
