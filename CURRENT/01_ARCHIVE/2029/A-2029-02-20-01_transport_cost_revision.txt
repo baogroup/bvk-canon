@@ -1,0 +1,54 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2029-02-20
+Dabartinė redakcija: 2029-02-20
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2029-02-20-01
+
+Pavadinimas:
+Transporto sąnaudų korekcija
+
+Data: 2029 m. vasario 20 d.
+
+## Įvykis
+
+Atlikta transporto sąnaudų korekcija pagal realesnius atstumo ir laiko duomenis.
+
+## Bazinės prielaidos
+
+Atstumas per dieną: 36 km
+Reisų skaičius: 2
+Darbo laikas: 1,5 val.
+
+## Sąnaudų skaičiavimas
+
+Kuras: 3,96 Eur
+Nusidėvėjimas: 3,24 Eur
+Techninė priežiūra: 1,80 Eur
+Darbo laikas: 12,00 Eur
+Papildoma rizika: 2,10 Eur
+
+Bendra transporto suma per dieną:
+
+23,10 Eur
+
+## Palyginimas
+
+Ankstesnis modelis: 12,00 Eur
+Naujas modelis: 23,10 Eur
+
+Padidėjimas: 11,10 Eur
+
+## Išvada
+
+Transporto sąnaudos ankstesniame modelyje buvo nuvertintos.
+
+Nuo šio momento transportas laikomas viena pagrindinių BVK sistemos sąnaudų dalių.
