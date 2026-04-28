@@ -1,0 +1,58 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2027-11-07
+Dabartinė redakcija: 2027-11-07
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-11-07-02
+
+Pavadinimas:
+Pirmojo įeinančių klausimų registravimo atrama
+
+# A-2027-11-07-02
+# Pirmojo įeinančių klausimų registravimo atrama
+
+Data: 2027 m. lapkričio 7 d.
+
+## Įvykis
+
+Įvesta pirmoji paprasta įeinančių klausimų registravimo tvarka.
+
+Ši tvarka nebuvo skirta skaitytojų bendruomenei kurti. Jos tikslas buvo paversti pasikartojančius klausimus archyvo darbo signalu: kokios temos neaiškios, kur trūksta atramos ir kokius dokumentus reikės parengti vėliau.
+
+## Registravimo laukai
+
+Pirminiam klausimų registrui numatyti laukai:
+
+- gavimo data;
+- klausimo tema;
+- susijusi archyvo kryptis;
+- susijęs dokumentas, jeigu yra;
+- ar klausimas rodo spragą;
+- galimas veiksmas;
+- statusas: atvira / peržiūrėta / perduota į FAQ / reikalinga nauja atrama.
+
+## Reikšmė
+
+Įeinantis klausimas pradėtas vertinti ne kaip komentaras, o kaip diagnostinis signalas.
+
+Jeigu keli klausimai kartojasi, tai reiškia ne tik skaitytojo nesupratimą, bet ir galimą archyvo trūkumą.
+
+## Darbo principas
+
+Klausimai neturi tiesiogiai keisti kanono.
+
+Jie turi būti registruojami, priskiriami krypčiai ir tik tada sprendžiama, ar reikia FAQ papildymo, kalbos kortelės, GAP-NOTE arba naujo archyvo įrašo.
+
+## Išvada
+
+Pirmasis įeinančių klausimų registravimas pavertė skaitytojų reakcijas archyvo tobulinimo įrankiu.
+
+Tai buvo ne bendruomenės kūrimas, o ankstyva kokybės kontrolės forma.
