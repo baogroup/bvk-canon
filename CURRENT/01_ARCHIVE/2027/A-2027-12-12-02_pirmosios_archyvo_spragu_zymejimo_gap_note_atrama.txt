@@ -1,0 +1,66 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2027-12-12
+Dabartinė redakcija: 2027-12-12
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-12-12-02
+
+Pavadinimas:
+Pirmosios archyvo spragų žymėjimo GAP-NOTE atrama
+
+# A-2027-12-12-02
+# Pirmosios archyvo spragų žymėjimo GAP-NOTE atrama
+
+Data: 2027 m. gruodžio 12 d.
+
+## Įvykis
+
+Įvesta pirmoji BVK archyvo spragų žymėjimo tvarka GAP-NOTE.
+
+Ji buvo skirta ne viešoms diskusijoms, o darbo kontrolei: pažymėti vietas, kuriose archyvui dar trūksta dokumento, sąvokos, datos, ryšio, skaičiavimo arba aiškios atramos.
+
+## GAP-NOTE paskirtis
+
+GAP-NOTE naudojamas tada, kai:
+
+- tekste minima sąvoka be atskiros atramos;
+- klausimas kartojasi, bet atsakymo dar nėra;
+- naujiena remtųsi dokumentu, kuris dar nesukurtas;
+- archyvo kryptis turi tuščią vietą;
+- skaičiavimas turi nepatikrintą prielaidą;
+- reikia atidėti sprendimą, bet neprarasti klausimo.
+
+## Pirminiai laukai
+
+Pirmoji GAP-NOTE struktūra:
+
+- GAP kodas;
+- sukūrimo data;
+- sritis;
+- trūkstama atrama;
+- susijęs dokumentas;
+- rizika, jeigu spraga nebus užpildyta;
+- galimas veiksmas;
+- statusas.
+
+## Darbo principas
+
+Spraga nėra klaida, kurią reikia paslėpti.
+
+Spraga yra darbo objektas.
+
+Jeigu ji pažymėta, ją galima planuoti, tikrinti ir vėliau uždaryti.
+
+## Išvada
+
+Pirmoji GAP-NOTE tvarka pavertė archyvo neužbaigtumą valdoma būsena.
+
+Tai buvo vienas pirmųjų BVK kokybės kontrolės įrankių.
