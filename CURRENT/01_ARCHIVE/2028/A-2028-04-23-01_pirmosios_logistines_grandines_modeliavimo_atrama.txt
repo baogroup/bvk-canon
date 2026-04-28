@@ -1,0 +1,73 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-04-23
+Dabartinė redakcija: 2028-04-23
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-04-23-01
+
+Pavadinimas:
+Pirmosios logistinės grandinės modeliavimo atrama
+
+# A-2028-04-23-01
+# Pirmosios logistinės grandinės modeliavimo atrama
+
+Data: 2028 m. balandžio 23 d.
+
+## Įvykis
+
+Parengtas pirmasis logistinės grandinės modelis, apimantis visą produkto judėjimo kelią nuo žaliavos gavimo iki galutinio paskirstymo.
+
+Iki šio momento skaičiavimai daugiausia vertino gamybos vidų. 2028 m. balandį pirmą kartą pradėta skaičiuoti, kaip juda produktas tarp vietų ir kiek tai kainuoja laiko bei resursų požiūriu.
+
+## Modelio struktūra
+
+Logistinė grandinė padalyta į kelis pagrindinius etapus:
+
+- žaliavos gavimas;
+- laikinas sandėliavimas;
+- paruošimo vietos aprūpinimas;
+- galutinio produkto paskirstymas;
+- grąžinimų arba broko surinkimas.
+
+## Pagrindiniai kintamieji
+
+Modelyje pradėti naudoti šie kintamieji:
+
+- transporto atstumas;
+- kelionės laikas;
+- pakrovimo ir iškrovimo laikas;
+- sandėliavimo talpa;
+- atsargų apyvartos laikas;
+- transporto vienetų skaičius.
+
+## Pirmasis pastebėjimas
+
+Nustatyta, kad net nedidelis atstumo padidėjimas daro reikšmingą įtaką visai sistemai.
+
+Trumpesni atstumai leidžia sumažinti atsargų kiekį, o ilgesni atstumai reikalauja didesnių rezervų ir atsarginių planų.
+
+## Reikšmė
+
+Šis modeliavimas parodė, kad logistika tampa vienu iš svarbiausių sistemos stabilumo veiksnių.
+
+Net tinkamai apskaičiuota gamyba negali veikti be aiškios transporto ir saugojimo schemos.
+
+## Darbo principas
+
+Kiekvienas naujas modelis turi būti tikrinamas kartu su logistine grandine.
+
+Jeigu logistika neveikia, laikoma, kad modelis yra nebaigtas.
+
+## Išvada
+
+Pirmoji logistinės grandinės schema tapo pagrindu tolimesniam sistemos judėjimo ir paskirstymo planavimui.
+
+Nuo šio momento BVK modeliavimas apima ne tik gamybą, bet ir visą resursų judėjimo kelią.
