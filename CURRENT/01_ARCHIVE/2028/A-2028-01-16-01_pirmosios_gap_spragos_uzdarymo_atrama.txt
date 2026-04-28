@@ -1,0 +1,67 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-01-16
+Dabartinė redakcija: 2028-01-16
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-01-16-01
+
+Pavadinimas:
+Pirmosios GAP spragos uždarymo atrama
+
+# A-2028-01-16-01
+# Pirmosios GAP spragos uždarymo atrama
+
+Data: 2028 m. sausio 16 d.
+
+## Įvykis
+
+Uždaryta pirmoji anksčiau pažymėta GAP-NOTE spraga.
+
+Spraga buvo susijusi su vieno iš pagrindinių produktų skaičiavimo prielaida. Ankstesniuose dokumentuose buvo nurodytas galimas produktas, tačiau nebuvo aiškiai apibrėžta vieno žmogaus dienos poreikio vertė.
+
+## Spragos esmė
+
+Trūkstamas elementas:
+
+- vieno žmogaus bazinio maisto poreikio skaičiavimo prielaida;
+- jos ryšys su bendru produktų kiekiu;
+- jos ryšys su darbo laiku.
+
+Ši spraga buvo pažymėta kaip kritinė tolimesniems skaičiavimams.
+
+## Veiksmas
+
+Parengta pirminė bazinio poreikio reikšmė ir jos taikymo principas.
+
+Nors vertė dar buvo laikoma preliminaria, ji leido pereiti nuo bendrų svarstymų prie pirmųjų nuoseklių skaičiavimų.
+
+## Reikšmė
+
+Tai buvo pirmas kartas, kai GAP-NOTE mechanizmas ne tik pažymėjo trūkumą, bet ir paskatino konkretų dokumentinį sprendimą.
+
+Nuo šio momento spragos pradėtos vertinti kaip darbo eilės dalis.
+
+## Darbo principas
+
+GAP-NOTE negali likti nuolat atvira be peržiūros.
+
+Kiekviena pažymėta spraga turi turėti bent vieną iš šių būsenų:
+
+- uždaryta;
+- perkelta į naują dokumentą;
+- pakeista į naują spragą;
+- pripažinta nereikšminga.
+
+## Išvada
+
+Pirmosios GAP spragos uždarymas parodė, kad archyvo spragų žymėjimas nėra formalumas.
+
+Tai yra nuoseklaus darbo ciklo pradžia: pažymėti – patikrinti – uždaryti.
