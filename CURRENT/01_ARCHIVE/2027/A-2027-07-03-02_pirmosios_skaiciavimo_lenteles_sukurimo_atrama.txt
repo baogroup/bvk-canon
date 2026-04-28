@@ -1,0 +1,61 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2027-07-03
+Dabartinė redakcija: 2027-07-03
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-07-03-02
+
+Pavadinimas:
+Pirmosios skaičiavimo lentelės sukūrimo atrama
+
+# A-2027-07-03-02
+# Pirmosios skaičiavimo lentelės sukūrimo atrama
+
+Data: 2027 m. liepos 3 d.
+
+## Įvykis
+
+Sukurta pirmoji paprasta BVK skaičiavimo lentelė.
+
+Ji nebuvo verslo planas ar veiklos pažadas. Tai buvo pirmas bandymas patikrinti, kokių dydžių reikia net mažiausiam bendro ūkio modeliui.
+
+## Pirmieji skaičiavimo laukai
+
+Pirminėje lentelėje numatyta skaičiuoti:
+
+- žmonių skaičių;
+- dienų skaičių;
+- vieno žmogaus maisto poreikį;
+- pagrindinius produktus;
+- žaliavų kiekį;
+- preliminarią savikainą;
+- darbo valandas;
+- reikalingą įrangą;
+- pakuotę;
+- transportą;
+- galimą pardavimo kiekį;
+- likutį bendram rezervui.
+
+## Reikšmė
+
+Ši lentelė tapo pirmu BVK ekonominio tikrinimo įrankiu.
+
+Nuo šio momento praktinė idėja turėjo būti vertinama ne tik pagal prasmę, bet ir pagal kiekius, sąnaudas, darbo laiką ir rezervą.
+
+## Darbo principas
+
+Jeigu idėjos neįmanoma suskaičiuoti bent apytiksliai, ji lieka svarstymu, o ne modeliu.
+
+## Išvada
+
+Pirmoji skaičiavimo lentelė parodė, kad būsima sistema negali remtis vien geru noru.
+
+Jai reikia skaičių, net jeigu pirmieji skaičiai dar labai netikslūs.
