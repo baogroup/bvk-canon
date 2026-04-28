@@ -1,0 +1,179 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-05-16
+Dabartinė redakcija: 2028-05-16
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / pirmųjų pagalbos formų sluoksnis / viešo paaiškinimo pradžia
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-05-16-01
+
+Tipas:
+pirmojo pagalbos paaiškinimo puslapio atramos dokumentas
+
+Pavadinimas:
+Pirmojo „Kaip galima padėti“ puslapio atrama
+
+Susijusi publikacija:
+2028 m. gegužės 16 d. – Parengtas pirmasis viešas paaiškinimas, kaip galima padėti BVK projektui
+
+# A-2028-05-16-01
+# Pirmojo „Kaip galima padėti“ puslapio atrama
+
+Data: 2028 m. gegužės 16 d.
+Vieta: BVK svetainės viešasis sluoksnis / pirmųjų pagalbos formų tęsinys
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Parengtas pirmasis viešas paaiškinimas, kaip galima padėti BVK projektui.
+
+Po pirmųjų dalyvavimo klausimų, pagalbininko ribų ir pagalbos formų aprašymo atsirado poreikis paprastai pasakyti skaitytojui: ką jis gali padaryti dabar, jeigu nori būti naudingas projektui.
+
+Šis puslapis nėra kvietimas į organizaciją.
+Tai nėra narystės pradžia, savanorių registracija ar bendruomenės struktūros paskelbimas.
+
+Tai pirmas ramus praktinis paaiškinimas: galima padėti mažais, aiškiais ir patikrinamais veiksmais.
+
+## Kodėl tai svarbu
+
+Jeigu skaitytojui nepasakoma, kaip padėti saugiai, jis gali suprasti pagalbą per plačiai.
+
+Vienas žmogus gali norėti keisti tekstus.
+Kitas gali siūlyti naują politinę kryptį.
+Trečias gali manyti, kad padėjęs vieną kartą tampa projekto dalyviu.
+Ketvirtas gali pradėti kalbėti projekto vardu.
+
+Todėl pirmasis puslapis „Kaip galima padėti“ turi ne tik pakviesti, bet ir apriboti.
+
+Pagalba naudinga tada, kai ji neperžengia projekto galimybių.
+
+## Pirmoji vieša pagalbos formulė
+
+Pirmame etape žmogus gali padėti taip:
+
+- pastebėti kalbos klaidą;
+- pasiūlyti aiškesnį lietuvišką žodį;
+- pranešti apie neveikiančią nuorodą;
+- pasiūlyti FAQ klausimą;
+- pastebėti, kad tekstas skamba per oficialiai arba neaiškiai;
+- pasiūlyti dokumento kortelės patikslinimą;
+- pasidalinti publikacija;
+- nurodyti, kur skaitytojui trūksta paaiškinimo;
+- pasiūlyti temą, kurią verta paaiškinti ateityje.
+
+Tai yra pagalba, bet dar ne dalyvavimas.
+
+## Ko puslapis turi vengti
+
+Puslapis neturi sakyti:
+
+- prisijunkite prie judėjimo;
+- tapkite nariu;
+- dalyvaukite organizacijoje;
+- mes renkame komandą;
+- kartu kuriame valstybę;
+- galite atstovauti BVK;
+- galite priimti sprendimus;
+- galite redaguoti kanoną tiesiogiai.
+
+2028 metais tokios formuluotės būtų per ankstyvos ir klaidinančios.
+
+## Atsakymo tonas
+
+Puslapio tonas turi būti draugiškas, bet santūrus.
+
+Tinkama kryptis:
+
+„Jeigu skaitant pastebėjote klaidą, neaiškią formuluotę, neveikiančią nuorodą arba klausimą, kuris galėtų būti naudingas kitiems skaitytojams, galite pateikti pastabą. Visos pastabos peržiūrimos pagal projekto kanono ribas.“
+
+Netinkama kryptis:
+
+„Prisijunkite prie mūsų bendruomenės ir kartu kurkite naują tvarką.“
+
+## Praktinė struktūra puslapiui
+
+Galimas pirmasis puslapio modelis:
+
+### Kaip galima padėti?
+
+Trumpas paaiškinimas, kad projektui galima padėti mažomis pastabomis.
+
+### Ką galima siųsti?
+
+- kalbos klaidas;
+- neveikiančias nuorodas;
+- neaiškius terminus;
+- FAQ klausimus;
+- pastabas dėl tono;
+- pasiūlymus dėl skaitymo kelio.
+
+### Ko kol kas nėra?
+
+- narystės;
+- savanorių komandos;
+- redaktorių grupės;
+- formalių pareigų;
+- teisės kalbėti projekto vardu.
+
+### Kas nutinka su pastaba?
+
+- ji perskaitoma;
+- patikrinama;
+- prireikus įtraukiama į pataisas;
+- jeigu rodo spragą, gali tapti GAP-NOTE;
+- jeigu kartojasi, gali patekti į FAQ.
+
+## Realistinis apribojimas
+
+Puslapis turi pripažinti, kad projektas dar mažas.
+
+Negalima žadėti greitų atsakymų, viešo įtraukimo ar nuolatinės komunikacijos.
+
+Geriau sąžiningai rašyti, kad pastabos bus peržiūrimos pagal galimybes, negu sukurti įspūdį, kad jau veikia redakcija ar pagalbininkų sistema.
+
+## Ryšys su romano baze
+
+Šis mažas puslapis svarbus būsimam romanui, nes jis rodo, kaip ateities dalyvavimo kultūra prasideda nuo labai paprastų veiksmų.
+
+Vėliau Respublikoje dalyvavimas gali atrodyti kaip įprasta pilietinė laikysena. Tačiau jo pradžioje buvo ne dideli susirinkimai, o pastabos dėl sakinio, nuorodos, žodžio ir klausimo.
+
+Tai suteikia pasauliui tikroviškumo: didelė sistema prasideda ne nuo skambių deklaracijų, o nuo mokymosi priimti mažą pagalbą be statuso ir be savinimosi.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2028-01-18-01 — Pirmojo dalyvavimo klausimo atrama;
+- A-2028-02-12-01 — Skaitytojo, klausėjo ir pagalbininko ribos atrama;
+- A-2028-03-08-01 — Pirmųjų pagalbos formų atrama;
+- A-2028-04-10-01 — Pagrindinių dalyvavimo principų atrama;
+- A-2027-12-05-01 — Pirmųjų savanoriškų pasiūlymų atrama;
+- A-2027-10-04-01 — Pirmųjų vertimų ir kalbos kortelių atrama.
+
+## Atviri klausimai
+
+- ar reikia atskiros kontaktinės formos;
+- ar pastabos turi būti siunčiamos el. paštu;
+- ar verta turėti viešą klaidų ir pasiūlymų sąrašą;
+- ar pagalbininkams reikia dėkoti viešai;
+- kaip apsaugoti projektą nuo per daug plačių pasiūlymų;
+- kada paprastas pagalbos puslapis gali virsti dalyvavimo puslapiu.
+
+## Pirminė išvada
+
+Pirmasis „Kaip galima padėti“ puslapis yra mažas, bet svarbus žingsnis.
+
+Jis leidžia žmogui būti naudingam, bet neleidžia pagalbai virsti netikru statusu.
+
+2028 metais tai yra teisinga riba: padėti galima, bet dalyvauti dar reikia mokytis.
