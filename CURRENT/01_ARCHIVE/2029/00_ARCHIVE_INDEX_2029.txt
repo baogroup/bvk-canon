@@ -1,0 +1,55 @@
+BVK CANON
+2029 metų archyvo indeksas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2029-01-16
+Dabartinė redakcija: 2029-01-16
+Pakeitimų istorija: GitHub History
+Prieigos lygis: SERVICE
+Istorinė priklausomybė: ankstyvasis pagalbos rato sluoksnis / trečiųjų atvirų metų archyvas
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: CARD_ONLY
+
+Paskirtis:
+Šis indeksas registruoja 2029 metų pirminius BVK archyvo dokumentus.
+2029 metai laikomi pirmųjų silpnų ryšių tarp pasikartojančių pagalbininkų metais. Po 2028 metų pagalbos, pastabų ir ribų nustatymo pradeda matytis ne tik pavieniai signalai, bet ir pirmos mažo pagalbos rato užuomazgos.
+
+Pagrindinis principas:
+2029 metais dar nėra organizacijos, partijos, kooperatyvo, juridinės struktūros, veikiančio BVK, ministerijų, konstitucijos ar Respublikos.
+Yra viešas projektas, archyvas, keli pasikartojantys pagalbos signalai ir pirmi labai atsargūs ryšiai tarp žmonių.
+
+## Metų užduotis
+
+2029 metų archyvas turi saugoti perėjimą nuo pavienės pagalbos prie pirmo silpno rato:
+
+- pasikartojančių pagalbininkų pastebėjimą;
+- pirmus ryšius tarp pagalbininkų;
+- pirmą bendro klausimo jausmą;
+- atsargų ribų saugojimą;
+- nepripažinti rato organizacija per anksti.
+
+## Pradiniai dokumentai
+
+A-2029-01-16-01
+Pavadinimas: Pirmojo mažo pagalbos rato užuomazgos atrama
+Failas: A-2029-01-16-01_pirmojo_mazo_pagalbos_rato_uzuomazgos_atrama.txt
+Statusas: planuojama
+
+A-2029-02-14-01
+Pavadinimas: Pirmojo tarpusavio ryšio tarp pagalbininkų ženklo atrama
+Failas: A-2029-02-14-01_pirmojo_tarpusavio_rysio_tarp_pagaldininku_zenklo_atrama.txt
+Statusas: planuojama
+
+## Darbo taisyklė
+
+2029 metų dokumentai turi kalbėti apie atsargų ryšių atsiradimą, o ne apie struktūros paskelbimą.
+Pagalbininkų ratas dar nėra organizacija.
+Pasikartojantis ryšys dar nėra narystė.
+
+Išvada:
+2029 metų archyvas turi parodyti, kaip iš pavienių pastabų ima rastis pirmas silpnas žmonių tarpusavio ryšys, bet projektas vis dar saugo ribą tarp gyvo susidomėjimo ir formalios struktūros.
