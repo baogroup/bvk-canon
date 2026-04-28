@@ -2,9 +2,9 @@ BVK CANON
 2028 metų archyvo indeksas
 
 Statusas: ACTIVE
-Versija: v1.3
+Versija: v1.4
 Pirmojo priėmimo data: 2028-01-18
-Dabartinė redakcija: 2028-06-20
+Dabartinė redakcija: 2028-07-18
 Pakeitimų istorija: GitHub History
 Prieigos lygis: SERVICE
 Istorinė priklausomybė: ankstyvasis dalyvavimo sluoksnis / antrųjų atvirų metų archyvas
@@ -33,6 +33,7 @@ Yra viešas projektas, archyvas, svetainė, pirmi skaitytojai, pirmos pastabos, 
 - pirmą pagrindinių dalyvavimo principų suformavimą;
 - pirmą viešą paaiškinimą, kaip galima padėti;
 - pirmą skaitytojų pastabų peržiūros tvarką;
+- pirmus GAP-NOTE įrašus;
 - pirmas kalbos, archyvo, kortelių ir klausimų pagalbos kryptis;
 - ribą tarp pagalbos projektui ir formalios narystės;
 - ribą tarp viešos reakcijos ir sprendimo priėmimo.
@@ -45,6 +46,7 @@ Yra viešas projektas, archyvas, svetainė, pirmi skaitytojai, pirmos pastabos, 
 - dalyvavimo principų atrama;
 - viešo pagalbos paaiškinimo atrama;
 - pastabų peržiūros tvarkos atrama;
+- GAP-NOTE įrašų atrama;
 - klausimų ir pastabų darbo atrama;
 - kalbos ir vertimų pagalbos atrama;
 - archyvo kortelių pagalbos atrama;
@@ -94,24 +96,32 @@ Tipas: pirmųjų pastabų peržiūros tvarkos atramos dokumentas
 Statusas: ACTIVE
 Paskirtis: aprašyti pirmą paprastą skaitytojų pastabų peržiūros tvarką, kad pagalba galėtų būti priimama neprarandant kanono ribų.
 
+A-2028-07-18-01
+Pavadinimas: Pirmųjų GAP-NOTE įrašų atrama
+Failas: A-2028-07-18-01_pirmuju_gap_note_irasu_atrama.txt
+Tipas: pirmųjų GAP-NOTE įrašų atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: pradėti fiksuoti kanono spragas, kurios išryškėja per skaitytojų klausimus, pastabas ir viešo sluoksnio neaiškumus.
+
 ## Darbo taisyklė
 
 2028 metų dokumentai turi kalbėti apie atsargų įsitraukimą, o ne apie struktūros paskelbimą.
 Jie neturi per anksti kurti narių, savanorių tinklo, organizacijos, judėjimo ar kooperatyvo įspūdžio.
 
-Pirmiausia turi atsirasti kalba, ribos, atsakomybė, tikrinamos pagalbos formos, viešas paaiškinimas, kaip padėti, ir paprasta pastabų peržiūros tvarka.
+Pirmiausia turi atsirasti kalba, ribos, atsakomybė, tikrinamos pagalbos formos, viešas paaiškinimas, kaip padėti, paprasta pastabų peržiūros tvarka ir būdas fiksuoti kanono spragas.
 Tik vėliau gali atsirasti aiškesnės dalyvavimo formos.
 
 ## Redakcinė pastaba
 
-Sausio-birželio 2028 metų linija turi būti skaitoma kaip viena seka:
+Sausio-liepos 2028 metų linija turi būti skaitoma kaip viena seka:
 
 - pirmiausia atsiranda dalyvavimo klausimas;
 - tada atskiriamas skaitytojas, klausėjas, pastabų teikėjas ir pagalbininkas;
 - tada aprašomos mažos pagalbos formos;
 - tada suformuluojami pirmieji dalyvavimo principai;
 - tada sukuriamas pirmas viešas puslapis, kaip galima padėti;
-- tada atsiranda pirmoji pastabų peržiūros tvarka.
+- tada atsiranda pirmoji pastabų peržiūros tvarka;
+- tada pradedamos fiksuoti pirmos kanono spragos kaip GAP-NOTE.
 
 Visi šie dokumentai dar nekuria organizacijos. Jie kuria kalbą, kuria bus galima atsakingai kalbėti apie dalyvavimą vėliau.
 
