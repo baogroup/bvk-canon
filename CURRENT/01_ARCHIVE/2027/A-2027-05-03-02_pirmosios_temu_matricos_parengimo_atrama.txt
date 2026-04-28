@@ -2,7 +2,7 @@ BVK CANON
 Archyvo įrašas
 
 Statusas: ACTIVE
-Versija: v1.0
+Versija: v1.1
 Pirmojo priėmimo data: 2027-05-03
 Dabartinė redakcija: 2027-05-03
 Pakeitimų istorija: GitHub History
@@ -14,22 +14,22 @@ Dokumento kodas:
 A-2027-05-03-02
 
 Pavadinimas:
-Pirmosios temų matricos parengimo atrama
+Pirmosios archyvo krypčių matricos atrama
 
 # A-2027-05-03-02
-# Pirmosios temų matricos parengimo atrama
+# Pirmosios archyvo krypčių matricos atrama
 
 Data: 2027 m. gegužės 3 d.
 
 ## Įvykis
 
-Parengta pirmoji BVK viešų publikacijų temų matrica.
+Parengta pirmoji BVK archyvo krypčių matrica.
 
-Iki šio momento temos buvo renkamos pagal atskirus tekstus. 2027 m. gegužę pirmą kartą sudarytas bazinis temų sąrašas, kuris leido planuoti ne pavienes publikacijas, o kryptingą turinio sistemą.
+Ši matrica nebuvo naujienų planas ir nebuvo svetainės turinio kalendorius. Ji buvo sukurta kaip archyvinis darbo įrankis, padedantis suprasti, kokios sritys turi būti dokumentuojamos pirmiausia, kad vėlesnės viešos publikacijos galėtų remtis tikromis atramomis.
 
-## Pirmoji temų matrica
+## Pirmoji archyvo krypčių matrica
 
-Pirminės kryptys:
+Pirminės archyvo kryptys:
 
 - maistas ir vietinė gamyba;
 - darbas ir kasdienis saugumas;
@@ -39,25 +39,25 @@ Pirminės kryptys:
 - sveikatos priežiūros minimumas;
 - vaikų ir šeimų palaikymas;
 - mokymasis ir įgūdžiai;
-- archyvas ir dokumentų kortelės;
-- ateities naujienų skaitymo logika;
-- romano / pasakojimo sluoksnis;
+- archyvo struktūra ir dokumentų kortelės;
+- ateities naujienų atramos logika;
+- romano / pasakojimo sluoksnio ryšiai;
 - kalba ir sąvokos.
 
 ## Reikšmė
 
-Temų matrica leido matyti, kurios sritys jau turi tekstų, o kurios dar lieka tuščios.
+Archyvo krypčių matrica leido matyti, kurios sritys jau turi dokumentinę atramą, o kurios dar lieka tuščios.
 
-Tai buvo pirmas žingsnis nuo atsitiktinio turinio prie planuojamos sistemos.
+Tai buvo pirmas žingsnis nuo pavienių užrašų prie valdomo archyvo.
 
 ## Darbo principas
 
-Kiekviena nauja publikacija turėjo būti priskiriama bent vienai temų matricos krypčiai.
+Vieša naujiena, straipsnis ar paaiškinimas vėliau turi remtis archyvine kryptimi ir konkrečia atrama.
 
-Jeigu tekstas nepriklausė jokiai krypčiai, reikėjo spręsti, ar tai nauja kryptis, ar perteklinis tekstas.
+Jeigu numatoma vieša publikacija neturi archyvinės atramos, pirmiausia turi būti parengtas archyvo įrašas arba darbo dokumentas.
 
 ## Išvada
 
-Pirmoji temų matrica tapo ankstyvu BVK turinio valdymo įrankiu.
+Pirmoji archyvo krypčių matrica tapo ankstyvu BVK dokumentavimo įrankiu.
 
-Ji padėjo formuoti archyvą ne kaip straipsnių sąrašą, o kaip tarpusavyje susijusių sričių sistemą.
+Ji padėjo formuoti archyvą ne kaip straipsnių sąrašą, o kaip būsimos sistemos dokumentinių sričių karkasą.
