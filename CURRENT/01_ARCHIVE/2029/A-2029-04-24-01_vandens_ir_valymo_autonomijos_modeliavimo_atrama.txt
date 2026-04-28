@@ -1,0 +1,257 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2029-04-24
+Dabartinė redakcija: 2029-04-24
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2029-04-24-01
+
+Pavadinimas:
+Vandens tiekimo ir valymo autonomijos modeliavimo atrama
+
+# A-2029-04-24-01
+# Vandens tiekimo ir valymo autonomijos modeliavimo atrama
+
+Data: 2029 m. balandžio 24 d.
+
+## Įvykis
+
+Po energijos autonomijos modelio peržiūros atliktas pirmasis detalus vandens poreikio ir vandens valymo sistemos modeliavimas. Nustatyta, kad vandens tiekimas yra antra kritinė infrastruktūros grandis po energijos.
+
+Šis dokumentas nustato bazinį vandens poreikį, saugojimo rezervą ir minimalias valymo galimybes 50 žmonių modeliui.
+
+## Skaičiavimo tikslas
+
+Nustatyti:
+
+- kiek vandens reikia vienam žmogui per dieną;
+- kiek vandens reikia bendroms funkcijoms;
+- kiek vandens reikia maisto ruošimui;
+- kokio dydžio rezervas būtinas;
+- kokio našumo turi būti vandens siurbimo sistema;
+- kokia valymo grandinė būtina saugiam veikimui.
+
+## Bazinis vandens poreikis vienam žmogui
+
+Darbinės prielaidos:
+
+| Veikla | Vandens kiekis |
+|---|---:|
+| Gėrimas | 3 l |
+| Maisto ruošimas | 5 l |
+| Higiena | 25 l |
+| Indų plovimas | 7 l |
+| Drabužių plovimas (vidutinis paskirstymas) | 10 l |
+
+Bendra vieno žmogaus dienos norma:
+
+3 + 5 + 25 + 7 + 10 = 50 litrų
+
+Taigi:
+
+50 litrų vienam žmogui per dieną.
+
+## Bendras vandens poreikis 50 žmonių modeliui
+
+50 žmonių × 50 litrų = 2500 litrų
+
+Tai yra:
+
+2,5 m³ per dieną.
+
+## Papildomas bendras poreikis
+
+Be individualaus vartojimo reikalingas vanduo bendroms funkcijoms:
+
+| Funkcija | Vandens kiekis |
+|---|---:|
+| Paviršių plovimas | 200 l |
+| Techninis plovimas | 150 l |
+| Maisto ruošimo vietos plovimas | 180 l |
+| Atsarginis rezervas smulkiems darbams | 120 l |
+
+Bendra papildoma dalis:
+
+200 + 150 + 180 + 120 = 650 litrų
+
+## Galutinis dienos vandens poreikis
+
+2500 + 650 = 3150 litrų
+
+Tai yra:
+
+3,15 m³ per dieną.
+
+Apvalinama darbo modeliui:
+
+3,2 m³ per dieną.
+
+## Kritinis minimalus vandens poreikis
+
+Sutrikimų metu galima sumažinti vartojimą iki minimalaus lygio.
+
+Minimalios prielaidos:
+
+| Funkcija | Vandens kiekis |
+|---|---:|
+| Gėrimas | 3 l |
+| Maisto ruošimas | 3 l |
+| Minimalus higienos kiekis | 12 l |
+
+Vienam žmogui:
+
+3 + 3 + 12 = 18 litrų
+
+50 žmonių × 18 litrų = 900 litrų
+
+Papildomos bendros funkcijos kritiniu režimu:
+
+300 litrų
+
+Iš viso kritinis poreikis:
+
+900 + 300 = 1200 litrų
+
+Tai yra:
+
+1,2 m³ per dieną.
+
+## Vandens rezervas autonomijai
+
+Minimalus rezervas nustatomas 3 dienoms.
+
+Pilnas režimas:
+
+3,2 m³ × 3 = 9,6 m³
+
+Apvalinama:
+
+10 m³ rezervas.
+
+Kritinis režimas:
+
+1,2 m³ × 3 = 3,6 m³
+
+Apvalinama:
+
+4 m³ rezervas kritiniam veikimui.
+
+## Vandens šaltinio modelis
+
+Pirmine kryptimi laikomas gręžinys.
+
+Darbinė prielaida:
+
+Vieno gręžinio našumas:
+
+2 m³ per valandą.
+
+Norint padengti dienos poreikį:
+
+3,2 m³ / 2 m³ = 1,6 valandos darbo per dieną.
+
+Apvalinama:
+
+2 valandos siurbimo per dieną.
+
+## Siurblio galios prielaida
+
+Vidutinė siurblio galia:
+
+1,0 kW
+
+2 valandos darbo:
+
+1,0 kW × 2 h = 2 kWh per dieną.
+
+Šis skaičius turi būti įtrauktas į bendrą energijos modelį.
+
+## Vandens saugojimo sistema
+
+Minimalios saugyklos komponentai:
+
+- pagrindinė talpa: 10 m³;
+- kritinė talpa: 4 m³;
+- techninė paskirstymo talpa;
+- slėgio palaikymo sistema.
+
+Talpos turi būti išdėstytos taip, kad:
+
+- galėtų veikti gravitacijos principu;
+- sumažintų siurblio apkrovą;
+- išlaikytų veikimą elektros sutrikimų metu.
+
+## Nuotekų valymo poreikis
+
+Visas panaudotas vanduo tampa nuotekomis.
+
+Todėl būtina numatyti:
+
+nuotekų surinkimą ir valymą.
+
+Darbinė prielaida:
+
+80 % vandens tampa nuotekomis.
+
+3,2 m³ × 0,8 = 2,56 m³ per dieną.
+
+Apvalinama:
+
+2,6 m³ nuotekų per dieną.
+
+## Pirminis valymo modelis
+
+Minimalus valymo modelis susideda iš:
+
+1. pirminio nusodinimo;
+2. biologinio valymo;
+3. filtravimo;
+4. išleidimo arba pakartotinio panaudojimo.
+
+## Pakartotinio naudojimo kryptis
+
+Išvalytas vanduo gali būti naudojamas:
+
+- techniniam plovimui;
+- želdinių laistymui;
+- paviršių valymui;
+- rezervinėms reikmėms.
+
+Tai sumažina bendrą vandens poreikį iš gręžinio.
+
+## Vandens autonomijos tikslas
+
+Pirmasis tikslas:
+
+užtikrinti 3 dienų pilną rezervą.
+
+Antrasis tikslas:
+
+užtikrinti kritinį režimą be išorinių tiekimų.
+
+Trečiasis tikslas:
+
+įdiegti pakartotinio vandens naudojimą.
+
+## Ryšys su miesto mastu
+
+Šis modelis laikomas pradiniu vieneto modeliu.
+
+Plečiant iki kvartalo ar miesto, vandens sistema turi būti sudaryta iš kelių nepriklausomų segmentų.
+
+Tai sumažina vieno gedimo poveikį visai sistemai.
+
+## Išvada
+
+Vandens tiekimo ir valymo autonomijos modelis parodė, kad vandens rezervas yra tokia pati kritinė infrastruktūra kaip ir energija.
+
+Be stabilaus vandens tiekimo negali veikti nei maisto sistema, nei higiena, nei bazinė gyvenimo struktūra.
+
+Nuo šio momento vanduo laikomas antra pagrindine BVK miesto autonomijos kryptimi po energijos.
