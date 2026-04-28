@@ -1,0 +1,70 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-07-24
+Dabartinė redakcija: 2028-07-24
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-07-24-01
+
+Pavadinimas:
+Pirmosios sistemos atsparumo bandymo atrama
+
+# A-2028-07-24-01
+# Pirmosios sistemos atsparumo bandymo atrama
+
+Data: 2028 m. liepos 24 d.
+
+## Įvykis
+
+Atliktas pirmasis paprastas BVK modelio atsparumo bandymas.
+
+Po rezervų normų įvedimo reikėjo patikrinti, ar modelis gali veikti ne tik optimaliomis sąlygomis, bet ir esant sutrikimams.
+
+## Bandymo sąlygos
+
+Pirmajam bandymui pasirinkti trys sutrikimai:
+
+- žaliavų pristatymas vėluoja vieną dieną;
+- darbo pajėgumas sumažėja 20 procentų;
+- broko arba nuostolio dalis padidėja iki 10 procentų.
+
+## Tikrinami rodikliai
+
+Bandymo metu vertinta:
+
+- ar pakanka žaliavų rezervo;
+- ar galima išlaikyti minimalų produktų kiekį;
+- ar darbo laikas neperžengia saugios ribos;
+- ar transporto langas išlieka pakankamas;
+- ar bendras rezervas nėra sunaudojamas per greitai.
+
+## Pirmasis pastebėjimas
+
+Modelis galėjo atlaikyti vieną sutrikimą, bet keli sutrikimai vienu metu greitai mažino atsparumą.
+
+Ypač silpna vieta pasirodė darbo pajėgumo sumažėjimas kartu su padidėjusiu broku.
+
+## Reikšmė
+
+Šis bandymas parodė, kad rezervai turi būti skaičiuojami ne atskirai, o kartu su sutrikimų deriniais.
+
+Sistema, kuri išgyvena vieną problemą, dar nebūtinai išgyvena kelias problemas vienu metu.
+
+## Darbo principas
+
+Kiekvienas būsimas modelis turi būti tikrinamas bent pagal vieną nepalankų scenarijų.
+
+Modelis be atsparumo bandymo laikomas nepakankamai patikrintu.
+
+## Išvada
+
+Pirmasis atsparumo bandymas pavertė BVK skaičiavimą realesniu.
+
+Nuo šio momento modelis pradėjo būti vertinamas ne tik pagal planinį veikimą, bet ir pagal gebėjimą išlikti sutrikimų metu.
