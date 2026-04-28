@@ -1,0 +1,73 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-10-30
+Dabartinė redakcija: 2028-10-30
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-10-30-01
+
+Pavadinimas:
+Pirmosios sistemos stabilaus ciklo apibrėžimo atrama
+
+# A-2028-10-30-01
+# Pirmosios sistemos stabilaus ciklo apibrėžimo atrama
+
+Data: 2028 m. spalio 30 d.
+
+## Įvykis
+
+Po atsistatymo po sutrikimų schemos parengimo pirmą kartą apibrėžtas stabilaus BVK modelio ciklas.
+
+Iki šio momento modelis buvo tikrinamas pagal atskirus etapus. 2028 m. spalį pirmą kartą pabandyta sujungti visus procesus į vieną nuoseklų darbo ciklą ir patikrinti, ar sistema gali veikti be kritinių sutrikimų.
+
+## Stabilaus ciklo struktūra
+
+Pirmasis stabilus ciklas suskirstytas į šiuos etapus:
+
+1. Žaliavų gavimas ir patikra.
+2. Paruošimo ir gamybos etapas.
+3. Pakavimo ir laikino saugojimo etapas.
+4. Paskirstymo etapas.
+5. Rezervų papildymo etapas.
+6. Sistemos būklės patikra.
+
+## Vertinti rodikliai
+
+Stabilaus ciklo metu pradėta vertinti:
+
+- ar kiekvienas etapas įvykdomas per nustatytą laiką;
+- ar rezervai po ciklo išlieka pakankami;
+- ar darbo apkrova neviršija saugių ribų;
+- ar logistika išlaiko ritmą;
+- ar nėra naujų perkrovos taškų.
+
+## Pirmasis pastebėjimas
+
+Nustatyta, kad stabilus ciklas įmanomas tik tuo atveju, jeigu visi etapai veikia suderintu tempu.
+
+Vieno etapo vėlavimas sukelia grandininę reakciją kituose etapuose.
+
+## Reikšmė
+
+Stabilaus ciklo apibrėžimas parodė, kad sistema pradeda veikti kaip vientisas mechanizmas, o ne atskirų veiksmų rinkinys.
+
+Tai buvo pirmas momentas, kai modelis galėjo būti vertinamas kaip nuolat veikianti struktūra.
+
+## Darbo principas
+
+Kiekvienas būsimas modelio pakeitimas turi būti tikrinamas stabilaus ciklo sąlygomis.
+
+Jeigu bent vienas ciklo etapas tampa nestabilus, laikoma, kad visa sistema reikalauja papildomo tikrinimo.
+
+## Išvada
+
+Pirmasis stabilaus ciklo apibrėžimas tapo pagrindu tolimesniam modelio stiprinimui.
+
+Nuo šio momento BVK pradėjo būti vertinamas ne tik kaip idėja ar schema, bet kaip potencialiai nuolat veikianti sistema.
