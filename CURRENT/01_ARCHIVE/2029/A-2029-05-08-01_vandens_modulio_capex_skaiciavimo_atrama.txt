@@ -1,0 +1,218 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2029-05-08
+Dabartinė redakcija: 2029-05-08
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2029-05-08-01
+
+Pavadinimas:
+Vandens modulio CAPEX skaičiavimo atrama
+
+# A-2029-05-08-01
+# Vandens modulio CAPEX skaičiavimo atrama
+
+Data: 2029 m. gegužės 8 d.
+
+## Įvykis
+
+Po vandens modulio segmentavimo ir debito korekcijos pirmą kartą atliktas preliminarus vandens modulio sukūrimo CAPEX skaičiavimas.
+
+Ankstesni dokumentai vertino vandens poreikį, debitą, rezervą ir segmentavimą. Šis dokumentas pirmą kartą įtraukia kapitalines išlaidas: kiek kainuotų sukurti bazinį vandens tiekimo mazgą 50 žmonių modeliui.
+
+## Skaičiavimo tikslas
+
+Tikslas nėra parengti techninį projektą.
+
+Tikslas yra nustatyti darbo dydžių eilę:
+
+- kiek kainuoja pagrindinis vandens šaltinis;
+- kiek kainuoja rezervinis vandens kelias;
+- kiek kainuoja siurblys, automatika ir analizės;
+- kiek kainuoja talpos;
+- kiek reikia skirti nenumatytoms išlaidoms;
+- kokio dydžio investicijos reikia, kad vandens modulis nebūtų tik teorinis.
+
+## Bazinis 50 žmonių modulis
+
+Darbinės prielaidos:
+
+- žmonių skaičius: 50;
+- pilnas vandens poreikis: 3,2 m³ per dieną;
+- kritinis vandens poreikis: 1,2 m³ per dieną;
+- pilnas 3 dienų rezervas: 10 m³;
+- kritinis 3 dienų rezervas: 4 m³;
+- reikalingi ne mažiau kaip du vandens tiekimo keliai;
+- pagrindinis šaltinis: gręžinys;
+- rezervinis kelias: antras mažesnis šaltinis, rezervinė talpa arba alternatyvus kritinio tiekimo sprendimas.
+
+## Darbinės kainų prielaidos
+
+Kadangi reali kaina priklauso nuo vietos, gylio, geologijos, leidimų, įrangos ir montavimo, naudojami trys darbiniai scenarijai.
+
+Bazinė prielaida skaičiavimui:
+
+- gręžinio kaina: 35 Eur už metrą;
+- pagrindinio siurblio ir automatikos paketas: 2200 Eur;
+- vandens tyrimai ir dokumentavimas: 400 Eur;
+- montavimo, prijungimo ir smulkių darbų rezervas: 15 procentų.
+
+Šie skaičiai laikomi darbo prielaidomis, ne tiekėjo pasiūlymu.
+
+## Vieno pagrindinio gręžinio scenarijai
+
+| Scenarijus | Gylis | Gręžimas | Įranga | Tyrimai / dokumentai | Tarpinė suma |
+|---|---:|---:|---:|---:|---:|
+| Seklesnis | 40 m | 1400 Eur | 1700 Eur | 300 Eur | 3400 Eur |
+| Vidutinis | 70 m | 2450 Eur | 2200 Eur | 400 Eur | 5050 Eur |
+| Gilesnis | 100 m | 3500 Eur | 2800 Eur | 600 Eur | 6900 Eur |
+
+## 15 procentų montavimo ir nenumatytų išlaidų rezervas
+
+| Scenarijus | Tarpinė suma | 15 % rezervas | Galutinė prielaida |
+|---|---:|---:|---:|
+| Seklesnis | 3400 Eur | 510 Eur | 3910 Eur |
+| Vidutinis | 5050 Eur | 758 Eur | 5808 Eur |
+| Gilesnis | 6900 Eur | 1035 Eur | 7935 Eur |
+
+Apvalintos vieno pagrindinio vandens šaltinio ribos:
+
+- seklesnis scenarijus: apie 4000 Eur;
+- vidutinis scenarijus: apie 5800 Eur;
+- gilesnis scenarijus: apie 8000 Eur.
+
+## Kodėl vieno šaltinio nepakanka
+
+50 žmonių modelyje vienas geras gręžinys gali padengti vandens kiekį.
+
+Tačiau autonomijos požiūriu vienas šaltinis yra vienas gedimo taškas.
+
+Todėl vandens modulis turi turėti ne tik pagrindinį šaltinį, bet ir rezervinį tiekimo kelią.
+
+## Rezervinio kelio scenarijai
+
+Galimi rezervinio kelio variantai:
+
+1. antras mažesnis gręžinys;
+2. atskira rezervinė vandens talpa;
+3. techninio vandens šaltinis kritinėms reikmėms;
+4. atvežtinio vandens kritinis protokolas;
+5. jungtis su kitu vandens moduliu.
+
+Pirmam modeliui skaičiuojamos dvi versijos:
+
+- minimali: pagrindinis gręžinys + talpos;
+- patikimesnė: pagrindinis gręžinys + rezervinis gręžinys + talpos.
+
+## Talpų CAPEX prielaida
+
+Reikalingos talpos:
+
+- 10 m³ pagrindinis rezervas;
+- 4 m³ kritinis rezervas;
+- techninė paskirstymo talpa.
+
+Darbinė prielaida:
+
+| Elementas | Kaina |
+|---|---:|
+| 10 m³ talpa | 1800 Eur |
+| 4 m³ talpa | 900 Eur |
+| vamzdynai, armatūra, davikliai | 900 Eur |
+| montavimo rezervas | 600 Eur |
+
+Talpų ir paskirstymo dalis:
+
+1800 + 900 + 900 + 600 = 4200 Eur
+
+## Minimalus vandens modulis
+
+Minimalus modulis:
+
+- vienas pagrindinis gręžinys;
+- siurblys ir automatika;
+- vandens tyrimai;
+- 10 m³ pagrindinė talpa;
+- 4 m³ kritinė talpa;
+- bazinis paskirstymas;
+- 15 % darbų rezervas.
+
+| Scenarijus | Pagrindinis šaltinis | Talpos ir paskirstymas | Bendra suma |
+|---|---:|---:|---:|
+| Seklesnis | 3910 Eur | 4200 Eur | 8110 Eur |
+| Vidutinis | 5808 Eur | 4200 Eur | 10008 Eur |
+| Gilesnis | 7935 Eur | 4200 Eur | 12135 Eur |
+
+Apvalinta minimalaus modulio riba:
+
+8000–12500 Eur.
+
+## Patikimesnis vandens modulis
+
+Patikimesnis modulis:
+
+- pagrindinis gręžinys;
+- rezervinis mažesnis šaltinis;
+- siurbliai;
+- automatika;
+- talpos;
+- vandens tyrimai;
+- bazinis paskirstymas;
+- rezervas nenumatytiems darbams.
+
+Rezervinio šaltinio darbinė prielaida:
+
+- mažesnis arba paprastesnis šaltinis: 3500–6000 Eur.
+
+| Scenarijus | Minimalus modulis | Rezervinis šaltinis | Bendra suma |
+|---|---:|---:|---:|
+| Žemesnė riba | 8110 Eur | 3500 Eur | 11610 Eur |
+| Vidutinė riba | 10008 Eur | 5000 Eur | 15008 Eur |
+| Aukštesnė riba | 12135 Eur | 6000 Eur | 18135 Eur |
+
+Apvalinta patikimesnio modulio riba:
+
+12000–18500 Eur.
+
+## Energijos ryšys
+
+Vandens modulis negali būti skaičiuojamas be energijos.
+
+Siurblys turi turėti:
+
+- pagrindinį maitinimą;
+- kritinį maitinimą;
+- galimybę veikti pagal grafiką;
+- talpą, kuri trumpam sumažina priklausomybę nuo elektros.
+
+Todėl vandens modulio CAPEX turi būti siejamas su energijos autonomijos CAPEX.
+
+## Pirmasis CAPEX sprendimas
+
+Nuo šio dokumento BVK vandens modulis skaičiuojamas ne kaip vienas gręžinys, o kaip infrastruktūros paketas.
+
+Bazinis paketas:
+
+- šaltinis;
+- siurblys;
+- automatika;
+- analizės;
+- rezervas;
+- talpos;
+- paskirstymas;
+- kritinis veikimas.
+
+## Išvada
+
+Pirmasis vandens modulio CAPEX skaičiavimas parodė, kad 50 žmonių vandens autonomijos mazgas nėra mažas techninis priedas.
+
+Minimalus darbo dydis prasideda apie 8000–12500 Eur, o patikimesnis modulis gali siekti apie 12000–18500 Eur.
+
+Nuo šio momento vandens autonomija BVK modelyje vertinama kaip kapitalinė infrastruktūros investicija, o ne kaip paprasta skaitinė vandens poreikio eilutė.
