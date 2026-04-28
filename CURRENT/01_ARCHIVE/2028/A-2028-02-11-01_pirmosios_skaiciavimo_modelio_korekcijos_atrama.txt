@@ -1,0 +1,66 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-02-11
+Dabartinė redakcija: 2028-02-11
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-02-11-01
+
+Pavadinimas:
+Pirmosios skaičiavimo modelio korekcijos atrama
+
+# A-2028-02-11-01
+# Pirmosios skaičiavimo modelio korekcijos atrama
+
+Data: 2028 m. vasario 11 d.
+
+## Įvykis
+
+Atlikta pirmoji BVK skaičiavimo modelio korekcija.
+
+Pirminėje lentelėje buvo per mažai atskirti maisto žaliavų kiekiai, darbo laikas ir pakuotės sąnaudos. Tai sukūrė klaidingą įspūdį, kad vien produkto savikaina gali būti vertinama be viso paruošimo ciklo.
+
+## Nustatyta problema
+
+Pirmasis skaičiavimo modelis buvo per paprastas:
+
+- žaliavos buvo skaičiuojamos atskirai nuo darbo laiko;
+- pakuotė buvo laikoma papildoma, o ne privaloma sąnaudų dalimi;
+- transportas nebuvo pakankamai susietas su galutine kaina;
+- bendro rezervo dalis buvo per anksti laikoma likučiu.
+
+## Korekcija
+
+Į modelį įtraukti papildomi laukai:
+
+- paruošimo laikas;
+- pakavimo laikas;
+- pakuotės kaina;
+- minimalios transporto sąnaudos;
+- nuostolio arba broko procentas;
+- rezervas kaip planuojama eilutė, o ne atsitiktinis likutis.
+
+## Reikšmė
+
+Ši korekcija parodė, kad bendras ūkis negali būti skaičiuojamas tik pagal žaliavas.
+
+Reikia matyti visą grandinę: produktą, darbą, pakuotę, transportą, nuostolį ir rezervą.
+
+## Darbo principas
+
+Kiekvienas skaičiavimas turi turėti aiškią prielaidų versiją.
+
+Jeigu keičiasi prielaida, turi keistis ir modelio versija.
+
+## Išvada
+
+Pirmoji skaičiavimo modelio korekcija tapo svarbiu žingsniu nuo paprasto sąrašo prie tikresnės ekonominės grandinės.
+
+Nuo šio momento BVK modelis pradėjo skaičiuoti ne tik produktą, bet ir jo paruošimo sąlygas.
