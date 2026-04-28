@@ -1,0 +1,165 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-06-20
+Dabartinė redakcija: 2028-06-20
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / pirmųjų pagalbos formų sluoksnis / pastabų peržiūros pradžia
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-06-20-01
+
+Tipas:
+pirmųjų pastabų peržiūros tvarkos atramos dokumentas
+
+Pavadinimas:
+Pirmųjų pastabų peržiūros tvarkos atrama
+
+Susijusi publikacija:
+2028 m. birželio 20 d. – Pradėta taikyti pirmoji paprasta skaitytojų pastabų peržiūros tvarka
+
+# A-2028-06-20-01
+# Pirmųjų pastabų peržiūros tvarkos atrama
+
+Data: 2028 m. birželio 20 d.
+Vieta: BVK svetainės viešasis sluoksnis / pagalbos pastabų darbo sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Pradėta taikyti pirmoji paprasta skaitytojų pastabų peržiūros tvarka.
+
+Po puslapio „Kaip galima padėti“ atsirado praktinis klausimas: ką daryti su pastabomis, kurios jau atkeliauja? Jeigu kiekviena pastaba būtų priimama be patikrinimo, kanonas prarastų kryptį. Jeigu pastabos būtų ignoruojamos, projektas prarastų pirmą skaitytojų pasitikėjimą.
+
+Todėl 2028 metų birželį pirmą kartą aprašoma, kaip pastaba pereina nuo skaitytojo signalo iki galimo pataisymo, FAQ papildymo arba GAP-NOTE.
+
+## Kodėl tai svarbu
+
+Pirmieji pagalbininkai dar nėra redaktoriai.
+Pirmieji klausimai dar nėra sprendimai.
+Pirmieji pasiūlymai dar nėra kanono pataisos.
+
+Tačiau jie gali būti naudingi, jeigu projektas turi paprastą filtrą.
+
+Pastabų peržiūros tvarka padeda atskirti:
+
+- klaidą nuo nuomonės;
+- terminų klausimą nuo krypties keitimo;
+- vienkartinę pastabą nuo pasikartojančios spragos;
+- naudingą pagalbą nuo bandymo perimti balsą;
+- skaitytojo nesusipratimą nuo tikro kanono trūkumo.
+
+## Pirmoji peržiūros seka
+
+Pirmame etape pastaba gali keliauti taip:
+
+1. Pastaba gaunama.
+2. Nustatoma jos rūšis.
+3. Patikrinama, ar ji susijusi su PUBLIC sluoksniu.
+4. Patikrinama, ar ji nekeičia kanono prasmės.
+5. Jeigu tai paprasta klaida, tekstas gali būti pataisomas.
+6. Jeigu tai dažnas klausimas, jis perduodamas FAQ.
+7. Jeigu tai rodo spragą, sukuriama arba planuojama GAP-NOTE.
+8. Jeigu tai keičia kryptį, ji atidedama kaip diskusinis klausimas.
+9. Jeigu pastaba netinkama, ji neįtraukiama į kanoną.
+
+Ši seka neturi būti sudėtinga. Ji turi apsaugoti projektą nuo chaoso.
+
+## Pastabų rūšys
+
+### Kalbos pastaba
+
+Klaida, neaiškus sakinys, netikslus lietuviškas terminas arba per sunkus public-facing tekstas.
+
+Galimas veiksmas: pataisyti kalbą arba papildyti kalbos kortelę.
+
+### Nuorodos pastaba
+
+Neveikianti, klaidinga arba neaiški nuoroda tarp bvk.lt, PUBLIC_READ ir GitHub.
+
+Galimas veiksmas: pataisyti nuorodą arba pažymėti, kad dokumento kortelė dar nepilna.
+
+### FAQ pastaba
+
+Klausimas, kuris gali būti svarbus ir kitiems skaitytojams.
+
+Galimas veiksmas: įtraukti į FAQ arba parengti trumpą paaiškinimą.
+
+### Kanono spragos pastaba
+
+Pastaba, kuri parodo, kad tekste minimas dokumentas, sąvoka arba įvykis dar neturi aiškios atramos.
+
+Galimas veiksmas: sukurti GAP-NOTE arba planuoti naują atramos dokumentą.
+
+### Tono pastaba
+
+Signalas, kad tekstas skamba per oficialiai, per sausai, per daug kaip valstybės pranešimas arba per daug žino ateitį.
+
+Galimas veiksmas: patikrinti tekstą pagal naujienų redakcinės drausmės taisyklę.
+
+### Krypties pasiūlymas
+
+Platesnė idėja, kuri gali keisti projektą, jo tikslą, politinį toną arba dalyvavimo formą.
+
+Galimas veiksmas: nepriimti iš karto; laikyti diskusiniu klausimu.
+
+## Ko ši tvarka nesukuria
+
+Ši tvarka nesukuria:
+
+- redakcijos komandos;
+- narių;
+- savanorių registro;
+- balsavimo;
+- išorinio sprendimo teisės;
+- teisės tiesiogiai redaguoti kanoną;
+- pareigos atsakyti į kiekvieną pastabą.
+
+Tai tik pirmas būdas suvaldyti pagalbą.
+
+## Realistinis apribojimas
+
+2028 metais projektas dar mažas. Pastabos gali būti nereguliarios, netikslios, emocingos arba per plačios.
+
+Todėl peržiūros tvarka turi būti lengva. Ji neturi tapti biurokratija. Ji turi veikti kaip filtras, ne kaip institucija.
+
+## Ryšys su romano baze
+
+Vėlesnėje Respublikoje dalyvavimas gali atrodyti natūralus, bet jo pradžioje buvo paprastas klausimas: kaip atskirti naudingą pastabą nuo teisės keisti bendrą pasaulį?
+
+Ši tvarka rodo, kad ateities dalyvavimo kultūra gimsta ne iš balsavimo, o iš peržiūros, atsakomybės ir kantrybės.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2028-03-08-01 — Pirmųjų pagalbos formų atrama;
+- A-2028-04-10-01 — Pagrindinių dalyvavimo principų atrama;
+- A-2028-05-16-01 — Pirmojo „Kaip galima padėti“ puslapio atrama;
+- A-2027-09-06-01 — Pirmųjų komentarų ir klausimų tvarkos atrama;
+- A-2027-10-04-01 — Pirmųjų vertimų ir kalbos kortelių atrama;
+- A-2027-08-14-01 — Pirmosios naujienų redakcinės drausmės atrama.
+
+## Atviri klausimai
+
+- ar reikės atskiro pastabų registro;
+- ar atmestos pastabos turi būti saugomos;
+- ar pagalbininkui reikia atsakyti, kodėl pastaba nepriimta;
+- kada pastaba tampa GAP-NOTE;
+- ar verta viešai rodyti pataisų istoriją;
+- ar pasikartojanti pagalba turi būti laikoma pagalbininko vaidmens pradžia.
+
+## Pirminė išvada
+
+Pirmoji pastabų peržiūros tvarka leidžia BVK projektui priimti pagalbą neprarandant kanono.
+
+Ji saugo paprastą ribą: skaitytojas gali parodyti klaidą, bet kanonas turi patikrinti, ar pataisa tikrai saugo prasmę.
