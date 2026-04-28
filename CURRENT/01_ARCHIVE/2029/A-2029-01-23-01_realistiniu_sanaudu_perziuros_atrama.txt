@@ -1,0 +1,148 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2029-01-23
+Dabartinė redakcija: 2029-01-23
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2029-01-23-01
+
+Pavadinimas:
+Realistinių sąnaudų peržiūros atrama
+
+# A-2029-01-23-01
+# Realistinių sąnaudų peržiūros atrama
+
+Data: 2029 m. sausio 23 d.
+
+## Įvykis
+
+Atlikta pirmoji BVK modelio sąnaudų peržiūra pagal realistiškesnius dydžius.
+
+Po 2028 metų skaičiavimų nustatyta, kad ankstesnis modelis dar per daug rėmėsi supaprastintu produkto savikainos supratimu. Jame buvo matomos žaliavos ir dalis darbo laiko, tačiau per silpnai įtrauktos nuolatinės palaikymo sąnaudos: pakuotė, energija, transportas, įrangos nusidėvėjimas, sandėliavimas, brokas ir rezervas.
+
+Šis dokumentas pirmą kartą atskiria produkto savikainą nuo viso veikimo ciklo sąnaudų.
+
+## Skaičiavimo tikslas
+
+Tikslas nebuvo parengti verslo planą.
+
+Tikslas buvo patikrinti, kiek realiame cikle kainuoja vienas bazinis maisto vienetas, jeigu jis skaičiuojamas ne tik pagal žaliavas, bet ir pagal visą paruošimo, pakavimo, saugojimo ir paskirstymo grandinę.
+
+## Bazinis scenarijus
+
+Peržiūrai pasirinktas 50 žmonių modelis, nes 2028 metų mastelio analizėje jis jau buvo laikomas riba, kur paprastas rankinis bandymas nebeužtenka.
+
+Pirminės prielaidos:
+
+- žmonių skaičius: 50;
+- ciklo trukmė: 1 diena;
+- maisto vienetų kiekis: 50;
+- vienas žmogus gauna vieną bazinį paruošto maisto vienetą;
+- skaičiuojama viena dienos gamybos ir paskirstymo grandinė;
+- kainos yra apytikslės darbo prielaidos, ne rinkos pasiūlymas.
+
+## Sąnaudų lentelė
+
+| Sąnaudų eilutė | Skaičiavimo principas | Dienos prielaida | Pastaba |
+|---|---:|---:|---|
+| Žaliavos | 50 vnt. × 1,60 Eur | 80,00 Eur | pagrindiniai produktai |
+| Pakuotė | 50 vnt. × 0,18 Eur | 9,00 Eur | indeliai, dangteliai, etiketės |
+| Energija | gamyba + šildymas + šaldymas | 8,00 Eur | minimali dienos prielaida |
+| Vanduo ir valymas | paruošimas + plovimas | 4,00 Eur | higienos palaikymas |
+| Darbo laikas | 10 val. × 8,00 Eur | 80,00 Eur | paruošimas, pakavimas, tvarkymas |
+| Transportas | 1 trumpas maršrutas | 12,00 Eur | kuras, laikas, amortizacija |
+| Įrangos nusidėvėjimas | dienos dalis | 6,00 Eur | smulki įranga ir virtuvės apkrova |
+| Sandėliavimas | dienos dalis | 5,00 Eur | laikymas, šaldymas, vieta |
+| Brokas / nuostolis | 5 % nuo tiesioginių sąnaudų | 10,00 Eur | preliminarus nuostolio lygis |
+| Rezervas | 10 % nuo ciklo sąnaudų | 21,40 Eur | saugumo ir plėtros eilutė |
+
+Bendra dienos sąnaudų prielaida:
+
+80,00 + 9,00 + 8,00 + 4,00 + 80,00 + 12,00 + 6,00 + 5,00 + 10,00 + 21,40 = 235,40 Eur
+
+Vieno bazinio maisto vieneto pilna ciklo sąnauda:
+
+235,40 Eur / 50 vnt. = 4,71 Eur
+
+## Palyginimas su supaprastintu modeliu
+
+Supaprastintas modelis būtų rodęs tik žaliavas:
+
+80,00 Eur / 50 vnt. = 1,60 Eur už vienetą
+
+Realistiškesnis ciklo modelis rodo:
+
+235,40 Eur / 50 vnt. = 4,71 Eur už vienetą
+
+Skirtumas:
+
+4,71 Eur - 1,60 Eur = 3,11 Eur
+
+Tai reiškia, kad žaliavos sudaro tik dalį tikrosios sistemos kainos. Likusi dalis atsiranda dėl darbo, pakuotės, energijos, transporto, nuostolių, sandėliavimo ir rezervo.
+
+## Pirmasis ekonominis pastebėjimas
+
+Ankstyvas modelis negali remtis vien žaliavų kaina.
+
+Jeigu būtų skaičiuojama tik pagal žaliavas, sistema atrodytų beveik tris kartus pigesnė, negu yra pagal pilną ciklą.
+
+Tai yra pavojinga prielaida, nes ji gali sukurti klaidingą įspūdį, kad bendras ūkis greitai sukurs didelį rezervą.
+
+## Rezervo problema
+
+Ankstesniuose modeliuose rezervas buvo laikomas tuo, kas lieka po sąnaudų.
+
+Šioje peržiūroje rezervas pirmą kartą įtrauktas kaip planuojama sąnaudų eilutė.
+
+Priežastis:
+
+jeigu rezervas neplanuojamas iš anksto, jis dažniausiai nesusidaro.
+
+Todėl bendras rezervas turi būti skaičiuojamas ne kaip atsitiktinis likutis, o kaip būtina sistemos stabilumo dalis.
+
+## Darbo laiko problema
+
+Darbo laikas pasirodė viena didžiausių sąnaudų eilučių.
+
+Tai reiškia, kad būsimas modelis turi atskirai spręsti:
+
+- kiek darbo turi būti apmokama pinigais;
+- kiek darbo gali būti laikoma vidiniu bendro ūkio darbu;
+- kada savanoriškas darbas iškraipo tikrąją savikainą;
+- kaip skaičiuoti darbą, jeigu projektas vėliau pereitų prie socialinio paketo logikos.
+
+Kol šie klausimai neišspręsti, darbo laikas turi būti skaičiuojamas kaip reali sąnauda.
+
+## Pagrindinis sprendimas
+
+Nuo šio dokumento BVK skaičiavimuose įvedamas principas:
+
+jeigu sąnauda kartojasi kiekviename cikle, ji negali būti laikoma papildoma.
+
+Ji turi būti bazinė.
+
+Baziniuose skaičiavimuose privaloma matyti bent šias eilutes:
+
+- žaliavos;
+- pakuotė;
+- energija;
+- vanduo ir valymas;
+- darbo laikas;
+- transportas;
+- įrangos nusidėvėjimas;
+- sandėliavimas;
+- brokas / nuostolis;
+- rezervas.
+
+## Išvada
+
+Pirmoji realistinių sąnaudų peržiūra sumažino ankstyvą modelio optimizmą ir parodė, kad bendro ūkio idėja turi būti tikrinama pagal pilną veikimo ciklą.
+
+Nuo šio momento BVK modelis pradėtas vertinti ne pagal klausimą, kiek kainuoja produktas, o pagal klausimą, kiek kainuoja visa sistema, kuri leidžia produktui atsirasti, būti supakuotam, išsaugotam, paskirstytam ir pakartotam kitą dieną.
