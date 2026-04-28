@@ -1,0 +1,140 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-12-18
+Dabartinė redakcija: 2028-12-18
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / pirmųjų pagalbos formų sluoksnis / metų apibendrinimo pradžia
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-12-18-01
+
+Tipas:
+metų apibendrinimo atramos dokumentas
+
+Pavadinimas:
+Pirmojo 2028 metų apibendrinimo atrama
+
+Susijusi publikacija:
+2028 m. gruodžio 18 d. – Parengtas pirmasis atsargus 2028 metų BVK pagalbos ir dalyvavimo klausimų apibendrinimas
+
+# A-2028-12-18-01
+# Pirmojo 2028 metų apibendrinimo atrama
+
+Data: 2028 m. gruodžio 18 d.
+Vieta: BVK svetainės viešasis sluoksnis / metų pabaigos darbo sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Parengtas pirmasis atsargus 2028 metų BVK pagalbos ir dalyvavimo klausimų apibendrinimas.
+
+2028 metais projektas dar netapo organizacija, tačiau per metus atsirado aiškesnė kalba apie pagalbą, pastabas, spragas, pataisas ir atsargų dalyvavimo supratimą.
+
+Metų apibendrinimas reikalingas ne tam, kad būtų paskelbta sėkmė, o tam, kad būtų ramiai užfiksuota, kas per metus iš tikrųjų pasikeitė.
+
+## Kas pasikeitė per 2028 metus
+
+Per metus buvo aiškiau atskirta:
+
+- skaitytojas;
+- klausėjas;
+- pastabų teikėjas;
+- pagalbininkas;
+- būsimas dalyvis.
+
+Buvo aprašytos pirmos pagalbos formos:
+
+- kalbos pataisos;
+- nuorodų tikrinimas;
+- FAQ klausimai;
+- dokumentų kortelių pastabos;
+- tono pastabos;
+- kanono spragų signalai.
+
+Buvo pradėta:
+
+- aiškinti, kaip galima padėti;
+- peržiūrėti pastabas;
+- fiksuoti GAP-NOTE;
+- žymėti pataisas ir versijas;
+- atsargiai pripažinti pagalbą;
+- stebėti pasikartojančią pagalbą.
+
+## Ko dar neatsirado
+
+2028 metais dar neatsirado:
+
+- organizacijos;
+- narių;
+- savanorių komandos;
+- redakcinės tarybos;
+- atstovavimo;
+- balsavimo;
+- juridinės struktūros;
+- kooperatyvo;
+- politinės formos.
+
+Tai svarbu kartoti, nes pagalbos augimas gali lengvai sukurti didesnio masto įspūdį, negu realiai yra.
+
+## Pagrindinė metų išvada
+
+2028 metai parodė, kad žmogus gali būti naudingas projektui ir be statuso.
+
+Tai nedidelis, bet svarbus žingsnis. Projektas pradėjo mokytis priimti pagalbą taip, kad ji negriautų kanono ir nesukurtų netikros organizacijos.
+
+## Realistinis apribojimas
+
+Metų apibendrinimas neturi skambėti kaip didelės bendruomenės ataskaita.
+
+Jeigu pagalba buvo maža, ji turi būti vadinama maža.
+Jeigu klausimų buvo nedaug, nereikia rašyti taip, lyg susiformavo platus dalyvių ratas.
+
+Ankstyvo projekto tikrumas yra svarbesnis už gražų mastą.
+
+## Ryšys su romano baze
+
+Vėlesniame pasaulyje dalyvavimo kultūra gali būti labai išplėtota. Tačiau jos pradžioje buvo kuklus 2028 metų darbas: atskirti dėmesį nuo atsakomybės, pagalbą nuo narystės, pataisą nuo sprendimo.
+
+Tai leidžia būsimam romanui turėti patikimą socialinį pamatą: didelė sistema auga iš mažų, aiškiai pažymėtų ribų.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2028-01-18-01 — Pirmojo dalyvavimo klausimo atrama;
+- A-2028-02-12-01 — Skaitytojo, klausėjo ir pagalbininko ribos atrama;
+- A-2028-03-08-01 — Pirmųjų pagalbos formų atrama;
+- A-2028-04-10-01 — Pagrindinių dalyvavimo principų atrama;
+- A-2028-05-16-01 — Pirmojo „Kaip galima padėti“ puslapio atrama;
+- A-2028-06-20-01 — Pirmųjų pastabų peržiūros tvarkos atrama;
+- A-2028-07-18-01 — Pirmųjų GAP-NOTE įrašų atrama;
+- A-2028-08-22-01 — Pirmojo pataisų ir versijų žymėjimo atrama;
+- A-2028-09-19-01 — Pirmojo pagalbos pripažinimo principo atrama;
+- A-2028-10-17-01 — Pirmosios gautos pagalbos apžvalgos atrama;
+- A-2028-11-21-01 — Pirmosios pasikartojančios pagalbos stebėjimo atrama.
+
+## Atviri klausimai
+
+- ar 2029 metais reikės aiškiau aprašyti pagalbininko vaidmenį;
+- ar pasikartojanti pagalba turi turėti atskirą vidinį registrą;
+- ar reikia viešo puslapio su dažniausiai pasikartojančiais kanono klausimais;
+- ar 2029 metais galima pradėti kalbėti apie pirmą mažą pagalbos ratą;
+- kaip išlaikyti ribą tarp augančio susidomėjimo ir organizacijos imitacijos.
+
+## Pirminė išvada
+
+2028 metų apibendrinimas rodo, kad BVK projektas pradėjo pereiti nuo vienpusio publikavimo prie atsargaus ryšio su skaitytojais.
+
+Tai dar nėra bendruomenė.
+Tai dar nėra organizacija.
+Tai pirmas lėtas pasitikėjimo sluoksnis.
