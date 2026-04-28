@@ -1,0 +1,57 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2027-09-18
+Dabartinė redakcija: 2027-09-18
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-09-18-02
+
+Pavadinimas:
+Pirmosios dokumentų versijų kontrolės atrama
+
+# A-2027-09-18-02
+# Pirmosios dokumentų versijų kontrolės atrama
+
+Data: 2027 m. rugsėjo 18 d.
+
+## Įvykis
+
+Įvesta pirmoji paprasta BVK dokumentų versijų kontrolės taisyklė.
+
+Iki šio momento dalis dokumentų buvo tikslinama per GitHub istoriją, tačiau ne visi pakeitimai turėjo aiškų redakcijos principą. 2027 m. rugsėjį pirmą kartą nustatyta, kad svarbesni dokumentai turi turėti versiją, redakcijos datą ir aiškų pakeitimų pėdsaką.
+
+## Pirmasis principas
+
+Dokumento versija turi parodyti, ar pakeitimas yra smulkus, ar reikšminis.
+
+Pirminis modelis:
+
+- v1.0 — pirmoji priimta versija;
+- v1.1 — smulkus papildymas arba aiškumo pataisa;
+- v1.2 — keli nedideli papildymai;
+- v2.0 — reikšminė struktūros, statuso arba prasmės peržiūra.
+
+## Reikšmė
+
+Versijų kontrolė reikalinga tam, kad archyvas nebūtų tyliai perrašomas.
+
+Jeigu dokumentas keičiamas, turi likti matoma, kad jis keitėsi. GitHub History saugo techninį pėdsaką, o dokumento šapka saugo kanoninį redakcijos pėdsaką.
+
+## Darbo principas
+
+Svarbūs dokumentai negali būti keičiami taip, lyg jie visada buvo tokie patys.
+
+Jeigu keičiasi data, statusas, prieigos lygis, dokumento funkcija arba ryšys su kitu dokumentu, tai turi atsispindėti versijoje arba redakcijos pastaboje.
+
+## Išvada
+
+Pirmoji dokumentų versijų kontrolė pavertė BVK archyvą ne tik failų rinkiniu, bet ir redakcijų istoriją turinčia sistema.
+
+Tai tapo būtinu pagrindu vėlesniam depozitoriumui, PUBLIC_READ sluoksniui ir ateities dokumentų patikimumui.
