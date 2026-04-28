@@ -1,0 +1,43 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2029-06-17
+Dabartinė redakcija: 2029-06-17
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+
+Dokumento kodas:
+A-2029-06-17-01
+
+Tipas:
+pasitikėjimo tarp žmonių atramos dokumentas
+
+Pavadinimas:
+Pirmojo atsargaus pasitikėjimo tarp žmonių ženklas
+
+# A-2029-06-17-01
+# Pirmojo atsargaus pasitikėjimo tarp žmonių ženklas
+
+Data: 2029 m. birželio 17 d.
+
+## Įvykis
+
+Pastebėta, kad keli stabilaus rato žmonės pradeda atsargiau remtis vieni kitų pastabomis, laikydami jas patikimomis be papildomo tikrinimo kiekvieną kartą.
+
+Tai nėra aklas pasitikėjimas.
+Tai nėra autoritetų kūrimas.
+Tačiau tai pirmas momentas, kai atsiranda tarpusavio pasitikėjimo užuomazga.
+
+## Pagrindinė mintis
+
+Pasitikėjimas atsiranda lėtai, kai veiksmų nuoseklumas kartojasi per laiką.
+
+Kai vieno žmogaus pastaba nebeskamba kaip atsitiktinis balsas, o kaip patikrintas signalas, atsiranda pirmas tikras socialinis pagrindas.
+
+## Pirminė išvada
+
+Pirmasis atsargus pasitikėjimas tarp žmonių yra vienas svarbiausių ankstyvosios sistemos momentų.
+
+Nuo šio taško projektas pradeda turėti ne tik tekstinę struktūrą, bet ir pirmuosius socialinius ryšius, kurie gali išlikti ilgam.
