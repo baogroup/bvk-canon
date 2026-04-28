@@ -1,0 +1,57 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-05-21
+Dabartinė redakcija: 2028-05-21
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-05-21-01
+
+Pavadinimas:
+Pirmosios perkrovos taškų identifikavimo atrama
+
+# A-2028-05-21-01
+# Pirmosios perkrovos taškų identifikavimo atrama
+
+Data: 2028 m. gegužės 21 d.
+
+## Įvykis
+
+Pirmą kartą BVK modelyje identifikuoti galimi perkrovos taškai.
+
+Po mastelio ir logistinės grandinės palyginimo paaiškėjo, kad modelis gali strigti ne dėl pačios idėjos, o dėl kelių praktinių vietų: paruošimo laiko, pakuotės, transporto ir atsargų saugojimo.
+
+## Nustatyti perkrovos taškai
+
+Pirminiai rizikos taškai:
+
+- per mažas paruošimo vietos pajėgumas;
+- per ilgas pakavimo laikas;
+- ribota sandėliavimo talpa;
+- per mažas transporto langas;
+- per mažas atsargų rezervas;
+- per daug rankinio darbo vienoje grandinės vietoje.
+
+## Reikšmė
+
+Perkrovos taškų nustatymas parodė, kad modelio stabilumą riboja ne tik finansai.
+
+Kartais vienas silpnas procesas gali sustabdyti visą grandinę, net jeigu produktas, žmonės ir žaliavos yra suplanuoti teisingai.
+
+## Darbo principas
+
+Kiekviena būsima modelio versija turi turėti perkrovos taškų patikrą.
+
+Jeigu modelyje nėra aišku, kur jis gali strigti, modelis laikomas nepakankamai patikrintu.
+
+## Išvada
+
+Pirmasis perkrovos taškų sąrašas pavertė BVK skaičiavimą realesniu.
+
+Nuo šio momento modelis pradėjo vertinti ne tik kiek reikia, bet ir kur sistema gali neatlaikyti.
