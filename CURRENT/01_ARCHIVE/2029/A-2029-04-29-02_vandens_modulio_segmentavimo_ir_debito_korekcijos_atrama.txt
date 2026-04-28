@@ -1,0 +1,192 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2029-04-29
+Dabartinė redakcija: 2029-04-29
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2029-04-29-02
+
+Pavadinimas:
+Vandens modulio segmentavimo ir debito korekcijos atrama
+
+# A-2029-04-29-02
+# Vandens modulio segmentavimo ir debito korekcijos atrama
+
+Data: 2029 m. balandžio 29 d.
+
+## Įvykis
+
+Po pirmojo vandens tiekimo ir valymo autonomijos modelio atlikta papildoma vandens šaltinio debito korekcija.
+
+Ankstesnėje schemoje 2 m³/val. gręžinio našumas buvo naudotas kaip darbinė prielaida. Korekcijos metu nustatyta, kad toks dydis negali būti laikomas universaliu. Vandens šaltinio našumas turi būti vertinamas pagal gręžinio tipą, vandeningo sluoksnio pajėgumą, konstrukciją, siurblį ir vietos sąlygas.
+
+## Debito diapazonai
+
+Darbinei modeliavimo lentelei įvesti keli debito lygiai:
+
+| Šaltinio tipas | Apytikslis debitas |
+|---|---:|
+| Seklus arba silpnas šaltinis | 0,5–1,0 m³/val. |
+| Smėlio gręžinys | 0,8–2,5 m³/val. |
+| Vidutinis buitinis gręžinys | 1,5–3,0 m³/val. |
+| Artesinis gręžinys | 3,0–10,0+ m³/val. |
+| Pramoninis šaltinis | daugiau nei 10 m³/val. |
+
+Šie skaičiai nėra techninis projektas. Jie naudojami kaip darbo diapazonai, kad modelis nebūtų paremtas vienu atsitiktiniu skaičiumi.
+
+## 50 žmonių modelio perskaičiavimas
+
+Ankstesnis dienos poreikis:
+
+3,2 m³ per dieną.
+
+Jeigu šaltinis duoda 1 m³/val.:
+
+3,2 m³ / 1 m³/val. = 3,2 val.
+
+Darbinis apvalinimas:
+
+4 valandos siurbimo per dieną.
+
+Jeigu šaltinis duoda 2 m³/val.:
+
+3,2 m³ / 2 m³/val. = 1,6 val.
+
+Darbinis apvalinimas:
+
+2 valandos siurbimo per dieną.
+
+Jeigu šaltinis duoda 5 m³/val.:
+
+3,2 m³ / 5 m³/val. = 0,64 val.
+
+Darbinis apvalinimas:
+
+iki 1 valandos siurbimo per dieną.
+
+## Pirmasis išvada apie vieną šaltinį
+
+Vienas geras gręžinys gali padengti 50 žmonių modelio poreikį.
+
+Tačiau autonomijos požiūriu tai nėra pakankama schema, nes vienas šaltinis tampa vienu gedimo tašku.
+
+Todėl vandens autonomija turi būti modeliuojama ne kaip vieno gręžinio našumas, o kaip modulinė vandens sistema.
+
+## Vandens modulio principas
+
+Įvedamas vandens modulio principas.
+
+Vienas vandens modulis turi apimti:
+
+- pagrindinį vandens šaltinį;
+- rezervinį arba alternatyvų šaltinį;
+- dienos talpą;
+- kritinę 3 dienų talpą;
+- siurblio energijos skaičiavimą;
+- vandens kokybės tikrinimą;
+- nuotekų surinkimo arba valymo ryšį.
+
+## 50 žmonių modulio modelis
+
+50 žmonių moduliui nustatoma:
+
+- pilnas poreikis: 3,2 m³ per dieną;
+- kritinis poreikis: 1,2 m³ per dieną;
+- pilnas 3 dienų rezervas: 10 m³;
+- kritinis 3 dienų rezervas: 4 m³;
+- rekomenduojama turėti ne mažiau kaip du vandens tiekimo kelius.
+
+Pirmasis kelias:
+
+pagrindinis gręžinys.
+
+Antrasis kelias:
+
+rezervinė talpa, papildomas gręžinys, paviršinio vandens techninis kelias arba atvežtinis vanduo kritiniu režimu.
+
+## Miesto mastelio segmentavimas
+
+Plečiant modelį į miestą, vandens sistema negali būti viena centralizuota grandinė.
+
+Ji turi būti dalijama į segmentus.
+
+Pavyzdinis miesto segmentas:
+
+- 500 žmonių;
+- poreikis: 50 l × 500 = 25 000 l;
+- tai yra 25 m³ per dieną;
+- kritinis poreikis: 18 l × 500 = 9000 l;
+- tai yra 9 m³ per dieną.
+
+Tokiam segmentui reikia:
+
+- kelių vandens šaltinių;
+- atskirų talpų;
+- atskiro kritinio kontūro;
+- galimybės izoliuoti gedimą viename segmente.
+
+## 5000 žmonių miesto pavyzdys
+
+Jeigu modelis plečiamas iki 5000 žmonių:
+
+Pilnas poreikis:
+
+50 l × 5000 = 250 000 l
+
+Tai yra:
+
+250 m³ per dieną.
+
+Kritinis poreikis:
+
+18 l × 5000 = 90 000 l
+
+Tai yra:
+
+90 m³ per dieną.
+
+Toks mastelis negali remtis vienu gręžiniu.
+
+Jam reikia kelių vandens sektorių ir tarpusavyje susietos, bet nepriklausomos vandens infrastruktūros.
+
+## Ryšys su energetika
+
+Vandens autonomija priklauso nuo energijos autonomijos.
+
+Kiekvienas vandens modulis turi turėti:
+
+- pagrindinį energijos tiekimą;
+- kritinį energijos tiekimą siurbliui;
+- galimybę dirbti pagal grafiką;
+- talpą, kuri leistų trumpai veikti be siurblio.
+
+Todėl vandens moduliai turi būti skaičiuojami kartu su energijos moduliais.
+
+## Pagrindinis sprendimas
+
+Nuo šio dokumento BVK modelyje vandens tiekimas laikomas moduliniu.
+
+Nebegalima skaičiuoti miesto vandens autonomijos pagal vieną gerą gręžinį.
+
+Reikia skaičiuoti:
+
+- šaltinių skaičių;
+- šaltinių debitą;
+- sektoriaus poreikį;
+- kritinį poreikį;
+- rezervą;
+- energijos poreikį;
+- gedimo izoliavimo galimybę.
+
+## Išvada
+
+Vandens modulio segmentavimo ir debito korekcija sustiprino BVK miesto autonomijos modelį.
+
+Nuo šio momento vanduo vertinamas ne kaip vienas šaltinis, o kaip sektorinė infrastruktūra, kuri turi išlikti veikianti net tada, kai vienas šaltinis ar vienas segmentas sugenda.
