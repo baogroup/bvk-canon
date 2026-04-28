@@ -1,0 +1,117 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-11-21
+Dabartinė redakcija: 2028-11-21
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / pirmųjų pagalbos formų sluoksnis / pasikartojančios pagalbos stebėjimo pradžia
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-11-21-01
+
+Tipas:
+pasikartojančios pagalbos stebėjimo atramos dokumentas
+
+Pavadinimas:
+Pirmosios pasikartojančios pagalbos stebėjimo atrama
+
+Susijusi publikacija:
+2028 m. lapkričio 21 d. – Pradėta stebėti pasikartojančią skaitytojų pagalbą
+
+# A-2028-11-21-01
+# Pirmosios pasikartojančios pagalbos stebėjimo atrama
+
+Data: 2028 m. lapkričio 21 d.
+Vieta: BVK svetainės viešasis sluoksnis / pagalbos stebėjimo darbo sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Pradėta stebėti pasikartojančią skaitytojų pagalbą.
+
+Iki šiol dauguma pastabų buvo atsitiktinės. Tačiau laikui bėgant gali atsirasti keli žmonės, kurie siunčia pastabas daugiau nei vieną kartą.
+
+Šis dokumentas nefiksuoja žmonių kaip narių ar pagalbininkų. Jis tik pažymi, kad pasikartojanti pagalba gali tapti nauju reiškiniu, kurį verta stebėti.
+
+## Kodėl tai svarbu
+
+Pasikartojanti pagalba gali rodyti:
+
+- augantį susidomėjimą;
+- gerėjantį teksto supratimą;
+- atsirandantį atsakomybės jausmą;
+- galimą būsimos dalyvavimo kultūros pradžią.
+
+Tačiau per anksti suteiktas statusas gali sukurti neteisingą įspūdį, kad projektas jau turi dalyvių struktūrą.
+
+Todėl pirmasis žingsnis turi būti tik stebėjimas.
+
+## Kas laikoma pasikartojančia pagalba
+
+Paprastas kriterijus:
+
+- tas pats žmogus siunčia daugiau nei vieną pastabą per tam tikrą laikotarpį;
+- pastabos nėra atsitiktinės ar vienkartinės;
+- jos padeda patikslinti tekstus arba ryšius tarp dokumentų.
+
+Tai dar nėra vaidmuo. Tai tik signalas.
+
+## Ko reikia vengti
+
+Negalima:
+
+- sudaryti pagalbininkų sąrašų;
+- skirti pareigų;
+- siūlyti titulų;
+- leisti kalbėti projekto vardu;
+- kurti vidinę komunikacijos struktūrą.
+
+Tinkama laikysena:
+
+- stebėti;
+- užfiksuoti pasikartojimą;
+- išlaikyti neutralumą;
+- neskubėti suteikti statuso.
+
+## Realistinis apribojimas
+
+2028 metais pasikartojančios pagalbos gali būti labai mažai.
+
+Svarbiausia — ne skaičius, o pats reiškinio atsiradimas. Net vienas pasikartojantis signalas gali būti svarbus ilgalaikėje istorijoje.
+
+## Ryšys su romano baze
+
+Vėlesnėje Respublikoje dalyvavimas gali atrodyti savaime suprantamas. Tačiau jo pradžioje buvo tylus laikotarpis, kai pirmieji žmonės pradėjo grįžti prie to paties klausimo daugiau nei vieną kartą.
+
+Tai leidžia romanui parodyti, kad bendruomenės šaknys prasideda ne nuo deklaracijų, o nuo pasikartojančių mažų veiksmų.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2028-03-08-01 — Pirmųjų pagalbos formų atrama;
+- A-2028-09-19-01 — Pirmojo pagalbos pripažinimo principo atrama;
+- A-2028-10-17-01 — Pirmosios gautos pagalbos apžvalgos atrama.
+
+## Atviri klausimai
+
+- ar pasikartojanti pagalba turi būti fiksuojama viešai ar tik viduje;
+- kada stebėjimas tampa bendravimu;
+- ar reikės atskiros komunikacijos formos;
+- kada pasikartojanti pagalba tampa atsakomybe;
+- kaip išlaikyti ribą tarp pagalbos ir organizacijos.
+
+## Pirminė išvada
+
+Pasikartojančios pagalbos stebėjimas leidžia BVK projektui pamatyti pirmuosius nuolatinius signalus neprarandant atsargumo.
+
+Tai dar nėra bendruomenė. Tai tik jos pirmasis šešėlis.
