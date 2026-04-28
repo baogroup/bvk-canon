@@ -1,0 +1,278 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2029-03-27
+Dabartinė redakcija: 2029-03-27
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2029-03-27-01
+
+Pavadinimas:
+Energijos sąnaudų ir autonomijos korekcijos atrama
+
+# A-2029-03-27-01
+# Energijos sąnaudų ir autonomijos korekcijos atrama
+
+Data: 2029 m. kovo 27 d.
+
+## Įvykis
+
+Atlikta pirmoji detalesnė BVK modelio energijos sąnaudų peržiūra ir pirmą kartą užfiksuota, kad būsimas kooperatyvinis miestas negali remtis vien perkama išorine energija.
+
+Po transporto sąnaudų korekcijos tapo aišku, kad kiekviena pasikartojanti veikimo grandinės sąnauda turi būti vertinama ne tik pagal kainą, bet ir pagal priklausomybės riziką. Energija yra viena iš svarbiausių tokių sričių, nes nuo jos priklauso maisto paruošimas, šaldymas, sandėliavimas, vandens tiekimas, ryšiai, apšvietimas ir bazinis gyvenimo ritmas.
+
+Šis dokumentas pirmą kartą sujungia energijos sąnaudų skaičiavimą su autonomijos principu.
+
+## Skaičiavimo tikslas
+
+Tikslas buvo nustatyti:
+
+- kiek energijos reikia 50 žmonių baziniam maisto ir paskirstymo ciklui;
+- kurios apkrovos yra kritinės;
+- kurios apkrovos gali būti atidedamos;
+- kiek kainuoja dienos energija, jeigu ji perkama;
+- kokią dalį ateityje reikėtų gaminti pačiam miestui;
+- kokio minimalaus energijos rezervo reikia sutrikimų metu.
+
+## Bazinis scenarijus
+
+Skaičiavimui naudojamas tas pats 50 žmonių modelis, kuris buvo taikytas realistinių sąnaudų peržiūroje.
+
+Pagrindinės prielaidos:
+
+- žmonių skaičius: 50;
+- ciklo trukmė: 1 diena;
+- gaminamas bazinis maisto kiekis: 50 vienetų;
+- veikia viena paruošimo vieta;
+- reikalingas laikinas šaldymas arba vėsus saugojimas;
+- yra bazinis apšvietimas, vandens siurblys, komunikacijos ir smulki įranga;
+- skaičiavimas yra pirminis, skirtas modeliui, ne techniniam projektui.
+
+## Energijos apkrovų lentelė
+
+| Apkrova | Galia arba poreikis | Veikimo laikas | Dienos energija |
+|---|---:|---:|---:|
+| Maisto paruošimas / kaitinimas | 4,0 kW | 3 val. | 12,0 kWh |
+| Šaldymas / laikymas | 0,8 kW | 10 val. | 8,0 kWh |
+| Vandens siurblys / plovimas | 1,0 kW | 1 val. | 1,0 kWh |
+| Apšvietimas | 0,4 kW | 6 val. | 2,4 kWh |
+| Smulki įranga | 0,7 kW | 3 val. | 2,1 kWh |
+| Ryšiai / kompiuteriai | 0,3 kW | 8 val. | 2,4 kWh |
+| Rezervinė techninė apkrova | — | — | 3,0 kWh |
+
+Bendras dienos energijos poreikis:
+
+12,0 + 8,0 + 1,0 + 2,4 + 2,1 + 2,4 + 3,0 = 30,9 kWh
+
+Apvalinama darbo modeliui:
+
+31 kWh per dieną.
+
+## Perkamos energijos kainos prielaida
+
+Pirminė skaičiavimo prielaida:
+
+1 kWh = 0,25 Eur
+
+Dienos energijos sąnauda:
+
+31 kWh × 0,25 Eur = 7,75 Eur
+
+Mėnesio sąnauda, jeigu ciklas kartojamas 30 dienų:
+
+7,75 Eur × 30 = 232,50 Eur
+
+Metinė sąnauda:
+
+232,50 Eur × 12 = 2 790,00 Eur
+
+## Kodėl vien kainos neužtenka
+
+Vien perkamos energijos kaina neparodo visos rizikos.
+
+Jeigu energija dingsta, sistema praranda:
+
+- šaldymą;
+- saugų laikymą;
+- vandens tiekimą;
+- apšvietimą;
+- ryšį;
+- gamybos ritmą;
+- dalį maisto saugumo.
+
+Todėl energija turi būti vertinama ne tik kaip sąnauda, bet ir kaip autonomijos klausimas.
+
+## Apkrovų skirstymas pagal svarbą
+
+### Kritinės apkrovos
+
+Kritinėmis laikomos tos apkrovos, be kurių sistema negali išlaikyti bazinės funkcijos:
+
+- šaldymas / laikymas;
+- vandens siurblys;
+- minimalus apšvietimas;
+- ryšiai;
+- dalis maisto paruošimo.
+
+Kritinis minimalus dienos poreikis:
+
+- šaldymas: 8,0 kWh;
+- vanduo: 1,0 kWh;
+- minimalus apšvietimas: 1,0 kWh;
+- ryšiai: 1,5 kWh;
+- minimalus paruošimas: 6,0 kWh.
+
+Iš viso:
+
+8,0 + 1,0 + 1,0 + 1,5 + 6,0 = 17,5 kWh per dieną.
+
+Apvalinama:
+
+18 kWh kritinio poreikio per dieną.
+
+### Atidedamos apkrovos
+
+Atidedamos apkrovos:
+
+- dalis gamybos;
+- dalis pakavimo;
+- papildomas apšvietimas;
+- neesminis įrangos naudojimas;
+- dalis administracinio darbo.
+
+Tai reiškia, kad sutrikimo metu sistema nebūtinai turi išlaikyti 31 kWh per dieną, bet privalo išlaikyti bent 18 kWh.
+
+## Autonomijos tikslas
+
+Pirmasis autonomijos tikslas:
+
+ne gaminti visą energiją iš karto, o užtikrinti kritinių apkrovų išlikimą.
+
+Minimalus tikslas:
+
+- 18 kWh kritinio poreikio per dieną;
+- bent 2 dienų kritinis rezervas;
+- galimybė atkurti dalį energijos vietoje.
+
+2 dienų kritinis rezervas:
+
+18 kWh × 2 = 36 kWh
+
+Pirminė baterijų arba kito kaupimo prielaida:
+
+40 kWh naudingo rezervo.
+
+## Galimos vietinės energijos kryptys
+
+Pirmame autonomijos modelyje svarstomos šios kryptys:
+
+1. Saulės elektrinė ant pastatų stogų.
+2. Maža baterijų sistema kritinėms apkrovoms.
+3. Atsarginis generatorius tik avariniams atvejams.
+4. Šilumos panaudojimas maisto paruošimo ir patalpų poreikiams.
+5. Ateityje — biokuro arba biodujų kryptis, jeigu atsiranda tinkamas organinių atliekų srautas.
+
+## Pirminis saulės generacijos modelis
+
+Darbinė prielaida:
+
+1 kW saulės elektrinės vidutiniškai duoda apie 2,5 kWh per dieną metiniu vidurkiu.
+
+Norint padengti 18 kWh kritinį poreikį:
+
+18 kWh / 2,5 kWh = 7,2 kW
+
+Apvalinama:
+
+8 kW saulės elektrinės kritiniam vidutiniam poreikiui.
+
+Norint padengti visą 31 kWh dienos poreikį:
+
+31 kWh / 2,5 kWh = 12,4 kW
+
+Apvalinama:
+
+13 kW saulės elektrinės visam vidutiniam poreikiui.
+
+## Kodėl reikia rezervo ir kitų šaltinių
+
+Saulės generacija nėra stabili kiekvieną dieną.
+
+Todėl 13 kW sistema dar nereiškia visiškos autonomijos. Reikia:
+
+- kaupimo;
+- kritinių apkrovų prioritetų;
+- galimybės mažinti vartojimą;
+- atsarginio šaltinio;
+- energijos naudojimo grafiko.
+
+## Pirminė autonomijos konfigūracija 50 žmonių modeliui
+
+Minimalus autonomijos paketas:
+
+- 8 kW saulės elektrinė kritinėms apkrovoms;
+- 40 kWh naudingo kaupimo;
+- galimybė atjungti neesmines apkrovas;
+- atsarginis generatorius trumpiems sutrikimams;
+- energijos naudojimo grafikas.
+
+Išplėstinis autonomijos paketas:
+
+- 13 kW saulės elektrinė visam vidutiniam dienos poreikiui;
+- 60 kWh naudingo kaupimo;
+- atskiras kritinių apkrovų kontūras;
+- šilumos ir maisto paruošimo energijos optimizavimas;
+- organinių atliekų panaudojimo tyrimas.
+
+## Sąnaudų poveikis modeliui
+
+Jeigu energija perkama:
+
+31 kWh × 0,25 Eur = 7,75 Eur per dieną
+
+Jeigu dalis energijos gaminama vietoje, piniginė sąnauda mažėja, bet atsiranda investicinė sąnauda:
+
+- saulės elektrinė;
+- inverteriai;
+- baterijos;
+- montavimas;
+- priežiūra;
+- keitimas po nusidėvėjimo.
+
+Todėl autonomija nėra nemokama energija.
+
+Autonomija yra rizikos mažinimas.
+
+## Pirmasis strateginis sprendimas
+
+Nuo šio dokumento BVK modelyje energija laikoma atskira strategine kryptimi.
+
+Ji nebegali būti skaičiuojama tik kaip pirkimo kaina.
+
+Kiekviename didesniame modelyje turi būti atsakyta į tris klausimus:
+
+1. Kiek energijos reikia normaliam ciklui?
+2. Kiek energijos reikia kritiniam režimui?
+3. Kokią dalį sistema gali pasigaminti arba išsaugoti pati?
+
+## Ryšys su miesto autonomija
+
+Šis dokumentas laikomas pirmuoju žingsniu link būsimo miesto autonomijos skaičiavimo.
+
+Jeigu modelis vėliau plečiamas nuo 50 žmonių iki gyvenamojo kvartalo arba miesto, energijos klausimas turi būti keliamas ne paskutinėje vietoje, o pačioje bazėje.
+
+Maksimali miesto autonomija reiškia ne visišką atsiskyrimą nuo išorės, o gebėjimą išlaikyti kritines funkcijas net tada, kai išoriniai tiekimai sutrinka.
+
+## Išvada
+
+Pirmoji energijos sąnaudų ir autonomijos korekcija parodė, kad BVK modelis turi skaičiuoti ne tik kiek energija kainuoja, bet ir kiek priklausomybės ji sukuria.
+
+Nuo šio momento energija laikoma viena iš pagrindinių būsimo kooperatyvinio miesto autonomijos sričių.
+
+Pirminė kryptis: pirma užtikrinti kritines apkrovas, tada didinti vietinės gamybos dalį, o tik vėliau kalbėti apie platesnę energetinę autonomiją.
