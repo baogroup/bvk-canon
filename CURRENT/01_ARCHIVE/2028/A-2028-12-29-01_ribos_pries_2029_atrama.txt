@@ -1,0 +1,119 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-12-29
+Dabartinė redakcija: 2028-12-29
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / metų pabaigos sluoksnis / ribos prieš 2029 nustatymas
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-12-29-01
+
+Tipas:
+metų ribos nustatymo atramos dokumentas
+
+Pavadinimas:
+Ribos prieš 2029 metų pradžią atrama
+
+Susijusi publikacija:
+2028 m. gruodžio 29 d. – Užfiksuota riba tarp 2028 metų pagalbos ir 2029 metų galimo judėjimo pradžios
+
+# A-2028-12-29-01
+# Ribos prieš 2029 metų pradžią atrama
+
+Data: 2028 m. gruodžio 29 d.
+Vieta: BVK svetainės archyvinis sluoksnis / metų perėjimo darbo sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Užfiksuota riba tarp 2028 metų pagalbos laikotarpio ir galimo 2029 metų judėjimo pradžios.
+
+2028 metais atsirado pirmieji pagalbos signalai, pirmos pasikartojančios pastabos ir pirmas kuklus pagalbos matomumas.
+
+Tačiau tuo pačiu metu būtina aiškiai pažymėti: pagalba dar nereiškia struktūros.
+
+## Pagrindinė riba
+
+Iki 2028 metų pabaigos:
+
+- nėra organizacijos;
+- nėra dalyvių sąrašo;
+- nėra savanorių tinklo;
+- nėra juridinio vieneto;
+- nėra politinės krypties;
+- nėra sprendimų priėmimo organo;
+- nėra oficialios bendruomenės;
+- nėra koordinavimo centro.
+
+Yra tik:
+
+- tekstai;
+- skaitytojai;
+- pavienės pastabos;
+- keli pasikartojantys signalai;
+- pradinis pasitikėjimo daigas.
+
+## Kodėl ši riba reikalinga
+
+Jeigu 2029 metais pradės ryškėti aktyvesnis judėjimas, turi būti aišku, iš kokio taško jis prasidėjo.
+
+Be aiškios ribos tarp metų gali susidaryti įspūdis, kad struktūra egzistavo jau anksčiau, nors realybėje buvo tik pavieniai veiksmai.
+
+Ši riba saugo tikrą chronologiją.
+
+## Galimas 2029 metų posūkis
+
+2029 metais gali atsirasti:
+
+- pirmi aiškesni klausimai apie projekto kryptį;
+- pirmos diskusijos apie platesnį dalyvavimą;
+- pirmi bandymai suformuluoti bendrus principus tarp kelių žmonių;
+- pirmos mintys apie ilgesnį bendradarbiavimą;
+- pirmi signalai apie norą daryti daugiau nei tik siųsti pastabas.
+
+Tačiau tai dar neturi būti laikoma organizacijos pradžia.
+
+## Realistinis apribojimas
+
+Net jeigu 2029 metais atsiras keli aktyvesni žmonės, jie vis dar negali būti vadinami nariais.
+
+Reikia išlaikyti lėtą tempą.
+Skubėjimas gali sukurti netikrą struktūrą, kuri vėliau taps našta pačiam projektui.
+
+## Ryšys su romano baze
+
+Didelės sistemos dažnai atrodo tarsi atsiradusios staiga. Tačiau jų pradžia dažniausiai būna beveik nepastebima.
+
+Ši metų riba leidžia istorijoje parodyti momentą prieš pirmą tikrą judėjimą — tylų laiką, kai dar niekas neatrodė neišvengiama.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2028-12-18-01 — Pirmojo 2028 metų apibendrinimo atrama;
+- A-2028-11-21-01 — Pirmosios pasikartojančios pagalbos stebėjimo atrama;
+- A-2028-10-17-01 — Pirmosios gautos pagalbos apžvalgos atrama.
+
+## Atviri klausimai
+
+- kiek žmonių turi pasikartoti, kad atsirastų pirmas mažas bendravimo ratas;
+- ar 2029 metais reikės pirmo uždaro diskusijų formato;
+- kada atsiranda atsakomybės klausimas;
+- ar reikės pirmos vidinės komunikacijos taisyklės;
+- kaip neleisti pagreitėjimui sunaikinti atsargumo.
+
+## Pirminė išvada
+
+2028 metų pabaiga užfiksuoja aiškų tašką: pagalba atsirado, bet struktūra dar ne.
+
+Tai riba tarp stebėjimo ir judėjimo.
