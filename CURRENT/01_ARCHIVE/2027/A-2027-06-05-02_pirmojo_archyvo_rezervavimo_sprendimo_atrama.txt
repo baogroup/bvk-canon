@@ -1,0 +1,68 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2027-06-05
+Dabartinė redakcija: 2027-06-05
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2027-06-05-02
+
+Pavadinimas:
+Pirmojo archyvo rezervavimo sprendimo atrama
+
+# A-2027-06-05-02
+# Pirmojo archyvo rezervavimo sprendimo atrama
+
+Data: 2027 m. birželio 5 d.
+
+## Įvykis
+
+Priimtas pirmasis sprendimas BVK archyvą saugoti ne vienoje vietoje.
+
+Iki šio momento pagrindinis dėmesys buvo skiriamas dokumentų kūrimui ir viešam archyvo sluoksniui. 2027 m. birželį pirmą kartą aiškiai užfiksuota, kad archyvas turi turėti atsargines kopijas, nes vien svetainės arba vienos saugyklos nepakanka ilgalaikiam projektui.
+
+## Pirmoji rezervavimo schema
+
+Pirminis rezervavimo principas:
+
+1. GitHub repozitoriumas lieka pagrindinis darbo istorijos šaltinis.
+2. PUBLIC_READ sluoksnis naudojamas kaip viešas skaitymo įėjimas.
+3. Svarbiausi dokumentai periodiškai eksportuojami į atskirus tekstinius paketus.
+4. Reikšmingi rinkiniai ateityje gali būti saugomi PDF formatu.
+5. Lokali kopija turi būti laikoma atskirai nuo svetainės.
+
+## Kodėl tai svarbu
+
+Archyvas nėra tik tekstų sąrašas. Jis yra projekto atmintis.
+
+Jeigu dingsta svetainė, turi likti repozitoriumas.
+Jeigu sutrinka repozitoriumas, turi likti lokali kopija.
+Jeigu prarandamas darbo sluoksnis, turi likti viešas skaitymo sluoksnis.
+
+Šis sprendimas pirmą kartą pavertė archyvo saugojimą atskira darbo kryptimi.
+
+## Darbo principas
+
+Nuo šio momento svarbesni dokumentai turi būti vertinami pagal klausimą:
+
+ar jie turi bent vieną papildomą išsaugojimo kelią?
+
+Jeigu dokumentas yra svarbus kanonui, jis negali likti tik vienoje techninėje vietoje.
+
+## Ryšys su vėlesniu depozitoriumu
+
+Šis sprendimas vėliau gali tapti vienu iš ankstyvų depozitoriumo susidarymo pagrindų.
+
+Dėl to BVK archyvas turi būti kuriamas taip, kad net dalinis techninis praradimas nesunaikintų visos projekto atminties.
+
+## Išvada
+
+Pirmasis archyvo rezervavimo sprendimas suteikė BVK projektui ilgalaikio išlikimo logiką.
+
+Tai buvo nedidelis techninis sprendimas, bet jis pavertė archyvą ne tik viešu turiniu, o saugotina atminties sistema.
