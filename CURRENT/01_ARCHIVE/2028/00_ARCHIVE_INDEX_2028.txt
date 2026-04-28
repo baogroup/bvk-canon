@@ -2,9 +2,9 @@ BVK CANON
 2028 metų archyvo indeksas
 
 Statusas: ACTIVE
-Versija: v1.2
+Versija: v1.3
 Pirmojo priėmimo data: 2028-01-18
-Dabartinė redakcija: 2028-05-16
+Dabartinė redakcija: 2028-06-20
 Pakeitimų istorija: GitHub History
 Prieigos lygis: SERVICE
 Istorinė priklausomybė: ankstyvasis dalyvavimo sluoksnis / antrųjų atvirų metų archyvas
@@ -32,6 +32,7 @@ Yra viešas projektas, archyvas, svetainė, pirmi skaitytojai, pirmos pastabos, 
 - pirmą pagalbos formų sąrašą;
 - pirmą pagrindinių dalyvavimo principų suformavimą;
 - pirmą viešą paaiškinimą, kaip galima padėti;
+- pirmą skaitytojų pastabų peržiūros tvarką;
 - pirmas kalbos, archyvo, kortelių ir klausimų pagalbos kryptis;
 - ribą tarp pagalbos projektui ir formalios narystės;
 - ribą tarp viešos reakcijos ir sprendimo priėmimo.
@@ -43,6 +44,7 @@ Yra viešas projektas, archyvas, svetainė, pirmi skaitytojai, pirmos pastabos, 
 - pagalbos formų atrama;
 - dalyvavimo principų atrama;
 - viešo pagalbos paaiškinimo atrama;
+- pastabų peržiūros tvarkos atrama;
 - klausimų ir pastabų darbo atrama;
 - kalbos ir vertimų pagalbos atrama;
 - archyvo kortelių pagalbos atrama;
@@ -85,23 +87,31 @@ Tipas: pirmojo pagalbos paaiškinimo puslapio atramos dokumentas
 Statusas: ACTIVE
 Paskirtis: parengti pirmą viešą, ramų ir ribotą paaiškinimą, kaip skaitytojas gali padėti projektui be narystės, organizacijos ar teisės spręsti.
 
+A-2028-06-20-01
+Pavadinimas: Pirmųjų pastabų peržiūros tvarkos atrama
+Failas: A-2028-06-20-01_pirmuju_pastabu_perziuros_tvarkos_atrama.txt
+Tipas: pirmųjų pastabų peržiūros tvarkos atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: aprašyti pirmą paprastą skaitytojų pastabų peržiūros tvarką, kad pagalba galėtų būti priimama neprarandant kanono ribų.
+
 ## Darbo taisyklė
 
 2028 metų dokumentai turi kalbėti apie atsargų įsitraukimą, o ne apie struktūros paskelbimą.
 Jie neturi per anksti kurti narių, savanorių tinklo, organizacijos, judėjimo ar kooperatyvo įspūdžio.
 
-Pirmiausia turi atsirasti kalba, ribos, atsakomybė, tikrinamos pagalbos formos ir viešas paaiškinimas, kaip padėti neperžengiant projekto ribų.
+Pirmiausia turi atsirasti kalba, ribos, atsakomybė, tikrinamos pagalbos formos, viešas paaiškinimas, kaip padėti, ir paprasta pastabų peržiūros tvarka.
 Tik vėliau gali atsirasti aiškesnės dalyvavimo formos.
 
 ## Redakcinė pastaba
 
-Sausio-gegužės 2028 metų linija turi būti skaitoma kaip viena seka:
+Sausio-birželio 2028 metų linija turi būti skaitoma kaip viena seka:
 
 - pirmiausia atsiranda dalyvavimo klausimas;
 - tada atskiriamas skaitytojas, klausėjas, pastabų teikėjas ir pagalbininkas;
 - tada aprašomos mažos pagalbos formos;
 - tada suformuluojami pirmieji dalyvavimo principai;
-- tada sukuriamas pirmas viešas puslapis, kaip galima padėti.
+- tada sukuriamas pirmas viešas puslapis, kaip galima padėti;
+- tada atsiranda pirmoji pastabų peržiūros tvarka.
 
 Visi šie dokumentai dar nekuria organizacijos. Jie kuria kalbą, kuria bus galima atsakingai kalbėti apie dalyvavimą vėliau.
 
