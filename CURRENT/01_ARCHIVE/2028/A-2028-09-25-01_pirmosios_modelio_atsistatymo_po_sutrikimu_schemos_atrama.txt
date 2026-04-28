@@ -1,0 +1,71 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-09-25
+Dabartinė redakcija: 2028-09-25
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-09-25-01
+
+Pavadinimas:
+Pirmosios modelio atsistatymo po sutrikimų schemos atrama
+
+# A-2028-09-25-01
+# Pirmosios modelio atsistatymo po sutrikimų schemos atrama
+
+Data: 2028 m. rugsėjo 25 d.
+
+## Įvykis
+
+Parengta pirmoji BVK modelio atsistatymo po sutrikimų schema.
+
+Po atsparumo bandymo ir minimalios veikimo ribos nustatymo tapo aišku, kad sistemos stabilumas priklauso ne tik nuo gebėjimo išlaikyti sutrikimą, bet ir nuo gebėjimo grįžti į normalų darbo ritmą.
+
+## Atsistatymo etapai
+
+Pirminėje schemoje išskirti keturi etapai:
+
+1. Sutrikimo nustatymas.
+2. Minimalios funkcijos išlaikymas.
+3. Rezervų panaudojimas.
+4. Grįžimas į planinį ritmą.
+
+## Vertinami rodikliai
+
+Atsistatymo schemoje pradėta vertinti:
+
+- kiek laiko sistema gali veikti sumažintu pajėgumu;
+- per kiek dienų galima papildyti žaliavų rezervą;
+- kiek darbo valandų reikia prarastam kiekiui atkurti;
+- kada grįžtama prie įprasto paskirstymo;
+- ar bendras rezervas po sutrikimo išlieka saugus.
+
+## Pirmasis pastebėjimas
+
+Greitas grįžimas į planinį ritmą ne visada yra saugiausias sprendimas.
+
+Kartais po sutrikimo reikia kelių lėtesnių ciklų, kad sistema neatkurtų darbo tempo bendro rezervo sąskaita.
+
+## Reikšmė
+
+Atsistatymo schema parodė, kad modelis turi būti vertinamas ne tik pagal gamybą ir atsargas, bet ir pagal laiką, reikalingą grįžimui į stabilų ritmą.
+
+Sistema, kuri išgyvena sutrikimą, bet po jo neatsistato, negali būti laikoma patikima.
+
+## Darbo principas
+
+Kiekvienas sutrikimo scenarijus turi turėti atsistatymo kelią.
+
+Jeigu atsistatymo kelias neaprašytas, modelis laikomas nebaigtu.
+
+## Išvada
+
+Pirmoji atsistatymo po sutrikimų schema pavertė BVK modelį artimesniu realiai veikiančiai sistemai.
+
+Nuo šio momento svarbu ne tik išlaikyti veikimą krizės metu, bet ir grįžti į saugų ritmą po krizės.
