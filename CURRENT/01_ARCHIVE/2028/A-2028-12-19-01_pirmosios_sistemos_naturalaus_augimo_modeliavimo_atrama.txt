@@ -1,0 +1,70 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-12-19
+Dabartinė redakcija: 2028-12-19
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-12-19-01
+
+Pavadinimas:
+Pirmosios sistemos natūralaus augimo modeliavimo atrama
+
+# A-2028-12-19-01
+# Pirmosios sistemos natūralaus augimo modeliavimo atrama
+
+Data: 2028 m. gruodžio 19 d.
+
+## Įvykis
+
+Parengtas pirmasis BVK sistemos natūralaus augimo modelis.
+
+Po ilgalaikio ciklo testavimo tapo aišku, kad stabilumas yra tik pirmas žingsnis. Toliau reikėjo patikrinti, kaip sistema elgiasi augant žmonių skaičiui ir bendram darbo kiekiui.
+
+## Augimo kryptys
+
+Pirmojoje augimo analizėje vertintos kelios kryptys:
+
+- žmonių skaičiaus padidėjimas;
+- produkto kiekio padidėjimas;
+- darbo valandų padidėjimas;
+- transporto apkrovos padidėjimas;
+- sandėliavimo apkrovos padidėjimas.
+
+## Augimo scenarijai
+
+Modeliuoti keli augimo scenarijai:
+
+- padidėjimas nuo 10 iki 15 žmonių;
+- padidėjimas nuo 20 iki 30 žmonių;
+- padidėjimas nuo 50 iki 70 žmonių.
+
+## Pirmasis pastebėjimas
+
+Augimas ne visada vyksta tolygiai.
+
+Kai kurie sistemos elementai prisitaiko lengvai, tačiau kiti tampa naujais perkrovos taškais. Ypač jautrūs augimui pasirodė transporto ir pakavimo etapai.
+
+## Reikšmė
+
+Natūralaus augimo modeliavimas parodė, kad sistema turi būti ruošiama ne tik stabilumui, bet ir palaipsniam plėtimui.
+
+Staigus augimas kelia didesnę riziką nei lėtas ir kontroliuojamas plėtimasis.
+
+## Darbo principas
+
+Kiekvienas naujas mastelio padidinimas turi būti tikrinamas atskirai.
+
+Jeigu augimas sukelia naujus perkrovos taškus, jis turi būti stabdomas ir peržiūrimas.
+
+## Išvada
+
+Pirmasis natūralaus augimo modeliavimas tapo pagrindu tolimesniam sistemos plėtros planavimui.
+
+Nuo šio momento BVK modelis pradėtas vertinti ne tik kaip stabilus, bet ir kaip galintis augti be staigių sutrikimų.
