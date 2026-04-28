@@ -1,0 +1,135 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-10-17
+Dabartinė redakcija: 2028-10-17
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / pirmųjų pagalbos formų sluoksnis / pagalbos apžvalgos pradžia
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-10-17-01
+
+Tipas:
+gautos pagalbos apžvalgos atramos dokumentas
+
+Pavadinimas:
+Pirmosios gautos pagalbos apžvalgos atrama
+
+Susijusi publikacija:
+2028 m. spalio 17 d. – Parengta pirmoji trumpa gautos skaitytojų pagalbos apžvalga
+
+# A-2028-10-17-01
+# Pirmosios gautos pagalbos apžvalgos atrama
+
+Data: 2028 m. spalio 17 d.
+Vieta: BVK svetainės viešasis sluoksnis / pagalbos ir pastabų darbo sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Parengta pirmoji trumpa gautos skaitytojų pagalbos apžvalga.
+
+Po kelių mėnesių, kai buvo pradėta aiškinti, kaip galima padėti, kaip peržiūrimos pastabos, kaip fiksuojamos kanono spragos ir kaip pripažįstama pagalba, atsirado poreikis trumpai parodyti, kad skaitytojų pastabos nelieka be pėdsako.
+
+Ši apžvalga nėra ataskaita bendruomenei ir nėra organizacijos veiklos dokumentas. Tai pirmas paprastas viešas ženklas, kad pagalba buvo matoma ir kai kur panaudota.
+
+## Kodėl tai svarbu
+
+Jeigu projektas kviečia siųsti pastabas, jis turi parodyti, kad tos pastabos turi prasmę.
+
+Tačiau per išsami pagalbos ataskaita 2028 metais sukurtų klaidingą įspūdį, kad jau veikia redakcija, savanorių tinklas ar oficialus dalyvavimo mechanizmas.
+
+Todėl pirmoji apžvalga turi būti kukli.
+
+Ji gali parodyti:
+
+- kiek tekstų buvo patikslinta;
+- kokių klaidų pastebėta;
+- kokie FAQ klausimai pasikartojo;
+- kokios spragos pažymėtos kaip GAP-NOTE;
+- kokios nuorodos pataisytos;
+- kokios kalbos kortelės laukia papildymo.
+
+Bet ji neturi kurti statusų žmonėms.
+
+## Pirmasis apžvalgos modelis
+
+Galima struktūra:
+
+### Kas buvo pastebėta
+
+Trumpas bendras aprašymas: kalbos klaidos, nuorodos, neaiškios sąvokos, pasikartojantys klausimai.
+
+### Kas buvo pataisyta
+
+Tik svarbesni pataisymai, ne kiekvienas kablelis.
+
+### Kas dar liko atvira
+
+Spragos, kurios dar laukia dokumento, FAQ atsakymo ar kalbos kortelės.
+
+### Ko ši apžvalga nereiškia
+
+Ji nereiškia, kad projektas turi narius, komandą ar formalų savanorių tinklą.
+
+## Ko reikia vengti
+
+Negalima rašyti:
+
+- mūsų komanda atliko;
+- bendruomenė nusprendė;
+- savanoriai patvirtino;
+- dalyviai priėmė;
+- projektas jau turi redakcinę grupę.
+
+Tinkamesnės formuluotės:
+
+- pagal skaitytojų pastabas patikslinta;
+- pastebėti keli pasikartojantys klausimai;
+- dalis pastabų perduota į GAP-NOTE;
+- kai kurios kalbos vietos bus tikrinamos vėliau.
+
+## Realistinis apribojimas
+
+2028 metais pagalbos dar gali būti mažai. Apžvalga neturi apsimesti dideliu mastu.
+
+Jeigu buvo tik kelios pastabos, taip ir turi jaustis. Tai ne silpnumas, o tikroviškas ankstyvo projekto augimas.
+
+## Ryšys su romano baze
+
+Vėlesnėje Respublikoje dalyvavimo ir atskaitomybės kultūra gali atrodyti įprasta. Tačiau jos pradžioje buvo labai mažas žingsnis: parodyti, kad skaitytojo pastaba nebuvo prarasta.
+
+Ši apžvalga leidžia romanui turėti ilgą pasitikėjimo kilmę: žmonės pradeda tikėti ne todėl, kad jiems pažadėta valdžia, o todėl, kad jų mažas signalas kartais padeda pataisyti bendrą tekstą.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2028-05-16-01 — Pirmojo „Kaip galima padėti“ puslapio atrama;
+- A-2028-06-20-01 — Pirmųjų pastabų peržiūros tvarkos atrama;
+- A-2028-07-18-01 — Pirmųjų GAP-NOTE įrašų atrama;
+- A-2028-08-22-01 — Pirmojo pataisų ir versijų žymėjimo atrama;
+- A-2028-09-19-01 — Pirmojo pagalbos pripažinimo principo atrama.
+
+## Atviri klausimai
+
+- ar tokios apžvalgos turi būti mėnesinės, ketvirtinės ar atsitiktinės;
+- ar jose galima minėti konkrečius žmones;
+- ar reikia rodyti pataisų statistiką;
+- ar vieša apžvalga gali sukurti per didelį pagalbos masto įspūdį;
+- kaip apžvalgą susieti su GitHub History.
+
+## Pirminė išvada
+
+Pirmoji gautos pagalbos apžvalga padeda parodyti, kad skaitytojų pastabos turi prasmę, bet dar nesukuria organizacijos.
+
+Tai mažas viešo pasitikėjimo ženklas, ne dalyvavimo sistema.
