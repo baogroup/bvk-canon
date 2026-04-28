@@ -2,9 +2,9 @@ BVK CANON
 2028 metų archyvo indeksas
 
 Statusas: ACTIVE
-Versija: v1.4
+Versija: v1.5
 Pirmojo priėmimo data: 2028-01-18
-Dabartinė redakcija: 2028-07-18
+Dabartinė redakcija: 2028-09-19
 Pakeitimų istorija: GitHub History
 Prieigos lygis: SERVICE
 Istorinė priklausomybė: ankstyvasis dalyvavimo sluoksnis / antrųjų atvirų metų archyvas
@@ -34,6 +34,8 @@ Yra viešas projektas, archyvas, svetainė, pirmi skaitytojai, pirmos pastabos, 
 - pirmą viešą paaiškinimą, kaip galima padėti;
 - pirmą skaitytojų pastabų peržiūros tvarką;
 - pirmus GAP-NOTE įrašus;
+- pirmą pataisų ir versijų žymėjimo principą;
+- pirmą pagalbos pripažinimo principą;
 - pirmas kalbos, archyvo, kortelių ir klausimų pagalbos kryptis;
 - ribą tarp pagalbos projektui ir formalios narystės;
 - ribą tarp viešos reakcijos ir sprendimo priėmimo.
@@ -47,6 +49,8 @@ Yra viešas projektas, archyvas, svetainė, pirmi skaitytojai, pirmos pastabos, 
 - viešo pagalbos paaiškinimo atrama;
 - pastabų peržiūros tvarkos atrama;
 - GAP-NOTE įrašų atrama;
+- pataisų ir versijų žymėjimo atrama;
+- pagalbos pripažinimo principo atrama;
 - klausimų ir pastabų darbo atrama;
 - kalbos ir vertimų pagalbos atrama;
 - archyvo kortelių pagalbos atrama;
@@ -103,17 +107,31 @@ Tipas: pirmųjų GAP-NOTE įrašų atramos dokumentas
 Statusas: ACTIVE
 Paskirtis: pradėti fiksuoti kanono spragas, kurios išryškėja per skaitytojų klausimus, pastabas ir viešo sluoksnio neaiškumus.
 
+A-2028-08-22-01
+Pavadinimas: Pirmojo pataisų ir versijų žymėjimo atrama
+Failas: A-2028-08-22-01_pirmojo_pataisu_ir_versiju_zymejimo_atrama.txt
+Tipas: pataisų ir versijų žymėjimo atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: pradėti aiškiau žymėti viešų tekstų pataisas ir versijas, kad kanonas galėtų taisytis neprarasdamas atminties.
+
+A-2028-09-19-01
+Pavadinimas: Pirmojo pagalbos pripažinimo principo atrama
+Failas: A-2028-09-19-01_pirmojo_pagaldos_pripazinimo_principo_atrama.txt
+Tipas: pagalbos pripažinimo principo atramos dokumentas
+Statusas: ACTIVE
+Paskirtis: apibrėžti, kaip pripažinti skaitytojų pagalbą nesukuriant narystės, komandos ar oficialaus statuso įspūdžio.
+
 ## Darbo taisyklė
 
 2028 metų dokumentai turi kalbėti apie atsargų įsitraukimą, o ne apie struktūros paskelbimą.
 Jie neturi per anksti kurti narių, savanorių tinklo, organizacijos, judėjimo ar kooperatyvo įspūdžio.
 
-Pirmiausia turi atsirasti kalba, ribos, atsakomybė, tikrinamos pagalbos formos, viešas paaiškinimas, kaip padėti, paprasta pastabų peržiūros tvarka ir būdas fiksuoti kanono spragas.
+Pirmiausia turi atsirasti kalba, ribos, atsakomybė, tikrinamos pagalbos formos, viešas paaiškinimas, kaip padėti, paprasta pastabų peržiūros tvarka, būdas fiksuoti kanono spragas, pataisų žymėjimas ir atsargus pagalbos pripažinimas.
 Tik vėliau gali atsirasti aiškesnės dalyvavimo formos.
 
 ## Redakcinė pastaba
 
-Sausio-liepos 2028 metų linija turi būti skaitoma kaip viena seka:
+Sausio-rugsėjo 2028 metų linija turi būti skaitoma kaip viena seka:
 
 - pirmiausia atsiranda dalyvavimo klausimas;
 - tada atskiriamas skaitytojas, klausėjas, pastabų teikėjas ir pagalbininkas;
@@ -121,7 +139,9 @@ Sausio-liepos 2028 metų linija turi būti skaitoma kaip viena seka:
 - tada suformuluojami pirmieji dalyvavimo principai;
 - tada sukuriamas pirmas viešas puslapis, kaip galima padėti;
 - tada atsiranda pirmoji pastabų peržiūros tvarka;
-- tada pradedamos fiksuoti pirmos kanono spragos kaip GAP-NOTE.
+- tada pradedamos fiksuoti pirmos kanono spragos kaip GAP-NOTE;
+- tada pradedama aiškiau žymėti pataisas ir versijas;
+- tada atsiranda pirmasis pagalbos pripažinimo principas.
 
 Visi šie dokumentai dar nekuria organizacijos. Jie kuria kalbą, kuria bus galima atsakingai kalbėti apie dalyvavimą vėliau.
 
