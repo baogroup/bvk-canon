@@ -1,0 +1,84 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-09-27
+Dabartinė redakcija: 2028-09-27
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / sutankintos veiklos sluoksnis / pirmasis nesutarimas
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-09-27-02
+
+Tipas:
+pirmojo nesutarimo atramos dokumentas
+
+Pavadinimas:
+Pirmojo nesutarimo dėl projekto prasmės atrama
+
+# A-2028-09-27-02
+# Pirmojo nesutarimo dėl projekto prasmės atrama
+
+Data: 2028 m. rugsėjo 27 d.
+
+## Įvykis
+
+Pirmą kartą tarp kelių skaitytojų ir pagalbininkų aiškiau išryškėjo skirtingas BVK projekto prasmės supratimas.
+
+Vieniems projektas labiau atrodė kaip ateities pasaulio archyvas ir literatūrinė-socialinė idėja. Kiti jame pradėjo matyti galimą praktinį visuomenės modelį. Treti klausė, ar toks projektas neturėtų greičiau tapti aiškesne vieša iniciatyva.
+
+Tai nebuvo konfliktas.
+Tai nebuvo skilimas.
+Tai buvo pirmas rimtesnis nesutarimas dėl to, kas šis projektas galėtų būti.
+
+## Kodėl tai svarbu
+
+Gyvas projektas negali augti be skirtingų interpretacijų.
+
+Jeigu visi nuo pradžių suprastų projektą vienodai, tai reikštų ne brandą, o dirbtinumą. Pirmasis nesutarimas parodė, kad tekstai jau pradeda veikti skirtingus žmones skirtingai.
+
+Tai yra rizika, bet kartu ir ženklas, kad projektas nebėra vienas balsas tuštumoje.
+
+## Pagrindinė riba
+
+Nesutarimas dar nėra krypties keitimas.
+
+Skaitytojai ir pagalbininkai gali skirtingai suprasti projektą, tačiau tai nesuteikia teisės perrašyti kanono, skelbti naujos krypties ar kalbėti projekto vardu.
+
+Pirmasis nesutarimas turi būti priimtas kaip klausimas, ne kaip sprendimas.
+
+## Ryšys su pagalbos pripažinimu
+
+Šis įvykis parodė, kodėl pagalbos pripažinimas negali per greitai virsti statusu.
+
+Jeigu žmogui per anksti suteikiamas vaidmuo, jo asmeninė interpretacija gali pradėti atrodyti kaip oficiali projekto pozicija.
+
+Todėl padėka turi likti atsargi, o statusas — dar neformuojamas.
+
+## Ryšys su sutankinta 2028 metų logika
+
+Šis dokumentas patvirtina, kad 2028 metais reakcijos vyksta greitai ir tankiai.
+
+Tais pačiais metais gali atsirasti:
+
+- pagalbos formos;
+- skaitytojų pataisos;
+- GAP-NOTE;
+- pagalbos pripažinimas;
+- ir pirmas nesutarimas dėl prasmės.
+
+Tai normalu gyvam interneto projektui.
+
+## Pirminė išvada
+
+Pirmasis nesutarimas dėl projekto prasmės tapo svarbiu brandos ženklu.
+
+BVK projektas pradėjo būti suprantamas ne vienu būdu, todėl jam reikėjo dar aiškiau saugoti ribą tarp skaitytojo interpretacijos ir kanoninės krypties.
