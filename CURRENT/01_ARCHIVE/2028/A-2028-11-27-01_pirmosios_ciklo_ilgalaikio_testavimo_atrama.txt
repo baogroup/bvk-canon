@@ -1,0 +1,71 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-11-27
+Dabartinė redakcija: 2028-11-27
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-11-27-01
+
+Pavadinimas:
+Pirmosios ciklo ilgalaikio testavimo atrama
+
+# A-2028-11-27-01
+# Pirmosios ciklo ilgalaikio testavimo atrama
+
+Data: 2028 m. lapkričio 27 d.
+
+## Įvykis
+
+Atliktas pirmasis stabilaus BVK ciklo ilgalaikis testavimas.
+
+Po stabilaus ciklo apibrėžimo reikėjo patikrinti, ar sistema gali išlaikyti darbo ritmą ne vieną kartą, bet kelis ciklus iš eilės.
+
+## Testavimo eiga
+
+Pirmojo bandymo metu atlikta kelių ciklų seka:
+
+- 5 nuoseklūs ciklai be papildomų pakeitimų;
+- papildomas 6–8 ciklų bandymas su nedideliais svyravimais;
+- galutinis bandymas iki 10 ciklų iš eilės.
+
+## Vertinti rodikliai
+
+Ilgalaikio ciklo metu pradėta vertinti:
+
+- ar išlieka stabilus darbo tempas;
+- ar rezervai mažėja tolygiai;
+- ar nesikaupia nepastebėti vėlavimai;
+- ar neatsiranda naujų perkrovos taškų;
+- ar logistika išlaiko tą patį tikslumą;
+- ar darbo apkrova išlieka saugiose ribose.
+
+## Pirmasis pastebėjimas
+
+Po kelių ciklų iš eilės pradėjo matytis lėti, bet svarbūs pokyčiai.
+
+Nedideli vėlavimai, kurie vieno ciklo metu atrodė nereikšmingi, ilgainiui kaupėsi ir darė įtaką visos grandinės stabilumui.
+
+## Reikšmė
+
+Ilgalaikis ciklo testavimas parodė, kad sistema turi būti vertinama ne tik pagal vieną sėkmingą veikimą, bet ir pagal gebėjimą išlaikyti ritmą ilgą laiką.
+
+Sistema, kuri veikia vieną kartą, dar nėra patikima sistema.
+
+## Darbo principas
+
+Kiekvienas būsimas modelio pakeitimas turi būti tikrinamas kelių ciklų sekoje.
+
+Jeigu pakeitimas sukelia lėtą nestabilumą po kelių ciklų, jis laikomas rizikingu.
+
+## Išvada
+
+Pirmasis ilgalaikio ciklo testavimas tapo svarbiu žingsniu pereinant nuo vienkartinių bandymų prie nuolatinio veikimo tikrinimo.
+
+Nuo šio momento BVK modelis pradėtas vertinti kaip sistema, kuri turi veikti ne vieną dieną, o ilgą laiką.
