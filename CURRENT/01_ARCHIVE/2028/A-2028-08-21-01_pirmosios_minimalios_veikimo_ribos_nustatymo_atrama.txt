@@ -1,0 +1,62 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-08-21
+Dabartinė redakcija: 2028-08-21
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-08-21-01
+
+Pavadinimas:
+Pirmosios minimalios veikimo ribos nustatymo atrama
+
+# A-2028-08-21-01
+# Pirmosios minimalios veikimo ribos nustatymo atrama
+
+Data: 2028 m. rugpjūčio 21 d.
+
+## Įvykis
+
+Po pirmojo atsparumo bandymo nustatyta pirmoji minimali BVK modelio veikimo riba.
+
+Ši riba buvo reikalinga tam, kad modelis nebūtų vertinamas tik pagal pageidaujamą mastelį. Reikėjo suprasti, žemiau kokių sąlygų sistema nebegali išlaikyti net minimalios funkcijos.
+
+## Vertintos ribos
+
+Pirmojoje ribų lentelėje vertinta:
+
+- minimalus žmonių skaičius;
+- minimalus darbo pajėgumas;
+- minimalus žaliavų rezervas;
+- minimalus transporto langas;
+- minimalus sandėliavimo pajėgumas;
+- minimalus produkto kiekis vienam žmogui;
+- minimalus bendro rezervo lygis.
+
+## Pirmasis pastebėjimas
+
+Modelis gali būti mažas, bet negali būti per mažas.
+
+Jeigu žmonių skaičius per mažas, vienas sutrikimas iš karto paveikia visą grandinę. Jeigu rezervas per mažas, sistema praranda galimybę reaguoti į vėlavimą. Jeigu transporto langas per siauras, net pagamintas produktas negali būti paskirstytas laiku.
+
+## Reikšmė
+
+Minimalios veikimo ribos nustatymas parodė, kad bandomasis modelis turi turėti ne tik tikslą, bet ir apatinę saugumo ribą.
+
+Tai leido atskirti realų bandomąjį mastelį nuo per mažo simbolinio bandymo.
+
+## Darbo principas
+
+Jeigu modelis negali išlaikyti minimalios veikimo ribos, jis laikomas ne veikiančiu modeliu, o tik idėjos demonstracija.
+
+## Išvada
+
+Pirmoji minimali veikimo riba tapo svarbiu BVK modelio tikrinimo kriterijumi.
+
+Nuo šio momento sistema pradėta vertinti pagal klausimą: ne tik kiek ji gali duoti, bet ir kokiomis sąlygomis ji dar išlieka veikianti.
