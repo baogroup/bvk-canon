@@ -1,0 +1,41 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2029-02-14
+Dabartinė redakcija: 2029-02-14
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+
+Dokumento kodas:
+A-2029-02-14-01
+
+Tipas:
+tarpusavio ryšio ženklo atramos dokumentas
+
+Pavadinimas:
+Pirmojo tarpusavio ryšio tarp pagalbininkų ženklo atrama
+
+# A-2029-02-14-01
+# Pirmojo tarpusavio ryšio tarp pagalbininkų ženklo atrama
+
+Data: 2029 m. vasario 14 d.
+
+## Įvykis
+
+Pastebėta, kad keli pasikartojantys pagalbininkai pradeda matyti ne tik projektą, bet ir vieni kitus per klausimus, atsakymus ir pataisas.
+
+Tai dar nėra bendruomenė.
+Tai dar nėra tinklas.
+Tačiau tai pirmas silpnas horizontalus ryšys tarp žmonių.
+
+## Pagrindinė mintis
+
+Kol pagalba yra tik vertikali (žmogus → projektas), ji lieka pavienė.
+Kai atsiranda pirmas horizontalus ryšys (žmogus ↔ žmogus), atsiranda galimybė ateityje formuotis bendram laukui.
+
+## Pirminė išvada
+
+Pirmasis tarpusavio ryšys tarp pagalbininkų yra tylus lūžis.
+Tai momentas, kai projektas tampa ne tik tekstu, bet ir vieta, kur žmonės pradeda pastebėti vieni kitus.
