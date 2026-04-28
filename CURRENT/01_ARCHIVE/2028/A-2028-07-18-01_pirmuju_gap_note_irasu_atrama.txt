@@ -1,0 +1,148 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2028-07-18
+Dabartinė redakcija: 2028-07-18
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Istorinė priklausomybė: 2028 / pirmųjų pagalbos formų sluoksnis / kanono spragų fiksavimo pradžia
+Susiję uždari dokumentai: nėra
+Susijusių uždarų dokumentų kodai: nėra
+Kalba originalo: LT
+Vieša lietuviška versija: yra
+Vertimo statusas: LT_READY
+Viešas rodymas: PUBLIC_READY
+
+Dokumento kodas:
+A-2028-07-18-01
+
+Tipas:
+pirmųjų GAP-NOTE įrašų atramos dokumentas
+
+Pavadinimas:
+Pirmųjų GAP-NOTE įrašų atrama
+
+Susijusi publikacija:
+2028 m. liepos 18 d. – Pradėta fiksuoti pirmuosius kanono spragų įrašus pagal skaitytojų pastabas
+
+# A-2028-07-18-01
+# Pirmųjų GAP-NOTE įrašų atrama
+
+Data: 2028 m. liepos 18 d.
+Vieta: BVK svetainės viešasis sluoksnis / kanono spragų darbo sluoksnis
+Būsena: vieša archyvinė atrama
+
+## Įvykis
+
+Pradėta fiksuoti pirmuosius kanono spragų įrašus pagal skaitytojų pastabas.
+
+Po pirmosios pastabų peržiūros tvarkos paaiškėjo, kad ne kiekviena pastaba turi būti iš karto paverčiama pataisa. Kai kurios pastabos rodo gilesnę problemą: trūksta dokumento, neaiški sąvoka, nėra atramos minimam įvykiui arba skaitytojas neranda ryšio tarp naujienos ir archyvo.
+
+Tokiais atvejais reikia ne skubėti taisyti tekstą, o pažymėti spragą.
+
+## Kodėl tai svarbu
+
+BVK Canon negali augti tik pridedant naujus tekstus.
+
+Jis turi mokėti matyti, kur pats dar nėra pilnas.
+
+GAP-NOTE reikalingas tada, kai klausimas ar pastaba parodo, kad kanone trūksta jungties:
+
+- naujiena mini dokumentą, kurio nėra;
+- sąvoka kartojasi, bet neturi kortelės;
+- skaitytojas painioja laikotarpius;
+- archyvo kortelė nerodo pakankamo konteksto;
+- viešas tekstas remiasi mintimi, kuri dar neaprašyta;
+- būsima tema jau minima, bet jos vieta chronologijoje neaiški.
+
+Spraga nėra klaida, kurios reikia gėdytis. Tai ženklas, kur kanonas turi augti toliau.
+
+## Kas yra GAP-NOTE
+
+GAP-NOTE yra trumpas darbo įrašas apie kanono spragą.
+
+Jis neturi iš karto tapti taisykle, protokolu ar nauju pasaulio dokumentu.
+
+Jo paskirtis:
+
+- užfiksuoti klausimą;
+- parodyti, kur trūksta atramos;
+- neleisti spragai pasimesti;
+- padėti vėliau nuspręsti, ar reikia naujo dokumento;
+- apsaugoti naujienas nuo nepagrįstų teiginių.
+
+## Pirmoji GAP-NOTE struktūra
+
+Rekomenduojama paprasta struktūra:
+
+GAP kodas:
+GAP-2028-XX
+
+Data:
+YYYY-MM-DD
+
+Klausimas arba spraga:
+Trumpas aprašymas, ko trūksta.
+
+Kur pastebėta:
+Naujiena, dokumentas, kortelė arba skaitytojo klausimas.
+
+Galimas veiksmas:
+FAQ papildymas, kalbos kortelė, archyvo atrama, pataisa, naujas dokumentas arba atidėjimas.
+
+Statusas:
+atvira / nagrinėjama / uždaryta / perkelta į dokumentą.
+
+## Ko GAP-NOTE nesukuria
+
+GAP-NOTE nesukuria:
+
+- naujos taisyklės;
+- oficialaus sprendimo;
+- teisės keisti kanoną;
+- įsipareigojimo greitai atsakyti;
+- nario ar dalyvio statuso;
+- viešo ginčo su skaitytoju.
+
+Tai tik atminties priemonė.
+
+## Realistinis apribojimas
+
+2028 metais GAP-NOTE sistema turi būti labai paprasta.
+
+Per anksti sukurta sudėtinga spragų valdymo sistema imituotų didelę organizaciją. Todėl pakanka kelių aiškių laukų ir sąžiningo principo: jeigu klausimas parodė trūkumą, jis turi būti pažymėtas, bet nebūtinai iš karto išspręstas.
+
+## Ryšys su romano baze
+
+Ateities Respublika negali atrodyti taip, lyg jos kanonas nuo pradžių buvo tobulas.
+
+Pirmieji GAP-NOTE įrašai rodo, kad sistema mokėsi pripažinti savo neužbaigtumą. Tai svarbu romanui: vėlesnė brandi tvarka turės šaknis ne tik dideliuose dokumentuose, bet ir mažuose pripažinimuose, kad kažko dar nėra, kažkas neaišku, kažką reikia patikrinti.
+
+Tai suteikia pasauliui tikroviškumo. Didelė sistema prasideda nuo gebėjimo pasakyti: čia dar yra spraga.
+
+## Ryšys su ankstesniais dokumentais
+
+Susijusios atramos:
+
+- A-2028-05-16-01 — Pirmojo „Kaip galima padėti“ puslapio atrama;
+- A-2028-06-20-01 — Pirmųjų pastabų peržiūros tvarkos atrama;
+- A-2027-06-14-01 — Pirmųjų skaitytojų klausimų atrama;
+- A-2027-06-30-01 — Pirmosios BVK FAQ struktūros atrama;
+- A-2027-10-04-01 — Pirmųjų vertimų ir kalbos kortelių atrama.
+
+## Atviri klausimai
+
+- ar GAP-NOTE įrašai turi būti vieši;
+- ar jiems reikia atskiro indekso;
+- ar kiekviena spraga turi turėti kodą;
+- kada spraga laikoma uždaryta;
+- ar skaitytojui reikia pranešti, kad jo klausimas virto GAP-NOTE;
+- ar GAP-NOTE turi būti SERVICE, PUBLIC ar mišraus statuso.
+
+## Pirminė išvada
+
+Pirmieji GAP-NOTE įrašai padeda BVK projektui augti ne tik per atsakymus, bet ir per sąžiningą spragų pripažinimą.
+
+Kanonas tampa stipresnis ne tada, kai apsimeta užbaigtas, o tada, kai moka tiksliai pažymėti, kur dar trūksta atramos.
