@@ -1,0 +1,914 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2029-07-10
+Dabartinė redakcija: 2029-07-10
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+Dokumento kodas: A-2029-07-10-01
+Pavadinimas: 50 žmonių maisto žaliavų ir gamybos savikainos detalizavimo atrama
+
+# A-2029-07-10-01
+# 50 žmonių maisto žaliavų ir gamybos savikainos detalizavimo atrama
+
+Data: 2029 m. liepos 10 d.
+
+## Įvykis
+
+Po 50 žmonių bazinio aprūpinimo infrastruktūros CAPEX ir OPEX skaičiavimų atskirai detalizuojama maisto žaliavų ir gamybos savikainos dalis.
+
+Ankstesniame OPEX dokumente maisto žaliavoms buvo įvesta pirmoji darbinė prielaida:
+
+| Scenarijus | Maistas žmogui per dieną | 50 žmonių per dieną | Per metus be rezervo | Su 10 % rezervu |
+|---|---:|---:|---:|---:|
+| Minimalus | 4,00 Eur | 200 Eur | 73 000 Eur | apie 80 000 Eur |
+| Patikimas | 6,50 Eur | 325 Eur | 118 625 Eur | apie 130 000 Eur |
+| Sustiprintas | 9,00 Eur | 450 Eur | 164 250 Eur | apie 181 000 Eur |
+
+Šie skaičiai buvo naudingi bendrai OPEX logikai, bet jie dar neatsakė, kas tiksliai slypi po žodžiu „maistas“. Šis dokumentas išskaido maisto žaliavas į dalis, įveda paprastą dienos krepšelio struktūrą, skaičiuoja nuostolius, atsargas, gamybos savikainą ir parodo, kaip maisto grandinė jungiasi su energija, vandeniu, transportu, sandėliu, higiena ir darbu.
+
+Tai nėra mitybos normatyvas, medicininė rekomendacija ar valgiaraštis. Tai yra darbo skaičiavimo atrama BVK miesto modelio maisto aprūpinimo logikai.
+
+## Skaičiavimo tikslas
+
+Dokumento tikslas:
+
+- nustatyti, iš ko susideda 50 žmonių dienos maisto krepšelis;
+- atskirti minimalų, patikimą ir sustiprintą maisto scenarijų;
+- parodyti, kiek kainuoja ne tik produktai, bet ir gamybos nuostoliai;
+- įtraukti sandėliavimo, sezoniškumo ir transporto įtaką;
+- parodyti, kodėl vien „produktų kaina parduotuvėje“ nėra tikra savikaina;
+- parengti pagrindą būsimam vietinės maisto gamybos moduliui;
+- nustatyti, kokie produktai gali būti gaminami vietoje pirmiausia.
+
+## Pagrindinis principas
+
+Maisto savikaina BVK modelyje turi būti skaičiuojama ne kaip atsitiktinis pigiausių produktų sąrašas, o kaip pasikartojanti sistema.
+
+Sistema turi atsakyti į keturis klausimus:
+
+1. Ar žmonės gauna pakankamai energijos ir paprastą maisto įvairovę?
+2. Ar produktai gali būti perkami, laikomi, paruošiami ir paskirstomi be didelių praradimų?
+3. Kuri dalis gali būti vietoje gaminama arba ruošiama?
+4. Kiek kainuoja ne tik žaliavos, bet ir nuostoliai, rezervas, pakuotė, higiena, transportas ir darbas?
+
+Jeigu maisto kaina skaičiuojama tik pagal žaliavas be nuostolių, ji beveik visada bus per maža.
+
+## 50 žmonių dienos maisto modelis
+
+Darbinė prielaida:
+
+- žmonių skaičius: 50;
+- ciklas: 1 diena;
+- skaičiuojamas bazinis aprūpinimas, ne restoranas;
+- maistas turi būti paprastas, pakartojamas ir realiai paruošiamas;
+- dalis maisto gali būti ruošiama centralizuotai;
+- dalis gali būti išduodama kaip produktų paketas.
+
+### Minimalus scenarijus
+
+Minimalus scenarijus reiškia, kad maistas padengia bazinį poreikį, bet turi mažiau įvairovės ir mažesnį rezervą.
+
+Dienos žmogaus krepšelis:
+
+| Produktų grupė | Kiekis žmogui per dieną | 50 žmonių per dieną |
+|---|---:|---:|
+| Grūdai, kruopos, makaronai, duona | 350 g | 17,5 kg |
+| Bulvės arba kitos pigios daržovės | 300 g | 15,0 kg |
+| Daržovės / rauginti produktai | 250 g | 12,5 kg |
+| Baltymai: kiaušiniai, ankštiniai, nedidelė mėsos ar žuvies dalis | 180 g | 9,0 kg |
+| Pienas, varškė, kefyras arba kitas pieno produktas | 200 g/ml | 10,0 kg/l |
+| Aliejus, riebalai, padažai | 25 g | 1,25 kg |
+| Vaisiai arba paprastas desertas | 150 g | 7,5 kg |
+| Arbata, prieskoniai, cukrus, smulkūs priedai | — | bendra eilutė |
+
+Šis scenarijus yra išgyvenimo ir bazinio aprūpinimo scenarijus, ne patogaus gyvenimo scenarijus.
+
+### Patikimas scenarijus
+
+Patikimas scenarijus turi didesnę įvairovę, geresnę baltymų dalį, daugiau vaisių ir didesnį rezervą.
+
+Dienos žmogaus krepšelis:
+
+| Produktų grupė | Kiekis žmogui per dieną | 50 žmonių per dieną |
+|---|---:|---:|
+| Grūdai, kruopos, makaronai, duona | 400 g | 20,0 kg |
+| Bulvės, šakninės ir sezoninės daržovės | 350 g | 17,5 kg |
+| Daržovės, rauginti arba marinuoti produktai | 350 g | 17,5 kg |
+| Baltymai: mėsa, žuvis, kiaušiniai, ankštiniai | 250 g | 12,5 kg |
+| Pieno produktai | 300 g/ml | 15,0 kg/l |
+| Aliejus, riebalai, padažai | 35 g | 1,75 kg |
+| Vaisiai arba uogos | 250 g | 12,5 kg |
+| Arbata, prieskoniai, cukrus, smulkūs priedai | — | bendra eilutė |
+
+Šis scenarijus laikomas pirmu normaliu darbo standartu.
+
+### Sustiprintas scenarijus
+
+Sustiprintas scenarijus turi daugiau įvairovės, didesnį baltymų pasirinkimą, geresnį vaisių ir daržovių kiekį, dalį specialių dietinių poreikių ir didesnį atsargų rezervą.
+
+Dienos žmogaus krepšelis:
+
+| Produktų grupė | Kiekis žmogui per dieną | 50 žmonių per dieną |
+|---|---:|---:|
+| Grūdai, kruopos, makaronai, duona | 450 g | 22,5 kg |
+| Bulvės, šakninės ir sezoninės daržovės | 400 g | 20,0 kg |
+| Daržovės, rauginti arba marinuoti produktai | 450 g | 22,5 kg |
+| Baltymai: mėsa, žuvis, kiaušiniai, ankštiniai | 320 g | 16,0 kg |
+| Pieno produktai | 350 g/ml | 17,5 kg/l |
+| Aliejus, riebalai, padažai | 45 g | 2,25 kg |
+| Vaisiai, uogos, papildomi produktai | 350 g | 17,5 kg |
+| Arbata, prieskoniai, cukrus, smulkūs priedai | — | bendra eilutė |
+
+Šis scenarijus yra ne prabangos scenarijus, o geresnio atsparumo ir įvairovės scenarijus.
+
+## Darbinės kainų prielaidos
+
+Šiame dokumente naudojamos apvalintos darbo kainos. Jos nėra konkretaus tiekėjo pasiūlymas ir turi būti tikslinamos pagal laiką, vietą, sezoną ir tiekimo būdą.
+
+### Minimalus kainų krepšelis
+
+| Produktų grupė | Kaina už kg/l | 50 žmonių kiekis | Dienos suma |
+|---|---:|---:|---:|
+| Grūdai / duona / kruopos | 1,40 Eur | 17,5 kg | 24,50 Eur |
+| Bulvės / pigios daržovės | 0,80 Eur | 15,0 kg | 12,00 Eur |
+| Daržovės / rauginti produktai | 1,20 Eur | 12,5 kg | 15,00 Eur |
+| Baltymai | 4,00 Eur | 9,0 kg | 36,00 Eur |
+| Pieno produktai | 1,60 Eur | 10,0 kg/l | 16,00 Eur |
+| Aliejus / riebalai | 3,50 Eur | 1,25 kg | 4,38 Eur |
+| Vaisiai / paprastas desertas | 1,50 Eur | 7,5 kg | 11,25 Eur |
+| Smulkūs priedai | — | — | 8,00 Eur |
+
+Tiesioginė dienos žaliavų suma:
+
+24,50 + 12,00 + 15,00 + 36,00 + 16,00 + 4,38 + 11,25 + 8,00 = 127,13 Eur
+
+Vienam žmogui:
+
+127,13 / 50 = 2,54 Eur
+
+Tai rodo, kad 4 Eur minimalus OPEX dokumento skaičius turėjo rezervą. Tačiau šis tiesioginis skaičius dar neįtraukia nuostolių, pakuotės, transporto, sandėliavimo, higienos ir kainų svyravimo.
+
+### Patikimas kainų krepšelis
+
+| Produktų grupė | Kaina už kg/l | 50 žmonių kiekis | Dienos suma |
+|---|---:|---:|---:|
+| Grūdai / duona / kruopos | 1,80 Eur | 20,0 kg | 36,00 Eur |
+| Bulvės / šakninės daržovės | 1,00 Eur | 17,5 kg | 17,50 Eur |
+| Daržovės / rauginti produktai | 1,80 Eur | 17,5 kg | 31,50 Eur |
+| Baltymai | 5,80 Eur | 12,5 kg | 72,50 Eur |
+| Pieno produktai | 2,00 Eur | 15,0 kg/l | 30,00 Eur |
+| Aliejus / riebalai | 4,00 Eur | 1,75 kg | 7,00 Eur |
+| Vaisiai / uogos | 2,20 Eur | 12,5 kg | 27,50 Eur |
+| Smulkūs priedai | — | — | 15,00 Eur |
+
+Tiesioginė dienos žaliavų suma:
+
+36,00 + 17,50 + 31,50 + 72,50 + 30,00 + 7,00 + 27,50 + 15,00 = 237,00 Eur
+
+Vienam žmogui:
+
+237,00 / 50 = 4,74 Eur
+
+Tai dar ne galutinė savikaina. Pridėjus nuostolius, pakuotę, transporto dalį ir kainų rezervą, skaičius artėja prie 6,50 Eur žmogui per dieną.
+
+### Sustiprintas kainų krepšelis
+
+| Produktų grupė | Kaina už kg/l | 50 žmonių kiekis | Dienos suma |
+|---|---:|---:|---:|
+| Grūdai / duona / kruopos | 2,00 Eur | 22,5 kg | 45,00 Eur |
+| Bulvės / šakninės daržovės | 1,20 Eur | 20,0 kg | 24,00 Eur |
+| Daržovės / rauginti produktai | 2,30 Eur | 22,5 kg | 51,75 Eur |
+| Baltymai | 7,00 Eur | 16,0 kg | 112,00 Eur |
+| Pieno produktai | 2,40 Eur | 17,5 kg/l | 42,00 Eur |
+| Aliejus / riebalai | 4,50 Eur | 2,25 kg | 10,13 Eur |
+| Vaisiai / uogos / papildomi produktai | 3,00 Eur | 17,5 kg | 52,50 Eur |
+| Smulkūs priedai | — | — | 25,00 Eur |
+
+Tiesioginė dienos žaliavų suma:
+
+45,00 + 24,00 + 51,75 + 112,00 + 42,00 + 10,13 + 52,50 + 25,00 = 362,38 Eur
+
+Vienam žmogui:
+
+362,38 / 50 = 7,25 Eur
+
+Pridėjus nuostolius, pakuotę, transportą ir rezervą, sustiprintas scenarijus artėja prie 9 Eur žmogui per dieną.
+
+## Nuostolių ir rezervo skaičiavimas
+
+Maisto žaliavos ne visada sunaudojamos idealiai.
+
+Nuostolių šaltiniai:
+
+- sugedę produktai;
+- netikslus poreikio planavimas;
+- transporto pažeidimai;
+- sandėliavimo klaidos;
+- paruošimo atliekos;
+- sezoniniai kainų šuoliai;
+- avarinis papildymas;
+- specialūs poreikiai;
+- pakuotės ir išdavimo praradimai.
+
+Įvedami trys rezervai:
+
+| Scenarijus | Nuostolių ir rezervo procentas |
+|---|---:|
+| Minimalus | 20 % |
+| Patikimas | 30 % |
+| Sustiprintas | 25 % |
+
+Kodėl patikimas scenarijus turi 30 procentų, o sustiprintas 25 procentus?
+
+Patikimas scenarijus turi platesnę įvairovę, bet dar neturi pilnos stiprios sandėliavimo ir kontrolės sistemos. Sustiprintas scenarijus turi brangesnį krepšelį, bet geresnę kontrolę ir sandėliavimą, todėl santykinis nuostolių procentas gali būti mažesnis.
+
+### Minimalus su rezervu
+
+Tiesioginė suma:
+
+127,13 Eur per dieną
+
+20 % rezervas:
+
+127,13 × 0,20 = 25,43 Eur
+
+Galutinė dienos suma:
+
+127,13 + 25,43 = 152,56 Eur
+
+Vienam žmogui:
+
+152,56 / 50 = 3,05 Eur
+
+Apvalinama darbo modeliui:
+
+apie 3,00-4,00 Eur žmogui per dieną.
+
+OPEX dokumente naudotas 4,00 Eur skaičius paliekamas kaip saugesnė minimali riba.
+
+### Patikimas su rezervu
+
+Tiesioginė suma:
+
+237,00 Eur per dieną
+
+30 % rezervas:
+
+237,00 × 0,30 = 71,10 Eur
+
+Galutinė dienos suma:
+
+237,00 + 71,10 = 308,10 Eur
+
+Vienam žmogui:
+
+308,10 / 50 = 6,16 Eur
+
+Apvalinama darbo modeliui:
+
+apie 6,50 Eur žmogui per dieną.
+
+### Sustiprintas su rezervu
+
+Tiesioginė suma:
+
+362,38 Eur per dieną
+
+25 % rezervas:
+
+362,38 × 0,25 = 90,60 Eur
+
+Galutinė dienos suma:
+
+362,38 + 90,60 = 452,98 Eur
+
+Vienam žmogui:
+
+452,98 / 50 = 9,06 Eur
+
+Apvalinama darbo modeliui:
+
+apie 9,00 Eur žmogui per dieną.
+
+## Metinė žaliavų savikaina
+
+### Minimalus scenarijus
+
+Dienos suma:
+
+4,00 Eur × 50 = 200 Eur
+
+Metai:
+
+200 × 365 = 73 000 Eur
+
+Su 10 % bendru metiniu rezervu:
+
+73 000 × 1,10 = 80 300 Eur
+
+Apvalinama:
+
+80 000 Eur per metus.
+
+### Patikimas scenarijus
+
+Dienos suma:
+
+6,50 Eur × 50 = 325 Eur
+
+Metai:
+
+325 × 365 = 118 625 Eur
+
+Su 10 % bendru metiniu rezervu:
+
+118 625 × 1,10 = 130 488 Eur
+
+Apvalinama:
+
+130 000 Eur per metus.
+
+### Sustiprintas scenarijus
+
+Dienos suma:
+
+9,00 Eur × 50 = 450 Eur
+
+Metai:
+
+450 × 365 = 164 250 Eur
+
+Su 10 % bendru metiniu rezervu:
+
+164 250 × 1,10 = 180 675 Eur
+
+Apvalinama:
+
+181 000 Eur per metus.
+
+## Mėnesinė žaliavų savikaina
+
+| Scenarijus | Metai | Mėnuo | Žmogui per mėnesį |
+|---|---:|---:|---:|
+| Minimalus | 80 000 Eur | 6 667 Eur | 133 Eur |
+| Patikimas | 130 000 Eur | 10 833 Eur | 217 Eur |
+| Sustiprintas | 181 000 Eur | 15 083 Eur | 302 Eur |
+
+Šie skaičiai rodo tik maisto žaliavas su rezervu. Jie neapima viso infrastruktūros OPEX, darbo užmokesčio, būsto, medicinos, švietimo ir pilno socialinio paketo.
+
+## Maisto gamybos savikaina
+
+Žaliavos nėra visa gamybos savikaina.
+
+Gamybos savikainą sudaro:
+
+1. Žaliavos.
+2. Vanduo.
+3. Energija.
+4. Higiena.
+5. Pakuotė.
+6. Darbo laikas.
+7. Įrangos priežiūra.
+8. Sandėliavimas.
+9. Transportas.
+10. Nuostoliai.
+
+Dalis šių išlaidų jau įtraukta į infrastruktūros OPEX. Kad nebūtų dvigubo skaičiavimo, šiame skyriuje išskiriama tik maisto gamybos papildoma dalis.
+
+## Pakuotės ir išdavimo priemonės
+
+Jeigu maistas išduodamas porcijomis arba kaip paruoštas produktų paketas, reikalinga pakuotė.
+
+Minimalus scenarijus:
+
+- daugkartiniai indai;
+- paprastos dėžės;
+- minimalus ženklinimas;
+- mažai vienkartinės pakuotės.
+
+Papildoma pakuotės prielaida:
+
+0,20 Eur žmogui per dieną.
+
+50 žmonių:
+
+0,20 × 50 = 10 Eur per dieną
+
+Per metus:
+
+10 × 365 = 3650 Eur
+
+Patikimas scenarijus:
+
+0,45 Eur žmogui per dieną
+
+0,45 × 50 = 22,50 Eur per dieną
+
+22,50 × 365 = 8212,50 Eur
+
+Sustiprintas scenarijus:
+
+0,80 Eur žmogui per dieną
+
+0,80 × 50 = 40 Eur per dieną
+
+40 × 365 = 14 600 Eur
+
+Apvalinama:
+
+| Scenarijus | Pakuotės ir išdavimo priemonės per metus |
+|---|---:|
+| Minimalus | 3 500-4 000 Eur |
+| Patikimas | 8 000-9 000 Eur |
+| Sustiprintas | 14 000-16 000 Eur |
+
+## Vandens dalis maisto gamyboje
+
+Bendrame vandens modelyje maisto ruošimas jau įtrauktas į vandens poreikį.
+
+Tačiau maisto modulyje svarbu žinoti, kokia vandens dalis susijusi su maistu.
+
+Darbinė prielaida:
+
+- maisto ruošimas: 5 l žmogui per dieną;
+- indų plovimas: 7 l žmogui per dieną;
+- maisto ruošimo vietos plovimas: 180 l per dieną visam moduliui.
+
+50 žmonių:
+
+5 l × 50 = 250 l
+
+7 l × 50 = 350 l
+
+Bendra su plovimo zona:
+
+250 + 350 + 180 = 780 l per dieną
+
+Tai yra:
+
+0,78 m³ per dieną.
+
+Metams:
+
+0,78 × 365 = 284,7 m³
+
+Apvalinama:
+
+apie 285 m³ per metus.
+
+Tai reiškia, kad apie trečdalis viso 3,2 m³ dienos vandens poreikio gali būti tiesiogiai susijusi su maisto ruošimu, plovimu ir maisto higiena.
+
+## Energijos dalis maisto gamyboje
+
+Energijos dokumente maisto paruošimui buvo skaičiuota:
+
+4,0 kW × 3 val. = 12,0 kWh per dieną
+
+Taip pat šaldymas:
+
+8,0 kWh per dieną
+
+Bendra maisto grandinės energijos dalis:
+
+12,0 + 8,0 = 20,0 kWh per dieną
+
+Tai yra labai didelė bendro 31-32 kWh dienos energijos poreikio dalis.
+
+Santykis:
+
+20 / 32 = 0,625
+
+Tai reiškia:
+
+apie 62,5 % dienos energijos poreikio gali būti susiję su maisto paruošimu ir laikymu.
+
+Todėl maisto savikaina negali būti atskirta nuo energijos modulio.
+
+## Darbo laikas maisto grandinėje
+
+Maistas reikalauja darbo.
+
+Minimalus scenarijus:
+
+| Funkcija | Valandos per dieną |
+|---|---:|
+| Produktų priėmimas | 0,5-1,0 |
+| Paruošimas | 3,0-4,0 |
+| Paskirstymas | 1,0-1,5 |
+| Plovimas ir tvarkymas | 1,5-2,0 |
+| Apskaita ir planavimas | 0,5-1,0 |
+
+Minimalus dienos darbo laikas:
+
+6,5-9,5 val.
+
+Per savaitę:
+
+45,5-66,5 val.
+
+Patikimas scenarijus:
+
+| Funkcija | Valandos per dieną |
+|---|---:|
+| Produktų priėmimas ir patikra | 1,0-1,5 |
+| Paruošimas | 5,0-7,0 |
+| Paskirstymas | 1,5-2,5 |
+| Plovimas ir higiena | 2,5-4,0 |
+| Sandėlio papildymas | 1,0-2,0 |
+| Planavimas ir apskaita | 1,0-1,5 |
+
+Patikimas dienos darbo laikas:
+
+12,0-18,5 val.
+
+Per savaitę:
+
+84-129,5 val.
+
+Sustiprintas scenarijus:
+
+20-35 val. per dieną, jeigu įtraukiamas konservavimas, didesnė gamyba, ilgiau saugomų produktų paruošimas ir platesnis paskirstymas.
+
+Tai reiškia, kad maisto modulis nėra tik produktų pirkimas. Tai yra darbo organizavimo sistema.
+
+## Vietinės gamybos kryptys
+
+50 žmonių modelis negali iš karto visko pasigaminti pats. Tačiau galima nustatyti pirmas realistiškas vietinės gamybos kryptis.
+
+### Pirma kryptis: duona ir paprasti kepiniai
+
+Privalumai:
+
+- kasdienis poreikis;
+- aiškus produktas;
+- galima gaminti mažesniu mastu;
+- lengva susieti su bendra virtuve;
+- gali tapti pirmu parduodamu produktu.
+
+Rizikos:
+
+- reikia įrangos;
+- reikia stabilios kokybės;
+- reikia higienos;
+- reikia energijos;
+- reikia miltų tiekimo.
+
+### Antra kryptis: sriubos ir paruošti pietūs
+
+Privalumai:
+
+- tiesiogiai susiję su baziniu aprūpinimu;
+- galima naudoti sezonines daržoves;
+- galima dalį gaminti didesnėmis partijomis.
+
+Rizikos:
+
+- trumpas galiojimas;
+- šaldymo poreikis;
+- higienos rizika;
+- pakuotės poreikis.
+
+### Trečia kryptis: rauginti ir marinuoti produktai
+
+Privalumai:
+
+- ilgesnis laikymas;
+- sezoninių produktų panaudojimas;
+- mažesnis šaldymo poreikis;
+- gali mažinti žiemos pirkimo riziką.
+
+Rizikos:
+
+- reikia kokybės kontrolės;
+- reikia talpų;
+- reikia vietos;
+- reikia proceso disciplinos.
+
+### Ketvirta kryptis: daržovių paruošiniai ir uogienės
+
+Privalumai:
+
+- sezoninis perteklius gali būti išsaugomas;
+- didina atsparumą;
+- tinka atsargų logikai.
+
+Rizikos:
+
+- sezoninis darbo pikas;
+- pakuotės poreikis;
+- cukraus, acto, stiklainių ir energijos poreikis.
+
+### Penkta kryptis: žolelių arbatos ir džiovinti produktai
+
+Privalumai:
+
+- lengvas sandėliavimas;
+- mažesnis svoris;
+- mažesnis gedimo pavojus;
+- gali būti kultūrinis ir ekonominis produktas.
+
+Rizikos:
+
+- lėtas augimas;
+- mažesnė bazinio maisto reikšmė;
+- reikia rinkimo, džiovinimo ir kokybės taisyklių.
+
+## Ką galima gaminti vietoje pirmiausia
+
+Pirmas realistiškas vietinės gamybos rinkinys:
+
+| Produktas | Kodėl tinka pirmam etapui |
+|---|---|
+| Duona | kasdienis poreikis, aiški savikaina |
+| Sriuba stiklainiuose arba dienos pietūs | galima planuoti partijomis |
+| Rauginti agurkai / kopūstai | ilgesnis laikymas |
+| Daržovių paruošiniai | sezoninio pertekliaus panaudojimas |
+| Uogienės | paprasta technologija, ilgesnis laikymas |
+| Žolelių arbatos | mažas sandėliavimo krūvis |
+| Paprasti kepiniai | galima pardavimo kryptis |
+
+Tai sutampa su ankstyva BVK bendro ūkio produktų linija, bet šiame dokumente jie vertinami ne kaip graži idėja, o kaip maisto savikainos ir atsargų valdymo dalis.
+
+## Vietinės gamybos ekonominis poveikis
+
+Vietinė gamyba gali mažinti dalį pirkimo kainos, bet ji nepadaro maisto nemokamu.
+
+Ji sukuria kitas išlaidas:
+
+- įranga;
+- energija;
+- vanduo;
+- pakuotė;
+- higiena;
+- patikros;
+- darbo laikas;
+- sandėliavimas;
+- brokas;
+- receptūrų testavimas;
+- atliekos.
+
+Todėl vietinė gamyba turi būti skaičiuojama ne kaip „sutaupymas“, o kaip tiekimo rizikos mažinimas ir vertės kūrimas.
+
+Pavyzdys:
+
+Jeigu duona perkama po 2,50 Eur/kg, o vietinė žaliavų savikaina yra 1,20 Eur/kg, atrodytų, kad sutaupoma 1,30 Eur/kg.
+
+Bet reikia pridėti:
+
+- energiją;
+- darbą;
+- įrangos nusidėvėjimą;
+- broką;
+- pakuotę;
+- higieną;
+- patalpų priežiūrą.
+
+Tik po to galima spręsti, ar vietinė gamyba pigesnė.
+
+## Atsargų dienų skaičiavimas
+
+Maisto modulis turi turėti atsargų dienas.
+
+### Minimalus atsargų lygis
+
+Minimalus:
+
+3 dienos.
+
+Jeigu minimalus dienos maisto žaliavų poreikis 50 žmonių yra 200 Eur:
+
+200 × 3 = 600 Eur
+
+Tačiau pinigai nėra visas atsargų kiekis. Reikia fizinių produktų:
+
+- kruopos;
+- duona arba miltai;
+- konservai;
+- rauginti produktai;
+- vanduo;
+- aliejus;
+- druska;
+- cukrus;
+- ankštiniai;
+- pieno pakaitalai arba ilgiau laikomi produktai.
+
+### Patikimas atsargų lygis
+
+Patikimas:
+
+7 dienos.
+
+Patikimas dienos poreikis:
+
+325 Eur
+
+325 × 7 = 2275 Eur
+
+Su 20 % atsargų rezervu:
+
+2275 × 1,20 = 2730 Eur
+
+Apvalinama:
+
+apie 2700-3000 Eur maisto atsargų vertės.
+
+### Sustiprintas atsargų lygis
+
+Sustiprintas:
+
+14 dienų.
+
+Sustiprintas dienos poreikis:
+
+450 Eur
+
+450 × 14 = 6300 Eur
+
+Su 25 % rezervu:
+
+6300 × 1,25 = 7875 Eur
+
+Apvalinama:
+
+apie 8000 Eur maisto atsargų vertės.
+
+## Avarinis maisto režimas
+
+Avarinis režimas nereiškia patogaus maitinimo. Jis reiškia gebėjimą išlaikyti žmones trumpą laiką, kai įprastas tiekimas sutrinka.
+
+Avarinis dienos krepšelis žmogui:
+
+- grūdai / kruopos / makaronai;
+- konservai arba ankštiniai;
+- aliejus;
+- druska;
+- arbata;
+- paprasti ilgo laikymo produktai;
+- minimalūs vitaminų šaltiniai, jeigu įmanoma.
+
+Darbinė avarinė prielaida:
+
+2,50 Eur žmogui per dieną.
+
+50 žmonių:
+
+2,50 × 50 = 125 Eur per dieną
+
+7 dienos:
+
+125 × 7 = 875 Eur
+
+14 dienų:
+
+125 × 14 = 1750 Eur
+
+Tačiau avarinės atsargos turi būti rotuojamos, todėl jų kaina kasmet atsiranda OPEX dokumente kaip atsargų atnaujinimo dalis.
+
+## Maisto atliekos
+
+Maisto atliekos turi būti įtrauktos į modelį.
+
+Atliekų šaltiniai:
+
+- paruošimo atliekos;
+- sugedę produktai;
+- neplanuotas perteklius;
+- pakuotė;
+- pasibaigęs galiojimas;
+- grąžintos porcijos;
+- sandėliavimo klaidos.
+
+Atliekų mažinimo kryptys:
+
+- planuoti porcijas;
+- naudoti sezoninius produktus;
+- rauginti, džiovinti, konservuoti;
+- laikyti aiškią atsargų apskaitą;
+- pirma naudoti senesnius produktus;
+- turėti aiškias receptūras;
+- atskirti žmonių maistą, gyvūnų pašarą ir kompostavimą;
+- nenaudoti sugedusio maisto žmonėms.
+
+Maisto atliekos taip pat jungiasi su:
+
+- kompostu;
+- biodujų idėja ateityje;
+- nuotekų sistema;
+- higiena;
+- kvapų kontrole;
+- transportu.
+
+## Ryšys su energija
+
+Maisto modulis yra didžiausias energijos vartotojas 50 žmonių baziniame modelyje.
+
+Jeigu energijos sutrikimo metu neveikia:
+
+- šaldymas;
+- kaitinimas;
+- apšvietimas;
+- vandens siurblys;
+- plovimas;
+
+maisto sistema greitai pereina į avarinį režimą.
+
+Todėl energijos dokumentuose maistas turi būti laikomas kritine apkrova.
+
+## Ryšys su vandeniu ir nuotekomis
+
+Maisto ruošimas sukuria:
+
+- vandens poreikį;
+- plovimo poreikį;
+- nuotekas;
+- riebalų ir organinių atliekų srautą;
+- higienos riziką.
+
+Todėl maisto modulis turi būti skaičiuojamas kartu su vandens ir nuotekų moduliais.
+
+## Ryšys su transportu
+
+Net jeigu dalis maisto gaminama vietoje, reikės:
+
+- miltų;
+- druskos;
+- cukraus;
+- aliejaus;
+- prieskonių;
+- pieno arba jo pakaitalų;
+- kiaušinių;
+- pakuotės;
+- atsarginių dalių;
+- sezoninių produktų.
+
+Todėl transportas lieka kritinė maisto grandinės dalis.
+
+## Ryšys su sandėliavimu
+
+Be sandėliavimo maisto kaina kyla, nes neįmanoma pirkti partijomis, laikyti atsargų ir išnaudoti sezoninių kainų.
+
+Sandėliavimas leidžia:
+
+- pirkti didesniais kiekiais;
+- išlaikyti avarinį rezervą;
+- mažinti tiekimo dažnumą;
+- mažinti transporto spaudimą;
+- planuoti meniu;
+- mažinti praradimus.
+
+Bet sandėliavimas pats kainuoja ir reikalauja kontrolės.
+
+## Pagrindinė korekcija
+
+Maisto savikaina BVK modelyje turi būti skaičiuojama trimis lygiais:
+
+1. Tiesioginės žaliavos.
+2. Žaliavos su nuostoliais ir rezervu.
+3. Pilna gamybos savikaina su pakuote, higiena, darbu, energija, vandeniu, sandėliavimu ir transportu.
+
+Jeigu naudojamas tik pirmas lygis, maisto kaina bus dirbtinai maža.
+
+## Pirmasis maisto savikainos standartas
+
+Nuo šio dokumento 50 žmonių modeliui taikomi šie darbo skaičiai:
+
+| Scenarijus | Žmogui per dieną | 50 žmonių per dieną | Per metus su rezervu |
+|---|---:|---:|---:|
+| Minimalus | 4,00 Eur | 200 Eur | apie 80 000 Eur |
+| Patikimas | 6,50 Eur | 325 Eur | apie 130 000 Eur |
+| Sustiprintas | 9,00 Eur | 450 Eur | apie 181 000 Eur |
+
+Papildomai reikia atskirai skaičiuoti:
+
+- pakuotę;
+- darbą;
+- energiją;
+- vandenį;
+- atliekas;
+- sandėliavimą;
+- vietinės gamybos įrangą;
+- avarines atsargas.
+
+## Kiti būtini dokumentai
+
+Po šio dokumento būtina parengti:
+
+1. Maisto vietinės gamybos pirmojo modulio CAPEX atramą.
+2. 7 dienų ir 14 dienų maisto atsargų struktūros atramą.
+3. Nuotekų modulio CAPEX ir OPEX detalizavimo atramą.
+4. Darbo laiko paskirstymo 50 žmonių modulyje atramą.
+5. 500 žmonių segmento maisto tiekimo ir sandėliavimo mastelio atramą.
+6. Maisto atliekų, komposto ir biodujų krypties pirminę atramą.
+
+## Išvada
+
+Maisto žaliavų ir gamybos savikainos detalizavimas parodė, kad maistas nėra viena eilutė OPEX lentelėje. Jis yra viena sudėtingiausių bazinio aprūpinimo grandžių, nes jungia pirkimą, vietinę gamybą, energiją, vandenį, nuotekas, transportą, sandėliavimą, higieną, darbą, atliekas ir avarinį režimą.
+
+Patikimas 50 žmonių maisto žaliavų modelis turi būti skaičiuojamas apie 6,50 Eur žmogui per dieną, arba apie 130 000 Eur per metus su rezervu. Tai dar nėra visas socialinis paketas ir dar nėra visa maisto infrastruktūros kaina.
+
+Nuo šio dokumento BVK modelyje maisto savikaina skaičiuojama ne kaip produktų sąrašas, o kaip pasikartojanti aprūpinimo sistema.
