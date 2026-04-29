@@ -1,0 +1,932 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2029-06-12
+Dabartinė redakcija: 2029-06-12
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+Dokumento kodas: A-2029-06-12-01
+Pavadinimas: 50 žmonių bazinio aprūpinimo infrastruktūros paketo sujungimo atrama
+
+# A-2029-06-12-01
+# 50 žmonių bazinio aprūpinimo infrastruktūros paketo sujungimo atrama
+
+Data: 2029 m. birželio 12 d.
+
+## Įvykis
+
+Po atskirų energijos, vandens, vandens modulio debito, vandens CAPEX ir energijos CAPEX skaičiavimų pirmą kartą sujungiamas 50 žmonių bazinio aprūpinimo infrastruktūros paketas.
+
+Ankstesniuose dokumentuose buvo skaičiuojami atskiri moduliai:
+
+- ekonominis bazinio aprūpinimo ciklas;
+- realios transporto sąnaudos;
+- energijos poreikis ir kritinės apkrovos;
+- vandens poreikis ir kritinis režimas;
+- vandens modulio debitas ir segmentavimas;
+- vandens modulio CAPEX;
+- energijos modulio CAPEX.
+
+Šis dokumentas pirmą kartą klausia ne kiek kainuoja vienas modulis, o kiek kainuoja visas minimalus 50 žmonių aprūpinimo mazgas, jeigu jis turi veikti ne kaip idėja, o kaip reali infrastruktūros sistema.
+
+Tai nėra miesto projektas, statybos sąmata ar veikianti organizacija 2029 metais. Tai yra skaičiavimo atrama būsimo kooperatyvinio miesto modeliui.
+
+## Skaičiavimo tikslas
+
+Tikslas yra sujungti atskirus modulius į vieną bazinį paketą ir parodyti:
+
+- kokie moduliai būtini 50 žmonių aprūpinimui;
+- kurios grandys jau paskaičiuotos;
+- kurios grandys dar tik įtraukiamos į modelį;
+- kiek kainuoja minimalus, patikimas ir sustiprintas paketas;
+- kokios priklausomybės atsiranda tarp energijos, vandens, maisto, nuotekų, transporto ir komunikacijos;
+- kodėl vien energijos arba vandens skaičiavimas nėra pakankamas;
+- kokius dokumentus reikia kurti toliau.
+
+Pagrindinis klausimas:
+
+kiek kainuoja ne atskiras įrenginys, o veikiantis 50 žmonių bazinio aprūpinimo mazgas?
+
+## Darbinė 50 žmonių prielaida
+
+Šiame dokumente naudojamas tas pats 50 žmonių modelis, kuris jau buvo naudotas ankstesniuose 2029 metų skaičiavimuose.
+
+Darbinės prielaidos:
+
+| Rodiklis | Reikšmė |
+|---|---:|
+| Žmonių skaičius | 50 |
+| Pilnas vandens poreikis | 3,2 m³ per dieną |
+| Kritinis vandens poreikis | 1,2 m³ per dieną |
+| Pilnas vandens rezervas | 10 m³ |
+| Kritinis vandens rezervas | 4 m³ |
+| Pilnas energijos poreikis | 31-32 kWh per dieną |
+| Kritinis energijos poreikis | 18-20 kWh per dieną |
+| Patikimas energijos modulis | apie 13 kW saulė + 60 kWh naudingo kaupimo |
+| Sustiprintas energijos modulis | apie 16 kW saulė + 80 kWh naudingo kaupimo |
+| Nuotekų kiekis | apie 2,6 m³ per dieną |
+| Bazinis mastelis | mažas aprūpinimo mazgas, ne miestas |
+
+## Kodėl reikia sujungimo dokumento
+
+Atskiri skaičiavimai gali klaidinti.
+
+Vandens modulis gali atrodyti aiškus, kol neįtraukiamas energijos poreikis siurbliui.
+
+Energijos modulis gali atrodyti aiškus, kol neįtraukiamas šaldymas, vanduo, maisto paruošimas ir avarinis režimas.
+
+Maisto modulis gali atrodyti paprastas, kol neįtraukiamas sandėliavimas, šaldymas, vanduo, higiena, nuotekos, transportas ir atliekos.
+
+Transporto modulis gali atrodyti kaip viena degalų eilutė, kol neįtraukiamas vairuotojo laikas, remontas, nusidėvėjimas, rizika, pakrovimas, grąžinimas ir atsarginis maršrutas.
+
+Todėl nuo šio dokumento 50 žmonių modelis turi būti skaičiuojamas kaip paketų sistema.
+
+## Bazinio aprūpinimo paketų sąrašas
+
+50 žmonių aprūpinimo mazgui reikia šių paketų:
+
+1. Energijos modulis.
+2. Vandens modulis.
+3. Maisto paruošimo ir laikymo modulis.
+4. Nuotekų ir sanitarijos modulis.
+5. Transporto ir tiekimo modulis.
+6. Sandėliavimo ir atsargų modulis.
+7. Ryšio ir valdymo modulis.
+8. Remonto ir įrankių modulis.
+9. Higienos ir saugos modulis.
+10. Rezervų ir avarinio veikimo modulis.
+
+Šie paketai nėra atskiri dekoratyvūs skyriai. Jie priklauso vienas nuo kito.
+
+## 1. Energijos modulis
+
+Ankstesnis energijos CAPEX dokumentas nustatė tris scenarijus:
+
+| Scenarijus | Sudėtis | CAPEX |
+|---|---|---:|
+| Minimalus kritinis | 8 kW saulė, 40 kWh naudingo kaupimo, mažas generatorius | 33 000-61 000 Eur |
+| Patikimas darbo | 13 kW saulė, 60 kWh naudingo kaupimo, 10-15 kW generatorius | 58 000-102 000 Eur |
+| Sustiprintas autonomijos | 16 kW saulė, 80 kWh naudingo kaupimo, 15-20 kW generatorius | 82 000-145 000 Eur |
+
+Šiame sujungimo dokumente naudojamas ne minimalus, o patikimas scenarijus kaip pagrindinis darbo standartas.
+
+Priežastis:
+
+minimalus energijos modulis tik saugo kritinį išlikimą, bet nesukuria patikimo darbo ritmo.
+
+Todėl 50 žmonių bazinio aprūpinimo pakete energijos modulis skaičiuojamas taip:
+
+- minimali riba: 33 000-61 000 Eur;
+- rekomenduojama riba: 58 000-102 000 Eur;
+- sustiprinta riba: 82 000-145 000 Eur.
+
+## 2. Vandens modulis
+
+Ankstesnis vandens CAPEX dokumentas nustatė:
+
+| Scenarijus | Sudėtis | CAPEX |
+|---|---|---:|
+| Minimalus | vienas gręžinys + talpos + bazinis paskirstymas | 8 000-12 500 Eur |
+| Patikimesnis | pagrindinis šaltinis + rezervinis kelias + talpos | 12 000-18 500 Eur |
+
+Šiame dokumente pagrindiniu darbo standartu laikomas patikimesnis vandens modulis.
+
+Priežastis:
+
+vienas šaltinis gali padengti 50 žmonių poreikį, bet autonomijos požiūriu jis yra vienas gedimo taškas.
+
+Todėl 50 žmonių pakete vandens modulis skaičiuojamas taip:
+
+- minimali riba: 8 000-12 500 Eur;
+- rekomenduojama riba: 12 000-18 500 Eur;
+- sustiprinta riba: 18 500-28 000 Eur.
+
+Sustiprinta riba įvedama šiame dokumente, nes ateityje gali reikėti papildomo rezervinio šaltinio, geresnio filtravimo, papildomos automatikos, atskiro vandens kokybės stebėjimo ir jungties su kitu moduliu.
+
+## 3. Maisto paruošimo ir laikymo modulis
+
+Ankstesni ekonominiai skaičiavimai rodė bazinį maisto aprūpinimo ciklą, tačiau dar nebuvo atskirai paskaičiuotas maisto infrastruktūros CAPEX.
+
+Todėl šiame dokumente įvedama pirmoji maisto modulio kapitalinių išlaidų prielaida.
+
+50 žmonių maisto moduliui reikia:
+
+- paruošimo vietos;
+- kaitinimo įrangos;
+- šaldymo;
+- vėsaus laikymo;
+- sausų produktų sandėliavimo;
+- darbo stalų;
+- indų;
+- plovimo zonos;
+- higienos priemonių;
+- paprasto pakavimo;
+- atsarginių konteinerių;
+- temperatūros kontrolės;
+- maisto saugos režimo.
+
+### Minimalus maisto modulis
+
+Minimalus variantas reiškia, kad galima paruošti ir laikyti bazinį maistą, bet sistema neturi didelio rezervo.
+
+| Dalis | Kaina |
+|---|---:|
+| Kaitinimo ir paruošimo įranga | 2 500-5 000 Eur |
+| Šaldymo įranga | 2 000-4 500 Eur |
+| Darbo stalai, lentynos, plovimo zona | 2 000-4 000 Eur |
+| Indai, konteineriai, smulkūs įrankiai | 1 000-2 000 Eur |
+| Higienos ir kontrolės priemonės | 700-1 500 Eur |
+| Montavimas ir pritaikymas | 1 500-3 000 Eur |
+
+Minimalus maisto modulis:
+
+2 500 + 2 000 + 2 000 + 1 000 + 700 + 1 500 = 9 700 Eur
+
+5 000 + 4 500 + 4 000 + 2 000 + 1 500 + 3 000 = 20 000 Eur
+
+Apvalinama:
+
+10 000-20 000 Eur.
+
+### Patikimas maisto modulis
+
+Patikimas variantas turi turėti daugiau šaldymo, geresnę higieną, didesnį sandėliavimą ir mažesnę gedimo riziką.
+
+| Dalis | Kaina |
+|---|---:|
+| Paruošimo įranga | 5 000-10 000 Eur |
+| Šaldymo ir vėsaus laikymo įranga | 5 000-10 000 Eur |
+| Nerūdijančio plieno darbo zonos | 4 000-8 000 Eur |
+| Sandėliavimo sistema | 2 500-5 000 Eur |
+| Plovimo ir higienos sistema | 2 500-5 000 Eur |
+| Smulkūs įrankiai ir rezervas | 2 000-4 000 Eur |
+| Montavimas ir pritaikymas | 3 000-6 000 Eur |
+
+Patikimas maisto modulis:
+
+5 000 + 5 000 + 4 000 + 2 500 + 2 500 + 2 000 + 3 000 = 24 000 Eur
+
+10 000 + 10 000 + 8 000 + 5 000 + 5 000 + 4 000 + 6 000 = 48 000 Eur
+
+Apvalinama:
+
+24 000-48 000 Eur.
+
+### Sustiprintas maisto modulis
+
+Sustiprintas variantas turi leisti ne tik paruošti maistą, bet ir kurti mažą gamybos, konservavimo arba ilgiau saugomų produktų paruošimo grandį.
+
+Pridedama:
+
+- papildomas šaldymo rezervas;
+- mažas konservavimo / pasterizavimo blokas;
+- atsarginė maisto paruošimo energijos kryptis;
+- didesnis sausų produktų sandėlis;
+- temperatūros ir higienos monitoringas.
+
+Sustiprinta prielaida:
+
+50 000-80 000 Eur.
+
+## 4. Nuotekų ir sanitarijos modulis
+
+Ankstesnis vandens dokumentas nustatė, kad apie 80 procentų panaudoto vandens tampa nuotekomis.
+
+Pilnas vandens poreikis:
+
+3,2 m³ per dieną.
+
+Nuotekų prielaida:
+
+3,2 m³ × 0,8 = 2,56 m³ per dieną.
+
+Apvalinama:
+
+2,6 m³ nuotekų per dieną.
+
+Tai reiškia, kad 50 žmonių modelis negali būti skaičiuojamas be nuotekų.
+
+### Minimalus nuotekų modulis
+
+Minimalus variantas:
+
+- vietinis biologinis valymas;
+- pirminis nusodinimas;
+- bazinis filtravimas;
+- paprastas aptarnavimo priėjimas;
+- be didesnio pakartotinio naudojimo.
+
+Darbinė CAPEX prielaida:
+
+12 000-25 000 Eur.
+
+### Patikimas nuotekų modulis
+
+Patikimas variantas:
+
+- biologinis valymas pagal 50 žmonių apkrovą;
+- atsarginė talpa;
+- geresnis aptarnavimo priėjimas;
+- valymo rezultatų stebėjimas;
+- galimybė dalį išvalyto vandens naudoti techninėms reikmėms;
+- kvapų ir gedimų kontrolė.
+
+Darbinė CAPEX prielaida:
+
+25 000-50 000 Eur.
+
+### Sustiprintas nuotekų modulis
+
+Sustiprintas variantas:
+
+- sektorinis nuotekų mazgas;
+- didesnė avarinė talpa;
+- pakartotinio techninio vandens naudojimo kontūras;
+- stebėjimo sistema;
+- jungtis su kitu moduliu;
+- geresnė gedimo izoliacija.
+
+Darbinė CAPEX prielaida:
+
+50 000-85 000 Eur.
+
+## 5. Transporto ir tiekimo modulis
+
+Transporto korekcijoje jau buvo nustatyta, kad transporto kaina nėra tik degalai. Ji apima laiką, nusidėvėjimą, riziką ir tiekimo patikimumą.
+
+50 žmonių baziniam aprūpinimui reikalinga:
+
+- bent viena krovininė transporto priemonė arba patikimas tiekimo kanalas;
+- kuro / įkrovimo rezervas;
+- pakrovimo priemonės;
+- atsarginis tiekimo maršrutas;
+- remonto rezervas;
+- vairuotojo arba atsakingo žmogaus laikas;
+- transporto grafikas.
+
+### Minimalus transporto modulis
+
+Minimalus variantas:
+
+- naudotas krovininis automobilis arba mikroautobusas;
+- bazinis draudimas ir techninė priežiūra;
+- minimalus pakrovimo inventorius.
+
+Darbinė CAPEX prielaida:
+
+8 000-18 000 Eur.
+
+### Patikimas transporto modulis
+
+Patikimas variantas:
+
+- geresnis krovininis automobilis;
+- šaldymo arba izoliuoto transporto galimybė pagal poreikį;
+- pakrovimo priemonės;
+- remonto rezervas;
+- bazinė stebėjimo ir maršrutų kontrolė.
+
+Darbinė CAPEX prielaida:
+
+18 000-40 000 Eur.
+
+### Sustiprintas transporto modulis
+
+Sustiprintas variantas:
+
+- dvi transporto priemonės arba viena pagrindinė ir viena atsarginė;
+- dalinė šaldymo grandinė;
+- didesnis kuro / įkrovimo rezervas;
+- avarinis tiekimo režimas;
+- atsarginiai maršrutai.
+
+Darbinė CAPEX prielaida:
+
+40 000-75 000 Eur.
+
+## 6. Sandėliavimo ir atsargų modulis
+
+Be sandėliavimo bazinis aprūpinimas tampa per trapus.
+
+50 žmonių moduliui reikia:
+
+- sausų produktų sandėlio;
+- šaldomo arba vėsaus laikymo;
+- vandens ir higienos atsargų;
+- įrankių ir atsarginių dalių vietos;
+- paprasto inventoriaus apskaitos;
+- apsaugos nuo drėgmės, graužikų, temperatūros svyravimų ir praradimo.
+
+### Minimalus sandėliavimo modulis
+
+- paprastas sandėliavimo kambarys arba konteineris;
+- lentynos;
+- apsauga nuo drėgmės;
+- bazinė apskaita.
+
+Darbinė CAPEX prielaida:
+
+6 000-15 000 Eur.
+
+### Patikimas sandėliavimo modulis
+
+- atskirtos zonos;
+- geresnis vėdinimas;
+- temperatūros kontrolė;
+- lentynos ir konteineriai;
+- paprasta inventoriaus sistema.
+
+Darbinė CAPEX prielaida:
+
+15 000-35 000 Eur.
+
+### Sustiprintas sandėliavimo modulis
+
+- kelių zonų sandėlis;
+- atskiras šaltas arba vėsus blokas;
+- avarinės atsargos;
+- geresnė apsauga;
+- integracija su maisto ir transporto moduliu.
+
+Darbinė CAPEX prielaida:
+
+35 000-65 000 Eur.
+
+## 7. Ryšio ir valdymo modulis
+
+50 žmonių aprūpinimo mazgas turi būti valdomas.
+
+Reikalinga:
+
+- interneto ryšys;
+- atsarginis ryšys;
+- kompiuteriai arba terminalai;
+- apskaitos sistema;
+- energijos ir vandens stebėjimo integracija;
+- atsargų apskaita;
+- incidentų registras;
+- dokumentų saugojimas;
+- vietinis duomenų rezervas.
+
+### Minimalus ryšio modulis
+
+- interneto įvadas;
+- bazinis maršrutizatorius;
+- vienas arba du kompiuteriai;
+- paprasta apskaita;
+- atsarginis maitinimas trumpam laikui.
+
+Darbinė CAPEX prielaida:
+
+2 000-5 000 Eur.
+
+### Patikimas ryšio modulis
+
+- pagrindinis ir atsarginis ryšys;
+- keli darbo terminalai;
+- vietinis atsarginių kopijų mazgas;
+- stebėjimo ekranas;
+- paprasta valdymo programinė sistema.
+
+Darbinė CAPEX prielaida:
+
+5 000-12 000 Eur.
+
+### Sustiprintas ryšio modulis
+
+- atsarginis nepriklausomas ryšys;
+- vietinis serveris arba duomenų mazgas;
+- infrastruktūros monitoringas;
+- apsaugotas dokumentų saugojimas;
+- avarinė komunikacija.
+
+Darbinė CAPEX prielaida:
+
+12 000-25 000 Eur.
+
+## 8. Remonto ir įrankių modulis
+
+Autonomija be remonto yra laikina.
+
+50 žmonių moduliui reikia turėti bazinį įrankių ir remonto paketą:
+
+- rankiniai įrankiai;
+- elektriniai įrankiai;
+- santechnikos remonto rinkinys;
+- elektros smulkių darbų rinkinys;
+- atsarginės žarnos, jungtys, filtrai;
+- smulkios tvirtinimo detalės;
+- atsarginiai siurblio ir maisto modulio elementai;
+- apsaugos priemonės;
+- techninė dokumentacija.
+
+### Minimalus remonto modulis
+
+Darbinė CAPEX prielaida:
+
+2 000-6 000 Eur.
+
+### Patikimas remonto modulis
+
+Darbinė CAPEX prielaida:
+
+6 000-15 000 Eur.
+
+### Sustiprintas remonto modulis
+
+Darbinė CAPEX prielaida:
+
+15 000-30 000 Eur.
+
+## 9. Higienos ir saugos modulis
+
+Higiena nėra priedas. Ji jungia vandenį, maistą, nuotekas, patalpas ir žmonių sveikatą.
+
+Reikalinga:
+
+- rankų plovimo vietos;
+- dezinfekcijos priemonės;
+- paviršių valymo įranga;
+- atliekų laikymo vieta;
+- darbo drabužiai;
+- pirmos pagalbos priemonės;
+- priešgaisrinės priemonės;
+- paprasta incidentų registracija;
+- sanitarinių zonų atskyrimas.
+
+### Minimalus higienos ir saugos modulis
+
+Darbinė CAPEX prielaida:
+
+3 000-8 000 Eur.
+
+### Patikimas higienos ir saugos modulis
+
+Darbinė CAPEX prielaida:
+
+8 000-18 000 Eur.
+
+### Sustiprintas higienos ir saugos modulis
+
+Darbinė CAPEX prielaida:
+
+18 000-35 000 Eur.
+
+## 10. Rezervų ir avarinio veikimo modulis
+
+Kiekvienas modulis turi savo rezervą, bet 50 žmonių paketas turi turėti ir bendrą avarinę logiką.
+
+Reikalinga:
+
+- kritinio režimo planas;
+- 3 dienų vandens rezervas;
+- maisto atsargų riba;
+- energijos kritinių apkrovų sąrašas;
+- kuro arba alternatyvios energijos rezervas;
+- ryšio atsarginis būdas;
+- rankiniai protokolai, jeigu automatika neveikia;
+- atsakingų žmonių sąrašas;
+- gedimo izoliavimo principas;
+- sprendimas, kurios apkrovos išjungiamos pirmos.
+
+### Minimalus avarinis paketas
+
+Darbinė CAPEX prielaida:
+
+3 000-8 000 Eur.
+
+### Patikimas avarinis paketas
+
+Darbinė CAPEX prielaida:
+
+8 000-20 000 Eur.
+
+### Sustiprintas avarinis paketas
+
+Darbinė CAPEX prielaida:
+
+20 000-45 000 Eur.
+
+## Bendras CAPEX skaičiavimas
+
+### Minimalus paketas
+
+Minimalus paketas reiškia, kad sistema gali veikti, bet daug kur remiasi vienu sprendimu, mažesniu rezervu ir didesne gedimo rizika.
+
+| Modulis | CAPEX |
+|---|---:|
+| Energija | 33 000-61 000 Eur |
+| Vanduo | 8 000-12 500 Eur |
+| Maistas | 10 000-20 000 Eur |
+| Nuotekos | 12 000-25 000 Eur |
+| Transportas | 8 000-18 000 Eur |
+| Sandėliavimas | 6 000-15 000 Eur |
+| Ryšys ir valdymas | 2 000-5 000 Eur |
+| Remontas ir įrankiai | 2 000-6 000 Eur |
+| Higiena ir sauga | 3 000-8 000 Eur |
+| Avarinis paketas | 3 000-8 000 Eur |
+
+Minimalios ribos suma:
+
+33 000 + 8 000 + 10 000 + 12 000 + 8 000 + 6 000 + 2 000 + 2 000 + 3 000 + 3 000 = 87 000 Eur
+
+Aukštesnės minimalios ribos suma:
+
+61 000 + 12 500 + 20 000 + 25 000 + 18 000 + 15 000 + 5 000 + 6 000 + 8 000 + 8 000 = 178 500 Eur
+
+Nenumatytų išlaidų rezervas 15 procentų:
+
+87 000 × 0,15 = 13 050 Eur
+
+178 500 × 0,15 = 26 775 Eur
+
+Galutinis minimalus paketas:
+
+100 050-205 275 Eur
+
+Apvalinama:
+
+100 000-205 000 Eur.
+
+### Patikimas darbo paketas
+
+Patikimas darbo paketas laikomas pirmu realiu 50 žmonių bazinio aprūpinimo standartu.
+
+| Modulis | CAPEX |
+|---|---:|
+| Energija | 58 000-102 000 Eur |
+| Vanduo | 12 000-18 500 Eur |
+| Maistas | 24 000-48 000 Eur |
+| Nuotekos | 25 000-50 000 Eur |
+| Transportas | 18 000-40 000 Eur |
+| Sandėliavimas | 15 000-35 000 Eur |
+| Ryšys ir valdymas | 5 000-12 000 Eur |
+| Remontas ir įrankiai | 6 000-15 000 Eur |
+| Higiena ir sauga | 8 000-18 000 Eur |
+| Avarinis paketas | 8 000-20 000 Eur |
+
+Žemesnė suma:
+
+58 000 + 12 000 + 24 000 + 25 000 + 18 000 + 15 000 + 5 000 + 6 000 + 8 000 + 8 000 = 179 000 Eur
+
+Aukštesnė suma:
+
+102 000 + 18 500 + 48 000 + 50 000 + 40 000 + 35 000 + 12 000 + 15 000 + 18 000 + 20 000 = 358 500 Eur
+
+Nenumatytų išlaidų rezervas 15 procentų:
+
+179 000 × 0,15 = 26 850 Eur
+
+358 500 × 0,15 = 53 775 Eur
+
+Galutinis patikimas paketas:
+
+205 850-412 275 Eur
+
+Apvalinama:
+
+206 000-412 000 Eur.
+
+### Sustiprintas autonomijos paketas
+
+Sustiprintas paketas skirtas ne tik veikimui, bet ir didesniam atsparumui, gedimų izoliavimui ir pasiruošimui jungtis su kitais moduliais.
+
+| Modulis | CAPEX |
+|---|---:|
+| Energija | 82 000-145 000 Eur |
+| Vanduo | 18 500-28 000 Eur |
+| Maistas | 50 000-80 000 Eur |
+| Nuotekos | 50 000-85 000 Eur |
+| Transportas | 40 000-75 000 Eur |
+| Sandėliavimas | 35 000-65 000 Eur |
+| Ryšys ir valdymas | 12 000-25 000 Eur |
+| Remontas ir įrankiai | 15 000-30 000 Eur |
+| Higiena ir sauga | 18 000-35 000 Eur |
+| Avarinis paketas | 20 000-45 000 Eur |
+
+Žemesnė suma:
+
+82 000 + 18 500 + 50 000 + 50 000 + 40 000 + 35 000 + 12 000 + 15 000 + 18 000 + 20 000 = 340 500 Eur
+
+Aukštesnė suma:
+
+145 000 + 28 000 + 80 000 + 85 000 + 75 000 + 65 000 + 25 000 + 30 000 + 35 000 + 45 000 = 613 000 Eur
+
+Nenumatytų išlaidų rezervas 15 procentų:
+
+340 500 × 0,15 = 51 075 Eur
+
+613 000 × 0,15 = 91 950 Eur
+
+Galutinis sustiprintas paketas:
+
+391 575-704 950 Eur
+
+Apvalinama:
+
+392 000-705 000 Eur.
+
+## Bendro CAPEX santrauka
+
+| Paketas | Reikšmė | CAPEX su 15 % rezervu |
+|---|---|---:|
+| Minimalus | veikia, bet trapus | 100 000-205 000 Eur |
+| Patikimas | pirmas rimtas darbo standartas | 206 000-412 000 Eur |
+| Sustiprintas | autonomijos ir gedimų izoliavimo standartas | 392 000-705 000 Eur |
+
+## Kaina vienam žmogui
+
+Skaičiuojama 50 žmonių modeliui.
+
+### Minimalus paketas
+
+100 000 Eur / 50 = 2 000 Eur žmogui
+
+205 000 Eur / 50 = 4 100 Eur žmogui
+
+Minimalus paketas:
+
+apie 2 000-4 100 Eur žmogui.
+
+### Patikimas paketas
+
+206 000 Eur / 50 = 4 120 Eur žmogui
+
+412 000 Eur / 50 = 8 240 Eur žmogui
+
+Patikimas paketas:
+
+apie 4 100-8 200 Eur žmogui.
+
+### Sustiprintas paketas
+
+392 000 Eur / 50 = 7 840 Eur žmogui
+
+705 000 Eur / 50 = 14 100 Eur žmogui
+
+Sustiprintas paketas:
+
+apie 7 800-14 100 Eur žmogui.
+
+## Kodėl ši suma atrodo didelė
+
+Iki šio dokumento atskiri skaičiai galėjo atrodyti mažesni.
+
+Pavyzdžiui:
+
+- dienos elektros kaina gali atrodyti kaip keli eurai;
+- dienos vandens poreikis gali atrodyti kaip keli kubiniai metrai;
+- vienas gręžinys gali atrodyti kaip keli tūkstančiai eurų;
+- transportas gali atrodyti kaip degalai;
+- maistas gali atrodyti kaip produktų savikaina.
+
+Tačiau bazinis aprūpinimas nėra tik suvartojimas. Jis yra infrastruktūra.
+
+Infrastruktūra reiškia:
+
+- įrangą;
+- montavimą;
+- atsargą;
+- gedimo toleranciją;
+- priežiūrą;
+- remontą;
+- kontrolę;
+- žmonių laiką;
+- rizikos mažinimą;
+- tarpusavio priklausomybes.
+
+Todėl tikras 50 žmonių bazinio aprūpinimo paketas negali būti pigus.
+
+## Pagrindinės priklausomybės
+
+### Energija → vanduo
+
+Be energijos neveikia siurblys, slėgio palaikymas, automatika ir dalis vandens kokybės kontrolės.
+
+Todėl vandens modulis turi būti prijungtas prie kritinių energijos apkrovų.
+
+### Vanduo → maistas
+
+Be vandens neveikia maisto paruošimas, plovimas, higiena ir dalis sanitarijos.
+
+Todėl maisto modulis turi turėti aiškų vandens prioritetą.
+
+### Maistas → energija
+
+Maisto moduliui reikia šaldymo, kaitinimo, laikymo ir apšvietimo.
+
+Todėl energijos modulis negali būti skaičiuojamas be maisto grandinės.
+
+### Vanduo → nuotekos
+
+Be nuotekų sprendimo vandens naudojimas tampa sanitarine problema.
+
+Todėl vandens CAPEX turi būti skaičiuojamas kartu su nuotekų CAPEX.
+
+### Transportas → maistas ir atsargos
+
+Be transporto nėra patikimo įsigijimo, papildymo, remonto dalių ir atsargų judėjimo.
+
+Todėl transportas turi būti laikomas ne papildoma, o bazinio aprūpinimo dalimi.
+
+### Ryšys → valdymas
+
+Be ryšio, apskaitos ir stebėjimo sistema negali matyti atsargų, gedimų, energijos, vandens ir transporto grafiko.
+
+Todėl ryšio modulis yra ne biuro priedas, o valdymo dalis.
+
+## OPEX klausimas
+
+Šis dokumentas pirmiausia skaičiuoja CAPEX.
+
+Tačiau jau dabar aišku, kad kiekvienas modulis sukurs OPEX:
+
+- energijos įrangos priežiūra;
+- baterijų nusidėvėjimas;
+- generatoriaus aptarnavimas;
+- vandens tyrimai;
+- filtrų keitimas;
+- nuotekų sistemos aptarnavimas;
+- transporto draudimas, remontas, kuras;
+- maisto modulio valymas;
+- sandėlio priežiūra;
+- ryšio paslaugos;
+- įrankių keitimas;
+- avarinių atsargų atnaujinimas.
+
+Todėl kitas būtinas dokumentas turi būti OPEX skaičiavimo atrama.
+
+## Pirmasis OPEX rezervas
+
+Darbinė pirmoji prielaida:
+
+metinis OPEX rezervas turi būti ne mažesnis kaip 5-10 procentų nuo patikimo CAPEX paketo.
+
+Patikimas CAPEX:
+
+206 000-412 000 Eur
+
+5 procentai:
+
+206 000 × 0,05 = 10 300 Eur
+
+412 000 × 0,05 = 20 600 Eur
+
+10 procentų:
+
+206 000 × 0,10 = 20 600 Eur
+
+412 000 × 0,10 = 41 200 Eur
+
+Todėl pirmas metinis OPEX rezervas:
+
+apie 10 000-41 000 Eur per metus.
+
+Per mėnesį:
+
+10 000 / 12 = 833 Eur
+
+41 000 / 12 = 3417 Eur
+
+Vienam žmogui per mėnesį:
+
+833 / 50 = 16,66 Eur
+
+3417 / 50 = 68,34 Eur
+
+Darbinė prielaida:
+
+vien infrastruktūros priežiūros rezervas gali sudaryti apie 17-68 Eur vienam žmogui per mėnesį, neskaičiuojant maisto, darbo užmokesčio, gyvenamojo būsto, medicinos, mokymo ir kitų socialinių sąnaudų.
+
+## Pirmoji išvada apie socialinį paketą
+
+Jeigu 50 žmonių bazinio aprūpinimo infrastruktūra patikimu lygiu kainuoja 206 000-412 000 Eur, socialinis paketas negali būti vien geras noras.
+
+Jis turi turėti:
+
+- pradinį kapitalą;
+- infrastruktūros fondą;
+- remonto fondą;
+- atnaujinimo fondą;
+- avarinį fondą;
+- pajamų šaltinį;
+- aiškią apskaitą.
+
+Tai reiškia, kad būsimas kooperatyvinis miestas negali pradėti nuo pažado visiems viską suteikti. Jis turi pradėti nuo skaičiavimo, ką galima užtikrinti pirmiausia ir kokia kaina.
+
+## Ryšys su miesto segmentavimu
+
+50 žmonių modulis nėra galutinis miesto dydis. Jis yra bazinis skaičiavimo vienetas.
+
+Jeigu vienas patikimas 50 žmonių paketas kainuoja 206 000-412 000 Eur, tada tiesinis 500 žmonių skaičiavimas būtų:
+
+10 × 206 000 = 2 060 000 Eur
+
+10 × 412 000 = 4 120 000 Eur
+
+Tačiau 500 žmonių lygyje atsiranda ir masto ekonomija, ir naujos išlaidos.
+
+Galima sutaupyti:
+
+- per didesnius bendrus sandėlius;
+- per didesnes energijos sistemas;
+- per bendrą transporto parką;
+- per centralizuotą nuotekų modulį;
+- per bendrą remonto dirbtuvę.
+
+Atsiranda papildomų išlaidų:
+
+- valdymui;
+- teritorijai;
+- keliams;
+- statiniams;
+- saugai;
+- ryšiui;
+- didesnei koordinacijai;
+- gedimų izoliavimui;
+- juridinei ir techninei priežiūrai.
+
+Todėl 500 žmonių segmentas negali būti tiesiog 10 kartų padaugintas 50 žmonių modulis. Jis turi būti skaičiuojamas atskirai.
+
+## Pagrindinis sprendimas
+
+Nuo šio dokumento BVK infrastruktūros modelyje 50 žmonių bazinio aprūpinimo paketas laikomas pirmu realiu miesto infrastruktūros skaičiavimo vienetu.
+
+Atskiri moduliai nebepakankami.
+
+Reikia skaičiuoti paketą:
+
+- ką jis aprūpina;
+- kokias funkcijas išlaiko;
+- kiek jis kainuoja;
+- kiek kainuoja jo priežiūra;
+- kokių gedimų jis neatlaiko;
+- kokius modulius reikia dubliuoti;
+- kur reikia uždarų arba kritinių dokumentų;
+- kaip šis paketas jungiasi į 500 žmonių segmentą.
+
+## Kiti būtini dokumentai
+
+Po šio dokumento būtina parengti:
+
+1. 50 žmonių infrastruktūros OPEX skaičiavimo atramą.
+2. Nuotekų modulio CAPEX detalizavimo atramą.
+3. Maisto paruošimo ir sandėliavimo modulio CAPEX detalizavimo atramą.
+4. 500 žmonių miesto segmento infrastruktūros mastelio atramą.
+5. Ryšio, valdymo ir atsargų apskaitos modulio atramą.
+6. Avarinio režimo 72 valandų protokolo atramą.
+7. Interneto projekto ir fizinės miesto modelio skaičiavimų ryšio atramą.
+
+## Išvada
+
+Pirmasis 50 žmonių bazinio aprūpinimo infrastruktūros paketo sujungimas parodė, kad būsimo kooperatyvinio miesto modelis turi būti skaičiuojamas ne pagal atskirus gražius principus, o pagal veikiančius modulius.
+
+Minimalus paketas kainuoja apie 100 000-205 000 Eur. Patikimas darbo paketas kainuoja apie 206 000-412 000 Eur. Sustiprintas autonomijos paketas kainuoja apie 392 000-705 000 Eur.
+
+Svarbiausia išvada: autonomija nėra vien saulės panelės, gręžinys ar gera idėja. Autonomija yra tarpusavyje susietų sistemų paketas, kuriame vanduo, energija, maistas, nuotekos, transportas, sandėliai, ryšys, remontas ir avarinis režimas veikia kartu.
+
+Nuo šio dokumento BVK miesto modelyje 50 žmonių modulis laikomas baziniu infrastruktūros skaičiavimo vienetu, o ne teoriniu pavyzdžiu.
