@@ -58,6 +58,12 @@ Failas: A-2029-06-12-01_50_zmoniu_bazinio_aprupinimo_infrastrukturos_paketo_suju
 Statusas: parengta
 Pastaba: dokumentas sujungia energijos, vandens, maisto, nuotekų, transporto, sandėliavimo, ryšio, remonto, higienos ir avarinio režimo modulius į vieną 50 žmonių bazinio aprūpinimo CAPEX paketą.
 
+A-2029-06-26-01
+Pavadinimas: 50 žmonių bazinio aprūpinimo infrastruktūros OPEX skaičiavimo atrama
+Failas: A-2029-06-26-01_50_zmoniu_bazinio_aprupinimo_infrastrukturos_opex_skaiciavimo_atrama.txt
+Statusas: parengta
+Pastaba: dokumentas skaičiuoja 50 žmonių bazinio aprūpinimo paketo metinį ir mėnesinį OPEX: energiją, vandenį, maistą be žaliavų, nuotekas, transportą, sandėliavimą, ryšį, remontą, higieną, avarines atsargas ir atskirai maisto žaliavas.
+
 
 ## Darbo taisyklė
 
