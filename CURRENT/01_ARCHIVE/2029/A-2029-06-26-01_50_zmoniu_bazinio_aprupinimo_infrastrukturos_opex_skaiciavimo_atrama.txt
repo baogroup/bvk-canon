@@ -1,0 +1,1029 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2029-06-26
+Dabartinė redakcija: 2029-06-26
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+Dokumento kodas: A-2029-06-26-01
+Pavadinimas: 50 žmonių bazinio aprūpinimo infrastruktūros OPEX skaičiavimo atrama
+
+# A-2029-06-26-01
+# 50 žmonių bazinio aprūpinimo infrastruktūros OPEX skaičiavimo atrama
+
+Data: 2029 m. birželio 26 d.
+
+## Įvykis
+
+Po 50 žmonių bazinio aprūpinimo infrastruktūros CAPEX paketo sujungimo pirmą kartą skaičiuojamos metinės ir mėnesinės eksploatacinės išlaidos.
+
+Ankstesnis dokumentas parodė, kad 50 žmonių infrastruktūros paketas gali kainuoti:
+
+| Paketas | CAPEX su rezervu |
+|---|---:|
+| Minimalus | apie 100 000-205 000 Eur |
+| Patikimas | apie 206 000-412 000 Eur |
+| Sustiprintas | apie 392 000-705 000 Eur |
+
+Tačiau vien pradinio CAPEX nepakanka. Miesto arba miesto modulio sistema negali būti vertinama tik pagal įrengimo kainą. Kiekvienas modulis kas mėnesį ir kasmet reikalauja priežiūros, valymo, remonto, patikrų, filtrų, kuro, atsarginių dalių, ryšio paslaugų, smulkių priemonių ir atnaujinimo rezervo.
+
+Šis dokumentas pirmą kartą atskiria:
+
+- pradinę infrastruktūros sukūrimo kainą;
+- kasmetines veikimo išlaidas;
+- vartojamų medžiagų ir maisto žaliavų išlaidas;
+- darbo laiko ir priežiūros poreikį;
+- atnaujinimo fondą;
+- avarinio rezervo papildymą.
+
+## Skaičiavimo tikslas
+
+Šio dokumento tikslas yra nustatyti preliminarų 50 žmonių bazinio aprūpinimo infrastruktūros OPEX.
+
+OPEX šiame dokumente reiškia pasikartojančias išlaidas, kurios reikalingos tam, kad jau įrengtas bazinio aprūpinimo paketas išliktų veikiantis.
+
+Skaičiavimas turi atsakyti į šiuos klausimus:
+
+- kiek kainuoja infrastruktūros priežiūra per metus;
+- kiek kainuoja moduliai per mėnesį;
+- kiek kainuoja vienam žmogui;
+- kokios išlaidos yra fiksuotos;
+- kokios išlaidos priklauso nuo vartojimo;
+- kokios išlaidos dažniausiai pamirštamos;
+- kaip OPEX keičia socialinio paketo realumą;
+- kokius fondus reikia turėti, kad sistema nesugriūtų po pirmo remonto.
+
+Šis dokumentas nėra komercinė sąmata ir nėra tiekėjų pasiūlymų rinkinys. Tai darbo skaičiavimo atrama BVK modeliui.
+
+## Ką apima OPEX
+
+OPEX skirstomas į kelias grupes:
+
+1. Techninė priežiūra.
+2. Vartojamos medžiagos.
+3. Energijos, kuro ir ryšio paslaugos.
+4. Vandens ir nuotekų patikros.
+5. Filtrai, alyvos, plovikliai, smulkūs komponentai.
+6. Atsarginių dalių keitimas.
+7. Avarinių atsargų papildymas.
+8. Programinės įrangos ir apskaitos palaikymas.
+9. Draudimas, patikros, leidimų ir dokumentų atnaujinimas.
+10. Įrangos nusidėvėjimo ir pakeitimo fondas.
+
+Svarbu:
+
+šiame dokumente darbo užmokestis pilnai neskaičiuojamas kaip piniginė sąmata, nes BVK modelyje darbo organizavimas ateityje gali būti kooperatyvinis, vidinis arba mišrus. Tačiau darbo laiko poreikis nurodomas atskirai, nes jis yra reali sąnauda net tada, kai nėra išorinės algos eilutės.
+
+## Trys OPEX sluoksniai
+
+Kad modelis nebūtų klaidinantis, skaičiuojami trys sluoksniai.
+
+### 1 sluoksnis: infrastruktūros OPEX
+
+Tai priežiūra, remontas, filtrai, patikros, kuras, ryšys, smulkios priemonės ir avariniai rezervai.
+
+Čia neįtraukiama:
+
+- maisto žaliavų pirkimas;
+- žmonių darbo užmokestis;
+- gyvenamojo būsto išlaidos;
+- mokymas;
+- medicina;
+- drabužiai;
+- pilnas socialinis paketas.
+
+### 2 sluoksnis: infrastruktūra + maisto žaliavos
+
+Tai rodo, kiek kainuotų bazinis aprūpinimas, jeigu prie infrastruktūros OPEX pridedamos kasdienės maisto žaliavos.
+
+### 3 sluoksnis: pilnas socialinis veikimas
+
+Šis sluoksnis šiame dokumente dar neskaičiuojamas pilnai. Jam reikės atskiro dokumento, nes jis turi įtraukti būstą, mediciną, mokymą, vaikų priežiūrą, drabužius, viešąsias paslaugas, darbo laiką ir bendrą socialinį fondą.
+
+## Pradinė CAPEX bazė
+
+Naudojami ankstesnio dokumento CAPEX paketai:
+
+| Paketas | CAPEX |
+|---|---:|
+| Minimalus | 100 000-205 000 Eur |
+| Patikimas | 206 000-412 000 Eur |
+| Sustiprintas | 392 000-705 000 Eur |
+
+Pirmoji metinio OPEX taisyklė:
+
+- trapiai infrastruktūrai reikia bent 8-12 % nuo CAPEX per metus, nes pigesnė įranga dažnai turi didesnę gedimų riziką;
+- patikimai infrastruktūrai reikia apie 7-10 % nuo CAPEX per metus;
+- sustiprintai infrastruktūrai reikia apie 6-9 % nuo CAPEX per metus, nes dalis sistemų brangesnės, bet geriau valdomos ir turi daugiau rezervų.
+
+Tačiau procentinė taisyklė nėra pakankama. Toliau OPEX skaičiuojamas moduliais.
+
+## 1. Energijos modulio OPEX
+
+Energijos modulis apima saulės generaciją, inverterius, baterijas, generatorių, kritinių apkrovų paskirstymą, monitoringą ir kuro rezervą.
+
+OPEX dalys:
+
+- saulės modulių apžiūra ir valymas;
+- inverterių priežiūra;
+- baterijų monitoringas;
+- generatoriaus bandymai;
+- generatoriaus alyva, filtrai, smulkūs aptarnavimai;
+- kuro rezervo atnaujinimas;
+- elektros skydinių patikra;
+- programinės įrangos atnaujinimai;
+- atsarginės apsaugos ir kontaktoriai;
+- baterijų pakeitimo fondas.
+
+### Minimalus energijos OPEX
+
+Minimalus energijos modulis turi mažesnę įrangą, bet didesnę riziką, kad gedimas sustabdys kritines apkrovas.
+
+| Dalis | Metinė suma |
+|---|---:|
+| Saulės ir inverterio patikra | 300-800 Eur |
+| Generatorius ir kuras bandymams | 500-1500 Eur |
+| Smulkūs elektros darbai | 400-1000 Eur |
+| Baterijų monitoringas ir rezervas | 800-2000 Eur |
+| Avarinis kuro papildymas | 500-1500 Eur |
+
+Minimalus energijos OPEX:
+
+2 500-6 800 Eur per metus.
+
+Apvalinama:
+
+2 500-7 000 Eur per metus.
+
+### Patikimas energijos OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Saulės sistemos patikros | 700-1500 Eur |
+| Inverterių ir paskirstymo patikros | 800-2000 Eur |
+| Generatorius, kuras, bandymai | 1200-3000 Eur |
+| Baterijų priežiūra ir atnaujinimo fondas | 2500-6000 Eur |
+| Kritinių apkrovų testai | 500-1500 Eur |
+| Smulkus remontas | 1000-2500 Eur |
+
+Patikimas energijos OPEX:
+
+6 700-16 500 Eur per metus.
+
+Apvalinama:
+
+7 000-17 000 Eur per metus.
+
+### Sustiprintas energijos OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Saulės, inverterių ir valdymo patikros | 1500-3500 Eur |
+| Generatorius ir kuro ciklas | 2500-6000 Eur |
+| Baterijų atnaujinimo fondas | 5000-12 000 Eur |
+| Monitoringas ir automatika | 1500-4000 Eur |
+| Gedimų izoliavimo testai | 1000-2500 Eur |
+| Smulkus remontas ir rezervas | 2500-6000 Eur |
+
+Sustiprintas energijos OPEX:
+
+14 000-34 000 Eur per metus.
+
+## 2. Vandens modulio OPEX
+
+Vandens modulis apima gręžinį, rezervinį šaltinį, siurblius, talpas, filtrus, vandens tyrimus, slėgio palaikymą ir paskirstymą.
+
+OPEX dalys:
+
+- vandens tyrimai;
+- filtrų keitimas;
+- siurblio priežiūra;
+- slėgio sistemos priežiūra;
+- talpų valymas;
+- automatikos patikra;
+- atsarginės žarnos, jungtys, vožtuvai;
+- gedimų rezervas.
+
+### Minimalus vandens OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Vandens tyrimai | 200-600 Eur |
+| Filtrai ir smulkios medžiagos | 400-1000 Eur |
+| Siurblio priežiūra | 300-800 Eur |
+| Talpų valymas | 300-800 Eur |
+| Smulkus remontas | 300-1000 Eur |
+
+Minimalus vandens OPEX:
+
+1 500-4 200 Eur per metus.
+
+Apvalinama:
+
+1 500-4 500 Eur per metus.
+
+### Patikimas vandens OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Reguliarūs vandens tyrimai | 500-1200 Eur |
+| Filtrai ir kasetės | 800-2000 Eur |
+| Siurbliai ir automatika | 800-2000 Eur |
+| Talpų ir vamzdynų priežiūra | 700-1500 Eur |
+| Rezervinio kelio patikra | 500-1500 Eur |
+| Smulkus remontas | 700-1800 Eur |
+
+Patikimas vandens OPEX:
+
+4 000-10 000 Eur per metus.
+
+### Sustiprintas vandens OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Dažnesni tyrimai ir monitoringas | 1200-3000 Eur |
+| Filtrai ir valymo medžiagos | 2000-5000 Eur |
+| Kelių šaltinių priežiūra | 2000-5000 Eur |
+| Talpų ir slėgio sistemų priežiūra | 1500-3500 Eur |
+| Atsarginės dalys | 1500-3500 Eur |
+| Gedimų rezervas | 2000-5000 Eur |
+
+Sustiprintas vandens OPEX:
+
+10 200-25 000 Eur per metus.
+
+Apvalinama:
+
+10 000-25 000 Eur per metus.
+
+## 3. Maisto modulio OPEX be žaliavų
+
+Ši dalis neskaičiuoja pačių maisto produktų. Ji skaičiuoja maisto modulio veikimo išlaidas: valymą, smulkią įrangą, konteinerius, temperatūros kontrolę, šaldymo priežiūrą ir higieną.
+
+### Minimalus maisto modulio OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Valymo ir higienos priemonės | 1000-2500 Eur |
+| Šaldymo įrangos priežiūra | 800-2000 Eur |
+| Smulkūs įrankiai ir indai | 800-2000 Eur |
+| Konteineriai ir pakuotės | 1200-3000 Eur |
+| Smulkus remontas | 1000-2500 Eur |
+
+Minimalus maisto modulio OPEX:
+
+4 800-12 000 Eur per metus.
+
+Apvalinama:
+
+5 000-12 000 Eur per metus.
+
+### Patikimas maisto modulio OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Valymas ir higiena | 2500-6000 Eur |
+| Šaldymo ir laikymo priežiūra | 2000-5000 Eur |
+| Įrankiai, indai, konteineriai | 2500-6000 Eur |
+| Temperatūros ir saugos kontrolė | 1000-2500 Eur |
+| Smulkus remontas | 2500-6000 Eur |
+| Atsarginės dalys | 1500-3500 Eur |
+
+Patikimas maisto modulio OPEX:
+
+12 000-29 000 Eur per metus.
+
+### Sustiprintas maisto modulio OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Valymas, higiena ir kontrolė | 5000-12 000 Eur |
+| Šaldymo grandinės priežiūra | 5000-12 000 Eur |
+| Konservavimo / paruošimo įrangos priežiūra | 4000-10 000 Eur |
+| Konteineriai ir pakuotės | 5000-12 000 Eur |
+| Smulkus remontas | 5000-12 000 Eur |
+| Atsarginės dalys | 3000-8000 Eur |
+
+Sustiprintas maisto modulio OPEX:
+
+27 000-66 000 Eur per metus.
+
+## 4. Nuotekų ir sanitarinės sistemos OPEX
+
+Nuotekų sistema turi veikti nuolat. Jos gedimas greitai tampa higienos ir sveikatos problema.
+
+OPEX dalys:
+
+- biologinio valymo sistemos priežiūra;
+- dumblo išvežimas arba tvarkymas;
+- filtrai;
+- siurblių priežiūra;
+- laboratoriniai tyrimai;
+- kvapų kontrolė;
+- avarinė talpa ir remontas.
+
+### Minimalus nuotekų OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Sistemos priežiūra | 800-2000 Eur |
+| Dumblo / atliekų tvarkymas | 800-2500 Eur |
+| Filtrai ir medžiagos | 500-1500 Eur |
+| Smulkus remontas | 700-2000 Eur |
+| Tyrimai / kontrolė | 300-1000 Eur |
+
+Minimalus nuotekų OPEX:
+
+3 100-9 000 Eur per metus.
+
+Apvalinama:
+
+3 000-9 000 Eur per metus.
+
+### Patikimas nuotekų OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Reguliari priežiūra | 2000-5000 Eur |
+| Dumblo ir atliekų tvarkymas | 2000-5000 Eur |
+| Siurbliai ir automatika | 1000-3000 Eur |
+| Tyrimai | 800-2000 Eur |
+| Smulkus remontas ir rezervas | 2000-5000 Eur |
+
+Patikimas nuotekų OPEX:
+
+7 800-20 000 Eur per metus.
+
+Apvalinama:
+
+8 000-20 000 Eur per metus.
+
+### Sustiprintas nuotekų OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Kelių grandžių priežiūra | 5000-12 000 Eur |
+| Atliekų tvarkymas | 4000-10 000 Eur |
+| Automatika ir monitoringas | 3000-8000 Eur |
+| Tyrimai ir kontrolė | 2000-5000 Eur |
+| Avarinis rezervas | 4000-10 000 Eur |
+
+Sustiprintas nuotekų OPEX:
+
+18 000-45 000 Eur per metus.
+
+## 5. Transporto OPEX
+
+Transportas negali būti skaičiuojamas tik kaip kuras.
+
+OPEX dalys:
+
+- kuras arba įkrovimas;
+- draudimas;
+- techninė apžiūra;
+- padangos;
+- remontas;
+- nusidėvėjimas;
+- pakrovimo priemonės;
+- avarinis maršrutas;
+- stovėjimas / saugojimas;
+- vairuotojo laikas.
+
+Šiame dokumente pinigais skaičiuojama tik techninė ir eksploatacinė dalis. Vairuotojo darbo laikas nurodomas atskirai.
+
+### Minimalus transporto OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Kuras / įkrovimas | 2500-6000 Eur |
+| Draudimas ir patikros | 800-1800 Eur |
+| Remontas | 1500-4000 Eur |
+| Padangos ir smulkios dalys | 700-2000 Eur |
+| Pakrovimo priemonės | 500-1500 Eur |
+
+Minimalus transporto OPEX:
+
+6 000-15 300 Eur per metus.
+
+Apvalinama:
+
+6 000-15 000 Eur per metus.
+
+### Patikimas transporto OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Kuras / įkrovimas | 6000-14 000 Eur |
+| Draudimas ir patikros | 1500-3500 Eur |
+| Remontas | 4000-10 000 Eur |
+| Padangos ir eksploatacija | 2000-5000 Eur |
+| Pakrovimo, šaldymo arba izoliavimo priežiūra | 2000-6000 Eur |
+| Avarinis rezervas | 2000-5000 Eur |
+
+Patikimas transporto OPEX:
+
+17 500-43 500 Eur per metus.
+
+Apvalinama:
+
+18 000-44 000 Eur per metus.
+
+### Sustiprintas transporto OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Kuras / įkrovimas | 12 000-28 000 Eur |
+| Draudimas ir patikros | 3000-7000 Eur |
+| Remontas | 8000-20 000 Eur |
+| Padangos ir eksploatacija | 4000-10 000 Eur |
+| Antros transporto priemonės rezervas | 6000-15 000 Eur |
+| Šaldymo / specialaus transporto priežiūra | 4000-10 000 Eur |
+| Avarinis rezervas | 4000-10 000 Eur |
+
+Sustiprintas transporto OPEX:
+
+41 000-100 000 Eur per metus.
+
+## 6. Sandėliavimo OPEX
+
+Sandėliavimas nėra nemokamas. Net paprastas sandėlis reikalauja tvarkymo, apsaugos, lentynų, konteinerių, drėgmės kontrolės ir atsargų apskaitos.
+
+### Minimalus sandėliavimo OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Patalpos priežiūra | 500-1500 Eur |
+| Lentynos ir konteineriai | 500-1500 Eur |
+| Drėgmės ir temperatūros kontrolė | 300-1000 Eur |
+| Apsauga nuo kenkėjų | 300-1000 Eur |
+| Apskaitos priemonės | 200-700 Eur |
+
+Minimalus sandėliavimo OPEX:
+
+1 800-5 700 Eur per metus.
+
+Apvalinama:
+
+2 000-6 000 Eur per metus.
+
+### Patikimas sandėliavimo OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Patalpos ir zonų priežiūra | 1500-4000 Eur |
+| Konteineriai ir lentynos | 1500-4000 Eur |
+| Temperatūros kontrolė | 1000-3000 Eur |
+| Apsauga ir kontrolė | 1000-2500 Eur |
+| Apskaita | 800-2000 Eur |
+
+Patikimas sandėliavimo OPEX:
+
+5 800-15 500 Eur per metus.
+
+Apvalinama:
+
+6 000-16 000 Eur per metus.
+
+### Sustiprintas sandėliavimo OPEX
+
+Sustiprintas sandėlis turi daugiau zonų, daugiau kontrolės ir didesnį atsargų apyvartos poreikį.
+
+Darbinė prielaida:
+
+16 000-38 000 Eur per metus.
+
+## 7. Ryšio ir valdymo OPEX
+
+Ryšio ir valdymo modulis apima internetą, atsarginį ryšį, apskaitą, serverį arba vietinį duomenų mazgą, monitoringą ir programinės įrangos palaikymą.
+
+### Minimalus ryšio OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Internetas ir ryšys | 500-1200 Eur |
+| Įrangos pakeitimas / remontas | 300-1000 Eur |
+| Atsarginės kopijos | 200-800 Eur |
+| Programinė įranga | 300-1000 Eur |
+
+Minimalus ryšio OPEX:
+
+1 300-4 000 Eur per metus.
+
+Apvalinama:
+
+1 500-4 000 Eur per metus.
+
+### Patikimas ryšio OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Pagrindinis ir atsarginis ryšys | 1200-3000 Eur |
+| Įrangos priežiūra | 1000-2500 Eur |
+| Vietinės kopijos ir saugojimas | 800-2000 Eur |
+| Programinė įranga ir apskaita | 1500-4000 Eur |
+| Monitoringas | 1000-2500 Eur |
+
+Patikimas ryšio OPEX:
+
+5 500-14 000 Eur per metus.
+
+### Sustiprintas ryšio OPEX
+
+Darbinė prielaida:
+
+14 000-32 000 Eur per metus.
+
+## 8. Remonto ir įrankių OPEX
+
+Remonto modulis reikalauja nuolat papildyti smulkias dalis ir keisti sugadintus įrankius.
+
+### Minimalus remonto OPEX
+
+| Dalis | Metinė suma |
+|---|---:|
+| Smulkios detalės | 500-1500 Eur |
+| Įrankių keitimas | 500-1500 Eur |
+| Santechnikos / elektros smulkūs rinkiniai | 500-1500 Eur |
+| Apsaugos priemonės | 300-1000 Eur |
+
+Minimalus remonto OPEX:
+
+1 800-5 500 Eur per metus.
+
+Apvalinama:
+
+2 000-6 000 Eur per metus.
+
+### Patikimas remonto OPEX
+
+Darbinė prielaida:
+
+6 000-16 000 Eur per metus.
+
+### Sustiprintas remonto OPEX
+
+Darbinė prielaida:
+
+16 000-35 000 Eur per metus.
+
+## 9. Higienos ir saugos OPEX
+
+Higiena sukuria nuolatinę vartojamų medžiagų eilutę.
+
+Reikia:
+
+- muilo;
+- dezinfekcijos;
+- pirštinių;
+- valiklių;
+- darbo drabužių;
+- šiukšlių maišų;
+- pirmos pagalbos priemonių;
+- gesintuvų priežiūros;
+- paviršių valymo;
+- apsaugos ženklinimo.
+
+### Minimalus higienos OPEX
+
+Darbinė prielaida:
+
+4 000-10 000 Eur per metus.
+
+### Patikimas higienos OPEX
+
+Darbinė prielaida:
+
+10 000-24 000 Eur per metus.
+
+### Sustiprintas higienos OPEX
+
+Darbinė prielaida:
+
+24 000-50 000 Eur per metus.
+
+## 10. Avarinių atsargų OPEX
+
+Avarinės atsargos turi būti ne tik nupirktos, bet ir atnaujinamos.
+
+Atsargos sensta:
+
+- maistas;
+- vandens dezinfekcijos priemonės;
+- kuras;
+- baterijos;
+- pirmos pagalbos priemonės;
+- filtrai;
+- higienos rinkiniai;
+- atsarginės dalys.
+
+### Minimalus avarinis OPEX
+
+Darbinė prielaida:
+
+3 000-8 000 Eur per metus.
+
+### Patikimas avarinis OPEX
+
+Darbinė prielaida:
+
+8 000-20 000 Eur per metus.
+
+### Sustiprintas avarinis OPEX
+
+Darbinė prielaida:
+
+20 000-45 000 Eur per metus.
+
+## Bendras infrastruktūros OPEX
+
+### Minimalus infrastruktūros OPEX
+
+| Modulis | Metinis OPEX |
+|---|---:|
+| Energija | 2 500-7 000 Eur |
+| Vanduo | 1 500-4 500 Eur |
+| Maistas be žaliavų | 5 000-12 000 Eur |
+| Nuotekos | 3 000-9 000 Eur |
+| Transportas | 6 000-15 000 Eur |
+| Sandėliavimas | 2 000-6 000 Eur |
+| Ryšys ir valdymas | 1 500-4 000 Eur |
+| Remontas ir įrankiai | 2 000-6 000 Eur |
+| Higiena ir sauga | 4 000-10 000 Eur |
+| Avarinės atsargos | 3 000-8 000 Eur |
+
+Suma:
+
+2 500 + 1 500 + 5 000 + 3 000 + 6 000 + 2 000 + 1 500 + 2 000 + 4 000 + 3 000 = 30 500 Eur
+
+7 000 + 4 500 + 12 000 + 9 000 + 15 000 + 6 000 + 4 000 + 6 000 + 10 000 + 8 000 = 81 500 Eur
+
+Minimalus infrastruktūros OPEX:
+
+30 500-81 500 Eur per metus.
+
+Mėnesiui:
+
+30 500 / 12 = 2542 Eur
+
+81 500 / 12 = 6792 Eur
+
+Vienam žmogui per mėnesį:
+
+2542 / 50 = 50,84 Eur
+
+6792 / 50 = 135,84 Eur
+
+Apvalinama:
+
+apie 51-136 Eur žmogui per mėnesį.
+
+### Patikimas infrastruktūros OPEX
+
+| Modulis | Metinis OPEX |
+|---|---:|
+| Energija | 7 000-17 000 Eur |
+| Vanduo | 4 000-10 000 Eur |
+| Maistas be žaliavų | 12 000-29 000 Eur |
+| Nuotekos | 8 000-20 000 Eur |
+| Transportas | 18 000-44 000 Eur |
+| Sandėliavimas | 6 000-16 000 Eur |
+| Ryšys ir valdymas | 5 500-14 000 Eur |
+| Remontas ir įrankiai | 6 000-16 000 Eur |
+| Higiena ir sauga | 10 000-24 000 Eur |
+| Avarinės atsargos | 8 000-20 000 Eur |
+
+Suma:
+
+7 000 + 4 000 + 12 000 + 8 000 + 18 000 + 6 000 + 5 500 + 6 000 + 10 000 + 8 000 = 84 500 Eur
+
+17 000 + 10 000 + 29 000 + 20 000 + 44 000 + 16 000 + 14 000 + 16 000 + 24 000 + 20 000 = 210 000 Eur
+
+Patikimas infrastruktūros OPEX:
+
+84 500-210 000 Eur per metus.
+
+Mėnesiui:
+
+84 500 / 12 = 7042 Eur
+
+210 000 / 12 = 17 500 Eur
+
+Vienam žmogui per mėnesį:
+
+7042 / 50 = 140,84 Eur
+
+17 500 / 50 = 350 Eur
+
+Apvalinama:
+
+apie 141-350 Eur žmogui per mėnesį.
+
+### Sustiprintas infrastruktūros OPEX
+
+| Modulis | Metinis OPEX |
+|---|---:|
+| Energija | 14 000-34 000 Eur |
+| Vanduo | 10 000-25 000 Eur |
+| Maistas be žaliavų | 27 000-66 000 Eur |
+| Nuotekos | 18 000-45 000 Eur |
+| Transportas | 41 000-100 000 Eur |
+| Sandėliavimas | 16 000-38 000 Eur |
+| Ryšys ir valdymas | 14 000-32 000 Eur |
+| Remontas ir įrankiai | 16 000-35 000 Eur |
+| Higiena ir sauga | 24 000-50 000 Eur |
+| Avarinės atsargos | 20 000-45 000 Eur |
+
+Suma:
+
+14 000 + 10 000 + 27 000 + 18 000 + 41 000 + 16 000 + 14 000 + 16 000 + 24 000 + 20 000 = 200 000 Eur
+
+34 000 + 25 000 + 66 000 + 45 000 + 100 000 + 38 000 + 32 000 + 35 000 + 50 000 + 45 000 = 470 000 Eur
+
+Sustiprintas infrastruktūros OPEX:
+
+200 000-470 000 Eur per metus.
+
+Mėnesiui:
+
+200 000 / 12 = 16 667 Eur
+
+470 000 / 12 = 39 167 Eur
+
+Vienam žmogui per mėnesį:
+
+16 667 / 50 = 333,34 Eur
+
+39 167 / 50 = 783,34 Eur
+
+Apvalinama:
+
+apie 333-783 Eur žmogui per mėnesį.
+
+## Maisto žaliavų OPEX
+
+Atskiras klausimas yra maisto žaliavos. Ankstesni dokumentai jau rodė, kad maisto kaina negali būti vertinama per mažai.
+
+Šiame dokumente įvedama paprasta metinė prielaida:
+
+| Scenarijus | Maistas žmogui per dieną | 50 žmonių per dieną | Per metus |
+|---|---:|---:|---:|
+| Minimalus | 4,00 Eur | 200 Eur | 73 000 Eur |
+| Patikimas | 6,50 Eur | 325 Eur | 118 625 Eur |
+| Sustiprintas | 9,00 Eur | 450 Eur | 164 250 Eur |
+
+Pridedamas 10 procentų rezervas praradimams, kainų svyravimams, sandėliavimo nuostoliams ir avariniam papildymui.
+
+Minimalus:
+
+73 000 × 1,10 = 80 300 Eur
+
+Patikimas:
+
+118 625 × 1,10 = 130 488 Eur
+
+Sustiprintas:
+
+164 250 × 1,10 = 180 675 Eur
+
+Apvalinama:
+
+| Scenarijus | Maisto žaliavos su rezervu |
+|---|---:|
+| Minimalus | apie 80 000 Eur per metus |
+| Patikimas | apie 130 000 Eur per metus |
+| Sustiprintas | apie 181 000 Eur per metus |
+
+## Infrastruktūra + maisto žaliavos
+
+### Minimalus
+
+Infrastruktūros OPEX:
+
+30 500-81 500 Eur
+
+Maisto žaliavos:
+
+80 000 Eur
+
+Iš viso:
+
+110 500-161 500 Eur per metus.
+
+Vienam žmogui per mėnesį:
+
+110 500 / 12 / 50 = 184,17 Eur
+
+161 500 / 12 / 50 = 269,17 Eur
+
+Minimalus su maistu:
+
+apie 184-269 Eur žmogui per mėnesį.
+
+### Patikimas
+
+Infrastruktūros OPEX:
+
+84 500-210 000 Eur
+
+Maisto žaliavos:
+
+130 000 Eur
+
+Iš viso:
+
+214 500-340 000 Eur per metus.
+
+Vienam žmogui per mėnesį:
+
+214 500 / 12 / 50 = 357,50 Eur
+
+340 000 / 12 / 50 = 566,67 Eur
+
+Patikimas su maistu:
+
+apie 358-567 Eur žmogui per mėnesį.
+
+### Sustiprintas
+
+Infrastruktūros OPEX:
+
+200 000-470 000 Eur
+
+Maisto žaliavos:
+
+181 000 Eur
+
+Iš viso:
+
+381 000-651 000 Eur per metus.
+
+Vienam žmogui per mėnesį:
+
+381 000 / 12 / 50 = 635 Eur
+
+651 000 / 12 / 50 = 1085 Eur
+
+Sustiprintas su maistu:
+
+apie 635-1085 Eur žmogui per mėnesį.
+
+## Darbo laiko poreikis
+
+Net jeigu piniginė alga šiame dokumente neskaičiuojama, darbo laikas yra reali sąnauda.
+
+50 žmonių paketui reikia bent šių funkcijų:
+
+| Funkcija | Minimalus laikas per savaitę | Patikimas laikas per savaitę |
+|---|---:|---:|
+| Maisto paruošimas ir tvarkymas | 40-60 val. | 80-120 val. |
+| Vandens ir nuotekų priežiūra | 4-8 val. | 8-16 val. |
+| Energijos stebėjimas | 3-6 val. | 6-12 val. |
+| Sandėlis ir atsargos | 8-16 val. | 16-32 val. |
+| Transportas | 8-20 val. | 20-40 val. |
+| Higiena ir valymas | 20-40 val. | 40-80 val. |
+| Remontas ir smulkūs darbai | 6-12 val. | 12-24 val. |
+| Apskaita ir valdymas | 8-16 val. | 16-32 val. |
+
+Minimalus bendras savaitės laikas:
+
+40 + 4 + 3 + 8 + 8 + 20 + 6 + 8 = 97 val.
+
+Patikimo žemesnė riba:
+
+80 + 8 + 6 + 16 + 20 + 40 + 12 + 16 = 198 val.
+
+Patikimo aukštesnė riba:
+
+120 + 16 + 12 + 32 + 40 + 80 + 24 + 32 = 356 val.
+
+Tai reiškia:
+
+50 žmonių modulis reikalauja ne vien pinigų, bet ir nuolatinio darbo.
+
+Jeigu vienas žmogus per savaitę gali skirti apie 20 valandų tokioms funkcijoms, tada reikia:
+
+97 / 20 = 4,85 žmogaus
+
+198 / 20 = 9,9 žmogaus
+
+356 / 20 = 17,8 žmogaus
+
+Darbinė išvada:
+
+minimaliai reikia 5 žmonių dalinio darbo ekvivalento, patikimam veikimui 10-18 dalinio darbo ekvivalentų, priklausomai nuo automatizacijos, įrangos ir organizacijos.
+
+## Kodėl OPEX keičia socialinio paketo logiką
+
+Jeigu patikimas infrastruktūros OPEX su maisto žaliavomis yra apie 358-567 Eur žmogui per mėnesį, tai dar nėra pilnas gyvenimo paketas.
+
+Į tai dar neįtraukti:
+
+- būstas;
+- šildymas gyvenamosiose patalpose;
+- sveikata;
+- mokymas;
+- vaikų priežiūra;
+- drabužiai;
+- asmeninės higienos išlaidos;
+- kultūra;
+- ryšys žmogui;
+- bendros patalpos;
+- administracinis darbas;
+- socialinė pagalba;
+- rezervas šeimoms;
+- nenumatyti sveikatos atvejai.
+
+Todėl BVK socialinis paketas turi augti etapais.
+
+Pirma galima užtikrinti:
+
+- dalį maisto;
+- dalį transporto;
+- dalį darbo vietos higienos;
+- bazinius rezervus;
+- kai kurias bendras paslaugas.
+
+Vėliau galima plėsti:
+
+- sveikatos kabinetą;
+- vaikų centrą;
+- kooperatyvinį būstą;
+- mokymus;
+- platesnį produktų paketą;
+- pilnesnį gyvenimo paketą.
+
+## Pagrindinė korekcija
+
+Iki šio dokumento buvo galima galvoti, kad svarbiausias klausimas yra CAPEX.
+
+Tačiau OPEX parodo kitą tiesą:
+
+net jei infrastruktūra jau įrengta, ji kasmet reikalauja didelių lėšų ir daug darbo.
+
+Patikimas 50 žmonių infrastruktūros veikimas be maisto žaliavų gali kainuoti apie 84 500-210 000 Eur per metus.
+
+Su maisto žaliavomis:
+
+apie 214 500-340 000 Eur per metus.
+
+Tai reiškia:
+
+apie 358-567 Eur vienam žmogui per mėnesį, dar neįtraukiant pilno būsto, medicinos, mokymo ir socialinio paketo.
+
+## Ryšys su 500 žmonių segmentu
+
+Jeigu 50 žmonių patikimas OPEX su maistu yra 214 500-340 000 Eur per metus, tiesinis 500 žmonių skaičiavimas būtų:
+
+10 × 214 500 = 2 145 000 Eur
+
+10 × 340 000 = 3 400 000 Eur
+
+Tačiau 500 žmonių lygyje atsiras masto ekonomija ir naujos valdymo sąnaudos.
+
+Galima sutaupyti:
+
+- didesniame sandėlyje;
+- didesnėje virtuvėje;
+- bendrame transporte;
+- bendrame valymo bloke;
+- geresnėje energijos sistemoje;
+- efektyvesnėje apskaitoje.
+
+Atsiras papildomai:
+
+- administravimas;
+- teritorijos priežiūra;
+- sauga;
+- didesnė atsakomybė;
+- socialinės paslaugos;
+- sudėtingesnis konfliktų valdymas;
+- teisiniai reikalavimai;
+- sveikatos ir vaikų priežiūra.
+
+Todėl 500 žmonių segmentui reikia atskiro OPEX dokumento.
+
+## Kitas būtinas skaičiavimas
+
+Po šio dokumento būtina parengti:
+
+1. Maisto žaliavų ir gamybos savikainos detalizavimo atramą.
+2. Nuotekų modulio detalų CAPEX ir OPEX palyginimą.
+3. 500 žmonių infrastruktūros segmento mastelio atramą.
+4. Darbo laiko ir funkcijų paskirstymo atramą.
+5. Socialinio paketo etapų augimo atramą.
+6. Interneto projekto ir fizinės miesto modelio sąsajos atramą.
+7. 72 valandų avarinio veikimo protokolą.
+
+## Išvada
+
+Pirmasis 50 žmonių bazinio aprūpinimo infrastruktūros OPEX skaičiavimas parodė, kad veikiantis modulis yra brangus ne tik įrengimo metu, bet ir kiekvienais metais.
+
+Minimalus infrastruktūros OPEX be maisto žaliavų sudaro apie 30 500-81 500 Eur per metus. Patikimas infrastruktūros OPEX sudaro apie 84 500-210 000 Eur per metus. Sustiprintas infrastruktūros OPEX sudaro apie 200 000-470 000 Eur per metus.
+
+Pridėjus maisto žaliavas, patikimas 50 žmonių paketas gali kainuoti apie 214 500-340 000 Eur per metus, arba apie 358-567 Eur žmogui per mėnesį, dar neskaičiuojant pilno būsto, medicinos, švietimo ir socialinio gyvenimo paketo.
+
+Nuo šio dokumento BVK modelyje OPEX laikomas tokia pat svarbia skaičiavimo dalimi kaip CAPEX. Be OPEX fondo infrastruktūra virsta ne autonomija, o brangiu, greitai gendančiu pažadu.
