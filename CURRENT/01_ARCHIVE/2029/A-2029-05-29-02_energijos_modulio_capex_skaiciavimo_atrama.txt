@@ -1,0 +1,1025 @@
+BVK CANON
+Archyvo įrašas
+
+Statusas: ACTIVE
+Versija: v1.0
+Pirmojo priėmimo data: 2029-05-29
+Dabartinė redakcija: 2029-05-29
+Pakeitimų istorija: GitHub History
+Prieigos lygis: PUBLIC
+Kalba originalo: LT
+Viešas rodymas: PUBLIC_READY
+Dokumento kodas: A-2029-05-29-02
+Pavadinimas: Energijos modulio CAPEX skaičiavimo atrama
+
+# A-2029-05-29-02
+# Energijos modulio CAPEX skaičiavimo atrama
+
+Data: 2029 m. gegužės 29 d.
+
+## Įvykis
+
+Po energijos sąnaudų ir autonomijos korekcijos, vandens poreikio modeliavimo, vandens modulio segmentavimo ir vandens modulio CAPEX skaičiavimo pirmą kartą atliekamas atskiras energijos modulio kapitalinių išlaidų skaičiavimas 50 žmonių modeliui.
+
+Ankstesni dokumentai nustatė, kad 50 žmonių baziniam ciklui reikia apie 31 kWh elektros energijos per dieną, o kritiniam veikimui - apie 18 kWh per dieną. Taip pat buvo nustatyta, kad vandens modulis priklauso nuo energijos modulio, nes vandens tiekimui reikia siurblio, automatikos, slėgio palaikymo ir valdymo.
+
+Šis dokumentas nekuria veikiančio miesto, įmonės, organizacijos ar techninio projekto 2029 metais. Jis yra skaičiavimo atrama būsimo kooperatyvinio miesto infrastruktūros modeliui. Jo paskirtis - nustatyti investicijų dydžių eilę, kuri reikalinga tam, kad energijos autonomija nebūtų vien idėja, o turėtų apčiuopiamą įrangos, rezervo ir paskirstymo struktūrą.
+
+## Skaičiavimo tikslas
+
+Šio skaičiavimo tikslas yra nustatyti preliminarų energijos modulio CAPEX 50 žmonių modeliui.
+
+Skaičiavimas turi atsakyti į šiuos klausimus:
+
+- kiek kainuotų saulės generacijos dalis;
+- kiek kainuotų inverteriai ir valdymo įranga;
+- kiek kainuotų akumuliatorių kaupimas;
+- kiek kainuotų montavimo darbai;
+- kiek kainuotų kritinių apkrovų paskirstymas;
+- kokio dydžio reikia rezervinio energijos šaltinio;
+- kaip energijos modulis susijęs su kritinėmis apkrovomis;
+- koks skirtumas tarp minimalaus, patikimo ir sustiprinto autonomijos scenarijaus.
+
+Šis dokumentas nėra tiekėjo pasiūlymas, techninis projektas ar statybos sąmata. Tai yra BVK modelio darbo skaičiavimas, skirtas suprasti, kokio dydžio investicija slepiasi už žodžio „autonomija“.
+
+## Ankstesnė energetinė bazė
+
+Ankstesniame energijos sąnaudų skaičiavime buvo nustatyta:
+
+- bendras dienos energijos poreikis: apie 31 kWh;
+- kritinis dienos poreikis: apie 18 kWh;
+- minimalus 2 dienų kritinis rezervas: 36 kWh;
+- darbinė baterijų prielaida minimaliam rezervui: apie 40 kWh naudingo kaupimo;
+- saulės generacijos darbinė prielaida: 1 kW saulės elektrinės vidutiniškai duoda apie 2,5 kWh per dieną metiniu vidurkiu;
+- 18 kWh kritiniam poreikiui reikia apie 8 kW saulės elektrinės;
+- 31 kWh pilnam vidutiniam poreikiui reikia apie 13 kW saulės elektrinės.
+
+Vandens modulio korekcijoje taip pat buvo nustatyta, kad 50 žmonių vandens poreikiui gali reikėti apie 2 valandų siurblio darbo per dieną, jeigu naudojamas 2 m³/val. šaltinis. Todėl energijos modelyje vandens siurblys negali būti vertinamas per mažai. Ankstesnis 1 kWh vandens siurblio skaičius turi būti laikomas minimaliu, o patikimesniame modelyje vandens grandinei reikia palikti 1,5-2,0 kWh per dieną.
+
+Todėl šiame dokumente naudojami du energijos skaičiai:
+
+- bazinis ankstesnis skaičius: 31 kWh per dieną;
+- koreguotas darbo skaičius su vandens siurblio rezervu: 32 kWh per dieną.
+
+Kritinio režimo skaičius išlieka apie 18 kWh per dieną, tačiau paskirstymo ir baterijų skaičiavime prie jo pridedamas techninis rezervas.
+
+## Kritinių apkrovų sąrašas
+
+Kritinės apkrovos yra tos, kurių praradimas greitai sugriautų bazinę 50 žmonių sistemos funkciją.
+
+| Apkrova | Dienos energija | Kritiškumas | Pastaba |
+|---|---:|---|---|
+| Šaldymas / maisto laikymas | 8,0 kWh | labai aukštas | būtina išlaikyti be pertrūkio |
+| Vandens siurblys ir slėgis | 1,0-2,0 kWh | labai aukštas | priklauso nuo vandens modulio |
+| Minimalus apšvietimas | 1,0 kWh | aukštas | darbo, saugos ir judėjimo poreikis |
+| Ryšiai / kompiuteriai / valdymas | 1,5 kWh | aukštas | būtina koordinavimui ir apskaitai |
+| Minimalus maisto paruošimas | 6,0 kWh | labai aukštas | galima mažinti, bet negalima panaikinti |
+| Automatikos ir saugos rezervas | 0,5-1,0 kWh | vidutinis / aukštas | jutikliai, valdikliai, signalizavimas |
+
+Darbinis kritinis poreikis:
+
+8,0 + 1,5 + 1,0 + 1,5 + 6,0 + 1,0 = 19,0 kWh
+
+Kad išliktų suderinamumas su ankstesniu dokumentu, pagrindinis kritinis skaičius paliekamas 18 kWh per dieną, bet CAPEX modelyje naudojamas techninis rezervas iki 20 kWh per dieną.
+
+Tai reiškia:
+
+- minimalus skaičiavimo pagrindas: 18 kWh per dieną;
+- saugesnis kritinis darbo pagrindas: 20 kWh per dieną;
+- pilnas darbo režimas: 31-32 kWh per dieną.
+
+## Momentinės galios poreikis
+
+Energijos modulyje svarbi ne tik dienos energija, bet ir momentinė galia. Sistema gali sunaudoti 31 kWh per dieną, tačiau tam tikru momentu jai reikia kelių kilovatų galios vienu metu.
+
+| Apkrova | Momentinė galia |
+|---|---:|
+| Maisto paruošimas / kaitinimas | 4,0 kW |
+| Šaldymas / laikymas | 0,8-1,5 kW |
+| Vandens siurblys | 1,0 kW |
+| Apšvietimas | 0,4 kW |
+| Smulki įranga | 0,7 kW |
+| Ryšiai / kompiuteriai | 0,3 kW |
+| Automatikos ir saugos rezervas | 0,3-0,5 kW |
+
+Galimas vienalaikis poreikis be didelio rezervo:
+
+4,0 + 1,5 + 1,0 + 0,4 + 0,7 + 0,3 + 0,5 = 8,4 kW
+
+Tačiau šaldymo kompresoriai, siurbliai ir kai kurie įrenginiai turi paleidimo šuolius. Todėl 8,4 kW vienalaikė apkrova negali būti dengiama 8 kW inverteriu be rizikos.
+
+Darbinė išvada:
+
+- minimalus inverterio dydis: 10 kW;
+- patikimesnis darbo dydis: 12-15 kW;
+- sustiprintas autonomijos dydis: 2 inverteriai arba modulinė 20 kW schema, leidžianti atskirti kritines ir nekritines apkrovas.
+
+## Saulės generacijos skaičiavimas
+
+Naudojama ankstesnė darbinė prielaida:
+
+1 kW saulės elektrinės = apie 2,5 kWh per dieną metiniu vidurkiu.
+
+Tai nėra garantuota žiemos dienos gamyba. Tai yra metinio vidurkio darbo skaičius, tinkamas pirmai investicinei logikai.
+
+### Kritinis režimas
+
+Kritinis poreikis:
+
+18 kWh per dieną
+
+Reikalinga saulės galia:
+
+18 kWh / 2,5 kWh = 7,2 kW
+
+Apvalinama:
+
+8 kW saulės elektrinė
+
+Jeigu naudojamas saugesnis kritinis skaičius 20 kWh:
+
+20 kWh / 2,5 kWh = 8,0 kW
+
+Todėl minimaliai kritiniam vidutiniam poreikiui reikia 8 kW saulės elektrinės. Dėl nuostolių, blogesnių dienų, inverterio darbo, kabelių ir sezoniškumo vien 8 kW turi būti laikoma minimalia, o ne patogia riba.
+
+### Pilnas bazinis režimas
+
+Pilnas poreikis:
+
+31 kWh per dieną
+
+Reikalinga saulės galia:
+
+31 kWh / 2,5 kWh = 12,4 kW
+
+Apvalinama:
+
+13 kW saulės elektrinė
+
+Jeigu naudojamas koreguotas 32 kWh skaičius:
+
+32 kWh / 2,5 kWh = 12,8 kW
+
+Apvalinama:
+
+13 kW saulės elektrinė
+
+Todėl 13 kW laikoma minimaliu pilno vidutinio poreikio dydžiu.
+
+### Autonomijos rezervas
+
+Maksimalios autonomijos modelis negali remtis tik tiksliai apskaičiuotu vidurkiu. Reikia turėti 15-25 procentų rezervą.
+
+13 kW × 1,2 = 15,6 kW
+
+Apvalinama:
+
+16 kW saulės elektrinė
+
+Darbinė išvada:
+
+- 8 kW - minimalus kritinių apkrovų saulės dydis;
+- 13 kW - pilno vidutinio dienos poreikio dydis;
+- 16 kW - sustiprintas autonomijos dydis su rezervu.
+
+## Saulės elektrinės ploto prielaida
+
+Darbinė ploto prielaida:
+
+1 kW saulės modulių reikalauja apie 5-6 m² stogo arba žemės konstrukcijos ploto.
+
+| Saulės galia | Apytikslis plotas |
+|---|---:|
+| 8 kW | 40-48 m² |
+| 13 kW | 65-78 m² |
+| 16 kW | 80-96 m² |
+
+Šis plotas yra svarbus miesto planavimui. Jeigu energijos moduliai bus kartojami kas 50 žmonių, reikia numatyti ne tik pinigus, bet ir stogus, pastoges, techninius kiemus arba žemės konstrukcijas.
+
+## Akumuliatorių kaupimo skaičiavimas
+
+Akumuliatoriai skaičiuojami pagal naudingą energiją, o ne vien pagal nominalią talpą. Jeigu baterijos nominali talpa yra 50 kWh, ne visa ji turi būti kasdien iškraunama iki nulio. Reikia palikti gyvavimo, saugos ir degradacijos rezervą.
+
+Darbinė prielaida:
+
+- naudinga talpa: apie 85 procentai nominalios talpos;
+- techninis rezervas: 10-15 procentų;
+- baterijų tipas: LiFePO4 arba panašios saugesnės stacionarios kaupimo technologijos;
+- švino rūgšties baterijos nelaikomos tinkamu pagrindiniu miesto autonomijos sprendimu dėl gylio, svorio, ciklų skaičiaus ir priežiūros.
+
+### Minimalus kritinis rezervas
+
+Kritinis poreikis:
+
+18 kWh per dieną
+
+2 dienų kritinis rezervas:
+
+18 kWh × 2 = 36 kWh
+
+Pridedamas nuostolių ir valdymo rezervas:
+
+apie 40 kWh naudingo kaupimo
+
+Nominali talpa, jeigu naudinga dalis yra 85 procentai:
+
+40 kWh / 0,85 = 47,1 kWh
+
+Apvalinama:
+
+apie 48-50 kWh nominalios baterijų talpos
+
+### Patikimesnis kritinis rezervas
+
+Saugiau skaičiuoti ne 2, o 3 kritines dienas.
+
+18 kWh × 3 = 54 kWh
+
+Su nuostoliais ir vandens siurblio rezervu:
+
+apie 60 kWh naudingo kaupimo
+
+Nominali talpa:
+
+60 kWh / 0,85 = 70,6 kWh
+
+Apvalinama:
+
+apie 70-72 kWh nominalios baterijų talpos
+
+### Sustiprintas autonomijos rezervas
+
+Jeigu norima, kad 50 žmonių modulis galėtų išlaikyti ilgesnį sutrikimą arba dalį pilno režimo be tinklo, reikia didesnės baterijos.
+
+Galimi sustiprinti tikslai:
+
+- 4 kritinės dienos: 18 kWh × 4 = 72 kWh;
+- 2 pilnos dienos: 32 kWh × 2 = 64 kWh;
+- techninis rezervas abiem atvejais: iki 80 kWh naudingo kaupimo.
+
+Nominali talpa:
+
+80 kWh / 0,85 = 94,1 kWh
+
+Apvalinama:
+
+apie 90-100 kWh nominalios baterijų talpos
+
+Darbinė išvada:
+
+- 40 kWh naudingo kaupimo - minimalus kritinis paketas;
+- 60 kWh naudingo kaupimo - patikimas 50 žmonių modulio paketas;
+- 80 kWh naudingo kaupimo - sustiprintas autonomijos paketas.
+
+## Kainų prielaidų logika
+
+Energijos modulio kainos labai priklauso nuo įrangos gamintojo, montavimo vietos, stogo arba žemės konstrukcijos, kabelių ilgio, trifazės įvado būklės, ar sistema yra on-grid, hybrid ar off-grid, ar reikalingas EPS / backup režimas, baterijų talpos, priešgaisrinių, apsaugos ir automatikos reikalavimų, generatoriaus tipo ir nuo to, ar reikia atskiros kritinių apkrovų skydinės.
+
+Todėl dokumente naudojami intervalai, o ne viena kaina.
+
+## Saulės modulių ir konstrukcijos CAPEX
+
+Darbinė saulės elektrinės dalies kaina skaičiuojama taip:
+
+- saulės moduliai, konstrukcija, DC apsaugos, kabeliai: 450-700 Eur/kW;
+- montavimas, prijungimas, dokumentavimas ir paleidimas: 180-350 Eur/kW;
+- papildomas autonomijos projekto rezervas: 400-1500 Eur pagal dydį.
+
+Taigi visa saulės generacijos dalis skaičiuojama maždaug 630-1050 Eur/kW, o sudėtingesniame objekte - iki 1150 Eur/kW.
+
+### 8 kW scenarijus
+
+Įranga ir konstrukcija:
+
+8 kW × 450 Eur = 3600 Eur
+
+8 kW × 700 Eur = 5600 Eur
+
+Montavimas:
+
+8 kW × 180 Eur = 1440 Eur
+
+8 kW × 350 Eur = 2800 Eur
+
+Tarpinė suma:
+
+3600 + 1440 = 5040 Eur
+
+5600 + 2800 = 8400 Eur
+
+Projektavimo / dokumentavimo rezervas:
+
+400-900 Eur
+
+Galutinė 8 kW saulės dalies prielaida:
+
+5440-9300 Eur
+
+Apvalinama:
+
+apie 5500-9300 Eur
+
+### 13 kW scenarijus
+
+Įranga ir konstrukcija:
+
+13 kW × 450 Eur = 5850 Eur
+
+13 kW × 700 Eur = 9100 Eur
+
+Montavimas:
+
+13 kW × 180 Eur = 2340 Eur
+
+13 kW × 350 Eur = 4550 Eur
+
+Tarpinė suma:
+
+5850 + 2340 = 8190 Eur
+
+9100 + 4550 = 13 650 Eur
+
+Projektavimo / dokumentavimo rezervas:
+
+600-1200 Eur
+
+Galutinė 13 kW saulės dalies prielaida:
+
+8790-14 850 Eur
+
+Apvalinama:
+
+apie 8800-14 900 Eur
+
+### 16 kW scenarijus
+
+Įranga ir konstrukcija:
+
+16 kW × 450 Eur = 7200 Eur
+
+16 kW × 700 Eur = 11 200 Eur
+
+Montavimas:
+
+16 kW × 180 Eur = 2880 Eur
+
+16 kW × 350 Eur = 5600 Eur
+
+Tarpinė suma:
+
+7200 + 2880 = 10 080 Eur
+
+11 200 + 5600 = 16 800 Eur
+
+Projektavimo / dokumentavimo rezervas:
+
+800-1500 Eur
+
+Galutinė 16 kW saulės dalies prielaida:
+
+10 880-18 300 Eur
+
+Apvalinama:
+
+apie 10 900-18 300 Eur
+
+## Inverterių ir galios valdymo CAPEX
+
+Inverteris turi ne tik paversti saulės modulių DC energiją į AC. Autonomijos modulyje jis turi dirbti su baterijomis, palaikyti kritines apkrovas, turėti EPS arba backup režimą, valdyti prioritetus, saugiai atsijungti nuo tinklo sutrikimo metu, leisti prijungti rezervinį generatorių ir užtikrinti stabilų paskirstymą.
+
+### Minimalus inverterio paketas
+
+Minimalus variantas:
+
+- 10 kW hibridinis inverteris;
+- kritinių apkrovų backup išėjimas;
+- apsaugos;
+- skaitikliai;
+- ryšio modulis;
+- bazinis parametravimas.
+
+| Dalis | Kaina |
+|---|---:|
+| 10 kW hibridinis inverteris | 1200-2500 Eur |
+| apsaugos, skaitikliai, ryšys | 400-900 Eur |
+| konfigūravimas ir paleidimas | 300-500 Eur |
+
+Iš viso:
+
+1900-3900 Eur
+
+### Patikimas inverterio paketas
+
+Patikimesnis variantas:
+
+- 12-15 kW hibridinis inverteris arba du suderinti mažesni inverteriai;
+- atskiras kritinių apkrovų valdymas;
+- galimybė išlaikyti didesnį paleidimo šuolį;
+- paruošimas generatoriaus įvedimui.
+
+| Dalis | Kaina |
+|---|---:|
+| inverteriai | 2500-5000 Eur |
+| backup / EPS valdymas | 700-1500 Eur |
+| apsaugos, skaitikliai, ryšys | 500-1000 Eur |
+
+Iš viso:
+
+3700-7500 Eur
+
+### Sustiprintas inverterio paketas
+
+Sustiprintas variantas:
+
+- 2 × 10 kW arba apie 20 kW modulinė schema;
+- kritinės ir nekritinės apkrovos atskirtos;
+- vieno inverterio gedimas neturi sustabdyti viso modulio;
+- leidžiama ateityje prijungti papildomą baterijų sekciją.
+
+| Dalis | Kaina |
+|---|---:|
+| inverterių blokas | 4500-8000 Eur |
+| sinchronizavimas / valdymas | 1500-3000 Eur |
+| papildomos apsaugos ir paleidimas | 1000-1500 Eur |
+
+Iš viso:
+
+7000-12 500 Eur
+
+## Akumuliatorių CAPEX
+
+Akumuliatoriai yra brangiausia energijos modulio dalis. Todėl klaidinga sakyti, kad saulės elektrinė automatiškai suteikia autonomiją. Saulės elektrinė be baterijų mažina perkamos energijos kiekį, bet ji pati savaime neužtikrina nakties, debesuotų dienų ar tinklo sutrikimo.
+
+Darbinė baterijų kainos prielaida:
+
+- baterijų blokai, BMS ir bazinė įranga: 330-550 Eur už naudingą kWh;
+- montavimas, apsaugos, spinta, kabeliai, paleidimas: 10-20 procentų nuo baterijų dalies;
+- papildomas techninis rezervas didesnėms sistemoms: 1000-4000 Eur.
+
+### 40 kWh naudingo kaupimo
+
+Baterijų blokai:
+
+40 kWh × 330 Eur = 13 200 Eur
+
+40 kWh × 550 Eur = 22 000 Eur
+
+Montavimas ir apsaugos:
+
+apie 2000-4000 Eur
+
+Iš viso:
+
+15 200-26 000 Eur
+
+Apvalinama:
+
+apie 15 000-26 000 Eur
+
+### 60 kWh naudingo kaupimo
+
+Baterijų blokai:
+
+60 kWh × 330 Eur = 19 800 Eur
+
+60 kWh × 550 Eur = 33 000 Eur
+
+Montavimas ir apsaugos:
+
+apie 3000-6000 Eur
+
+Iš viso:
+
+22 800-39 000 Eur
+
+Apvalinama:
+
+apie 23 000-39 000 Eur
+
+### 80 kWh naudingo kaupimo
+
+Baterijų blokai:
+
+80 kWh × 330 Eur = 26 400 Eur
+
+80 kWh × 550 Eur = 44 000 Eur
+
+Montavimas ir apsaugos:
+
+apie 4000-8000 Eur
+
+Iš viso:
+
+30 400-52 000 Eur
+
+Apvalinama:
+
+apie 30 000-52 000 Eur
+
+## Kritinių apkrovų paskirstymo CAPEX
+
+Energijos moduliui būtina ne tik gaminti ir kaupti energiją. Jis turi paskirstyti energiją taip, kad sutrikimo metu pirmiausia būtų maitinama tai, kas svarbiausia.
+
+Reikalingos dalys:
+
+- atskira kritinių apkrovų skydinė;
+- automatinis arba pusiau automatinis apkrovų atjungimas;
+- šaldymo, vandens, ryšio ir avarinio apšvietimo kontūrai;
+- atskiras vandens siurblio maitinimas;
+- apsaugos nuo viršįtampių;
+- įžeminimo ir žaibosaugos patikra;
+- kabeliai nuo saulės modulių iki inverterių;
+- kabeliai nuo baterijų iki inverterių;
+- galios matavimas;
+- minimalus gaisrinis atjungimas;
+- techninis žymėjimas ir priežiūros schema.
+
+### Minimalus paskirstymas
+
+Minimalus variantas tinka tik labai paprastam 50 žmonių modeliui.
+
+Kainos prielaida:
+
+2500-5000 Eur
+
+Įeina viena kritinių apkrovų skydinė, keli atskiri kontūrai, pagrindinės apsaugos ir rankinis arba paprastas prioritetų valdymas.
+
+### Patikimas paskirstymas
+
+Patikimas variantas turi leisti izoliuoti neesmines apkrovas ir išlaikyti kritines.
+
+Kainos prielaida:
+
+4500-8500 Eur
+
+Įeina atskirtas kritinis ir nekritinis kontūras, automatinis perjungimas, papildomas matavimas, paruošimas generatoriui ir aiškus avarinis režimas.
+
+### Sustiprintas paskirstymas
+
+Sustiprintas variantas tinkamas miesto modulio prototipui, kur svarbu gedimo izoliacija.
+
+Kainos prielaida:
+
+8000-14 000 Eur
+
+Įeina keli kritiniai poskyriai, šaldymo, vandens, ryšio ir maisto paruošimo atskyrimas, prioritetiniai reliniai atjungimai, monitoringas, vietinis valdymo pultas ir paruošimas jungčiai su kitu energijos moduliu.
+
+## Montavimo darbai ir techninė integracija
+
+Montavimo kaina negali būti laikoma tik panelių uždėjimu. Autonomijos modulyje montavimas apima stogo arba žemės konstrukcijos patikrą, panelių montavimą, DC ir AC kabelių trasas, inverterių tvirtinimą, baterijų patalpą arba spintą, ventiliaciją, apsaugas, generatoriaus prijungimo tašką, ženklinimą, bandymus, paleidimą ir naudotojų instruktažą.
+
+Kadangi dalis montavimo jau įtraukta į saulės, inverterių ir baterijų punktus, šiame skyriuje skaičiuojamas papildomas integracijos rezervas.
+
+| Scenarijus | Papildoma integracija |
+|---|---:|
+| Minimalus | 1000-2500 Eur |
+| Patikimas | 1500-3500 Eur |
+| Sustiprintas | 2500-5000 Eur |
+
+Šis rezervas reikalingas todėl, kad realiame objekte beveik visada atsiranda papildomų kabelių, apsaugų, laikiklių, skydinių, darbo valandų ir derinimo poreikių.
+
+## Rezerviniai energijos šaltiniai
+
+Saulės elektrinė ir baterijos sumažina priklausomybę, bet jos neužtikrina visiškos žiemos autonomijos be labai didelio perbranginimo. Todėl 50 žmonių energijos modulis turi turėti rezervinį šaltinį.
+
+Pirmame modelyje rezervinis šaltinis nėra pagrindinis energijos šaltinis. Jis skirtas įkrauti baterijas ilgo sutrikimo metu, palaikyti šaldymą, vandens siurblį, ryšius, trumpai padengti galios šuolius ir neleisti maisto bei vandens grandinei sustoti.
+
+Galimi rezerviniai šaltiniai:
+
+1. dyzelinis generatorius;
+2. benzininis generatorius mažam kritiniam režimui;
+3. biodujų generatorius vėlesniame etape;
+4. jungtis su kitu energijos moduliu;
+5. tinklo įvadas, jeigu jis veikia;
+6. šiluminis rezervas maisto ruošimui, mažinantis elektros poreikį.
+
+### Minimalus rezervinis šaltinis
+
+- 5-8 kW generatorius;
+- rankinis arba paprastas perjungimas;
+- kuras kelioms kritinėms dienoms;
+- naudojamas tik kritinėms apkrovoms ir baterijų papildymui.
+
+| Dalis | Kaina |
+|---|---:|
+| generatorius | 1200-2500 Eur |
+| perjungimas ir prijungimas | 700-1500 Eur |
+| kuro ir techninis rezervas | 300-700 Eur |
+
+Iš viso:
+
+2200-4700 Eur
+
+### Patikimas rezervinis šaltinis
+
+- 10-15 kW dyzelinis generatorius;
+- automatinis perjungimas;
+- galimybė krauti baterijas;
+- atskiras generatoriaus prijungimo mazgas;
+- 100-200 litrų kuro rezervas pagal naudojimo protokolą.
+
+| Dalis | Kaina |
+|---|---:|
+| generatorius | 3500-7000 Eur |
+| ATS / perjungimas | 1000-2200 Eur |
+| kuro talpa, išmetimas, triukšmo mažinimas | 800-2000 Eur |
+| paleidimas ir techninis aptarnavimas | 400-800 Eur |
+
+Iš viso:
+
+5700-12 000 Eur
+
+### Sustiprintas rezervinis šaltinis
+
+- 15-20 kW stacionarus generatorius;
+- automatinis perjungimas;
+- integracija su inverteriais;
+- generatoriaus darbo grafikas baterijoms įkrauti;
+- kuro rezervas ilgesniam sutrikimui;
+- atskira saugi vieta, triukšmo ir išmetimo kontrolė.
+
+| Dalis | Kaina |
+|---|---:|
+| stacionarus generatorius | 6000-10 000 Eur |
+| ATS / valdymas | 1500-3000 Eur |
+| kuro talpa, pagrindas, vėdinimas, triukšmo mažinimas | 2000-4500 Eur |
+| monitoringas ir paleidimas | 600-1200 Eur |
+
+Iš viso:
+
+10 100-18 700 Eur
+
+## Kuro rezervo prielaida
+
+Generatoriaus kuro poreikis priklauso nuo apkrovos, generatoriaus efektyvumo ir darbo režimo. Pirmam modeliui naudojama konservatyvi darbo prielaida:
+
+- 0,3-0,4 litro kuro vienai pagamintai kWh;
+- generatorius neturi dirbti nuolat, jei yra baterijos;
+- geriau trumpais ciklais krauti baterijas ir maitinti kritines apkrovas.
+
+Jeigu reikia pagaminti 36 kWh dviejų kritinių dienų energijos:
+
+36 kWh × 0,3 l = 10,8 l
+
+36 kWh × 0,4 l = 14,4 l
+
+Su nuostoliais, daline apkrova ir atsarga:
+
+apie 20-30 litrų
+
+Jeigu norima turėti 3-5 dienų kritinį kuro rezervą, 50 žmonių moduliui darbo tvarka reikia laikyti ne mažiau kaip 80-150 litrų kuro arba lygiavertį alternatyvų energijos rezervą.
+
+Tai nėra ilgalaikės priklausomybės nuo kuro planas. Tai yra avarinės autonomijos apsauga.
+
+## Stebėjimas ir energijos valdymas
+
+Autonomijos modulis turi būti matuojamas. Be matavimo nėra aišku, ar sistema veikia, ar tik atrodo įrengta.
+
+Reikalinga stebėti:
+
+- saulės gamybą;
+- baterijų įkrovą;
+- kritinių apkrovų suvartojimą;
+- vandens siurblio energiją;
+- šaldymo energiją;
+- generatoriaus darbo laiką;
+- gedimus;
+- viršįtampius;
+- baterijų temperatūrą;
+- kuro rezervo būklę;
+- rankinio avarinio režimo taisykles.
+
+| Scenarijus | Stebėjimas ir valdymas |
+|---|---:|
+| Minimalus | 800-1500 Eur |
+| Patikimas | 1500-3000 Eur |
+| Sustiprintas | 3000-5500 Eur |
+
+## CAPEX scenarijai
+
+### Scenarijus A: minimalus kritinės autonomijos modulis
+
+Paskirtis:
+
+Išlaikyti kritines apkrovas, kai sutrinka išorinis tiekimas. Šis modelis dar nėra patogi autonomija. Tai pirmas apsaugos sluoksnis.
+
+Sudėtis:
+
+- 8 kW saulės elektrinė;
+- 10 kW hibridinis inverteris;
+- 40 kWh naudingo baterijų kaupimo;
+- kritinių apkrovų skydinė;
+- 5-8 kW generatorius;
+- bazinis monitoringas;
+- papildomas integracijos rezervas.
+
+| Dalis | Kaina nuo | Kaina iki |
+|---|---:|---:|
+| Saulės generacija 8 kW | 5500 Eur | 9300 Eur |
+| Inverteris ir valdymas | 1900 Eur | 3900 Eur |
+| Baterijos 40 kWh naudingo kaupimo | 15 000 Eur | 26 000 Eur |
+| Kritinių apkrovų paskirstymas | 2500 Eur | 5000 Eur |
+| Rezervinis generatorius | 2200 Eur | 4700 Eur |
+| Monitoringas | 800 Eur | 1500 Eur |
+| Papildoma integracija | 1000 Eur | 2500 Eur |
+
+Tarpinė suma:
+
+5500 + 1900 + 15 000 + 2500 + 2200 + 800 + 1000 = 28 900 Eur
+
+9300 + 3900 + 26 000 + 5000 + 4700 + 1500 + 2500 = 52 900 Eur
+
+Nenumatytų išlaidų rezervas 15 procentų:
+
+28 900 × 0,15 = 4335 Eur
+
+52 900 × 0,15 = 7935 Eur
+
+Galutinė prielaida:
+
+28 900 + 4335 = 33 235 Eur
+
+52 900 + 7935 = 60 835 Eur
+
+Apvalinama:
+
+apie 33 000-61 000 Eur
+
+Darbinė išvada:
+
+Minimalus energijos modulis 50 žmonių kritiniam režimui kainuoja apie 33 000-61 000 Eur.
+
+Šis scenarijus tinka tik kaip pirmas apsaugos sluoksnis. Jis negali būti laikomas maksimalios autonomijos standartu.
+
+### Scenarijus B: patikimas 50 žmonių energijos modulis
+
+Paskirtis:
+
+Išlaikyti pilną vidutinį dienos poreikį metiniu vidurkiu ir turėti rimtą kritinių apkrovų rezervą. Šis modelis laikomas rekomenduojamu darbo standartu 50 žmonių moduliui.
+
+Sudėtis:
+
+- 13 kW saulės elektrinė;
+- 12-15 kW inverterių schema;
+- 60 kWh naudingo baterijų kaupimo;
+- atskirtas kritinis ir nekritinis kontūras;
+- 10-15 kW generatorius;
+- patikimas monitoringas;
+- papildoma integracija.
+
+| Dalis | Kaina nuo | Kaina iki |
+|---|---:|---:|
+| Saulės generacija 13 kW | 8800 Eur | 14 900 Eur |
+| Inverteriai ir valdymas | 3700 Eur | 7500 Eur |
+| Baterijos 60 kWh naudingo kaupimo | 23 000 Eur | 39 000 Eur |
+| Kritinių apkrovų paskirstymas | 4500 Eur | 8500 Eur |
+| Rezervinis generatorius | 5700 Eur | 12 000 Eur |
+| Monitoringas | 1500 Eur | 3000 Eur |
+| Papildoma integracija | 1500 Eur | 3500 Eur |
+
+Tarpinė suma:
+
+8800 + 3700 + 23 000 + 4500 + 5700 + 1500 + 1500 = 50 200 Eur
+
+14 900 + 7500 + 39 000 + 8500 + 12 000 + 3000 + 3500 = 88 400 Eur
+
+Nenumatytų išlaidų rezervas 15 procentų:
+
+50 200 × 0,15 = 7530 Eur
+
+88 400 × 0,15 = 13 260 Eur
+
+Galutinė prielaida:
+
+50 200 + 7530 = 57 730 Eur
+
+88 400 + 13 260 = 101 660 Eur
+
+Apvalinama:
+
+apie 58 000-102 000 Eur
+
+Darbinė išvada:
+
+Patikimas 50 žmonių energijos modulis kainuoja apie 58 000-102 000 Eur.
+
+Tai yra pirmasis rimtas autonomijos standartas. Jis dar nepadaro sistemos visiškai nepriklausomos žiemą, bet jau leidžia valdyti kritines apkrovas, mažinti išorinės energijos priklausomybę ir išlaikyti veikimą sutrikimų metu.
+
+### Scenarijus C: sustiprintas maksimalios autonomijos modulis
+
+Paskirtis:
+
+Sukurti 50 žmonių modulį kaip būsimo miesto energetinės segmentacijos prototipą. Šis scenarijus turi didesnį saulės rezervą, didesnę baterijų talpą, stipresnę inverterių schemą ir rimtesnį rezervinį šaltinį.
+
+Sudėtis:
+
+- 16 kW saulės elektrinė;
+- modulinė apie 20 kW inverterių schema;
+- 80 kWh naudingo baterijų kaupimo;
+- keli kritiniai poskyriai;
+- 15-20 kW stacionarus generatorius;
+- išplėstas monitoringas;
+- pasiruošimas jungčiai su kitu energijos moduliu;
+- didesnis integracijos rezervas.
+
+| Dalis | Kaina nuo | Kaina iki |
+|---|---:|---:|
+| Saulės generacija 16 kW | 10 900 Eur | 18 300 Eur |
+| Inverteriai ir valdymas | 7000 Eur | 12 500 Eur |
+| Baterijos 80 kWh naudingo kaupimo | 30 000 Eur | 52 000 Eur |
+| Kritinių apkrovų paskirstymas | 8000 Eur | 14 000 Eur |
+| Rezervinis generatorius | 10 100 Eur | 18 700 Eur |
+| Monitoringas | 3000 Eur | 5500 Eur |
+| Papildoma integracija | 2500 Eur | 5000 Eur |
+
+Tarpinė suma:
+
+10 900 + 7000 + 30 000 + 8000 + 10 100 + 3000 + 2500 = 71 500 Eur
+
+18 300 + 12 500 + 52 000 + 14 000 + 18 700 + 5500 + 5000 = 126 000 Eur
+
+Nenumatytų išlaidų rezervas 15 procentų:
+
+71 500 × 0,15 = 10 725 Eur
+
+126 000 × 0,15 = 18 900 Eur
+
+Galutinė prielaida:
+
+71 500 + 10 725 = 82 225 Eur
+
+126 000 + 18 900 = 144 900 Eur
+
+Apvalinama:
+
+apie 82 000-145 000 Eur
+
+Darbinė išvada:
+
+Sustiprintas maksimalios autonomijos modulis 50 žmonių modeliui kainuoja apie 82 000-145 000 Eur.
+
+Tai jau ne paprasta saulės elektrinė. Tai mažas energetinis mazgas su gamyba, kaupimu, paskirstymu, atsarginiu šaltiniu ir kritinių apkrovų logika.
+
+## CAPEX santrauka
+
+| Scenarijus | Saulė | Baterijos | Rezervas | Paskirtis | Galutinė CAPEX prielaida |
+|---|---:|---:|---|---|---:|
+| A. Minimalus | 8 kW | 40 kWh naudinga | 5-8 kW generatorius | kritinių apkrovų išlikimas | 33 000-61 000 Eur |
+| B. Patikimas | 13 kW | 60 kWh naudinga | 10-15 kW generatorius | rekomenduojamas 50 žmonių darbo standartas | 58 000-102 000 Eur |
+| C. Sustiprintas | 16 kW | 80 kWh naudinga | 15-20 kW generatorius | miesto modulio autonomijos prototipas | 82 000-145 000 Eur |
+
+## Ryšys su vandens moduliu
+
+Vandens modulis negali būti atskirtas nuo energijos modulio.
+
+Vandens grandinei reikia:
+
+- siurblio energijos;
+- automatikos;
+- slėgio palaikymo;
+- valdymo;
+- avarinio veikimo;
+- galimybės siurbti pagal grafiką, kai yra saulės gamyba.
+
+Todėl energijos modulyje vandens siurblys turi būti priskirtas kritinei apkrovai.
+
+Minimalus reikalavimas:
+
+- vandens siurblys turi būti prijungtas prie kritinių apkrovų skydinės;
+- turi būti galimybė siurbti vandenį iš baterijų;
+- turi būti galimybė siurbti vandenį veikiant generatoriui;
+- talpos turi leisti trumpą laiką veikti be siurblio;
+- energijos valdymas turi žinoti, kada vandens talpos pasiekia kritinį lygį.
+
+Tai reiškia, kad energijos ir vandens moduliai turi būti projektuojami kartu. Vandens CAPEX be energijos rezervo yra nepilnas. Energijos CAPEX be vandens siurblio prioritetų taip pat yra nepilnas.
+
+## Ryšys su maisto grandine
+
+Maisto grandinė yra didžiausia kritinės energijos dalis, nes jai reikia šaldymo, laikymo, dalies paruošimo, higienos, vandens, apšvietimo ir apskaitos.
+
+Jeigu maisto paruošimas visiškai elektrinis, energijos modulis turi būti didesnis. Jeigu dalis šilumos gaunama iš biokuro, biodujų, šilumos kaupimo ar kito neelektrinio šaltinio, elektros poreikis mažėja.
+
+Todėl ateityje būtina skaičiuoti ne tik elektrą, bet ir šiluminę energiją.
+
+Pirmasis sprendimas:
+
+- elektros modulis turi išlaikyti minimalų maisto paruošimą;
+- pilnas maisto paruošimas neturi visada priklausyti tik nuo baterijų;
+- šiluminis rezervas turi būti įtrauktas į kitą infrastruktūros skaičiavimo etapą.
+
+## Miesto mastelio segmentavimas
+
+50 žmonių energijos modulis yra mažiausias darbo vienetas.
+
+Jeigu modelis plečiamas į 500 žmonių segmentą, negalima tiesiog mechaniškai padauginti vieno modulio dešimt kartų be architektūros.
+
+Tiesinis dauginimas:
+
+- 50 žmonių patikimas modulis: 58 000-102 000 Eur;
+- 500 žmonių, 10 modulių: 580 000-1 020 000 Eur.
+
+Tačiau miesto mastu atsiranda masto ekonomija: dalis inverterių gali būti didesni ir pigesni už kW, baterijų konteineriai gali būti efektyvesni už mažas sistemas, paskirstymo infrastruktūra tampa brangesnė, bet tvarkingesnė, generatoriai gali būti keli didesni, o ne daug mažų.
+
+Todėl 500 žmonių energetinis segmentas turi būti skaičiuojamas atskirai.
+
+Vis dėlto pirmas principas išlieka:
+
+miestas turi būti dalijamas į energijos segmentus, kad vienas gedimas nesustabdytų visos sistemos.
+
+## Kodėl maksimalios autonomijos negalima skaičiuoti pigiai
+
+Šis dokumentas parodo svarbią korekciją: autonomija nėra pigi saulės elektrinė.
+
+Pigi saulės elektrinė atsako į klausimą:
+
+kiek elektros galima pagaminti, kai šviečia saulė?
+
+Autonominis energijos modulis atsako į kitą klausimą:
+
+kaip išlaikyti vandenį, maistą, šaldymą, ryšį ir minimalų gyvenimo ritmą, kai išorinis tiekimas sutrinka?
+
+Todėl autonomijos kainą sudaro ne vien panelės. Ją sudaro saulės moduliai, inverteriai, baterijos, kritinių apkrovų paskirstymas, automatinis perjungimas, rezervinis generatorius, kuras arba alternatyvus rezervas, monitoringas, montavimas, priežiūra ir nenumatytų išlaidų rezervas.
+
+Būtent baterijos, paskirstymas ir rezervinis šaltinis paverčia paprastą energijos taupymą autonomijos infrastruktūra.
+
+## Pirmasis energijos modulio standartas
+
+Nuo šio dokumento 50 žmonių energijos moduliui nustatomi šie darbo standartai.
+
+### Minimalus standartas
+
+Naudojamas tik kaip pirmas kritinės apsaugos lygis:
+
+- 8 kW saulės elektrinė;
+- 40 kWh naudingo kaupimo;
+- 10 kW hibridinis inverteris;
+- kritinių apkrovų skydinė;
+- mažas generatorius;
+- CAPEX: apie 33 000-61 000 Eur.
+
+### Rekomenduojamas darbo standartas
+
+Naudojamas kaip rimtas 50 žmonių modulio standartas:
+
+- 13 kW saulės elektrinė;
+- 60 kWh naudingo kaupimo;
+- 12-15 kW inverterių schema;
+- atskirtas kritinis kontūras;
+- 10-15 kW generatorius;
+- CAPEX: apie 58 000-102 000 Eur.
+
+### Sustiprintas miesto prototipo standartas
+
+Naudojamas, kai tikslas yra maksimali autonomija:
+
+- 16 kW saulės elektrinė;
+- 80 kWh naudingo kaupimo;
+- apie 20 kW modulinė inverterių schema;
+- keli kritiniai poskyriai;
+- 15-20 kW stacionarus generatorius;
+- pasiruošimas jungčiai su kitu energijos moduliu;
+- CAPEX: apie 82 000-145 000 Eur.
+
+## Priežiūros ir keitimo rezervas
+
+CAPEX nėra paskutinė energijos modulio kaina. Reikia skaičiuoti ir priežiūrą.
+
+| Scenarijus | Metinis priežiūros rezervas |
+|---|---:|
+| Minimalus | 700-1500 Eur |
+| Patikimas | 1200-2500 Eur |
+| Sustiprintas | 2000-4000 Eur |
+
+Į tai gali įeiti patikros, generatoriaus aptarnavimas, filtrai, alyva, bandymai, baterijų monitoringas, kontaktų patikra, programinės įrangos atnaujinimai, draudimas arba saugos patikros ir smulkūs remontai.
+
+Ilgalaikiame modelyje taip pat reikia numatyti baterijų keitimą po nusidėvėjimo. Todėl autonomijos fondas turi turėti ne tik pradinį CAPEX, bet ir atnaujinimo rezervą.
+
+## Pagrindinė korekcija ekonominiam modeliui
+
+Ankstesniuose ekonominiuose skaičiavimuose energija galėjo atrodyti kaip nedidelė kasdienė sąnauda:
+
+31 kWh × 0,25 Eur = 7,75 Eur per dieną
+
+Per mėnesį:
+
+7,75 Eur × 30 = 232,50 Eur
+
+Per metus:
+
+232,50 Eur × 12 = 2790 Eur
+
+Tačiau ši suma rodo tik perkamos elektros kainą. Ji nerodo autonomijos kainos.
+
+Jeigu patikimas energijos modulis kainuoja 58 000-102 000 Eur, jo prasmė nėra vien elektros sąskaitos sumažinimas. Jo prasmė yra šaldymo, vandens, maisto grandinės, ryšio, mažesnės priklausomybės ir atsparios miesto sistemos išlikimas.
+
+Todėl energijos CAPEX turi būti skaičiuojamas ne kaip komercinis atsipirkimas, o kaip infrastruktūrinė nepriklausomybė.
+
+## Išvada
+
+Energijos modulio CAPEX skaičiavimas parodė, kad 50 žmonių autonomijos vienetas yra gerokai brangesnis už paprastą saulės elektrinę.
+
+Minimalus kritinės autonomijos paketas kainuoja apie 33 000-61 000 Eur. Patikimas darbo standartas kainuoja apie 58 000-102 000 Eur. Sustiprintas maksimalios autonomijos modulis kainuoja apie 82 000-145 000 Eur.
+
+Pagrindinė išvada: maksimaliai autonomiškas miestas negali būti kuriamas tik iš pastatų, kelių ir socialinių pažadų. Jis turi turėti energijos segmentus, kurie geba savarankiškai išlaikyti vandenį, maistą, šaldymą, ryšį ir minimalų gyvenimo ritmą.
+
+Nuo šio dokumento BVK infrastruktūros modelyje energijos modulis laikomas viena iš pagrindinių miesto autonomijos atramų. Kitas būtinas žingsnis - pradėti skaičiuoti, kaip energijos, vandens, maisto, nuotekų ir transporto moduliai susijungia į vieną 50 žmonių bazinio aprūpinimo infrastruktūros paketą.
