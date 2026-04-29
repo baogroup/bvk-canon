@@ -1,0 +1,27 @@
+BVK CANON
+Журнал правок — добавочная запись
+
+Статус: ACTIVE
+Версия: v1.0
+Дата записи: 2026-04-29
+Причина отдельного файла: основный CHANGELOG.txt слишком велик для безопасной перезаписи через текущий инструмент без риска обрезки содержимого. Эта запись создана как временная добавочная фиксация изменения до ручного или безопасного слияния с основным CHANGELOG.txt.
+
+[CHANGE-PENDING-2026-04-29-A-2029-05-29-02]
+Дата: 2026-04-29
+Изменённый файл: CURRENT/01_ARCHIVE/2029/A-2029-05-29-02_energijos_modulio_capex_skaiciavimo_atrama.txt
+Старая версия: нет
+Новая версия: v1.0
+Причина: создана техническая архивная опора CAPEX энергетического модуля для 50 человек; рассчитаны солнечная генерация, inverteriai, kaupikliai, montavimas, kritinių apkrovų paskirstymas, rezerviniai šaltiniai ir ryšys su kritinėmis apkrovomis.
+Связанные документы: A-2029-03-27-01_energijos_sanaudu_ir_autonomijos_korekcijos_atrama.txt, A-2029-04-24-01_vandens_ir_valymo_autonomijos_modeliavimo_atrama.txt, A-2029-04-29-02_vandens_modulio_segmentavimo_ir_debito_korekcijos_atrama.txt, A-2029-05-08-01_vandens_modulio_capex_skaiciavimo_atrama.txt, CURRENT/05_TECH_AND_INFRA/06_ENERGY_SYSTEM.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
+
+[CHANGE-PENDING-2026-04-29-INDEX-2029]
+Дата: 2026-04-29
+Изменённый файл: CURRENT/01_ARCHIVE/2029/00_ARCHIVE_INDEX_2029.txt
+Старая версия: v1.0
+Новая версия: v1.1
+Причина: в индекс 2029 года добавлена регистрационная запись нового документа A-2029-05-29-02 по CAPEX энергетического модуля.
+Связанные документы: A-2029-05-29-02_energijos_modulio_capex_skaiciavimo_atrama.txt
+Нужно ли обновить VERSIONS: нет
+Нужно ли обновить PUBLIC_READ: да
