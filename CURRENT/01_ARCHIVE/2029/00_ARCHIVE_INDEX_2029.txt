@@ -52,6 +52,13 @@ Pavadinimas: Energijos modulio CAPEX skaičiavimo atrama
 Failas: A-2029-05-29-02_energijos_modulio_capex_skaiciavimo_atrama.txt
 Statusas: parengta
 
+A-2029-06-12-01
+Pavadinimas: 50 žmonių bazinio aprūpinimo infrastruktūros paketo sujungimo atrama
+Failas: A-2029-06-12-01_50_zmoniu_bazinio_aprupinimo_infrastrukturos_paketo_sujungimo_atrama.txt
+Statusas: parengta
+Pastaba: dokumentas sujungia energijos, vandens, maisto, nuotekų, transporto, sandėliavimo, ryšio, remonto, higienos ir avarinio režimo modulius į vieną 50 žmonių bazinio aprūpinimo CAPEX paketą.
+
+
 ## Darbo taisyklė
 
 2029 metų dokumentai turi kalbėti apie atsargų ryšių atsiradimą, o ne apie struktūros paskelbimą.
