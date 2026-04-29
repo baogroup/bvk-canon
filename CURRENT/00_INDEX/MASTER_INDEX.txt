@@ -2,10 +2,10 @@ BVK CANON
 Главный индекс
 
 Статус: ACTIVE
-Версия: v1.6
+Версия: v1.7
 Дата первого принятия: 2026-04-19
-Текущая редакция: 2026-04-24
-История поправок: CHANGE-0074
+Текущая редакция: 2026-04-29
+История поправок: GitHub History
 Уровень доступа: PUBLIC
 Историческая принадлежность: ранний идейный слой
 Связанные закрытые документы: нет
@@ -65,6 +65,11 @@ BVK CANON
 - правила сайта и архива
 - правила уровней доступа
 - правила закрытых связей
+- 09_SITE_ARCHIVE_PUBLICATION_MODEL.txt
+- 10_PUBLIC_READ_OFFICIAL_ARCHIVE_REDESIGN_PROTOCOL.txt
+- 11_LANGUAGE_LAYER_AND_TRANSLATION_PROTOCOL.txt
+- 12_DOCUMENT_DATE_LAYER_RULES.txt
+- 13_ARCHIVE_DENSITY_AND_SYSTEM_SCOPE_PROTOCOL.txt
 
 07_TIMELINE
 - хронология 2026-2086
