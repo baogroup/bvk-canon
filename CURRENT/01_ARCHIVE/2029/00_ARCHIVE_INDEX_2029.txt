@@ -2,9 +2,9 @@ BVK CANON
 2029 metų archyvo indeksas
 
 Statusas: ACTIVE
-Versija: v1.0
+Versija: v1.1
 Pirmojo priėmimo data: 2029-01-16
-Dabartinė redakcija: 2029-01-16
+Dabartinė redakcija: 2029-05-29
 Pakeitimų istorija: GitHub History
 Prieigos lygis: SERVICE
 Istorinė priklausomybė: ankstyvasis pagalbos rato sluoksnis / trečiųjų atvirų metų archyvas
@@ -44,6 +44,13 @@ A-2029-02-14-01
 Pavadinimas: Pirmojo tarpusavio ryšio tarp pagalbininkų ženklo atrama
 Failas: A-2029-02-14-01_pirmojo_tarpusavio_rysio_tarp_pagaldininku_zenklo_atrama.txt
 Statusas: planuojama
+
+## Infrastruktūros skaičiavimo dokumentai
+
+A-2029-05-29-02
+Pavadinimas: Energijos modulio CAPEX skaičiavimo atrama
+Failas: A-2029-05-29-02_energijos_modulio_capex_skaiciavimo_atrama.txt
+Statusas: parengta
 
 ## Darbo taisyklė
 
